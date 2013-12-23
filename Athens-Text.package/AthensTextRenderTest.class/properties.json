@@ -1,0 +1,14 @@
+{
+	"category" : "Athens-Text",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AthensTextRenderTest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

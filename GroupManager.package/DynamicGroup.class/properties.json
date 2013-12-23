@@ -1,0 +1,14 @@
+{
+	"category" : "GroupManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"blocks" ],
+	"name" : "DynamicGroup",
+	"pools" : [
+		 ],
+	"super" : "AbstractGroup",
+	"type" : "normal" }

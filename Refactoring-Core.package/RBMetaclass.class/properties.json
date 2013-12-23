@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RBMetaclass",
+	"pools" : [
+		 ],
+	"super" : "RBAbstractClass",
+	"type" : "normal" }

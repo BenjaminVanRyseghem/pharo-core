@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Core-Kernel",
+	"classinstvars" : [
+		"absoluteWindowsPathRegex" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Path",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "variable" }

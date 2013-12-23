@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compiledMethod" : "ajh 6/28/2004 13:52",
+		"decompileString" : "ClementBera 7/26/2013 15:25",
+		"doSemanticAnalysis" : "MarcusDenker 7/10/2013 15:55",
+		"doSemanticAnalysisIn:" : "ClementBera 5/21/2013 14:30",
+		"doSemanticAnalysisInContext:" : "ClementBera 7/26/2013 15:25",
+		"generate" : "ClementBera 7/26/2013 15:25",
+		"generate:" : "MarcusDenker 11/20/2012 16:30",
+		"generateIR" : "ClementBera 7/26/2013 15:26",
+		"generateWithSource" : "MarcusDenker 1/30/2013 13:13",
+		"ir" : "jorgeRessia 11/22/2009 10:30",
+		"ir:" : "JorgeRessia 11/24/2009 19:05",
+		"methodOrBlockNode" : "ClementBera 7/26/2013 15:27",
+		"owningScope" : "MarcusDenker 6/29/2012 16:04",
+		"primitiveFromPragma" : "GabrielOmarCotelli 12/4/2013 09:27",
+		"properties" : "MarcusDenker 7/5/2013 17:03",
+		"properties:" : "JorgeRessia 11/24/2009 18:56",
+		"rewriteTempNamedRead:forContext:" : "MarcusDenker 4/23/2013 16:45",
+		"rewriteTempNamedWrite:forContext:" : "MarcusDenker 4/23/2013 16:44",
+		"sourceNodeForPC:" : "MarcusDenker 4/19/2013 08:32",
+		"sourceText:" : "MarcusDenker 4/29/2013 15:06",
+		"startWithoutParentheses" : "cb 6/27/2013 16:55",
+		"tempNames" : "MarcusDenker 4/29/2013 15:25" } }

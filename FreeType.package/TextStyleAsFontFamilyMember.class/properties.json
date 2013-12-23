@@ -1,0 +1,14 @@
+{
+	"category" : "FreeType-FontManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TextStyleAsFontFamilyMember",
+	"pools" : [
+		 ],
+	"super" : "FontFamilyMemberAbstract",
+	"type" : "normal" }

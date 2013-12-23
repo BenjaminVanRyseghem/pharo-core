@@ -1,0 +1,3 @@
+accessing
+separatorSelector
+	^ separatorSelector value

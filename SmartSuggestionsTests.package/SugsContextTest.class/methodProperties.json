@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testContextForNautilusItsANautilusContext" : "GiselaDecuzzi 5/2/2013 14:21",
+		"testDebuggerIsAValidContext" : "MarcusDenker 7/26/2013 15:13",
+		"testSmalltalkEditorIsANotValidContext" : "GiselaDecuzzi 5/2/2013 14:58",
+		"testTetModelIsAValidContext" : "GiselaDecuzzi 5/15/2013 10:57",
+		"testWorkspaceIsNotAValidContext" : "GiselaDecuzzi 5/2/2013 14:21" } }

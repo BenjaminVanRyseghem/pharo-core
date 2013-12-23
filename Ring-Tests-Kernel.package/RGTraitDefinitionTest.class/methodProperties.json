@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddingMethods" : "VeronicaUquillas 4/28/2011 16:45",
+		"testAsTraitDefinition" : "SebastianTleye 7/9/2013 18:43",
+		"testAsTraitDefinition2" : "ST 6/20/2013 16:55",
+		"testExistingTrait" : "VeronicaUquillas 9/19/2011 14:21",
+		"testNonExistingClass" : "VeronicaUquillas 4/28/2011 16:14",
+		"testTraitEquality" : "VeronicaUquillas 8/10/2011 11:42" } }

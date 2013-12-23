@@ -1,0 +1,15 @@
+{
+	"category" : "Deprecated30",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"schemeName",
+		"locator" ],
+	"name" : "GenericUrl",
+	"pools" : [
+		 ],
+	"super" : "Url",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets-Themes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TudorGirba 1/30/2011 22:49",
+	"instvars" : [
+		 ],
+	"name" : "Pharo3UIThemeIcons",
+	"pools" : [
+		 ],
+	"super" : "ThemeIcons",
+	"type" : "normal" }

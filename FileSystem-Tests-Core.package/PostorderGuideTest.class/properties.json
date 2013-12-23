@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PostorderGuideTest",
+	"pools" : [
+		 ],
+	"super" : "GuideTest",
+	"type" : "normal" }

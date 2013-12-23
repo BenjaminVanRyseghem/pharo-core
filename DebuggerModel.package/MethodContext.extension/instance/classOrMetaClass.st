@@ -1,0 +1,4 @@
+*DebuggerModel
+classOrMetaClass
+	
+	^ self methodClass

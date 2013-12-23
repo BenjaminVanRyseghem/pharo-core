@@ -1,0 +1,4 @@
+accessing
+potentialDropIndex
+
+	^ potentialDropIndex value

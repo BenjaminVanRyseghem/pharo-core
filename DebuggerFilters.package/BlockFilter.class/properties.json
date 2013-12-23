@@ -1,0 +1,14 @@
+{
+	"category" : "DebuggerFilters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block" ],
+	"name" : "BlockFilter",
+	"pools" : [
+		 ],
+	"super" : "StackFilter",
+	"type" : "normal" }

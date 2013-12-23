@@ -1,0 +1,15 @@
+{
+	"category" : "KeyChain",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentUser",
+		"users" ],
+	"name" : "UserManager",
+	"pools" : [
+		 ],
+	"super" : "DummyUserManager",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"code:name:" : "" },
+	"instance" : {
+		"=" : "",
+		"annotation:" : "CamilloBruni 10/17/2012 15:54",
+		"basicAnnotation:" : "CamilloBruni 10/17/2012 15:54",
+		"code" : "",
+		"code:" : "",
+		"description" : "CamilloBruni 7/17/2012 11:07",
+		"descriptionOn:" : "CamilloBruni 7/17/2012 11:07",
+		"hash" : "",
+		"index" : "",
+		"influencingRegisters" : "CamilloBruni 7/17/2012 11:24",
+		"initializeWithCode:name:" : "MartinMcClure 1/27/2013 09:35",
+		"isGeneralPurpose" : "",
+		"isUpperBank" : "",
+		"isX86" : "MartinMcClure 1/27/2013 15:34",
+		"name" : "",
+		"prohibitsRex" : "MartinMcClure 1/27/2013 16:04",
+		"requiresRex" : "MartinMcClure 1/27/2013 16:04",
+		"size" : "",
+		"type" : "CamilloBruni 4/17/2012 17:59" } }

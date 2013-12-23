@@ -1,0 +1,14 @@
+{
+	"category" : "Tabs-States",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TabEnabled",
+	"pools" : [
+		 ],
+	"super" : "TabState",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-WebBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SourceWebBrowser",
+	"pools" : [
+		 ],
+	"super" : "Workspace",
+	"type" : "normal" }

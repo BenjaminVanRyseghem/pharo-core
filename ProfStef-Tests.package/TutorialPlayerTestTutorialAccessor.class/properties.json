@@ -1,0 +1,14 @@
+{
+	"category" : "ProfStef-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TutorialPlayerTestTutorialAccessor",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

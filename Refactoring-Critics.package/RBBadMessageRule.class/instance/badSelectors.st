@@ -1,0 +1,3 @@
+private
+badSelectors
+	^ #( #become: #isKindOf: #changeClassToThatOf: #respondsTo: #isMemberOf: #perform: #perform:arguments: #perform:with: #perform:with:with: #perform:with:with:with: #allOwners #instVarAt: #instVarAt:put: #nextInstance instVarsInclude: #nextObject #halt caseOf: caseOf:otherwise: caseError isThisEverCalled isThisEverCalled: becomeForward: instVarNamed: instVarNamed:put:  someObject primitiveChangeClassTo:)

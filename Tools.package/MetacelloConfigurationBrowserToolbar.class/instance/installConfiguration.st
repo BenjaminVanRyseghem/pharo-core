@@ -1,0 +1,3 @@
+actions
+installConfiguration
+	owner installConfiguration 

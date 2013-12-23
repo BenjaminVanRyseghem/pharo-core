@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"argumentNameFor:shouldBe:" : "SeanDeNigris 5/28/2013 18:12",
+		"argumentNameForInstanceOf:shouldBe:" : "SeanDeNigris 5/28/2013 18:10",
+		"testAPrefixForClassNameStartingWithConsonant" : "SeanDeNigris 5/28/2013 18:29",
+		"testAnPrefixForClassNameStartingWithVowel" : "SeanDeNigris 5/28/2013 18:29",
+		"testClass" : "SeanDeNigris 5/28/2013 18:45",
+		"testCollection" : "SeanDeNigris 5/28/2013 18:01",
+		"testDefault" : "SeanDeNigris 5/28/2013 18:01",
+		"testInteger" : "SeanDeNigris 5/28/2013 18:01",
+		"testNumber" : "SeanDeNigris 5/28/2013 18:01",
+		"testString" : "SeanDeNigris 5/28/2013 18:01" } }

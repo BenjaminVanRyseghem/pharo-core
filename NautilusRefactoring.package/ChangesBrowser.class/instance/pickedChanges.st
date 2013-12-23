@@ -1,0 +1,4 @@
+private
+pickedChanges
+
+	^ changesTree selectedItems

@@ -1,0 +1,5 @@
+initialize-release
+initialize
+	self
+		majorVersion: 1; 
+		minorVersion: 0

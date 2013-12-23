@@ -1,0 +1,16 @@
+{
+	"category" : "Manifest-CriticBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectRule",
+		"environment",
+		"removeTestCase" ],
+	"name" : "SelectRuleBrowser",
+	"pools" : [
+		 ],
+	"super" : "SelectBrowser",
+	"type" : "normal" }

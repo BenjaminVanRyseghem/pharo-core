@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "MarcusDenker 4/25/2013 15:10",
+		"testBadName" : "lr 9/8/2011 20:11",
+		"testExistingName" : "lr 9/8/2011 20:11",
+		"testInvalidSubclass" : "lr 9/8/2011 20:11",
+		"testMetaClassFailure" : "lr 9/8/2011 20:11",
+		"testModelChildrenToSibling" : "lr 9/8/2011 20:11" } }

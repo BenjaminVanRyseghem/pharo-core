@@ -1,0 +1,2 @@
+instructions
+pushLiteralVariable: object 

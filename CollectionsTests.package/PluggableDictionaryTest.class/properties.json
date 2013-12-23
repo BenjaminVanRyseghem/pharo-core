@@ -1,0 +1,14 @@
+{
+	"category" : "CollectionsTests-Unordered",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PluggableDictionaryTest",
+	"pools" : [
+		 ],
+	"super" : "DictionaryTest",
+	"type" : "normal" }

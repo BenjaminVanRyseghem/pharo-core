@@ -1,0 +1,36 @@
+{
+	"category" : "Morphic-Base-Windows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CloseBoxImage",
+		"CollapseBoxImage",
+		"FullscreenMargin",
+		"TopWindow" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labelString",
+		"stripes",
+		"label",
+		"closeBox",
+		"collapseBox",
+		"activeOnlyOnTop",
+		"paneMorphs",
+		"collapsedFrame",
+		"fullFrame",
+		"isCollapsed",
+		"menuBox",
+		"mustNotClose",
+		"labelWidgetAllowance",
+		"updatablePanes",
+		"labelArea",
+		"expandBox",
+		"embeddable",
+		"announcer",
+		"menuBuilder",
+		"isResizeable" ],
+	"name" : "SystemWindow",
+	"pools" : [
+		 ],
+	"super" : "MorphicModel",
+	"type" : "normal" }

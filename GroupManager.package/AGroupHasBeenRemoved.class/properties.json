@@ -1,0 +1,14 @@
+{
+	"category" : "GroupManager-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AGroupHasBeenRemoved",
+	"pools" : [
+		 ],
+	"super" : "AbstractGroupAnnouncement",
+	"type" : "normal" }

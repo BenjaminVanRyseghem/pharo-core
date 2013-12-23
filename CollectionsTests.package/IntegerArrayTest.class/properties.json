@@ -1,0 +1,14 @@
+{
+	"category" : "CollectionsTests-Arrayed",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IntegerArrayTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+isSuper
+	^name = 'super'

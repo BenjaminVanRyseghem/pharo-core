@@ -1,0 +1,14 @@
+{
+	"category" : "AST-Interpreter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"receiver" ],
+	"name" : "AIMethodContext",
+	"pools" : [
+		 ],
+	"super" : "AIContext",
+	"type" : "normal" }

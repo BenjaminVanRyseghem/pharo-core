@@ -1,0 +1,14 @@
+{
+	"category" : "RPackage-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"x" ],
+	"name" : "RPackageWithDoTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

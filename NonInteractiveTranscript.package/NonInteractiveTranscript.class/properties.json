@@ -1,0 +1,16 @@
+{
+	"category" : "NonInteractiveTranscript",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"fileName",
+		"accessSemaphore" ],
+	"name" : "NonInteractiveTranscript",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

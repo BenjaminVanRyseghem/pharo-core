@@ -1,0 +1,19 @@
+{
+	"category" : "Tools-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 7/23/2010 21:17",
+	"instvars" : [
+		"changeList",
+		"list",
+		"listIndex",
+		"listSelections",
+		"file",
+		"lostMethodPointer" ],
+	"name" : "ChangeList",
+	"pools" : [
+		 ],
+	"super" : "CodeHolder",
+	"type" : "normal" }

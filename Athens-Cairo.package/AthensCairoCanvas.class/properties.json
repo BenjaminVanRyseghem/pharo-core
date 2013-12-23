@@ -1,0 +1,17 @@
+{
+	"category" : "Athens-Cairo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "IgorStasenko 12/20/2011 15:58",
+	"instvars" : [
+		"handle",
+		"pathTransform",
+		"paintTransform",
+		"currentClipRect" ],
+	"name" : "AthensCairoCanvas",
+	"pools" : [
+		"AthensCairoDefs" ],
+	"super" : "AthensCanvas",
+	"type" : "normal" }

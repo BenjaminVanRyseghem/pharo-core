@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "AndreiChis 9/30/2013 18:35",
+		"testCorrectlyCreateDebugSession" : "AndreiChis 9/25/2013 18:13",
+		"testStepInto" : "AndreiChis 9/30/2013 18:39",
+		"testStepOver" : "AndreiChis 9/25/2013 18:14" } }

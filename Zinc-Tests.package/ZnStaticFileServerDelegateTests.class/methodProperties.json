@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"largeHtml" : "SvenVanCaekenberghe 7/15/2013 14:12",
+		"setUp" : "SvenVanCaekenberghe 7/15/2013 14:16",
+		"smallHtml" : "SvenVanCaekenberghe 5/14/2012 10:08",
+		"tearDown" : "SvenVanCaekenberghe 7/15/2013 14:17",
+		"testBasicGet" : "SvenVanCaekenberghe 7/15/2013 11:03",
+		"testBasicGetLarge" : "SvenVanCaekenberghe 7/15/2013 11:24",
+		"testBasicGetWide" : "SvenVanCaekenberghe 7/15/2013 14:17",
+		"testBasicHead" : "SvenVanCaekenberghe 7/3/2012 00:40",
+		"testIfModifiedSinceNotModified" : "SvenVanCaekenberghe 8/3/2012 22:47",
+		"wideHtml" : "SvenVanCaekenberghe 7/15/2013 14:16",
+		"withServerDo:" : "SvenVanCaekenberghe 7/8/2013 10:08" } }

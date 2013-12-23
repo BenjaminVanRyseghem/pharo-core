@@ -1,0 +1,14 @@
+{
+	"category" : "SUnit-Core-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"test" ],
+	"name" : "TestAnnouncement",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

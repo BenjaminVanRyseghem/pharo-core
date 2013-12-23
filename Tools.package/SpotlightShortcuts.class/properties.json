@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-Spotlight",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SpotlightShortcuts",
+	"pools" : [
+		 ],
+	"super" : "KMCategory",
+	"type" : "normal" }

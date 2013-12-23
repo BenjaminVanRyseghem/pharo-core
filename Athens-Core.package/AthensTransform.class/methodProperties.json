@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"getMatrix" : "IgorStasenko 8/31/2012 22:29",
+		"invert" : "",
+		"loadAffineTransform:" : "IgorStasenko 3/7/2012 14:00",
+		"loadIdentity" : "IgorStasenko 12/20/2011 16:46",
+		"restoreAfter:" : "IgorStasenko 3/7/2012 13:52",
+		"rotateByDegrees:" : "IgorStasenko 3/26/2011 01:56",
+		"rotateByRadians:" : "IgorStasenko 3/26/2011 01:55",
+		"scaleBy:" : "IgorStasenko 3/26/2011 01:55",
+		"scaleX:Y:" : "IgorStasenko 3/26/2011 01:55",
+		"transform:" : "IgorStasenko 3/27/2011 18:42",
+		"transformX:Y:" : "IgorStasenko 3/27/2011 18:42",
+		"translateBy:" : "IgorStasenko 3/26/2011 01:55",
+		"translateX:Y:" : "IgorStasenko 12/21/2011 12:39" } }

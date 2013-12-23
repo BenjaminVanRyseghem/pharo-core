@@ -1,0 +1,15 @@
+{
+	"category" : "CompilerTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 6/9/2010 20:54",
+	"instvars" : [
+		"weightedAverage",
+		"currentCompiler" ],
+	"name" : "CompilerEvaluationTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

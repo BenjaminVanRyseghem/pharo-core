@@ -1,0 +1,14 @@
+{
+	"category" : "KernelTests-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "InstructionClientTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

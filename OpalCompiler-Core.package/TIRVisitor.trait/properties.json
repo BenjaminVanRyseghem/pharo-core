@@ -1,0 +1,4 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"commentStamp" : "<historical>",
+	"name" : "TIRVisitor" }

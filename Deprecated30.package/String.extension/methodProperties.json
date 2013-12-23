@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"encodeForHTTP" : "SvenVanCaekenberghe 10/27/2013 11:36",
+		"encodeForHTTPWithTextEncoding:" : "SvenVanCaekenberghe 10/27/2013 11:35",
+		"encodeForHTTPWithTextEncoding:conditionBlock:" : "SvenVanCaekenberghe 10/27/2013 11:35",
+		"unescapePercents" : "SvenVanCaekenberghe 10/27/2013 11:36",
+		"unescapePercentsWithTextEncoding:" : "SvenVanCaekenberghe 10/27/2013 11:37" } }

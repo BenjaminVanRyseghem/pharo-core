@@ -1,0 +1,4 @@
+morphic
+allowToSelect
+
+	^ false.

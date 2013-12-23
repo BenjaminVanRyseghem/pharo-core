@@ -1,0 +1,3 @@
+showing
+close 
+	self delete. 

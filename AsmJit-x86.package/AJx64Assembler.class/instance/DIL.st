@@ -1,0 +1,3 @@
+accessing registers
+DIL
+	^ DIL

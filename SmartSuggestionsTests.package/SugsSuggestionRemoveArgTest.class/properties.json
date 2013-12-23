@@ -1,0 +1,14 @@
+{
+	"category" : "SmartSuggestionsTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SugsSuggestionRemoveArgTest",
+	"pools" : [
+		 ],
+	"super" : "SugsSuggestionTest",
+	"type" : "normal" }

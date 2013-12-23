@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collectionOfCollectionsOfInts" : "SebastianTleye 6/26/2013 11:15",
+		"collectionOfCollectionsOfStrings" : "SebastianTleye 6/26/2013 11:01",
+		"collectionWithCharacters" : "SebastianTleye 6/26/2013 11:05",
+		"simpleCollection" : "SebastianTleye 6/28/2013 14:35",
+		"testFlatCollect" : "TudorGirba 11/3/2013 12:14",
+		"testFlatCollectAs" : "TudorGirba 11/3/2013 12:15",
+		"testFlatCollectAsSet" : "TudorGirba 11/3/2013 12:14",
+		"testFlattened" : "SebastianTleye 6/28/2013 14:35" } }

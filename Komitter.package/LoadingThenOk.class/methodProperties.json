@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 11/26/2013 23:24" },
+	"instance" : {
+		"currentImage" : "BenjaminVanRyseghem 11/26/2013 23:38",
+		"error" : "BenjaminVanRyseghem 11/26/2013 23:20",
+		"initialize" : "BenjaminVanRyseghem 11/26/2013 23:24",
+		"initializeWidgets" : "BenjaminVanRyseghem 11/26/2013 22:35",
+		"loading" : "BenjaminVanRyseghem 11/26/2013 23:20",
+		"newSpec" : "BenjaminVanRyseghem 11/26/2013 23:37",
+		"ok" : "BenjaminVanRyseghem 11/26/2013 23:20",
+		"rebuildForState:" : "BenjaminVanRyseghem 11/26/2013 23:38",
+		"state" : "BenjaminVanRyseghem 11/26/2013 23:20",
+		"state:" : "BenjaminVanRyseghem 11/26/2013 23:20" } }

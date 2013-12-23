@@ -1,0 +1,3 @@
+accesing
+isMethodSelected
+	^selectedNode isMethod 

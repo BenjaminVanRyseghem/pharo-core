@@ -1,0 +1,15 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"size",
+		"cons" ],
+	"name" : "IRPushArray",
+	"pools" : [
+		 ],
+	"super" : "IRInstruction",
+	"type" : "normal" }

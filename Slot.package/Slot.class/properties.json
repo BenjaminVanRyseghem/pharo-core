@@ -1,0 +1,15 @@
+{
+	"category" : "Slot-Scope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"index",
+		"name" ],
+	"name" : "Slot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

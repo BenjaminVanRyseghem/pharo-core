@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"current" : "BenjaminVanRyseghem 11/25/2013 17:49",
+		"new" : "BenjaminVanRyseghem 11/25/2013 17:38",
+		"resetCurrent" : "BenjaminVanRyseghem 11/24/2013 19:58" },
+	"instance" : {
+		"addPackage:" : "BenjaminVanRyseghem 11/24/2013 19:45",
+		"initialize" : "BenjaminVanRyseghem 11/22/2013 16:30",
+		"isCurrent" : "BenjaminVanRyseghem 11/24/2013 19:58",
+		"packages" : "BenjaminVanRyseghem 11/24/2013 14:19",
+		"packages:" : "BenjaminVanRyseghem 11/24/2013 19:45",
+		"remotes" : "BenjaminVanRyseghem 11/23/2013 21:00",
+		"remotesFor:" : "BenjaminVanRyseghem 11/23/2013 23:34",
+		"removePackage:" : "BenjaminVanRyseghem 11/26/2013 10:29" } }

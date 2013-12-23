@@ -1,0 +1,18 @@
+{
+	"category" : "System-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cyrilledelaunay 1/18/2011 14:43",
+	"instvars" : [
+		"methodRemoved",
+		"protocol",
+		"selector",
+		"methodClass",
+		"methodOrigin" ],
+	"name" : "MethodRemoved",
+	"pools" : [
+		 ],
+	"super" : "SystemAnnouncement",
+	"type" : "normal" }

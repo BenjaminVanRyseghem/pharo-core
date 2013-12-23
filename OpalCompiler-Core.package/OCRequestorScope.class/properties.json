@@ -1,0 +1,14 @@
+{
+	"category" : "OpalCompiler-Core-Semantics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"requestor" ],
+	"name" : "OCRequestorScope",
+	"pools" : [
+		 ],
+	"super" : "OCAbstractScope",
+	"type" : "normal" }

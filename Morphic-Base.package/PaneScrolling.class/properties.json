@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-Base-WindowNotification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"step",
+		"scrollPane" ],
+	"name" : "PaneScrolling",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

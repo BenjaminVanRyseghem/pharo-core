@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"defaultSpec" : "SimonAllier 9/28/2012 13:55" },
+	"instance" : {
+		"browseCritic" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"browseModel" : "",
+		"critic:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"falsepositiveModel" : "",
+		"initialize" : "StephaneDucasse 3/21/2013 09:20",
+		"initializeWidgets" : "SimonAllier 7/24/2012 14:07",
+		"registerForChanges" : "StephaneDucasse 3/21/2013 09:21",
+		"rule:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"setBrowseModel" : "",
+		"setFalsepositiveModel" : "CamilleTeruel 9/18/2013 11:25",
+		"setFocusOrder" : "",
+		"setTransformModel" : "",
+		"transformCritic" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"transformModel" : "",
+		"whenFalsePositiveClickedDo:" : "" } }

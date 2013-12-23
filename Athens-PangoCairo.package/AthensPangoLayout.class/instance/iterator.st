@@ -1,0 +1,4 @@
+accessing
+iterator
+	^ self primGetIterator.
+	

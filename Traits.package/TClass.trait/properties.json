@@ -1,0 +1,6 @@
+{
+	"category" : "Traits-Kernel-Traits",
+	"classtraitcomposition" : "TBehaviorCategorization classTrait",
+	"commentStamp" : "",
+	"name" : "TClass",
+	"traitcomposition" : "TBehaviorCategorization" }

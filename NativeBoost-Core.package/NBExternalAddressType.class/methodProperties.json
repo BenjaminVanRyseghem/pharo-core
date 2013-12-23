@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"coerceReturnValue:" : "IgorStasenko 7/1/2013 16:16",
+		"createInstanceWithValue:generator:" : "IgorStasenko 7/1/2013 16:32",
+		"pushAsPointer:" : "IgorStasenko 6/28/2013 14:18",
+		"pushAsValue:" : "IgorStasenko 5/28/2012 07:13",
+		"valueSize" : "Igor.Stasenko 5/4/2010 00:56" } }

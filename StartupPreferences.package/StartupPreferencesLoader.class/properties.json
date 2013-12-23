@@ -1,0 +1,16 @@
+{
+	"category" : "StartupPreferences",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AllowStartupScript",
+		"UniqueInstance" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"errors",
+		"actions" ],
+	"name" : "StartupPreferencesLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

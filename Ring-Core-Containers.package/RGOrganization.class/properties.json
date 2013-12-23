@@ -1,0 +1,14 @@
+{
+	"category" : "Ring-Core-Containers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RGOrganization",
+	"pools" : [
+		 ],
+	"super" : "RGAbstractContainer",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"internSpec" : "BenjaminVanRyseghem 9/27/2013 10:48" },
+	"instance" : {
+		"add" : "BenjaminVanRyseghem 5/10/2012 13:26",
+		"addPassword" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"edit" : "BenjaminVanRyseghem 5/10/2012 13:26",
+		"editPassword" : "BenjaminVanRyseghem 10/17/2013 16:43",
+		"initialExtent" : "BenjaminVanRyseghem 5/10/2012 16:18",
+		"initialize" : "CamilloBruni 7/17/2013 22:56",
+		"initializeAdd" : "BenjaminVanRyseghem 5/10/2012 13:44",
+		"initializeEdit" : "BenjaminVanRyseghem 5/10/2012 13:44",
+		"initializeRemove" : "BenjaminVanRyseghem 5/10/2012 13:44",
+		"initializeWidgets" : "CamilloBruni 7/17/2013 22:56",
+		"keychain" : "BenjaminVanRyseghem 5/10/2012 13:26",
+		"keychain:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"list" : "BenjaminVanRyseghem 5/10/2012 13:26",
+		"ok" : "BenjaminVanRyseghem 5/10/2012 13:26",
+		"remove" : "BenjaminVanRyseghem 5/10/2012 13:26",
+		"removePassword" : "BenjaminVanRyseghem 10/17/2013 16:43",
+		"title" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"wrapItem:" : "BenjaminVanRyseghem 5/10/2012 13:27" } }

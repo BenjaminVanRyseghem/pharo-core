@@ -1,0 +1,22 @@
+{
+	"category" : "Morphic-Base-MorphTreeWidget",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selection",
+		"announcer",
+		"rootItems",
+		"autoMultiSelection",
+		"headerLabel",
+		"multiSelection",
+		"wrapBlockOrSelector",
+		"isCheckList",
+		"enabled" ],
+	"name" : "MorphTreeModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

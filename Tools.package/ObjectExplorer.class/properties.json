@@ -1,0 +1,16 @@
+{
+	"category" : "Tools-Explorer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ShowIcons" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"rootObject",
+		"monitorList",
+		"currentSelection" ],
+	"name" : "ObjectExplorer",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

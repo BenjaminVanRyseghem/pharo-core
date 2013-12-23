@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertNameWhenSavingTo:is:" : "EstebanLorenzano 9/8/2013 11:03",
+		"assertNumberWhenSavingTo:is:" : "EstebanLorenzano 9/8/2013 11:03",
+		"basicMerge:" : "avi 2/13/2004 14:30",
+		"clearPackageCache" : "Anonymous 6/17/2013 13:16",
+		"description" : "ab 7/7/2003 18:02",
+		"load:" : "avi 1/24/2004 20:13",
+		"merge:" : "CamilloBruni 9/15/2013 18:17",
+		"packageName" : "cwp 8/2/2003 15:03",
+		"setUp" : "MiguelCoba 7/25/2009 02:02",
+		"snapshot" : "EstebanLorenzano 9/8/2013 11:04",
+		"tearDown" : "MiguelCoba 7/25/2009 02:03",
+		"testAncestorMerge" : "stephaneducasse 2/4/2006 20:47",
+		"testBackport" : "CamilloBruni 2/10/2013 17:28",
+		"testDoubleRepeatedMerge" : "CamilloBruni 8/31/2013 20:23",
+		"testMergeIntoImageWithNoChanges" : "stephaneducasse 2/4/2006 20:47",
+		"testMergeIntoUnmodifiedImage" : "stephaneducasse 2/4/2006 20:47",
+		"testNaming" : "bf 5/20/2005 18:25",
+		"testOptimizedLoad" : "stephaneducasse 2/4/2006 20:47",
+		"testRedundantMerge" : "CamilloBruni 8/31/2013 20:23",
+		"testRepeatedMerge" : "CamilloBruni 8/31/2013 20:23",
+		"testRepositoryFallback" : "stephaneducasse 2/4/2006 20:47",
+		"testSelectiveBackport" : "nice 1/5/2010 15:59",
+		"testSimpleMerge" : "stephaneducasse 2/4/2006 20:47",
+		"testSnapshotAndLoad" : "stephaneducasse 2/4/2006 20:47" } }

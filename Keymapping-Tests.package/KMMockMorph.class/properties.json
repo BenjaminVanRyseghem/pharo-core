@@ -1,0 +1,14 @@
+{
+	"category" : "Keymapping-Tests-Mocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "KMMockMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

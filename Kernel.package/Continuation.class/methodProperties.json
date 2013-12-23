@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"current" : "ab 6/15/2003 19:13",
+		"currentDo:" : "ab 6/15/2003 19:13",
+		"fromContext:" : "ab 6/15/2003 19:13" },
+	"instance" : {
+		"initializeFromContext:" : "CamilleTeruel 4/4/2013 11:58",
+		"numArgs" : "ab 6/15/2003 19:18",
+		"restoreValues" : "CamilleTeruel 4/4/2013 11:59",
+		"terminate:" : "ClementBera 4/3/2013 10:16",
+		"value" : "ab 6/15/2003 19:13",
+		"value:" : "lr 10/28/2007 14:42",
+		"valueWithArguments:" : "lr 10/28/2007 14:42" } }

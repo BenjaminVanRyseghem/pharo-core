@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Examples-MorphTreeWidget",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contents" ],
+	"name" : "PackageAbstractNodeExample",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeNodeModel",
+	"type" : "normal" }

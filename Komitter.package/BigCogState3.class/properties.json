@@ -1,0 +1,14 @@
+{
+	"category" : "Komitter-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BigCogState3",
+	"pools" : [
+		 ],
+	"super" : "LoadingMorphState",
+	"type" : "normal" }

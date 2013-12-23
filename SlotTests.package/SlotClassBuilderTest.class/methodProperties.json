@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aCategory" : "MartinDias 7/11/2013 15:02",
+		"aClassName" : "MartinDias 7/11/2013 15:01",
+		"anotherCategory" : "MartinDias 7/11/2013 15:02",
+		"anotherClassName" : "MartinDias 7/11/2013 15:01",
+		"assertTraitIntegrity" : "MartinDias 7/3/2013 17:15",
+		"cleanUpTrait:" : "CamilloBruni 6/28/2013 23:27",
+		"layoutClasses" : "MartinDias 12/9/2013 11:38",
+		"layoutClassesWithSlots" : "MartinDias 12/9/2013 11:38",
+		"make:" : "MartinDias 12/9/2013 11:38",
+		"makeWithLayout:" : "MartinDias 7/8/2013 16:06",
+		"makeWithLayout:andSlots:" : "MartinDias 7/8/2013 16:06",
+		"tearDown" : "MartinDias 7/11/2013 14:16",
+		"yetAnotherClassName" : "MartinDias 7/11/2013 15:01",
+		"yetYetAnotherClassName" : "MartinDias 7/11/2013 15:01" } }

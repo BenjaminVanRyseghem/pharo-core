@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"objectClass:" : "Igor.Stasenko 4/29/2010 09:16" },
+	"instance" : {
+		"coerceReturnPointer:" : "Igor.Stasenko 4/29/2010 09:15",
+		"coerceReturnValue:" : "IgorStasenko 7/1/2013 11:10",
+		"handleIvarIndex" : "Igor.Stasenko 4/29/2010 09:22",
+		"objectClass" : "Igor.Stasenko 4/29/2010 09:18",
+		"objectClass:" : "Igor.Stasenko 4/29/2010 09:18",
+		"printOn:" : "Igor.Stasenko 5/18/2010 01:25",
+		"pushAsPointer:" : "IgorStasenko 7/1/2013 11:12",
+		"pushAsValue:" : "IgorStasenko 7/1/2013 11:12",
+		"valueSize" : "Igor.Stasenko 4/29/2010 13:52" } }

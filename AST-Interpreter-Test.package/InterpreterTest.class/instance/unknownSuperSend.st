@@ -1,0 +1,3 @@
+helper
+unknownSuperSend
+	^ super aSelectorThatDoesNotExist

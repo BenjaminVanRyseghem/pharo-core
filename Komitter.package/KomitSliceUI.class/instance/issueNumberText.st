@@ -1,0 +1,4 @@
+protocol
+issueNumberText
+
+	^ issueNumber text

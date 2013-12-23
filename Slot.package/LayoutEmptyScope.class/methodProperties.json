@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"instance" : "ToonVerwaest 4/1/2011 01:31" },
+	"instance" : {
+		"allSlotsDo:" : "ToonVerwaest 4/2/2011 14:32",
+		"allSlotsReverseDo:" : "CamilloBruni 4/4/2011 14:30",
+		"allVisibleSlots" : "ToonVerwaest 4/2/2011 19:08",
+		"fieldSize" : "ToonVerwaest 4/2/2011 14:31",
+		"flatten" : "ToonVerwaest 4/2/2011 14:32",
+		"hasFields" : "ToonVerwaest 4/2/2011 14:33",
+		"hasSlots" : "ToonVerwaest 4/2/2011 14:33",
+		"ownFieldSize" : "CamilloBruni 4/6/2011 14:26",
+		"printSlotDefinitionOn:" : "ToonVerwaest 4/2/2011 14:33",
+		"visibleSlotNames" : "ToonVerwaest 4/2/2011 19:11",
+		"withParentScopesDo:" : "CamilloBruni 4/4/2011 18:31" } }

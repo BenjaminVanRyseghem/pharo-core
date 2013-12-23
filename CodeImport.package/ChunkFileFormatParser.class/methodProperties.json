@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"for:" : "GuillermoPolito 5/5/2012 17:06" },
+	"instance" : {
+		"addDeclaration:" : "GuillermoPolito 5/5/2012 17:19",
+		"initialize" : "GuillermoPolito 5/5/2012 22:06",
+		"isChunkEnd" : "MarcusDenker 10/5/2013 18:23",
+		"isNextChunkMetaData" : "GuillermoPolito 5/5/2012 17:09",
+		"isNextStyleChunk" : "GuillermoPolito 5/5/2012 17:09",
+		"next" : "GuillermoPolito 5/5/2012 22:05",
+		"nextChunk" : "MarcusDenker 10/5/2013 18:22",
+		"parseClassOrganization:" : "MarcusDenker 10/5/2013 18:22",
+		"parseCommentDeclaration:" : "MarcusDenker 10/5/2013 18:22",
+		"parseDeclarations" : "GuillermoPolito 5/5/2012 17:17",
+		"parseMethodDeclarations:" : "MarcusDenker 10/5/2013 18:22",
+		"parseNextDeclaration" : "MarcusDenker 5/18/2013 15:44",
+		"readStream:" : "GuillermoPolito 5/5/2012 17:07",
+		"readUpToEndOfStyleChunk" : "GuillermoPolito 5/5/2012 17:08",
+		"terminatorMark" : "GuillermoPolito 5/5/2012 21:32" } }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddClassSlotAndMigrate" : "MartinDias 7/8/2013 16:05",
+		"testAddSharedPool" : "MartinDias 7/8/2013 16:05",
+		"testAddSharedVariable" : "MartinDias 7/8/2013 16:05",
+		"testBasicClassBuilding" : "MartinDias 7/8/2013 16:05",
+		"testNewCompiledMethodClass" : "MartinDias 7/8/2013 16:05",
+		"testNewPointerClass" : "MartinDias 12/9/2013 11:38",
+		"testNewPointerClassWithSlots" : "MartinDias 12/9/2013 11:38",
+		"testNewVariableByteClass" : "MartinDias 7/8/2013 16:05",
+		"testNewVariableWordClass" : "MartinDias 7/8/2013 16:05",
+		"testNewWeakClass" : "MartinDias 7/8/2013 16:05",
+		"testRemoveClassSlotAndMigrate" : "MartinDias 7/8/2013 16:05",
+		"testRemoveSharedPool" : "MartinDias 7/8/2013 16:05",
+		"testRemoveSharedVariable" : "MartinDias 7/8/2013 16:05",
+		"testSwitchClassSlotAndMigrate" : "MartinDias 7/8/2013 16:05",
+		"testWithClassSlots" : "MartinDias 7/8/2013 16:05",
+		"testWithSharedPool" : "MartinDias 7/8/2013 16:05",
+		"testWithSharedVariable" : "MartinDias 7/8/2013 16:05",
+		"testWithoutClassSlots" : "MartinDias 7/8/2013 16:05",
+		"testWithoutSharedPools" : "MartinDias 7/8/2013 16:05",
+		"testWithoutSharedVariables" : "MartinDias 7/8/2013 16:05" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 12:47",
+	"instvars" : [
+		 ],
+	"name" : "LazyMorphListMorph",
+	"pools" : [
+		 ],
+	"super" : "LazyListMorph",
+	"type" : "normal" }

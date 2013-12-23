@@ -1,0 +1,14 @@
+{
+	"category" : "CompilerTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentCompiler" ],
+	"name" : "ClosureCompilerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

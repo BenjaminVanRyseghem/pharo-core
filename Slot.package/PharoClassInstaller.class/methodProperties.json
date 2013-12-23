@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"example" : "MartinDias 7/1/2013 16:10",
+		"validateClassName:" : "MartinDias 11/6/2012 11:32" },
+	"instance" : {
+		"basicClassDefinitionChangedFrom:to:" : "MartinDias 6/28/2013 17:45",
+		"classAdded:inCategory:" : "MartinDias 6/28/2013 12:50",
+		"classAt:ifAbsent:" : "ToonVerwaest 3/22/2011 17:03",
+		"classDefinitionChangedFrom:to:by:" : "CamilleTeruel 12/18/2013 13:53",
+		"copyMethodsFrom:to:using:" : "MartinDias 7/30/2012 00:08",
+		"environment" : "CamilloBruni 6/28/2013 14:03",
+		"environment:" : "ToonVerwaest 3/22/2011 16:55",
+		"fixClassBindings:" : "CamilleTeruel 12/18/2013 13:56",
+		"formatChangedFrom:to:by:" : "MartinDias 7/1/2013 15:56",
+		"initialize" : "MartinDias 7/30/2012 00:03",
+		"migrateClasses:to:using:" : "MartinDias 7/1/2013 15:58",
+		"recategorize:to:" : "SebastianTleye 8/26/2013 16:23",
+		"shallowClassDefinitionChangedFrom:to:by:" : "MartinDias 7/1/2013 15:55",
+		"shallowCopyMethodsFrom:to:using:" : "ToonVerwaest 3/22/2011 18:54",
+		"slotsChangedFrom:to:by:" : "MartinDias 7/1/2013 15:55",
+		"superclassChangedFrom:to:by:" : "MartinDias 7/1/2013 15:55",
+		"systemAnnouncer" : "MartinDias 4/26/2013 17:07",
+		"updateClass:to:" : "MartinDias 7/1/2013 15:59",
+		"updateInstancesFrom:to:" : "MartinDias 7/1/2013 15:59" } }

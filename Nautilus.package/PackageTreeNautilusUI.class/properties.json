@@ -1,0 +1,14 @@
+{
+	"category" : "Nautilus-Tree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"packagePattern" ],
+	"name" : "PackageTreeNautilusUI",
+	"pools" : [
+		 ],
+	"super" : "NautilusUI",
+	"type" : "normal" }

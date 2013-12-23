@@ -1,0 +1,14 @@
+{
+	"category" : "HelpSystem-Tests-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"topic" ],
+	"name" : "HelpTopicTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "CollectionsTests-Unordered",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PluggableSetTest",
+	"pools" : [
+		 ],
+	"super" : "SetTest",
+	"type" : "normal" }

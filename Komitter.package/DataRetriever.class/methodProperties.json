@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"for:" : "BenjaminVanRyseghem 12/9/2013 18:37" },
+	"instance" : {
+		"block:" : "BenjaminVanRyseghem 12/9/2013 18:48",
+		"data" : "BenjaminVanRyseghem 12/9/2013 18:48",
+		"initialize" : "BenjaminVanRyseghem 12/9/2013 18:38",
+		"nullObject:" : "BenjaminVanRyseghem 12/9/2013 18:35",
+		"release" : "BenjaminVanRyseghem 12/9/2013 18:48",
+		"retrieveData" : "BenjaminVanRyseghem 12/9/2013 18:31",
+		"signalDataIsReady" : "BenjaminVanRyseghem 12/9/2013 18:48" } }

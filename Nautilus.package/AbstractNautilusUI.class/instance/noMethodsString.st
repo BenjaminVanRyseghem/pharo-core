@@ -1,0 +1,4 @@
+accessing
+noMethodsString
+
+	^ Protocol nullCategory

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"newFileNumber:position:" : "",
+		"newString:onFileNumber:" : "",
+		"newString:onFileNumber:toFile:" : "" },
+	"instance" : {
+		"fileNumber:position:" : "stephaneducasse 2/4/2006 20:32",
+		"fileStream" : "MartinDias 11/5/2013 15:02",
+		"last" : "Sd 1/28/2011 14:36",
+		"position" : "Sd 1/28/2011 14:36",
+		"setSourcePointer:" : "stephaneducasse 2/4/2006 20:31",
+		"sourceFileNumber" : "",
+		"sourcePointer" : "hmm 4/26/2000 20:47",
+		"string" : "MartinDias 11/5/2013 15:04",
+		"string:onFileNumber:" : "MartinDias 11/5/2013 15:04",
+		"string:onFileNumber:toFile:" : "StephaneDucasse 9/12/2010 09:53",
+		"text" : "MarcusDenker 5/4/2013 22:51" } }

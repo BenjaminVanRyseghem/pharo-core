@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"createLinearGradient:start:stop:" : "IgorStasenko 4/12/2013 10:25",
+		"primCreateLinearX0:y0:x1:y1:" : "IgorStasenko 4/12/2013 10:23",
+		"primCreateRadialXo:yo:radiuso:x1:y1:radius1:" : "FernandoOlivero 4/19/2012 13:55",
+		"radialBetween:extending:and:extending:withColorRamp:" : "FernandoOlivero 4/19/2012 13:56" },
+	"instance" : {
+		"addColorStopAt:colored:" : "IgorStasenko 4/12/2013 10:19",
+		"defaultExtend" : "FernandoOlivero 4/19/2012 14:13",
+		"initializeRadialBetween:extending:and:extending:withColorRamp:" : "FernandoOlivero 4/19/2012 13:56",
+		"populateRamp:" : "IgorStasenko 4/12/2013 10:17",
+		"primAddColorStopOffset:R:G:B:A:" : "IgorStasenko 4/12/2013 10:21" } }

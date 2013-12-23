@@ -1,0 +1,4 @@
+protocol
+getPassword
+
+	^ password text

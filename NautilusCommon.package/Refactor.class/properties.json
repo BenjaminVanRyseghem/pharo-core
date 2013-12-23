@@ -1,0 +1,15 @@
+{
+	"category" : "NautilusCommon-Refactor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"toMoveInSuperClass",
+		"addAnAbstractMethodNamed" ],
+	"name" : "Refactor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

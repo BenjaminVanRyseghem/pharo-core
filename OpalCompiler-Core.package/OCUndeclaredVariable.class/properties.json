@@ -1,0 +1,14 @@
+{
+	"category" : "OpalCompiler-Core-Semantics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "OCUndeclaredVariable",
+	"pools" : [
+		 ],
+	"super" : "OCAbstractVariable",
+	"type" : "normal" }

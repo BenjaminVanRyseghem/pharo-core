@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAbs" : "YuriyTymchuk 12/20/2013 16:58",
+		"testAllNumbers" : "sd 4/21/2011 18:08",
+		"testDegreeSin" : "sd 4/21/2011 16:10",
+		"testDivision" : "YuriyTymchuk 12/20/2013 17:06",
+		"testGreaterThanANumber" : "YuriyTymchuk 12/20/2013 17:11",
+		"testIfTrueIfFalse" : "sd 4/21/2011 16:12",
+		"testIsOdd" : "sd 4/21/2011 16:13",
+		"testIsRadix" : "sd 4/21/2011 17:07",
+		"testMethodFor" : "sd 4/21/2011 18:10",
+		"testPointY" : "sd 4/21/2011 16:56",
+		"testPolynomial" : "YuriyTymchuk 12/20/2013 17:03",
+		"testPower" : "YuriyTymchuk 12/20/2013 17:00",
+		"testReciprocal" : "sd 4/21/2011 16:57",
+		"testSearchForAccessAtOne" : "YuriyTymchuk 12/20/2013 16:52",
+		"testSearchForOne" : "YuriyTymchuk 12/20/2013 16:50",
+		"testSubstraction" : "YuriyTymchuk 12/20/2013 16:55" } }

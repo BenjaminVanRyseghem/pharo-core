@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"example" : "FernandoOlivero 1/24/2012 18:43" },
+	"instance" : {
+		"asString" : "FernandoOlivero 1/17/2012 16:31",
+		"beBold" : "FernandoOlivero 1/14/2012 20:07",
+		"beItalic" : "FernandoOlivero 1/14/2012 20:06",
+		"beNormal" : "FernandoOlivero 1/14/2012 20:07",
+		"beOblique" : "FernandoOlivero 1/14/2012 20:06",
+		"family:" : "FernandoOlivero 1/14/2012 19:42",
+		"fontFamily" : "FernandoOlivero 1/14/2012 20:10",
+		"fontGravity" : "FernandoOlivero 1/17/2012 16:26",
+		"fontSize" : "FernandoOlivero 1/14/2012 20:09",
+		"fontSize:" : "FernandoOlivero 1/10/2012 12:12",
+		"fontSlant" : "FernandoOlivero 1/25/2012 01:02",
+		"fontStretch" : "FernandoOlivero 1/17/2012 16:26",
+		"fontVariant" : "FernandoOlivero 1/17/2012 16:25",
+		"fontWeight" : "FernandoOlivero 1/14/2012 20:06",
+		"gravity:" : "FernandoOlivero 1/17/2012 16:28",
+		"initialize" : "FernandoOlivero 1/14/2012 20:08",
+		"slant:" : "FernandoOlivero 1/14/2012 19:52",
+		"stretch:" : "FernandoOlivero 1/17/2012 16:28",
+		"variant:" : "FernandoOlivero 1/17/2012 16:28",
+		"weight:" : "FernandoOlivero 1/14/2012 19:52" } }

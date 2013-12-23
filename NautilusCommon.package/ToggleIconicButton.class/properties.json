@@ -1,0 +1,17 @@
+{
+	"category" : "NautilusCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model",
+		"statusSelector",
+		"enabledIcon",
+		"disabledIcon" ],
+	"name" : "ToggleIconicButton",
+	"pools" : [
+		 ],
+	"super" : "IconicButton",
+	"type" : "normal" }

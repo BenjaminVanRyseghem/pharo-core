@@ -1,0 +1,14 @@
+{
+	"category" : "Slot-Scope",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "LayoutEmptyScope",
+	"pools" : [
+		 ],
+	"super" : "LayoutAbstractScope",
+	"type" : "normal" }

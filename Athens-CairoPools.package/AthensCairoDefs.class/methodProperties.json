@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"init_cairo_subpixel_order_t" : "IgorStasenko 9/2/2012 19:52",
+		"initialize" : "IgorStasenko 9/2/2012 19:51",
+		"initialize_cairo_antialias_t" : "IgorStasenko 9/2/2012 01:22",
+		"initialize_cairo_extend_t" : "FernandoOlivero 4/19/2012 13:33",
+		"initialize_cairo_font_slant_t" : "",
+		"initialize_cairo_font_type_t" : "",
+		"initialize_cairo_font_weight_t" : "",
+		"initialize_cairo_format_t" : "",
+		"initialize_cairo_hint_style_t" : "IgorStasenko 9/2/2012 01:11",
+		"initialize_cairo_line_cap_t" : "",
+		"initialize_cairo_line_join_t" : "",
+		"initialize_cairo_operator_t" : "",
+		"initialize_cairo_status_t" : "",
+		"initialize_types" : "IgorStasenko 9/1/2012 19:40" },
+	"instance" : {
+		 } }

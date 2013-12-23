@@ -1,0 +1,14 @@
+{
+	"category" : "ProfStef-Help",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ProfStefHelpTutorialBuilder",
+	"pools" : [
+		 ],
+	"super" : "HelpBuilder",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+capStyle
+
+	^ capStyle

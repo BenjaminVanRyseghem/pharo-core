@@ -1,0 +1,15 @@
+{
+	"category" : "AST-Interpreter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"homeContext",
+		"exceptionHandler" ],
+	"name" : "AIBlockContext",
+	"pools" : [
+		 ],
+	"super" : "AIContext",
+	"type" : "normal" }

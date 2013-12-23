@@ -1,0 +1,4 @@
+protocol
+stepTime
+
+	self subclassResponsibility

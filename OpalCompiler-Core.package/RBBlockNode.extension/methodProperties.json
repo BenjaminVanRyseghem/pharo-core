@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"isClean" : "ClementBera 8/5/2013 11:03",
+		"isInlined" : "ClementBera 7/26/2013 15:11",
+		"isInlinedLoop" : "ClementBera 7/26/2013 15:18",
+		"lastIsReturn" : "ClementBera 8/5/2013 11:04",
+		"methodOrBlockNode" : "ClementBera 7/26/2013 15:28",
+		"owningScope" : "jorgeRessia 11/20/2009 16:40" } }

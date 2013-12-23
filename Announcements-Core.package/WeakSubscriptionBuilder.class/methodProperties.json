@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"on:" : "IgorStasenko 3/12/2011 20:26" },
+	"instance" : {
+		"announcer:" : "IgorStasenko 3/12/2011 20:24",
+		"on:do:" : "EstebanLorenzano 9/8/2013 16:52",
+		"on:send:to:" : "IgorStasenko 3/12/2011 20:25",
+		"subscribe:do:" : "StephaneDucasse 8/27/2013 21:50",
+		"subscribe:send:to:" : "IgorStasenko 3/12/2011 20:33",
+		"weak" : "IgorStasenko 3/12/2011 20:25",
+		"when:do:" : "EstebanLorenzano 9/8/2013 16:52",
+		"when:send:to:" : "StephaneDucasse 8/27/2013 21:51" } }

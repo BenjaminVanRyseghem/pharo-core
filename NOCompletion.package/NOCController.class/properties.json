@@ -1,0 +1,14 @@
+{
+	"category" : "NOCompletion-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NOCController",
+	"pools" : [
+		 ],
+	"super" : "NECController",
+	"type" : "normal" }

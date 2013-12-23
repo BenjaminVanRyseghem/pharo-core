@@ -1,0 +1,16 @@
+{
+	"category" : "CodeImport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"readStream",
+		"parsedDeclarations",
+		"nextChar" ],
+	"name" : "ChunkFileFormatParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

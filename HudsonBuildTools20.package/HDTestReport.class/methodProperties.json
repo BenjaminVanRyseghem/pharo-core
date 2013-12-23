@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"runClasses:named:" : "lr 5/14/2010 09:16",
+		"runPackage:" : "CamilloBruni 8/30/2013 13:37",
+		"runSuite:" : "IgorStasenko 1/6/2012 15:12" },
+	"instance" : {
+		"beginTestCase:runBlock:" : "CamilloBruni 11/6/2013 21:33",
+		"done" : "IgorStasenko 1/6/2012 15:12",
+		"endTestCase" : "CamilloBruni 11/4/2013 08:29",
+		"initializeOn:" : "IgorStasenko 1/6/2012 15:13",
+		"run" : "lr 6/9/2010 20:01",
+		"runAll" : "JohanBrichau 10/25/2010 23:05",
+		"runCase:" : "MaxLeske 11/6/2013 10:03",
+		"serializeError:of:" : "AndreiChis 10/7/2013 11:59",
+		"setUp" : "CamilloBruni 11/4/2013 08:30",
+		"stackTraceString:of:" : "CamilloBruni 11/4/2013 08:27",
+		"tearDown" : "MaxLeske 11/6/2013 10:10",
+		"writeError:stack:" : "CamilloBruni 11/4/2013 08:27",
+		"writeException:stack:" : "CamilloBruni 7/20/2012 16:53",
+		"writeFailure:stack:" : "CamilloBruni 11/4/2013 08:27" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "NetworkTests-Mail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MailMessageTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

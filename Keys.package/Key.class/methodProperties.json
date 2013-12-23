@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"initialize" : "GuillermoPolito 5/4/2013 12:53",
+		"initializeKeyTable" : "GuillermoPolito 4/12/2013 19:57",
+		"initializeMacOSVirtualKeyTable" : "GuillermoPolito 4/10/2013 17:17",
+		"initializeUnixVirtualKeyTable" : "GuillermoPolito 4/12/2013 16:29",
+		"initializeWindowsVirtualKeyTable" : "GuillermoPolito 5/4/2013 12:58",
+		"macOSVirtualKeyTable" : "GuillermoPolito 4/10/2013 15:41",
+		"unixVirtualKeyTable" : "GuillermoPolito 4/12/2013 17:45",
+		"unknownKeyName" : "GuillermoPolito 5/4/2013 20:02",
+		"value:" : "GuillermoPolito 4/10/2013 16:19",
+		"valueForMacOSXPlatform:" : "GuillermoPolito 5/5/2013 12:06",
+		"valueForUnixPlatform:" : "GuillermoPolito 5/5/2013 12:06",
+		"valueForWindowsPlatform:" : "GuillermoPolito 5/4/2013 11:33",
+		"windowsVirtualKeyTable" : "GuillermoPolito 5/4/2013 11:33" },
+	"instance" : {
+		"isUnkownKey" : "GuillermoPolito 5/4/2013 20:03",
+		"name" : "GuillermoPolito 4/10/2013 16:18",
+		"printOn:" : "GuillermoPolito 5/4/2013 20:04",
+		"withValue:" : "GuillermoPolito 5/4/2013 20:02",
+		"withValue:andName:" : "GuillermoPolito 4/10/2013 16:18" } }

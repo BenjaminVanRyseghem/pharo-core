@@ -1,0 +1,4 @@
+protocol
+nextState
+
+	^ self subclassResponsibility

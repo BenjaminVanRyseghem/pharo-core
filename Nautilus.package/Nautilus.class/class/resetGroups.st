@@ -1,0 +1,3 @@
+accessing
+resetGroups 
+	groups := nil.

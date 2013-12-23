@@ -1,0 +1,14 @@
+{
+	"category" : "Tests-Bugs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MorphBugs",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

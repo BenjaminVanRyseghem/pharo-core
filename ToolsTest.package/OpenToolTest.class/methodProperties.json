@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testInspectArray" : "ClementBera 6/28/2013 11:16",
+		"testInspectClass" : "ClementBera 6/28/2013 11:16",
+		"testInspectDictionary" : "ClementBera 6/28/2013 11:16",
+		"testInspectInteger" : "ClementBera 6/28/2013 11:16",
+		"testInspectTraitClass" : "SebastianTleye 7/9/2013 18:43",
+		"testOpenBrowseOnClass" : "CamilloBruni 9/21/2012 14:09",
+		"testOpenBrowseOnInstalledTraitMethod" : "SebastianTleye 7/16/2013 10:46",
+		"testOpenBrowseOnMethod" : "CamilloBruni 9/21/2012 14:10",
+		"testOpenBrowseOnTraitMethod" : "SebastianTleye 7/22/2013 13:46",
+		"testSendersOfAt" : "CamilloBruni 9/21/2012 14:22" } }

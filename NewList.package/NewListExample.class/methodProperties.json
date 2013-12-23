@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allowToSelect" : "BenjaminVanRyseghem 5/1/2013 09:53",
+		"buildMorph" : "BenjaminVanRyseghem 5/1/2013 09:53",
+		"buildMorphWithOld" : "MarcusDenker 10/16/2013 18:02",
+		"buildTextMorph" : "BenjaminVanRyseghem 11/29/2012 19:36",
+		"displayItem:" : "BenjaminVanRyseghem 5/21/2013 18:03",
+		"drop:at:" : "BenjaminVanRyseghem 11/25/2012 22:22",
+		"getIndex" : "BenjaminVanRyseghem 11/23/2012 17:47",
+		"getItems" : "BenjaminVanRyseghem 11/25/2012 22:21",
+		"headerTitle" : "BenjaminVanRyseghem 5/1/2013 09:27",
+		"iconFor:at:" : "EstebanLorenzano 5/15/2013 11:16",
+		"iconMaxSize" : "BenjaminVanRyseghem 12/13/2012 09:19",
+		"initialize" : "CamilloBruni 7/17/2013 23:06",
+		"listMorph" : "BenjaminVanRyseghem 11/23/2012 15:47",
+		"listMorph:" : "BenjaminVanRyseghem 11/23/2012 15:47",
+		"menu:shifted:" : "BenjaminVanRyseghem 11/25/2012 03:04",
+		"openInWindow" : "MarcusDenker 10/16/2013 18:00",
+		"openInWorld" : "MarcusDenker 10/16/2013 18:00",
+		"setIndex:" : "MarcusDenker 10/16/2013 18:02",
+		"title" : "BenjaminVanRyseghem 11/25/2012 22:21",
+		"toggleTitle" : "BenjaminVanRyseghem 11/24/2012 19:36",
+		"withNewList" : "BenjaminVanRyseghem 11/26/2012 17:14",
+		"withOldList" : "BenjaminVanRyseghem 11/26/2012 17:15" } }

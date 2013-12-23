@@ -1,0 +1,14 @@
+{
+	"category" : "HelpSystem-Core-Builders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PackageAPIHelpBuilder",
+	"pools" : [
+		 ],
+	"super" : "HelpBuilder",
+	"type" : "normal" }

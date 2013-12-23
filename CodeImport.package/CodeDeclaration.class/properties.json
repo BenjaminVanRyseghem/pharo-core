@@ -1,0 +1,14 @@
+{
+	"category" : "CodeImport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents" ],
+	"name" : "CodeDeclaration",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

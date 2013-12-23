@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"definition:" : "lr 9/30/2010 14:01",
+		"definition:for:" : "MarcusDenker 3/25/2013 21:02",
+		"definition:for:context:" : "MarcusDenker 9/20/2013 15:07",
+		"definitionPatterns" : "lr 10/1/2010 14:32" },
+	"instance" : {
+		"=" : "lr 9/30/2010 14:07",
+		"changeString" : "lr 9/30/2010 14:12",
+		"controller" : "lr 9/30/2010 14:13",
+		"definedClass" : "lr 9/30/2010 14:09",
+		"definition" : "lr 9/30/2010 14:08",
+		"definition:controller:" : "lr 10/1/2010 14:37",
+		"definitionClass" : "lr 9/30/2010 14:20",
+		"fillOutDefinition:" : "lr 10/1/2010 14:32",
+		"hash" : "lr 9/30/2010 14:07",
+		"namesIn:" : "lr 9/30/2010 19:21",
+		"primitiveExecute" : "MarcusDenker 8/28/2013 10:52",
+		"printOn:" : "lr 9/30/2010 14:12" } }

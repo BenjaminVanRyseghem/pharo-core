@@ -1,0 +1,16 @@
+{
+	"category" : "Nautilus-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"categoriesList",
+		"categoriesSelection",
+		"categories" ],
+	"name" : "CategoryWidget",
+	"pools" : [
+		 ],
+	"super" : "AbstractCategoryWidget",
+	"type" : "normal" }

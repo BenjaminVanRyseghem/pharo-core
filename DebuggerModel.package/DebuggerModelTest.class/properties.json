@@ -1,0 +1,16 @@
+{
+	"category" : "DebuggerModel-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"process",
+		"context" ],
+	"name" : "DebuggerModelTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

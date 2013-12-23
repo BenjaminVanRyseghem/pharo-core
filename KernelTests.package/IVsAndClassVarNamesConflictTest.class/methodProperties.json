@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "oscar.nierstrasz 10/18/2009 17:11",
+		"tearDown" : "lr 3/14/2010 21:13",
+		"testOneCanProceedWhenIntroducingCapitalizedInstanceVariables" : "CamilloBruni 8/31/2013 20:23",
+		"testOneCanProceedWhenIntroducingClasseVariablesBeginingWithLowerCaseCharacters" : "CamilloBruni 8/31/2013 20:23" } }

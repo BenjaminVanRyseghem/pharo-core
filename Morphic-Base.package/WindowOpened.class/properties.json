@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-WindowNotification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WindowOpened",
+	"pools" : [
+		 ],
+	"super" : "WindowAnnouncement",
+	"type" : "normal" }

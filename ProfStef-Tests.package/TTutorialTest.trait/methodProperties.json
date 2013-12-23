@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testEachSelectorExists" : "LaurentLaffont 2/1/2010 21:57",
+		"testEachSelectorReturnsALesson" : "LaurentLaffont 2/1/2010 21:59",
+		"testLessonAtReturnsCorrespondingLesson" : "LaurentLaffont 2/1/2010 21:59",
+		"testNotEmpty" : "LaurentLaffont 2/1/2010 22:00",
+		"testSizeReturnsNumberOfSelectors" : "LaurentLaffont 2/1/2010 22:00",
+		"testedTutorial" : "LaurentLaffont 2/1/2010 22:04" } }

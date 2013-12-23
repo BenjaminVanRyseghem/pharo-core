@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"method" : "carlaGriggio 5/22/2010 21:24",
+		"methodContext" : "StephaneDucasse 6/9/2010 20:55",
+		"setUp" : "MarcusDenker 5/20/2013 15:33",
+		"tearDown" : "MarcusDenker 5/20/2013 15:34",
+		"testEvaluationOfInlinedToDo" : "MarcusDenker 9/5/2013 12:57",
+		"testEvaluationOfSelfSend" : "MarcusDenker 9/5/2013 12:57",
+		"weightedAverage" : "carlaGriggio 5/23/2010 20:18" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Nautilus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"element",
+		"ancestor" ],
+	"name" : "SortHierarchicallyNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

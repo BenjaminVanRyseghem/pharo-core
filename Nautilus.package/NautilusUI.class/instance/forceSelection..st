@@ -1,0 +1,3 @@
+widget - method
+forceSelection: aNode
+ 

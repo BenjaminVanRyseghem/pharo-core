@@ -1,0 +1,14 @@
+{
+	"category" : "Fuel-Clusters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FLNegative24SmallIntegerCluster",
+	"pools" : [
+		 ],
+	"super" : "FLSmallIntegerCluster",
+	"type" : "normal" }

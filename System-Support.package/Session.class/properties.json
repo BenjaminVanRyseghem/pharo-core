@@ -1,0 +1,14 @@
+{
+	"category" : "System-Support",
+	"classinstvars" : [
+		"current" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"creationTime" ],
+	"name" : "Session",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

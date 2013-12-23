@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"categoryContainer" : "CamilloBruni 3/18/2011 23:11",
+		"testAddKeymapToCategory" : "MarcusDenker 9/12/2013 10:03",
+		"testCreateExistentCategoryFails" : "GuillermoPolito 3/13/2011 17:33",
+		"testCreateUnexistentCategory" : "MarcusDenker 9/12/2013 10:03" } }

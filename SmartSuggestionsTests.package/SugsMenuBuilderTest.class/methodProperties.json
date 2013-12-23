@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testFindBestNodeForClassItsRBVariable" : "MarcusDenker 9/20/2013 15:02",
+		"testFindBestNodeForClassVarItsRBVariable" : "MarcusDenker 9/20/2013 15:02",
+		"testFindBestNodeForInstanceVariableItsRBVariable" : "GiselaDecuzzi 5/22/2013 15:11",
+		"testFindBestNodeForLiteralItsRBLiteral" : "GiselaDecuzzi 4/22/2013 14:27",
+		"testFindBestNodeForMessageNodeItsRBMessageSend" : "GiselaDecuzzi 4/22/2013 15:29",
+		"testFindBestNodeForMethodNodeItsRBMehod" : "GiselaDecuzzi 4/22/2013 15:28",
+		"testFindBestNodeForMultilineItsRBSequence" : "GiselaDecuzzi 4/22/2013 15:25",
+		"testFindBestNodeForSelfNodeItsRBSelf" : "GiselaDecuzzi 4/22/2013 14:29",
+		"testFindBestNodeForSelfNodeItsRBSuper" : "GiselaDecuzzi 4/22/2013 15:18",
+		"testFindBestNodeForTemporaryVariableItsRBVariable" : "GiselaDecuzzi 6/18/2013 14:31",
+		"testNoSuggestionForSelfNode" : "GiselaDecuzzi 4/19/2013 17:36",
+		"testNoSuggestionForSuperNode" : "GiselaDecuzzi 4/19/2013 18:00",
+		"testSuggestionForAAssigmentNodeIncludesAllDeclared" : "GiselaDecuzzi 6/12/2013 13:52",
+		"testSuggestionForAClassNodeIncludesAllDeclared" : "GiselaDecuzzi 4/22/2013 13:46",
+		"testSuggestionForAClassVariableNodeIncludesAllDeclared" : "GiselaDecuzzi 4/22/2013 13:57",
+		"testSuggestionForAMehodNodeIncludesAllValid" : "GiselaDecuzzi 5/15/2013 13:36",
+		"testSuggestionForAMessageNodeIncludesAllDeclared" : "GiselaDecuzzi 4/22/2013 14:07",
+		"testSuggestionForATemporaryVariableNodeIncludesAllDeclared" : "GiselaDecuzzi 4/22/2013 13:58",
+		"testSuggestionForAnInstanceVariableNodeIncludesAllDeclared" : "GiselaDecuzzi 4/22/2013 13:59",
+		"testSuggestionForLiteralNodeIncludesAllExpected" : "GiselaDecuzzi 5/15/2013 15:07",
+		"testSuggestionForSourceNodeIncludesAllValid" : "GiselaDecuzzi 5/15/2013 14:22" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "RecentSubmissions-Core",
+	"classinstvars" : [
+		"settingDropList" ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"maxListSize" ],
+	"name" : "RecentMessageList",
+	"pools" : [
+		 ],
+	"super" : "MessageList",
+	"type" : "normal" }

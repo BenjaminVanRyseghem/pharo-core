@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAsString" : "GuillermoPolito 5/31/2011 19:54",
+		"testBadComposedCmdShortcutFails" : "CamilloBruni 3/21/2011 21:56",
+		"testChainIntegerSucceds" : "CamilloBruni 3/21/2011 21:56",
+		"testChainShortcutSucceds" : "CamilloBruni 3/21/2011 21:56",
+		"testChainSimpleCharsSucceds" : "CamilloBruni 3/21/2011 21:56",
+		"testCmdIntegerSucceds" : "CamilloBruni 3/21/2011 21:56",
+		"testCmdKeySucceds" : "CamilloBruni 3/21/2011 21:56",
+		"testCmdShiftSucceds" : "GuillermoPolito 1/21/2012 20:39",
+		"testComplexChainMatches" : "CamilloBruni 3/21/2011 21:56",
+		"testCreation" : "GuillermoPolito 3/19/2013 20:28",
+		"testModifiedShortcutsMatch" : "GuillermoPolito 1/21/2012 20:39",
+		"testShiftKeySucceds" : "CamilloBruni 3/21/2011 21:56",
+		"testSimpleChainMatches" : "CamilloBruni 3/21/2011 21:56",
+		"testSingleShortcutsMatch" : "GuillermoPolito 3/19/2013 19:12",
+		"testTripleChainShortcutSucceds" : "CamilloBruni 3/21/2011 21:56" } }

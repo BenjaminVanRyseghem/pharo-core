@@ -1,0 +1,21 @@
+{
+	"category" : "Athens-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"surface",
+		"animations",
+		"current",
+		"zooming",
+		"scale",
+		"frame",
+		"pharoLogo",
+		"esugBallon" ],
+	"name" : "AthensDemoMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

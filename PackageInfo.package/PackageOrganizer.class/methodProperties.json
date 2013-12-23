@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"default" : "stephaneducasse 2/4/2006 20:40" },
+	"instance" : {
+		"flushObsoletePackages:" : "BenjaminVanRyseghem 7/22/2013 14:54",
+		"initialize" : "alain.plantec 5/28/2009 10:13",
+		"mostSpecificPackageIn:ifNone:" : "stephane.ducasse 9/4/2008 12:51",
+		"mostSpecificPackageOfClass:" : "stephane.ducasse 9/4/2008 12:50",
+		"mostSpecificPackageOfClass:ifNone:" : "stephane.ducasse 9/4/2008 12:51",
+		"mostSpecificPackageOfMethod:" : "stephane.ducasse 9/4/2008 12:50",
+		"mostSpecificPackageOfMethod:ifNone:" : "stephane.ducasse 9/4/2008 12:52",
+		"noPackageFound" : "avi 10/11/2003 14:21",
+		"packageNamed:ifAbsent:" : "avi 11/12/2003 23:08",
+		"packageNames" : "avi 11/12/2003 23:01",
+		"packageOfClass:" : "avi 10/11/2003 14:21",
+		"packageOfClass:ifNone:" : "MarcusDenker 3/11/2010 11:28",
+		"packageOfMethod:" : "avi 10/11/2003 14:21",
+		"packageOfMethod:ifNone:" : "avi 10/11/2003 14:22",
+		"packages" : "avi 11/12/2003 23:01",
+		"registerPackage:" : "BenjaminVanRyseghem 7/22/2013 14:54",
+		"registerPackageNamed:" : "avi 11/12/2003 21:08",
+		"unregisterPackage:" : "BenjaminVanRyseghem 7/22/2013 14:54",
+		"unregisterPackageNamed:" : "avi 11/12/2003 21:10" } }

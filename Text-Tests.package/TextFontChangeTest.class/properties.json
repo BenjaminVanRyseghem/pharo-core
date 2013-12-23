@@ -1,0 +1,14 @@
+{
+	"category" : "Text-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TextFontChangeTest",
+	"pools" : [
+		 ],
+	"super" : "HashAndEqualsTestCase",
+	"type" : "normal" }

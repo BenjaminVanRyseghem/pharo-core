@@ -1,0 +1,18 @@
+{
+	"category" : "Athens-Cairo-Paths",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TCairoLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"context",
+		"absolute",
+		"endPoint" ],
+	"name" : "AthensCairoPathBuilder",
+	"pools" : [
+		 ],
+	"super" : "AthensPathBuilder",
+	"traitcomposition" : "TCairoLibrary",
+	"type" : "normal" }

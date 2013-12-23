@@ -1,0 +1,14 @@
+{
+	"category" : "Komitter-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"state" ],
+	"name" : "LoadingThenOk",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

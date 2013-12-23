@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"cleanUp:" : "",
+		"default" : "SeanDeNigris 12/2/2011 08:57" },
+	"instance" : {
+		"addCategory:" : "EstebanLorenzano 7/27/2012 16:30",
+		"categoriesMatching:" : "LucFabresse 10/24/2010 17:42",
+		"classesInCategory:" : "",
+		"commentInventory:" : "",
+		"environment" : "",
+		"environment:" : "",
+		"fileOut" : "CamilloBruni 2/24/2013 23:42",
+		"fileOutCategory:" : "SeanDeNigris 6/13/2013 10:25",
+		"fileOutCategory:on:" : "",
+		"fileOutCategory:on:initializing:" : "MarcusDenker 10/9/2013 17:06",
+		"includesCategory:" : "StephaneDucasse 5/20/2012 17:37",
+		"initialize" : "LucFabresse 10/24/2010 19:57",
+		"orderedTraitsIn:" : "",
+		"removeCategoriesMatching:" : "",
+		"removeCategory:" : "GuillermoPolito 8/2/2012 00:23",
+		"removeMissingClasses" : "",
+		"removeSystemCategory:" : "",
+		"renameCategory:toBe:" : "EstebanLorenzano 7/27/2012 16:30",
+		"superclassOrder:" : "GuillermoPolito 6/26/2012 15:58",
+		"uncommentedClassesIn:" : "" } }

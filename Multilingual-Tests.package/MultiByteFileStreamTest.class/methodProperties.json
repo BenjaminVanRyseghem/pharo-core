@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"chunkString" : "HenrikSperreJohansen 5/19/2011 09:53",
+		"lineEndTestFile" : "HenrikSperreJohansen 5/19/2011 09:53",
+		"tearDown" : "StephaneDucasse 6/17/2013 15:55",
+		"testBasicChunk" : "SeanDeNigris 7/12/2012 08:44",
+		"testBinaryUpTo" : "SeanDeNigris 7/12/2012 08:44",
+		"testLineEndingsWith:" : "HenrikSperreJohansen 5/19/2011 10:16",
+		"testReadIntoStartingAtCount" : "S 6/17/2013 13:16",
+		"writeChunkToFile" : "HenrikSperreJohansen 2/9/2010 11:10" } }

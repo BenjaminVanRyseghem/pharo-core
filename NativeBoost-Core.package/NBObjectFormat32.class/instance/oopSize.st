@@ -1,0 +1,4 @@
+accessing
+oopSize
+
+	^ 4

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"asNBExternalType:" : "IgorStasenko 6/27/2013 17:05",
+		"getClassForType:" : "CamilleTeruel 11/19/2013 17:29",
+		"initValueType:" : "IgorStasenko 6/27/2013 16:16",
+		"initialize" : "StephaneDucasse 8/13/2013 17:41",
+		"installAccessors" : "IgorStasenko 8/13/2013 14:52",
+		"new" : "CiprianTeodorov 4/9/2013 20:50",
+		"ofType:" : "CiprianTeodorov 4/9/2013 19:20",
+		"valueSize" : "CiprianTeodorov 4/9/2013 19:42",
+		"valueType" : "CiprianTeodorov 4/9/2013 19:21",
+		"valueType:" : "CiprianTeodorov 4/9/2013 19:21" },
+	"instance" : {
+		"emitCopy:" : "CiprianTeodorov 4/9/2013 19:41",
+		"emitCopyUsingLoop:" : "CiprianTeodorov 4/9/2013 19:42",
+		"emitRead" : "IgorStasenko 7/1/2013 14:29",
+		"emitWrite" : "IgorStasenko 7/1/2013 14:29",
+		"printOn:" : "CiprianTeodorov 4/9/2013 19:19",
+		"value" : "CiprianTeodorov 4/9/2013 19:46",
+		"value:" : "CiprianTeodorov 4/9/2013 19:46" } }

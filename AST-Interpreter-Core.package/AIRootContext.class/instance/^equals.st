@@ -1,0 +1,3 @@
+testing
+= anObject
+	^ self == anObject

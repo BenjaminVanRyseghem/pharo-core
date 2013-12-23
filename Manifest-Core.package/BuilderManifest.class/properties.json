@@ -1,0 +1,14 @@
+{
+	"category" : "Manifest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"manifestClass" ],
+	"name" : "BuilderManifest",
+	"pools" : [
+		 ],
+	"super" : "AbstractTool",
+	"type" : "normal" }

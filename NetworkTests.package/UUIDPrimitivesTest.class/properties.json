@@ -1,0 +1,14 @@
+{
+	"category" : "NetworkTests-UUID",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UUIDPrimitivesTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

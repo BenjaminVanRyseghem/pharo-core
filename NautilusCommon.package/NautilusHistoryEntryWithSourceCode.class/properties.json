@@ -1,0 +1,14 @@
+{
+	"category" : "NautilusCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sourceCode" ],
+	"name" : "NautilusHistoryEntryWithSourceCode",
+	"pools" : [
+		 ],
+	"super" : "NautilusHistoryEntry",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"make:" : "ToonVerwaest 3/22/2011 19:12" },
+	"instance" : {
+		"builder" : "ToonVerwaest 3/22/2011 17:42",
+		"classAdded:inCategory:" : "ToonVerwaest 3/22/2011 17:43",
+		"classAt:ifAbsent:" : "ToonVerwaest 3/22/2011 17:44",
+		"classDefinitionDeeplyChangedFrom:to:by:" : "ToonVerwaest 3/22/2011 18:38",
+		"classDefinitionShallowChangedFrom:to:by:" : "ToonVerwaest 3/22/2011 18:38",
+		"copyTraitCompositionFrom:to:" : "MartinDias 7/1/2013 14:54",
+		"environment" : "CamilloBruni 6/28/2013 14:03",
+		"environment:" : "ToonVerwaest 3/22/2011 17:45",
+		"initialize" : "ToonVerwaest 3/22/2011 17:43",
+		"installTraitComposition:on:" : "MartinDias 6/24/2013 18:25",
+		"migrateClasses:to:using:" : "ToonVerwaest 3/22/2011 18:30",
+		"recategorize:to:" : "ToonVerwaest 3/22/2011 17:44" } }

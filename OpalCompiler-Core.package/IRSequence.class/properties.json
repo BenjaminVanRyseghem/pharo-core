@@ -1,0 +1,16 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sequence",
+		"orderNumber",
+		"method" ],
+	"name" : "IRSequence",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

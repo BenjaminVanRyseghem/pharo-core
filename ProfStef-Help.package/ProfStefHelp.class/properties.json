@@ -1,0 +1,14 @@
+{
+	"category" : "ProfStef-Help",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LaurentLaffont 2/15/2011 22:17",
+	"instvars" : [
+		 ],
+	"name" : "ProfStefHelp",
+	"pools" : [
+		 ],
+	"super" : "CustomHelp",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compile:" : "MarcusDenker 5/25/2013 11:17",
+		"compiling:shouldRaise:" : "MarcusDenker 5/25/2013 11:17",
+		"interactive" : "MarcusDenker 5/25/2013 11:17",
+		"removeGeneratedMethods" : "StephaneDucasse 8/29/2013 21:06",
+		"select" : "MarcusDenker 5/25/2013 11:17",
+		"selectFrom:to:" : "MarcusDenker 5/25/2013 11:17",
+		"selectionInterval" : "MarcusDenker 5/25/2013 11:17",
+		"setUp" : "MarcusDenker 5/25/2013 16:16",
+		"tearDown" : "MarcusDenker 5/25/2013 16:16",
+		"testUndeclaredVariable" : "MarcusDenker 5/25/2013 11:22",
+		"testUndefinedVariable" : "MarcusDenker 5/25/2013 11:21",
+		"testUnknownSelector" : "MarcusDenker 5/25/2013 16:18",
+		"testUnusedVariable" : "MarcusDenker 5/25/2013 11:21",
+		"text" : "MarcusDenker 5/25/2013 11:17" } }

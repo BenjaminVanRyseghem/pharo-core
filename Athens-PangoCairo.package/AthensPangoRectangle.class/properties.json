@@ -1,0 +1,17 @@
+{
+	"category" : "Athens-PangoCairo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "FernandoOlivero 2/5/2012 17:17",
+	"instvars" : [
+		"x",
+		"y",
+		"width",
+		"height" ],
+	"name" : "AthensPangoRectangle",
+	"pools" : [
+		"PangoConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

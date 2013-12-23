@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"evaluateFileNamed:" : "GuillermoPolito 5/5/2012 17:23",
+		"evaluateFileStream:" : "GuillermoPolito 5/5/2012 17:23",
+		"evaluateReadStream:" : "GuillermoPolito 5/5/2012 17:25",
+		"evaluateString:" : "GuillermoPolito 5/5/2012 17:25",
+		"fileNamed:" : "GuillermoPolito 5/5/2012 17:23",
+		"fileStream:" : "GuillermoPolito 5/5/2012 17:23",
+		"fromString:" : "GuillermoPolito 5/5/2012 17:25",
+		"readStream:" : "GuillermoPolito 5/5/2012 17:24" },
+	"instance" : {
+		"codeDeclarations" : "GuillermoPolito 5/5/2012 16:12",
+		"evaluateDeclarations" : "CamilloBruni 7/10/2013 18:44",
+		"file:" : "CamilloBruni 7/17/2013 16:03",
+		"flushChangesFile" : "GuillermoPolito 5/5/2012 01:12",
+		"initialize" : "GuillermoPolito 5/5/2012 17:06",
+		"parseDeclarations" : "GuillermoPolito 5/5/2012 17:17",
+		"readStream:" : "GuillermoPolito 5/5/2012 01:39",
+		"requestor" : "CamilloBruni 7/10/2013 16:13",
+		"requestor:" : "CamilloBruni 7/10/2013 16:13",
+		"selectTextConverterForCode" : "GuillermoPolito 5/5/2012 01:38" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Transcript",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"accessSemaphore" ],
+	"name" : "ThreadSafeTranscript",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

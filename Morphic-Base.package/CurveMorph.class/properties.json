@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CurveMorph",
+	"pools" : [
+		 ],
+	"super" : "PolygonMorph",
+	"type" : "normal" }

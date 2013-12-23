@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"=" : "MarcusDenker 11/16/2012 11:24",
+		"emitStore:" : "",
+		"emitValue:" : "",
+		"escaping" : "MarcusDenker 9/22/2010 11:04",
+		"escaping:" : "MarcusDenker 9/22/2010 11:04",
+		"hash" : "MarcusDenker 11/16/2012 11:26",
+		"indexFromIR" : "MarcusDenker 4/18/2013 15:53",
+		"initialize" : "MarcusDenker 9/5/2010 20:18",
+		"isCopying" : "MarcusDenker 9/9/2010 16:07",
+		"isEscaping" : "MarcusDenker 9/21/2010 16:06",
+		"isEscapingRead" : "MarcusDenker 9/21/2010 16:22",
+		"isEscapingWrite" : "MarcusDenker 9/21/2010 16:22",
+		"isStoringTempVector" : "MarcusDenker 11/15/2012 16:37",
+		"isTemp" : "ajh 6/23/2004 23:18",
+		"isTempVectorTemp" : "",
+		"markEscapingRead" : "MarcusDenker 9/21/2010 18:06",
+		"markEscapingWrite" : "MarcusDenker 5/18/2011 15:57",
+		"markWrite" : "MarcusDenker 5/18/2011 16:00",
+		"readFromContext:scope:" : "ClementBera 7/9/2013 17:32",
+		"writeFromContext:scope:value:" : "MarcusDenker 12/18/2012 14:41" } }

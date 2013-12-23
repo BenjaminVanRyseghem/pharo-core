@@ -1,0 +1,14 @@
+{
+	"category" : "DebuggerActions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"debuggerClass" ],
+	"name" : "ChangeDebuggerAction",
+	"pools" : [
+		 ],
+	"super" : "DebugAction",
+	"type" : "normal" }

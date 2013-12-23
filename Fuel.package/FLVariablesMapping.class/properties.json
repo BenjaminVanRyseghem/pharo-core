@@ -1,0 +1,16 @@
+{
+	"category" : "Fuel-Clusters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MartinDias 8/1/2011 03:01",
+	"instvars" : [
+		"mapping",
+		"theClass",
+		"notIgnoredVariables" ],
+	"name" : "FLVariablesMapping",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

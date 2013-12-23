@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createContext:" : "GiselaDecuzzi 4/23/2013 16:23",
+		"createSubclassFrom:named:" : "GiselaDecuzzi 4/23/2013 16:19",
+		"createSuggestionPushDown:" : "GiselaDecuzzi 4/23/2013 16:24",
+		"testPushDownWithSubclassIsValid" : "GiselaDecuzzi 4/24/2013 00:47",
+		"testPushDownWithoutSubclassIsNotValid" : "GiselaDecuzzi 4/23/2013 16:28" } }

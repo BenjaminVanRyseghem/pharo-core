@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDup" : "MarcusDenker 7/16/2012 16:07",
+		"testInstVar" : "MarcusDenker 7/16/2012 16:07",
+		"testJumpAheadTo" : "MarcusDenker 7/16/2012 16:07",
+		"testJumpAheadToIf" : "MarcusDenker 7/16/2012 16:07",
+		"testJumpBackTo" : "MarcusDenker 7/16/2012 16:07",
+		"testLiteralArray" : "MarcusDenker 7/16/2012 16:07",
+		"testLiteralVariableClass" : "MarcusDenker 7/16/2012 16:07",
+		"testPopTop" : "MarcusDenker 7/16/2012 16:07",
+		"testPushClosureCopyNoCopied" : "MarcusDenker 7/16/2012 16:07",
+		"testPushConsArray" : "MarcusDenker 7/16/2012 16:07",
+		"testPushNewArray" : "MarcusDenker 7/16/2012 16:07",
+		"testPushSelf" : "MarcusDenker 7/16/2012 16:07",
+		"testPushTempArgument" : "MarcusDenker 7/16/2012 16:07",
+		"testPushTempTemp" : "MarcusDenker 7/16/2012 16:07",
+		"testPushThisContext" : "MarcusDenker 7/16/2012 16:07",
+		"testRemoteTemp" : "MarcusDenker 7/16/2012 16:07",
+		"testRemoteTempNested" : "MarcusDenker 7/16/2012 16:07",
+		"testReturnTop" : "MarcusDenker 7/16/2012 16:07",
+		"testSendSuper" : "MarcusDenker 7/16/2012 16:12",
+		"testStoreIntoVariable" : "MarcusDenker 7/16/2012 16:07",
+		"testStoreTemp" : "MarcusDenker 7/16/2012 16:07" } }

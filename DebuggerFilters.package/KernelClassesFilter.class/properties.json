@@ -1,0 +1,14 @@
+{
+	"category" : "DebuggerFilters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"kernelClasses" ],
+	"name" : "KernelClassesFilter",
+	"pools" : [
+		 ],
+	"super" : "StackFilter",
+	"type" : "normal" }

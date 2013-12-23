@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"cmdDotEnabled" : "AlainPlantec 12/5/2009 18:21",
+		"cmdDotEnabled:" : "AlainPlantec 12/5/2009 18:22",
+		"new" : "ThierryGoubier 6/28/2013 14:57" },
+	"instance" : {
+		"handleEvent:" : "ThierryGoubier 6/28/2013 14:49",
+		"handleUserInterrupt" : "SeanDeNigris 2/10/2013 14:46",
+		"processToInterrupt" : "HenrikSperreJohansen 5/3/2013 10:08",
+		"setInterruptKeyValue:" : "mir 11/19/2008 14:41" } }

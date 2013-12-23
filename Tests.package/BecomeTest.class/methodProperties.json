@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBecome" : "brp 9/19/2003 15:28",
+		"testBecomeForward" : "brp 9/19/2003 15:28",
+		"testBecomeForwardCopyIdentityHash" : "MartinDias 7/1/2013 15:09",
+		"testBecomeForwardDontCopyIdentityHash" : "MartinDias 7/1/2013 15:09",
+		"testBecomeForwardHash" : "brp 9/19/2003 15:29",
+		"testBecomeForwardIdentityHash" : "brp 9/19/2003 15:27",
+		"testBecomeHash" : "brp 9/19/2003 15:30",
+		"testBecomeIdentityHash" : "brp 9/19/2003 15:31" } }

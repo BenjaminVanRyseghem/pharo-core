@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"textGoryDetails" : "IgorStasenko 9/1/2012 21:16" },
+	"instance" : {
+		"initialize" : "IgorStasenko 10/20/2011 13:07",
+		"render:lines:on:" : "IgorStasenko 9/1/2012 21:23",
+		"renderBackground:" : "IgorStasenko 11/7/2011 14:44",
+		"renderBackground:width:" : "IgorStasenko 11/7/2011 14:41",
+		"renderCharactersFrom:to:" : "IgorStasenko 9/2/2012 19:02",
+		"setCurrentColor:" : "IgorStasenko 9/2/2012 19:01",
+		"setCurrentFont:" : "IgorStasenko 9/1/2012 22:03" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "KernelTests-Exception",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"log",
+		"suiteLog",
+		"iterationsBeforeTimeout" ],
+	"name" : "ExceptionTester",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

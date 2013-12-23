@@ -1,0 +1,15 @@
+{
+	"category" : "Athens-Cairo",
+	"classinstvars" : [
+		"session",
+		"libHandle" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CairoLibraryLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

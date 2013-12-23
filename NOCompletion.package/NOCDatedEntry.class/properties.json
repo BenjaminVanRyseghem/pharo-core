@@ -1,0 +1,16 @@
+{
+	"category" : "NOCompletion-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"date",
+		"next",
+		"previous" ],
+	"name" : "NOCDatedEntry",
+	"pools" : [
+		 ],
+	"super" : "NECSelectorEntry",
+	"type" : "normal" }

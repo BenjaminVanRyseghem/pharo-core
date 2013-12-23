@@ -1,0 +1,14 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ajh 3/24/2003 23:55",
+	"instvars" : [
+		 ],
+	"name" : "IRInterpreter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

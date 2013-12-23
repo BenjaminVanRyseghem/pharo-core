@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Environment",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"andedEnvironment" ],
+	"name" : "RBAndEnvironment",
+	"pools" : [
+		 ],
+	"super" : "RBBrowserEnvironmentWrapper",
+	"type" : "normal" }

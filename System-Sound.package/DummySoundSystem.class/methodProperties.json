@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beep" : "StephaneDucasse 8/3/2013 22:48",
+		"beepPrimitive" : "StephaneDucasse 8/3/2013 22:22",
+		"playSampledSound:rate:" : "StephaneDucasse 8/3/2013 22:22",
+		"playSoundNamed:" : "StephaneDucasse 8/3/2013 22:22",
+		"playSoundNamed:ifAbsentReadFrom:" : "StephaneDucasse 8/3/2013 22:22",
+		"playSoundNamedOrBeep:" : "StephaneDucasse 8/3/2013 22:22",
+		"randomBitsFromSoundInput:" : "StephaneDucasse 8/4/2013 11:21",
+		"sampledSoundChoices" : "StephaneDucasse 8/3/2013 22:22",
+		"soundNamed:" : "StephaneDucasse 8/3/2013 22:22" } }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"newWithContext" : "lr 9/8/2011 20:15",
+		"runRule:" : "nk 11/12/2002 13:12",
+		"runRule:onEnvironment:" : "" },
+	"instance" : {
+		"checkClass:" : "SebastianTleye 8/13/2013 17:27",
+		"checkMethodsForClass:" : "CamilleTeruel 11/14/2013 13:32",
+		"context:" : "",
+		"environment:" : "",
+		"initialize" : "CamilloBruni 5/7/2013 17:38",
+		"methodBlock:" : "",
+		"release" : "",
+		"rule:" : "",
+		"run" : "CamilloBruni 8/31/2013 20:42" } }

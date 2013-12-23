@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"forContext:" : "AndreiChis 1/7/2013 10:29" },
+	"instance" : {
+		"blockNotFoundDialog:with:" : "AndreiChis 1/14/2013 16:23",
+		"context" : "AndreiChis 1/11/2013 17:51",
+		"evaluate:" : "MarcusDenker 9/5/2013 12:50",
+		"forContext:" : "AndreiChis 2/6/2013 14:41",
+		"locateClosureHomeWithContent:" : "AndreiChis 6/10/2013 15:54",
+		"receiver" : "AndreiChis 1/7/2013 10:29",
+		"receiverClass" : "AndreiChis 1/7/2013 10:29",
+		"recompileCurrentMethodTo:notifying:" : "ClementBera 7/26/2013 16:37",
+		"selectedClass" : "AndreiChis 1/7/2013 10:29",
+		"selectedMessageCategoryName" : "AndreiChis 1/7/2013 10:29",
+		"selectedMessageName" : "AndreiChis 7/20/2013 09:34",
+		"source" : "AndreiChis 2/6/2013 14:42",
+		"topContext:" : "AndreiChis 1/7/2013 10:29" } }

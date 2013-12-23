@@ -1,0 +1,4 @@
+protocol
+keychainEditingWrapper: anAssociation
+
+	keychainEditingWrapper value: anAssociation

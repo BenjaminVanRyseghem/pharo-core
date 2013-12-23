@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"emitAnd:" : "nice 5/1/2013 23:03",
+		"emitIfFalse:" : "nice 5/1/2013 23:02",
+		"emitIfNotNil:" : "MarcusDenker 6/11/2013 15:52",
+		"emitIfTrue:" : "nice 5/1/2013 23:03",
+		"emitOr:" : "nice 5/1/2013 23:03",
+		"emitWhileFalse:" : "MarcusDenker 6/23/2012 12:09",
+		"emitWhileTrue:" : "MarcusDenker 6/23/2012 12:09",
+		"visitSequenceNode:" : "nice 5/2/2013 00:21" } }

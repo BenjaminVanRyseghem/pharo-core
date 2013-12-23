@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"onEnvironment:and:" : "" },
+	"instance" : {
+		"andedEnvironment" : "",
+		"andedEnvironment:" : "",
+		"classesDo:" : "",
+		"includesCategory:" : "",
+		"includesClass:" : "",
+		"includesProtocol:in:" : "CamilloBruni 8/27/2013 02:09",
+		"includesSelector:in:" : "",
+		"numberSelectors" : "",
+		"printOn:" : "CamilloBruni 8/27/2013 02:29",
+		"problemCount" : "",
+		"selectionIntervalFor:" : "bh 5/8/2000 21:01",
+		"selectorsForClass:do:" : "",
+		"storeOn:" : "" } }

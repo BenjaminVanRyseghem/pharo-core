@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"method" : "CamilleTeruel 12/18/2013 13:14",
+		"methodBinding" : "CamilleTeruel 12/18/2013 13:15",
+		"reshapeClass" : "CamilleTeruel 12/18/2013 13:56",
+		"setUp" : "CamilleTeruel 12/18/2013 13:49",
+		"testClassReshapeShouldKeepClassBinding" : "CamilleTeruel 12/18/2013 13:56",
+		"testClassReshapeShouldKeepClassBindingForTraitMethods" : "CamilleTeruel 12/18/2013 13:58",
+		"testMethodClassBindingShouldBeClassBinding" : "CamilleTeruel 12/18/2013 13:15",
+		"testTraitMethodClassBindingShouldBeClassBinding" : "CamilleTeruel 12/18/2013 13:58",
+		"traitMethod" : "CamilleTeruel 12/18/2013 13:50",
+		"traitMethodBinding" : "CamilleTeruel 12/18/2013 13:49" } }

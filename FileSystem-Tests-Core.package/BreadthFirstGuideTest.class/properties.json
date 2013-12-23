@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BreadthFirstGuideTest",
+	"pools" : [
+		 ],
+	"super" : "GuideTest",
+	"type" : "normal" }

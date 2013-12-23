@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Environment",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"environment" ],
+	"name" : "RBBrowserEnvironmentWrapper",
+	"pools" : [
+		 ],
+	"super" : "RBBrowserEnvironment",
+	"type" : "normal" }

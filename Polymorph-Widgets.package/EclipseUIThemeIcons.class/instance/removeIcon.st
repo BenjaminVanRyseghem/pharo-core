@@ -1,0 +1,3 @@
+nautilus
+removeIcon
+	^ self smallDeleteIcon

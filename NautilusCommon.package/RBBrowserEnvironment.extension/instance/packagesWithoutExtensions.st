@@ -1,0 +1,4 @@
+*NautilusCommon
+packagesWithoutExtensions
+
+	^ self packageOrganizer packagesWithoutExtensions

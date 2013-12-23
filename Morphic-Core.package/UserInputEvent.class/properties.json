@@ -1,0 +1,18 @@
+{
+	"category" : "Morphic-Core-Events",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"buttons",
+		"position",
+		"handler",
+		"wasHandled" ],
+	"name" : "UserInputEvent",
+	"pools" : [
+		"EventSensorConstants" ],
+	"super" : "MorphicEvent",
+	"type" : "normal" }

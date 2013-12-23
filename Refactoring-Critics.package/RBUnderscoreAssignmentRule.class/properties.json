@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Critics-TransformationRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "RBUnderscoreAssignmentRule",
+	"pools" : [
+		 ],
+	"super" : "RBTransformationRule",
+	"type" : "normal" }

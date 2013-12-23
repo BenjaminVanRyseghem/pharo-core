@@ -1,0 +1,14 @@
+{
+	"category" : "NetworkTests-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NetNameResolverTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

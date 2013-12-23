@@ -1,0 +1,15 @@
+{
+	"category" : "Refactoring-Environment",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"class",
+		"protocols" ],
+	"name" : "RBProtocolEnvironment",
+	"pools" : [
+		 ],
+	"super" : "RBBrowserEnvironmentWrapper",
+	"type" : "normal" }

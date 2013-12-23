@@ -1,0 +1,17 @@
+{
+	"category" : "Metacello-GitHub",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CacheDirectory",
+		"DownloadCache" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"projectPath",
+		"projectVersion",
+		"repoPath" ],
+	"name" : "MCGitHubRepository",
+	"pools" : [
+		 ],
+	"super" : "MCFileTreeRepository",
+	"type" : "normal" }

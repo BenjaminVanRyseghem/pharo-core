@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"finalizeResourceData:" : "",
+		"primDestroyPattern:" : "" },
+	"instance" : {
+		"asAthensPaintOn:" : "",
+		"asStrokePaintOn:" : "IgorStasenko 4/27/2012 11:30",
+		"defaultExtend" : "FernandoOlivero 4/19/2012 14:14",
+		"fillOn:" : "",
+		"fillPath:on:" : "BenjaminVanRyseghem 7/3/2013 13:47",
+		"fillRectangle:on:" : "IgorStasenko 7/3/2013 15:38",
+		"initialize" : "",
+		"isPatternTypeMismatch" : "IgorStasenko 3/28/2012 18:50",
+		"isSuccess" : "",
+		"loadOn:" : "IgorStasenko 7/3/2013 14:35",
+		"maskOn:" : "FernandoOlivero 4/19/2012 15:01",
+		"noRepeat" : "IgorStasenko 8/31/2012 01:12",
+		"primSetExtend:" : "IgorStasenko 3/30/2012 18:13",
+		"primSetSourceOn:" : "FernandoOlivero 4/19/2012 14:00",
+		"reflect" : "IgorStasenko 8/31/2012 01:13",
+		"repeat" : "IgorStasenko 8/31/2012 01:14",
+		"setExtend:" : "IgorStasenko 4/12/2013 10:29",
+		"setMatrix:" : "IgorStasenko 5/31/2012 01:53",
+		"status" : "FernandoOlivero 1/13/2012 20:15" } }

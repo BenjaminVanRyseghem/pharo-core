@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testLocalMethodsOfTheClassShouldNotBeRepeatedInItsTraits" : "SebastianTleye 7/19/2013 13:45",
+		"testMethodsOfTheClassShouldNotBeRepeatedInItsSuperclasses" : "SebastianTleye 7/19/2013 14:30",
+		"testTraitExplicitRequirementMethodsMustBeImplementedInTheClassOrInASuperclass" : "SebastianTleye 7/19/2013 12:50" } }

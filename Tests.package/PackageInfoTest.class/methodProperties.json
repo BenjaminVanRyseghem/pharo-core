@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"packageClass" : "AlexandreBergel 5/26/2008 22:31",
+		"setUp" : "AlexandreBergel 5/26/2008 22:23",
+		"tearDown" : "AlexandreBergel 5/26/2008 22:29",
+		"testGatherExtensionsFromSamePackage" : "PavelKrivanek 10/17/2013 21:18",
+		"testKernelPackage" : "StephaneDucasse 12/26/2011 17:37" } }

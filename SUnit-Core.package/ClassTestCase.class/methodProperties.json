@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"isAbstract" : "md 2/22/2006 14:21",
+		"mustTestCoverage" : "brp 12/14/2003 15:50" },
+	"instance" : {
+		"categoriesForClass:" : "md 1/28/2004 11:32",
+		"classToBeTested" : "brp 7/27/2003 12:39",
+		"differentMethodsWithSameSelectorBetween:and:" : "SebastianTleye 7/19/2013 15:29",
+		"repeatedMethodsThatDoNotAccessInstanceVariablesBetween:and:" : "SebastianTleye 7/19/2013 15:30",
+		"selectorsNotTested" : "brp 7/26/2003 16:35",
+		"selectorsTested" : "MarcusDenker 3/5/2010 14:33",
+		"selectorsToBeIgnored" : "brp 7/26/2003 17:22",
+		"selectorsToBeTested" : "brp 7/27/2003 12:40",
+		"targetClass" : "GuillermoPolito 6/27/2012 12:33",
+		"testClassComment" : "CamilloBruni 5/1/2013 18:27",
+		"testCoverage" : "brp 12/14/2003 15:51",
+		"testNew" : "CamilloBruni 8/31/2013 20:23",
+		"testUnCategorizedMethods" : "StephaneDucasse 8/29/2013 20:54" } }

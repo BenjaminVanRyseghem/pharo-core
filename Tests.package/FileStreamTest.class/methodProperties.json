@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doTestsForReading:intoBufferWithSize:startingAt:fromFileOfSize:offsetBy:" : "S 6/17/2013 13:16",
+		"testCachingNextChunkPut" : "CamilloBruni 7/10/2013 17:23",
+		"testDetectFileDo" : "S 6/17/2013 13:16",
+		"testFileTruncation" : "S 6/17/2013 13:16",
+		"testNextChunkOutOfBounds" : "CamilloBruni 7/10/2013 15:24",
+		"testNextLine" : "Anonymous 6/17/2013 13:16",
+		"testReadIntoStartingAtCountAll" : "HenrikSperreJohansen 3/15/2010 22:29",
+		"testReadIntoStartingAtCountBufferedAll" : "HenrikSperreJohansen 3/15/2010 22:34",
+		"testReadIntoStartingAtCountBufferedNotAll" : "HenrikSperreJohansen 3/15/2010 22:48",
+		"testReadIntoStartingAtCountNotAll" : "HenrikSperreJohansen 3/15/2010 22:27" } }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"builderManifestClass" : "StephaneDucasse 3/21/2013 13:06",
+		"cleanAllManifest" : "StephaneDucasse 3/21/2013 13:11",
+		"criticsOf:" : "StephaneDucasse 3/21/2013 10:42",
+		"falsePositiveOf:" : "StephaneDucasse 3/21/2013 10:43",
+		"initialize" : "StephaneDucasse 3/21/2013 10:43",
+		"isFalsePositive:forRuleId:versionId:" : "StephaneDucasse 3/21/2013 10:43",
+		"isToDo:forRuleId:versionId:" : "StephaneDucasse 3/21/2013 10:43",
+		"isTruePositive:forRuleId:versionId:" : "StephaneDucasse 3/21/2013 10:44",
+		"manifestBuilderOf:" : "CamilleTeruel 11/12/2013 19:43",
+		"manifestBuilderOfClass:" : "StephaneDucasse 3/21/2013 13:09",
+		"manifestBuilderOfMethod:" : "StephaneDucasse 3/21/2013 13:10",
+		"manifestBuilderOfPackage:" : "StephaneDucasse 3/21/2013 13:10",
+		"rejectClassesOf:" : "StephaneDucasse 3/21/2013 10:50",
+		"rejectRulesOf:" : "StephaneDucasse 3/21/2013 10:50",
+		"rule" : "SimonAllier 1/23/2013 17:12",
+		"run" : "CamilloBruni 8/31/2013 20:42",
+		"runRules:onPackage:" : "CamilloBruni 8/22/2013 11:49",
+		"runRules:onPackage:withoutTestCase:" : "CamilleTeruel 11/14/2013 14:11",
+		"toDoOf:" : "StephaneDucasse 3/21/2013 10:51" } }

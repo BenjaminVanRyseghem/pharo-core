@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptDroppingMorph:event:inMorph:" : "EstebanLorenzano 11/29/2013 13:26",
+		"groupIconFor:" : "EstebanLorenzano 10/3/2013 15:32",
+		"groupsAsNodes" : "EstebanLorenzano 10/3/2013 15:24",
+		"helpTextFor:" : "GuillermoPolito 11/7/2013 16:04",
+		"menu:shifted:" : "EstebanLorenzano 10/3/2013 13:18",
+		"model" : "EstebanLorenzano 10/2/2013 18:46",
+		"model:" : "EstebanLorenzano 10/2/2013 18:46",
+		"packageIconFor:" : "EstebanLorenzano 10/2/2013 19:10",
+		"packageMatchPattern:" : "JurajKubelka 11/15/2013 16:16",
+		"packagesAsNodes" : "EstebanLorenzano 11/27/2013 13:19",
+		"rootNodes" : "EstebanLorenzano 11/25/2013 13:44",
+		"tagIconFor:" : "EstebanLorenzano 10/2/2013 19:20",
+		"wantsDroppedMorph:event:inMorph:" : "ThierryGoubier 10/22/2013 15:33" } }

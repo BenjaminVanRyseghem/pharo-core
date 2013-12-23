@@ -1,0 +1,3 @@
+library path
+nbLibraryNameOrHandle
+	^ CairoLibraryLoader getLibraryHandle

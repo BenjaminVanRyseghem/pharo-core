@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"install" : "MarcusDenker 5/3/2012 13:30",
+		"new:" : "MarcusDenker 5/3/2012 13:30" },
+	"instance" : {
+		"at:" : "MarcusDenker 5/3/2012 13:27",
+		"at:put:" : "MarcusDenker 5/3/2012 13:27",
+		"changeRecordsFor:detect:" : "MartinDias 11/6/2013 17:14",
+		"changeRecordsFor:do:" : "MartinDias 11/6/2013 17:14",
+		"changeRecordsFrom:className:isMeta:do:" : "MartinDias 11/6/2013 17:16",
+		"close" : "MartinDias 11/13/2013 15:40",
+		"ensureOpen" : "MartinDias 11/4/2013 17:27",
+		"fileIndexFromSourcePointer:" : "MarcusDenker 5/3/2012 13:28",
+		"filePositionFromSourcePointer:" : "MarcusDenker 5/3/2012 13:28",
+		"getPreambleFrom:at:" : "MartinDias 10/28/2013 15:13",
+		"initialize" : "MarcusDenker 5/3/2012 13:27",
+		"initialize:" : "MarcusDenker 5/3/2012 13:28",
+		"protocolAt:" : "VeronicaUquillas 8/2/2011 11:12",
+		"protocolAt:for:" : "MarcusDenker 6/11/2013 14:40",
+		"readOnlyDo:" : "MartinDias 10/23/2013 18:20",
+		"size" : "MarcusDenker 5/3/2012 13:28",
+		"sourceCodeAt:" : "StephaneDucasse 8/1/2011 19:34",
+		"sourceDataPointers" : "StephaneDucasse 8/1/2011 21:45",
+		"sourcePointerFromFileIndex:andPosition:" : "MarcusDenker 5/3/2012 13:29",
+		"sourcedDataAt:" : "MarcusDenker 10/7/2013 13:03",
+		"timeStampAt:" : "StephaneDucasse 8/1/2011 19:37",
+		"timeStampAt:for:" : "MarcusDenker 6/11/2013 14:40" } }

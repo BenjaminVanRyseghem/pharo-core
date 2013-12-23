@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"absolute" : "IgorStasenko 3/21/2011 03:40",
+		"addSegment:" : "IgorStasenko 3/26/2011 16:32",
+		"ccwArcTo:angle:" : "IgorStasenko 3/7/2012 13:41",
+		"close" : "IgorStasenko 3/26/2011 16:47",
+		"createPath:" : "IgorStasenko 4/18/2013 17:47",
+		"curveVia:and:to:" : "IgorStasenko 3/26/2011 19:26",
+		"curveVia:to:" : "IgorStasenko 3/26/2011 16:51",
+		"cwArcTo:angle:" : "IgorStasenko 3/7/2012 13:37",
+		"initialize" : "IgorStasenko 4/18/2013 14:26",
+		"lineTo:" : "IgorStasenko 3/26/2011 16:45",
+		"moveTo:" : "IgorStasenko 3/26/2011 16:50",
+		"pathBounds" : "IgorStasenko 3/26/2011 19:40",
+		"pathStart" : "IgorStasenko 3/26/2011 19:50",
+		"relative" : "IgorStasenko 3/21/2011 03:40",
+		"toAbsolute:" : "IgorStasenko 3/26/2011 16:43" } }

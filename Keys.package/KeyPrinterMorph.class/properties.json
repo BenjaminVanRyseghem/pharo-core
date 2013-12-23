@@ -1,0 +1,14 @@
+{
+	"category" : "Keys-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "KeyPrinterMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

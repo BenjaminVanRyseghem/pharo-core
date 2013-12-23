@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asString" : "FernandoOlivero 1/14/2012 18:35",
+		"beBold" : "FernandoOlivero 1/14/2012 18:23",
+		"beNormal" : "FernandoOlivero 1/14/2012 19:40",
+		"beSlantNormal" : "FernandoOlivero 1/14/2012 18:23",
+		"drawOn:" : "FernandoOlivero 4/7/2012 12:12",
+		"fontFamily" : "FernandoOlivero 1/14/2012 18:23",
+		"fontFamily:" : "FernandoOlivero 1/14/2012 19:42",
+		"fontSize" : "FernandoOlivero 1/14/2012 18:23",
+		"fontSize:" : "FernandoOlivero 1/14/2012 18:23",
+		"fontSlant" : "FernandoOlivero 1/14/2012 18:24",
+		"fontSlant:" : "FernandoOlivero 1/14/2012 20:00",
+		"fontWeight" : "FernandoOlivero 1/14/2012 18:24",
+		"fontWeight:" : "FernandoOlivero 1/25/2012 01:03",
+		"initialize" : "FernandoOlivero 3/30/2012 14:49",
+		"loadOn:" : "FernandoOlivero 3/30/2012 14:49",
+		"primSelectFont:slant:weight:on:" : "FernandoOlivero 1/25/2012 01:00",
+		"primSetFontSize:on:" : "FernandoOlivero 1/14/2012 18:31",
+		"primShowText:on:" : "FernandoOlivero 1/25/2012 00:59",
+		"readFrom:" : "FernandoOlivero 1/14/2012 20:10",
+		"showOn:" : "FernandoOlivero 4/7/2012 12:12",
+		"slantFrom:" : "FernandoOlivero 1/25/2012 01:02",
+		"text" : "FernandoOlivero 1/14/2012 18:24",
+		"text:" : "FernandoOlivero 1/14/2012 18:24",
+		"weightFrom:" : "FernandoOlivero 1/25/2012 01:03" } }

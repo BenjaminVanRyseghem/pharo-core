@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"baseSnapshot" : "BenjaminVanRyseghem 11/24/2013 20:30",
+		"collectSliceDependenciesWithMessage:in:" : "BenjaminVanRyseghem 12/6/2013 21:38",
+		"remotes" : "BenjaminVanRyseghem 11/22/2013 16:21",
+		"silentUniqueVersionNameIn:" : "BenjaminVanRyseghem 12/6/2013 21:25",
+		"silentlyNewSliceVersionWithName:message:in:" : "BenjaminVanRyseghem 12/6/2013 21:26",
+		"silentlyNewVersionWithName:message:in:" : "BenjaminVanRyseghem 11/27/2013 16:58" } }

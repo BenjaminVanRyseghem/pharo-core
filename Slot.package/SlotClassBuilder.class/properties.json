@@ -1,0 +1,27 @@
+{
+	"category" : "Slot-ClassBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"client",
+		"oldClasses",
+		"newClasses",
+		"classSlots",
+		"category",
+		"superclass",
+		"name",
+		"layoutClass",
+		"slots",
+		"traitComposition",
+		"classTraitComposition",
+		"result",
+		"sharedPoolsString",
+		"sharedVariablesString" ],
+	"name" : "SlotClassBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

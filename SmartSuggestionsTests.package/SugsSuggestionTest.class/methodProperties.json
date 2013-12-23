@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addMethodToDelegate" : "GiselaDecuzzi 4/23/2013 16:22",
+		"addVariable:to:" : "GiselaDecuzzi 4/23/2013 14:31",
+		"createAccessorsFor:in:" : "GiselaDecuzzi 4/23/2013 14:31",
+		"createClass:" : "GiselaDecuzzi 4/23/2013 14:31",
+		"createContext:" : "GiselaDecuzzi 4/23/2013 14:31",
+		"createGetter:in:" : "GiselaDecuzzi 4/23/2013 14:31",
+		"createSetter:in:" : "GiselaDecuzzi 4/23/2013 14:31",
+		"emptyClass" : "GiselaDecuzzi 4/23/2013 14:39",
+		"nameFor:" : "GiselaDecuzzi 4/23/2013 14:31",
+		"removeClass:" : "GiselaDecuzzi 4/23/2013 14:31",
+		"setUp" : "GiselaDecuzzi 4/23/2013 14:39",
+		"tearDown" : "GiselaDecuzzi 4/23/2013 14:39" } }

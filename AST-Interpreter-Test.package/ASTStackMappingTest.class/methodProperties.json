@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"blockContext" : "ClementBera 10/18/2012 10:20",
+		"foo:" : "ClementBera 10/18/2012 15:20",
+		"fooAdd2:" : "ClementBera 10/21/2012 16:38",
+		"methodContext" : "ClementBera 10/18/2012 10:20",
+		"setUp" : "ClementBera 10/18/2012 10:47",
+		"testBlockTemporaries" : "ClementBera 10/18/2012 15:23",
+		"testConvertBlockContext" : "ClementBera 10/23/2012 10:27",
+		"testConvertMethodContext" : "ClementBera 10/18/2012 14:38",
+		"testException" : "ClementBera 10/18/2012 18:19",
+		"testInterpret" : "ClementBera 3/7/2013 09:59",
+		"testInterpretBasic" : "ClementBera 3/7/2013 09:59",
+		"testMethodArgs" : "ClementBera 10/18/2012 15:22",
+		"testTemporaries" : "ClementBera 10/18/2012 15:13" } }

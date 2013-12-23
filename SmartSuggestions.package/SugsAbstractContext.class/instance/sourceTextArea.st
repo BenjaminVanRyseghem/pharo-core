@@ -1,0 +1,3 @@
+refactoring
+sourceTextArea
+	self subclassResponsibility 

@@ -1,0 +1,28 @@
+{
+	"category" : "Athens-PangoCairo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PangoAlignment",
+		"PangoCairoFontMap",
+		"PangoContext",
+		"PangoDirection",
+		"PangoEllipsizeMode",
+		"PangoFontDescription",
+		"PangoFontMap",
+		"PangoGravity",
+		"PangoLanguage",
+		"PangoLayout",
+		"PangoLayoutIter",
+		"PangoLayoutLine",
+		"PangoTabArray",
+		"PangoWrapMode",
+		"gboolean" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PangoTypes",
+	"pools" : [
+		 ],
+	"super" : "SharedPool",
+	"type" : "normal" }

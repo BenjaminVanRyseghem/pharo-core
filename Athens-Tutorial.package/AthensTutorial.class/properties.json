@@ -1,0 +1,20 @@
+{
+	"category" : "Athens-Tutorial",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"viewport",
+		"textpane",
+		"next",
+		"prev",
+		"doit",
+		"surface",
+		"stepNumber" ],
+	"name" : "AthensTutorial",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

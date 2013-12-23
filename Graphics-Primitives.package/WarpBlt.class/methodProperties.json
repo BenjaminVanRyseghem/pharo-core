@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"rotate:degrees:center:scaleBy:smoothing:" : "lr 7/4/2009 10:42",
+		"toForm:" : "" },
+	"instance" : {
+		"cellSize" : "",
+		"cellSize:" : "lr 7/4/2009 10:42",
+		"copyQuad:toRect:" : "",
+		"deltaFrom:to:nSteps:" : "lr 7/4/2009 10:42",
+		"mixPix:sourceMap:destMap:" : "lr 7/4/2009 10:42",
+		"rgbMap:from:to:" : "HenrikSperreJohansen 10/25/2010 15:26",
+		"sourceForm:destRect:" : "lr 7/4/2009 10:42",
+		"sourceQuad:destRect:" : "lr 7/4/2009 10:42",
+		"startFrom:to:offset:" : "",
+		"warpBits" : "nk 11/3/2004 09:26",
+		"warpBitsSmoothing:sourceMap:" : "StephaneDucasse 10/25/2013 16:19" } }

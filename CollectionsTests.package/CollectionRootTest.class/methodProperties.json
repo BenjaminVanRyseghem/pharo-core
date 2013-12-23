@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"isAbstract" : "damienpollet 1/13/2009 15:28" },
+	"instance" : {
+		"collectionClass" : "CamilloBruni 7/3/2013 13:03",
+		"collectionWithoutNilElements" : "delaunay 5/14/2009 10:36",
+		"doWithoutNumber" : "damienpollet 1/30/2009 17:20",
+		"element" : "damienpollet 1/30/2009 17:32",
+		"elementTwiceIn" : "damienpollet 1/30/2009 17:14",
+		"empty" : "delaunay 5/14/2009 10:36",
+		"expectedElementByDetect" : "damienpollet 1/21/2009 18:25",
+		"nonEmpty" : "delaunay 5/14/2009 10:35",
+		"sizeCollection" : "MarcusDenker 9/9/2013 09:27",
+		"testDetectIfFoundIfNoneWhenNobodyIsFound" : "GabrielOmarCotelli 11/26/2013 17:11",
+		"testDetectIfFoundIfNoneWhenSomethingIsFound" : "GabrielOmarCotelli 11/26/2013 17:11",
+		"testDetectIfFoundIfNoneWhenSomethingIsFoundIgnoringTheFoundObject" : "GabrielOmarCotelli 11/26/2013 17:10",
+		"testDetectIfFoundWhenNobodyIsFound" : "GabrielOmarCotelli 11/26/2013 16:54",
+		"testDetectIfFoundWhenSomethingIsFound" : "GabrielOmarCotelli 11/26/2013 16:54",
+		"testDetectIfFoundWhenSomethingIsFoundIgnoringTheFoundObject" : "GabrielOmarCotelli 11/26/2013 17:09",
+		"testRejectNoReject" : "delaunay 5/14/2009 11:08" } }

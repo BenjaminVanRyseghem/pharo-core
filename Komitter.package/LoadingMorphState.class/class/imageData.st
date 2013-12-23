@@ -1,0 +1,4 @@
+private
+imageData
+
+	^ self subclassResponsibility

@@ -1,0 +1,16 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TIRVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "IRVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TIRVisitor",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+type classes
+structClass
+	^NBTestStructure 

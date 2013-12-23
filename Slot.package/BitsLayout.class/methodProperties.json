@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"extend" : "MartinDias 9/5/2013 15:50",
+		"extendAgain:with:" : "MartinDias 9/5/2013 15:49",
+		"initializeInstance:" : "ToonVerwaest 4/1/2011 01:53",
+		"isBits" : "ToonVerwaest 4/1/2011 01:25",
+		"isVariable" : "ToonVerwaest 4/1/2011 01:26",
+		"reshapeFrom:to:" : "MartinDias 8/28/2013 15:48" } }

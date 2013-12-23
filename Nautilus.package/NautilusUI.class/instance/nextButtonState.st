@@ -1,0 +1,3 @@
+private
+nextButtonState
+	^ true

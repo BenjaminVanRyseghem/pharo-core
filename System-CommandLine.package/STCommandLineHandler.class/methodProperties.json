@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"commandName" : "CamilloBruni 5/2/2012 11:35",
+		"description" : "CamilloBruni 2/6/2013 18:18",
+		"isResponsibleFor:" : "CamilloBruni 5/2/2012 11:31",
+		"printCompilerWarning:" : "CamilloBruni 7/10/2013 16:28" },
+	"instance" : {
+		"activate" : "CamilloBruni 11/6/2013 21:40",
+		"end" : "CamilloBruni 11/6/2013 21:40",
+		"handleError:" : "CamilloBruni 4/28/2012 21:48",
+		"handleError:reference:" : "CamilloBruni 7/17/2013 16:20",
+		"handleErrorsDuring:reference:" : "CamilloBruni 7/17/2013 16:21",
+		"installSourceFile:" : "CamilloBruni 7/17/2013 15:08",
+		"installSourceFiles" : "CamilloBruni 7/10/2013 16:09",
+		"loadSourceFiles:" : "CamilloBruni 5/1/2012 20:51" } }

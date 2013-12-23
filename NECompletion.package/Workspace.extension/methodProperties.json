@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"completionAdditionals" : "StephaneDucasse 2/26/2012 16:53",
+		"completionAdditionalsFromOCompletion" : "",
+		"guessTypeForName:" : "ClementBera 7/26/2013 17:06",
+		"guessTypeForNameFromOCompletion:" : "",
+		"hasBindingOf:" : "bar 12/16/2004 11:24",
+		"hasBindingThatBeginsWith:" : "bar 12/16/2004 11:26",
+		"isCodeCompletionAllowed" : "MarcusDenker 9/18/2012 13:32",
+		"selectedClassOrMetaClass" : "MarcusDenker 9/18/2012 13:34" } }

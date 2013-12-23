@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compile:" : "ClementBera 7/10/2013 15:08",
+		"testCaseOfEffect" : "ClementBera 7/10/2013 15:02",
+		"testCaseOfOtherwiseEffect" : "ClementBera 7/10/2013 15:01",
+		"testCaseOfOtherwiseValue" : "ClementBera 7/10/2013 15:00",
+		"testCaseOfValue" : "ClementBera 7/10/2013 15:02",
+		"testCompilationError" : "ClementBera 7/10/2013 15:09" } }

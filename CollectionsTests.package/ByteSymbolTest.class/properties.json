@@ -1,0 +1,14 @@
+{
+	"category" : "CollectionsTests-Strings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ByteSymbolTest",
+	"pools" : [
+		 ],
+	"super" : "SymbolTest",
+	"type" : "normal" }

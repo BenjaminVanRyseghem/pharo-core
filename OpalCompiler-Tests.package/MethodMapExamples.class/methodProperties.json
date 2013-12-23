@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"exampleSimpleTemp" : "MarcusDenker 12/19/2012 17:13",
+		"exampleTempNamedCopying" : "MarcusDenker 12/19/2012 17:00",
+		"exampleTempNamedCopying2" : "MarcusDenker 12/19/2012 16:57",
+		"exampleTempNamedPutCopying" : "MarcusDenker 12/19/2012 17:02",
+		"exampleTempNamedPutCopying2" : "MarcusDenker 12/19/2012 17:03",
+		"exampleTempNamedPutTempVector" : "MarcusDenker 12/19/2012 17:04",
+		"exampleTempNamedPutTempVector2" : "MarcusDenker 12/19/2012 17:05",
+		"exampleTempNamedTempCopyingNestedBlock" : "MarcusDenker 12/19/2012 17:19",
+		"exampleTempNamedTempCopyingNestedBlockPROBLEM" : "MarcusDenker 12/19/2012 17:38",
+		"exampleTempNamedTempVector" : "MarcusDenker 12/19/2012 16:54",
+		"exampleTempNamedTempVector2" : "MarcusDenker 12/19/2012 16:56",
+		"exampleTempNamedTempVectorNestedBlock" : "MarcusDenker 12/19/2012 17:07" } }

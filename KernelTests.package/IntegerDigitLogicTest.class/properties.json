@@ -1,0 +1,14 @@
+{
+	"category" : "KernelTests-Numbers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IntegerDigitLogicTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

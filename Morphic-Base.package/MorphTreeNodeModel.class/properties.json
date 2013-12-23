@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-MorphTreeWidget",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parentNode" ],
+	"name" : "MorphTreeNodeModel",
+	"pools" : [
+		 ],
+	"super" : "ListItemWrapper",
+	"type" : "normal" }

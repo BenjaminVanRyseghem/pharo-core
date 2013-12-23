@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertClassBuiltWith:isEqualToClassBuiltWith:" : "MartinDias 8/7/2013 11:54",
+		"assertClassBuiltWith:isNotEqualToClassBuiltWith:" : "MartinDias 8/7/2013 11:54",
+		"testLayoutEquals" : "MartinDias 8/7/2013 11:30",
+		"testLayoutNotEquals" : "MartinDias 8/7/2013 11:30",
+		"testLayoutWithSlotsEquals" : "MartinDias 8/7/2013 11:30",
+		"testLayoutWithSlotsNotEquals" : "MartinDias 8/7/2013 11:30" } }

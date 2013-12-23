@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ByteCodeMethodConverter",
+	"pools" : [
+		 ],
+	"super" : "AbstractMethodConverter",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+*NodeNavigation
+isWorkspace
+	^true

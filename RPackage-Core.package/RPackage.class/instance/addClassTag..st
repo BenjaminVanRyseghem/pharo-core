@@ -1,0 +1,11 @@
+class tags
+addClassTag: aSymbol
+	"Add the class tag from the receiver, if already added do nothing."
+	| tagName |
+
+	"strip package name if needed"
+	tagName := self toTagName: aSymbol.
+	
+	^ self 
+		classTagNamed: tagName
+		ifAbsent: [ classTags add: (RPackageTag package: self name: tagName) ]

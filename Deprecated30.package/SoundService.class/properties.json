@@ -1,0 +1,14 @@
+{
+	"category" : "Deprecated30",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultSoundEnabled" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoundService",
+	"pools" : [
+		 ],
+	"super" : "AppRegistry",
+	"type" : "normal" }

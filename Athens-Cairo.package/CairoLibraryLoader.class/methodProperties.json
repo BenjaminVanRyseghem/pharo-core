@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"cantFindCairoOnLinux" : "IgorStasenko 4/16/2013 15:56",
+		"getLibraryHandle" : "IgorStasenko 6/10/2012 05:46",
+		"getLibraryPath" : "IgorStasenko 4/16/2013 15:50",
+		"loadCairoLibrary" : "IgorStasenko 6/10/2012 05:42",
+		"pathToCairoOnLinux" : "IgorStasenko 7/29/2013 10:41" },
+	"instance" : {
+		 } }

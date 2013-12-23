@@ -1,0 +1,18 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TAbleToRotate classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"icon",
+		"morph",
+		"originalObject" ],
+	"name" : "IconicListItem",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"traitcomposition" : "TAbleToRotate",
+	"type" : "normal" }

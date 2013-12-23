@@ -1,0 +1,14 @@
+{
+	"category" : "CollectionsTests-Unordered",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"floatCollection" ],
+	"name" : "IdentitySetTest",
+	"pools" : [
+		 ],
+	"super" : "SetTest",
+	"type" : "normal" }

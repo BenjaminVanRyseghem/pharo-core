@@ -1,0 +1,15 @@
+{
+	"category" : "SlotTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcement",
+		"announcementsCount" ],
+	"name" : "SlotAnnouncementsTest",
+	"pools" : [
+		 ],
+	"super" : "SlotClassBuilderTest",
+	"type" : "normal" }

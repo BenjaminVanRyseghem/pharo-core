@@ -1,0 +1,3 @@
+format
+instanceSpecificationBase
+	^ 2

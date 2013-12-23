@@ -1,0 +1,14 @@
+{
+	"category" : "Tests-Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FileDialogWindowTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

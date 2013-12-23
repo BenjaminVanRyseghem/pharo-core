@@ -1,0 +1,14 @@
+{
+	"category" : "Settings-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DebugSystemSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

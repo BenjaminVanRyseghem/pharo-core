@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-Base-List",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"item",
+		"model" ],
+	"name" : "ListItemWrapper",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

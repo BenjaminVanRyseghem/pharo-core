@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testExplicitRequirementMethodsShouldBeImplementedInTheirUsers" : "SebastianTleye 7/19/2013 16:29",
+		"testLocalMethodsOfTheClassShouldNotBeRepeatedInItsTraits" : "CamilloBruni 8/22/2013 11:55" } }

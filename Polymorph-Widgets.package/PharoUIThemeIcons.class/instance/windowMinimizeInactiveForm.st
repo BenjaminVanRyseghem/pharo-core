@@ -1,0 +1,3 @@
+forms
+windowMinimizeInactiveForm
+	^self form16x16FromContents: self windowMinimizeInactiveFormContents 

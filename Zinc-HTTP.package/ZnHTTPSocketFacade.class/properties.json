@@ -1,0 +1,14 @@
+{
+	"category" : "Zinc-HTTP-Deprecated",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ZnHTTPSocketFacade",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

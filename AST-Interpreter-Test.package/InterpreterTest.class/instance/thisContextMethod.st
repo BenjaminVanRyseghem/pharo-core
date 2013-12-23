@@ -1,0 +1,3 @@
+helper
+thisContextMethod
+	^thisContext

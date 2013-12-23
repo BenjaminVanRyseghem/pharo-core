@@ -1,0 +1,4 @@
+private-actions
+deleteSelectedTabs
+
+	toolbar deleteSelectedTabs

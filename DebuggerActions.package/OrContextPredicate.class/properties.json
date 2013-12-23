@@ -1,0 +1,15 @@
+{
+	"category" : "DebuggerActions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"left",
+		"right" ],
+	"name" : "OrContextPredicate",
+	"pools" : [
+		 ],
+	"super" : "ContextPredicate",
+	"type" : "normal" }

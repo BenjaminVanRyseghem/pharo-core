@@ -1,0 +1,14 @@
+{
+	"category" : "Athens-Text",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"font" ],
+	"name" : "GlyphRenderer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

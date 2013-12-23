@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"args" : "ToonVerwaest 3/27/2011 13:43",
+		"copiedValues" : "ToonVerwaest 3/27/2011 14:52",
+		"copiedValues:" : "ToonVerwaest 3/27/2011 14:48",
+		"initialize" : "ToonVerwaest 3/27/2011 14:49",
+		"newTempVector:at:" : "ToonVerwaest 3/27/2011 14:51",
+		"numArgs" : "ToonVerwaest 3/27/2011 13:08",
+		"numArgs:" : "ToonVerwaest 3/27/2011 13:45",
+		"ownTempVectors" : "ToonVerwaest 3/27/2011 14:55",
+		"tempAt:" : "ToonVerwaest 3/27/2011 16:21",
+		"tempAt:inRemote:" : "ToonVerwaest 3/27/2011 12:37",
+		"temps" : "ToonVerwaest 3/31/2011 14:59" } }

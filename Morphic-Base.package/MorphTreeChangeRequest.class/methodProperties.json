@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"chunkSize:" : "AlainPlantec 5/27/2012 11:02",
+		"collapseAll" : "AlainPlantec 5/27/2012 09:10",
+		"collapseNodePath:" : "AlainPlantec 10/17/2013 08:43",
+		"deselectAll" : "AlainPlantec 5/27/2012 08:41",
+		"enabled" : "AlainPlantec 10/17/2013 09:20",
+		"expandAll" : "AlainPlantec 5/27/2012 09:15",
+		"expandAllFromNode:" : "AlainPlantec 5/27/2012 09:17",
+		"expandItemPath:" : "AlainPlantec 10/18/2013 10:56",
+		"expandNodePath:" : "AlainPlantec 6/3/2012 08:59",
+		"expandRoots" : "AlainPlantec 5/27/2012 10:09",
+		"pageSize:" : "AlainPlantec 5/27/2012 11:01",
+		"selectAll" : "AlainPlantec 5/27/2012 08:43",
+		"selectItems:" : "AlainPlantec 5/27/2012 10:03",
+		"updateList" : "AlainPlantec 5/26/2012 19:23",
+		"updateSelectionFromModel" : "AlainPlantec 5/27/2012 08:37" },
+	"instance" : {
+		"action:" : "AlainPlantec 5/26/2012 19:12",
+		"arguments" : "AlainPlantec 5/27/2012 09:08",
+		"arguments:" : "AlainPlantec 5/27/2012 09:09",
+		"change:" : "AlainPlantec 5/28/2012 14:32" } }

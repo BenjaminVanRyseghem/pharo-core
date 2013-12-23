@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canBrowse" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canBrowse:" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canDebug" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canDebug:" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canDropOSFile" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canDropOSFile:" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canEditCode" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canEditCode:" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canEditUser" : "BenjaminVanRyseghem 5/21/2012 13:50",
+		"canEditUser:" : "BenjaminVanRyseghem 5/21/2012 13:50",
+		"canEvaluateCode" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canEvaluateCode:" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canInspect" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canInspect:" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canRunStartupScript" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canRunStartupScript:" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canSaveImage" : "BenjaminVanRyseghem 5/7/2013 18:57",
+		"canSaveImage:" : "BenjaminVanRyseghem 5/7/2013 18:57",
+		"canShowMorphHalo" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"canShowMorphHalo:" : "BenjaminVanRyseghem 5/21/2012 11:35",
+		"initialize" : "CamilloBruni 7/17/2013 23:06",
+		"isRoot:" : "BenjaminVanRyseghem 8/2/2012 16:02" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"sortedCollectionForTestingWithClassVariable" : "MarcusDenker 5/21/2013 15:21" },
+	"instance" : {
+		"classVariableForTesting" : "MarianoMartinezPeck 6/8/2011 17:50",
+		"classVariableForTesting:" : "MarianoMartinezPeck 6/8/2011 17:50",
+		"sortedBlockClosureWithInstanceVariable" : "MartinDias 3/26/2012 21:40",
+		"testSortedCollection" : "MartinDias 10/5/2011 19:24",
+		"testSortedCollectionWithClassVariableChanges" : "MarcusDenker 5/21/2013 15:20",
+		"testSortedCollectionWithClassVariableReference" : "mariano 12/4/2011 18:57",
+		"testSortedCollectionWithInstanceVariableReference" : "MartinDias 3/26/2012 22:29",
+		"testSortedCollectionWithInstanceVariableReferenceChange" : "MartinDias 3/26/2012 22:28" } }

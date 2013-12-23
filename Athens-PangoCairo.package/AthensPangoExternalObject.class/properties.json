@@ -1,0 +1,18 @@
+{
+	"category" : "Athens-PangoCairo",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TPangoCairoLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AthensPangoExternalObject",
+	"pools" : [
+		"AthensCairoDefs",
+		"PangoConstants",
+		"PangoTypes" ],
+	"super" : "NBExternalObject",
+	"traitcomposition" : "TPangoCairoLibrary",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"<" : "",
+		"<=" : "",
+		"=" : "",
+		">" : "",
+		">=" : "nice 12/31/2008 04:06",
+		"between:and:" : "",
+		"compareWith:ifLesser:ifEqual:ifGreater:" : "BenjaminVanRyseghem 6/10/2013 17:49",
+		"hash" : "",
+		"max:" : "",
+		"min:" : "",
+		"min:max:" : "" } }

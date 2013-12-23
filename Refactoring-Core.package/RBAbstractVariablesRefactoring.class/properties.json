@@ -1,0 +1,21 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tree",
+		"fromClass",
+		"instVarReaders",
+		"instVarWriters",
+		"classVarReaders",
+		"classVarWriters",
+		"toClasses",
+		"ignore" ],
+	"name" : "RBAbstractVariablesRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBRefactoring",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "LaurentLaffont 1/21/2010 20:40",
+		"testCurrentLessonIsFirstOneAtCreation" : "LaurentLaffont 1/21/2010 20:40",
+		"testNavigation" : "LaurentLaffont 1/21/2010 20:40",
+		"testResetTutorialGoBackToFirstLesson" : "LaurentLaffont 1/21/2010 20:43",
+		"testSizeReturnsThree" : "LaurentLaffont 1/21/2010 20:40" } }

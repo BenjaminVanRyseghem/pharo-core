@@ -1,0 +1,14 @@
+{
+	"category" : "Tests-Compression",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ZipCrcTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

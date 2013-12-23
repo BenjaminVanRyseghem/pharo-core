@@ -1,0 +1,16 @@
+{
+	"category" : "Tabs-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"manager",
+		"listModel",
+		"window" ],
+	"name" : "TabExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

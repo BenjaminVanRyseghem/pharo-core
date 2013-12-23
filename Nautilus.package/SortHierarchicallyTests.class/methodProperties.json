@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asNodes:" : "DamienCassou 3/26/2013 14:44",
+		"nodes:shouldBe:" : "DamienCassou 3/26/2013 16:30",
+		"setUp" : "MarcusDenker 5/21/2013 07:41",
+		"sortByNameSize:" : "DamienCassou 3/26/2013 14:46",
+		"testArchivesClassesReversed" : "rw 7/20/2006 13:24",
+		"testArchivesClassesUnchanged" : "rw 7/20/2006 13:24",
+		"testArchivesClassesUnordered" : "rw 7/20/2006 13:24",
+		"testCompleteTreeReversed" : "rw 7/7/2006 17:26",
+		"testCompleteTreeUnchanged" : "rw 7/7/2006 17:26",
+		"testCompleteTreeUnordered" : "rw 7/7/2006 17:33",
+		"testOneClass" : "DamienCassou 3/26/2013 16:30",
+		"testPartialTreeReversed" : "rw 7/7/2006 17:29",
+		"testPartialTreeUnchanged" : "rw 7/7/2006 17:27",
+		"testPartialTreeUnsorted" : "rw 7/7/2006 17:34",
+		"testUnrelatedClassesReversed" : "rw 7/7/2006 17:31",
+		"testUnrelatedClassesUnchanged" : "rw 7/7/2006 17:31",
+		"testUnrelatedClassesUnsorted" : "rw 7/7/2006 17:34" } }

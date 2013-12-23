@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-Explorer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "StrongPointerExplorer",
+	"pools" : [
+		 ],
+	"super" : "PointerExplorer",
+	"type" : "normal" }

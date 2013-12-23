@@ -1,0 +1,14 @@
+{
+	"category" : "Tests-Bugs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BitBltClipBugs",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

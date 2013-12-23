@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contents" ],
+	"name" : "ValueHolder",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

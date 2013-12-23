@@ -1,0 +1,14 @@
+{
+	"category" : "StartupPreferences",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "StartupLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

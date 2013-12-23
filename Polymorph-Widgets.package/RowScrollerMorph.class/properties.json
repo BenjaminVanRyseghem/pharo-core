@@ -1,0 +1,16 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftButton",
+		"rightButton",
+		"scroller" ],
+	"name" : "RowScrollerMorph",
+	"pools" : [
+		 ],
+	"super" : "PanelMorph",
+	"type" : "normal" }

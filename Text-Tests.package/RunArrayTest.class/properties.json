@@ -1,0 +1,14 @@
+{
+	"category" : "Text-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RunArrayTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

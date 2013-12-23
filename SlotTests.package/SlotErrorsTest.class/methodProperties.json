@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertInvalidClassName:" : "MartinDias 8/7/2013 11:54",
+		"expectedFailures" : "MartinDias 8/7/2013 12:11",
+		"testCannotBeRecompiled" : "MartinDias 8/7/2013 11:28",
+		"testClassNameMustBeCapitalized" : "MartinDias 8/7/2013 11:28",
+		"testClassNameMustBeSymbol" : "MartinDias 8/7/2013 11:28",
+		"testClassNameWithInvalidCharacter" : "MartinDias 8/7/2013 11:27",
+		"testClassSlotDuplicationConflict" : "MartinDias 8/7/2013 11:28",
+		"testClassSlotWithReservedName" : "MartinDias 8/7/2013 11:27",
+		"testDirectCircularHierarchyError" : "MartinDias 8/7/2013 11:28",
+		"testIndirectCircularHierarchyError" : "MartinDias 8/7/2013 11:27",
+		"testSlotDuplicationConflict" : "MartinDias 8/7/2013 11:28",
+		"testSlotWithReservedName" : "MartinDias 8/7/2013 11:28",
+		"testValidateClassName" : "MartinDias 8/7/2013 11:28" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Komitter-Models",
+	"classinstvars" : [
+		"definitions" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"definition",
+		"operation" ],
+	"name" : "KomitDefinition",
+	"pools" : [
+		 ],
+	"super" : "KomitObject",
+	"type" : "normal" }

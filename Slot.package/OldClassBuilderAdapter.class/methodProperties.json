@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"anonymousClassInstaller" : "MartinDias 7/1/2013 18:36",
+		"anonymousSubclassOf:" : "MartinDias 7/1/2013 18:36",
+		"becomeCompact:" : "MarcusDenker 9/14/2013 10:28",
+		"becomeCompact:simplyAt:" : "MarcusDenker 9/14/2013 10:28",
+		"becomeUncompact:" : "MarcusDenker 9/12/2013 16:38",
+		"class:instanceVariableNames:" : "CamilloBruni 6/28/2013 14:47",
+		"layoutForType:" : "MartinDias 12/9/2013 11:38",
+		"name:inEnvironment:subclassOf:type:instanceVariableNames:classVariableNames:poolDictionaries:category:" : "MartinDias 8/7/2013 14:10",
+		"slotClassInstaller" : "MartinDias 6/14/2013 17:42",
+		"superclass:subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:" : "MartinDias 6/14/2013 18:11",
+		"superclass:variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:" : "MartinDias 6/14/2013 18:01",
+		"superclass:variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:" : "MartinDias 6/14/2013 18:00",
+		"superclass:variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:" : "MartinDias 6/14/2013 17:59",
+		"superclass:weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:" : "MartinDias 6/14/2013 17:58" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Geometry",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Shape",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

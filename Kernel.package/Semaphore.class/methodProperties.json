@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"forMutualExclusion" : "",
+		"new" : "" },
+	"instance" : {
+		"=" : "sma 4/22/2000 18:48",
+		"consumeAllSignals" : "CamilloBruni 10/14/2013 22:01",
+		"critical:" : "StephaneDucasse 3/13/2010 13:42",
+		"critical:ifCurtailed:" : "ClementBera 10/3/2013 10:27",
+		"critical:ifError:" : "ClementBera 10/3/2013 10:27",
+		"critical:ifLocked:" : "StephaneDucasse 3/13/2010 13:39",
+		"hash" : "sma 4/22/2000 18:48",
+		"initSignals" : "",
+		"isSignaled" : "ar 3/2/2001 16:51",
+		"resumeProcess:" : "jf 12/2/2003 18:53",
+		"signal" : "",
+		"terminateProcess" : "",
+		"wait" : "",
+		"waitTimeoutMSecs:" : "ar 3/27/2009 22:38",
+		"waitTimeoutSeconds:" : "ar 3/27/2009 22:37" } }

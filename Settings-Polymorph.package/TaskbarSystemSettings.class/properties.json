@@ -1,0 +1,14 @@
+{
+	"category" : "Settings-Polymorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TaskbarSystemSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

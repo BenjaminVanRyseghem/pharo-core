@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"empty" : "stephane.ducasse 2/14/2009 17:25",
+		"nonEmpty" : "stephane.ducasse 2/14/2009 17:25",
+		"test0FixtureEmptyTest" : "CamilloBruni 8/31/2013 20:43",
+		"testIfEmpty" : "delaunay 3/27/2009 11:42",
+		"testIfEmptyifNotEmpty" : "stephane.ducasse 10/5/2008 12:23",
+		"testIfNotEmpty" : "stephane.ducasse 10/5/2008 13:03",
+		"testIfNotEmptyifEmpty" : "delaunay 4/8/2009 15:26",
+		"testIsEmpty" : "stephane.ducasse 10/5/2008 11:59",
+		"testIsEmptyOrNil" : "stephane.ducasse 10/5/2008 12:00",
+		"testNotEmpty" : "delaunay 4/2/2009 11:17" } }

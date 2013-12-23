@@ -1,0 +1,14 @@
+{
+	"category" : "SlotTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"One" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestSharedPool",
+	"pools" : [
+		 ],
+	"super" : "SharedPool",
+	"type" : "normal" }

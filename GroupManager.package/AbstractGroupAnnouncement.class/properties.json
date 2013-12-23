@@ -1,0 +1,15 @@
+{
+	"category" : "GroupManager-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"group",
+		"holder" ],
+	"name" : "AbstractGroupAnnouncement",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

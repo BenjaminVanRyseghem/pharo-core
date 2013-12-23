@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"declareClassVar" : "MarcusDenker 5/17/2013 16:25",
+		"declareGlobal" : "MarcusDenker 5/17/2013 16:25",
+		"declareInstVar:" : "MarcusDenker 6/4/2013 14:44",
+		"declareTempAndPaste:" : "AlexandreBergel 11/11/2013 13:29",
+		"defaultAction" : "MarcusDenker 7/9/2013 13:27",
+		"defineClass:" : "MarcusDenker 5/18/2013 16:27",
+		"node:" : "MarcusDenker 5/17/2013 16:27",
+		"openMenuIn:" : "MarcusDenker 5/17/2013 16:25",
+		"possibleVariablesFor:" : "MarcusDenker 5/17/2013 16:25",
+		"substituteVariable:atInterval:" : "MarcusDenker 5/22/2013 16:51",
+		"substituteWord:wordInterval:offset:" : "MarcusDenker 5/17/2013 14:45" } }

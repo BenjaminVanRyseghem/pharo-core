@@ -1,0 +1,4 @@
+debugging
+definingScope
+	^ originalVar scope
+	

@@ -1,0 +1,14 @@
+{
+	"category" : "FuelTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentTimeZone" ],
+	"name" : "FLBasicSerializationTest",
+	"pools" : [
+		 ],
+	"super" : "FLSerializationTest",
+	"type" : "normal" }

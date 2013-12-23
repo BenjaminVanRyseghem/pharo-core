@@ -1,0 +1,14 @@
+{
+	"category" : "DebuggerActions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sourceCode" ],
+	"name" : "SaveDebugAction",
+	"pools" : [
+		 ],
+	"super" : "DebugAction",
+	"type" : "normal" }

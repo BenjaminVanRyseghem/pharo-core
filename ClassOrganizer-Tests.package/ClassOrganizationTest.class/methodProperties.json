@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"organization" : "EstebanLorenzano 6/21/2013 15:06",
+		"runCase" : "EstebanLorenzano 6/21/2013 14:47",
+		"setUp" : "PavelKrivanek 8/5/2013 13:40",
+		"testAddCategory" : "EstebanLorenzano 6/21/2013 15:06",
+		"testCategories" : "EstebanLorenzano 6/21/2013 15:06",
+		"testListAtCategoryNamed" : "EstebanLorenzano 6/21/2013 15:06",
+		"testRemoveCategory" : "CamilloBruni 8/31/2013 20:23",
+		"testRemoveNonExistingProtocol" : "CamilloBruni 8/31/2013 20:23" } }

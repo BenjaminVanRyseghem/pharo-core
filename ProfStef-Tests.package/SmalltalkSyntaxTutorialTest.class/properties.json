@@ -1,0 +1,16 @@
+{
+	"category" : "ProfStef-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TTutorialTest classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SmalltalkSyntaxTutorialTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"traitcomposition" : "TTutorialTest",
+	"type" : "normal" }

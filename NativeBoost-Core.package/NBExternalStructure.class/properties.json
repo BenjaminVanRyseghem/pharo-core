@@ -1,0 +1,15 @@
+{
+	"category" : "NativeBoost-Core-Objects",
+	"classinstvars" : [
+		"initialized",
+		"currentFields" ],
+	"classvars" : [
+		"Printing" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"data" ],
+	"name" : "NBExternalStructure",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

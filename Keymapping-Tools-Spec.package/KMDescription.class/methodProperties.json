@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"defaultSpec" : "NicolaiHess 12/11/2013 21:22",
+		"example" : "BenjaminVanRyseghem 4/6/2012 17:23",
+		"title" : "BenjaminVanRyseghem 4/6/2012 15:46" },
+	"instance" : {
+		"categories" : "GuillermoPolito 5/1/2012 12:26",
+		"categories:" : "NicolaiHess 12/11/2013 22:40",
+		"categoryList" : "NicolaiHess 12/11/2013 21:23",
+		"collectDescriptionShortcut" : "NicolaiHess 12/11/2013 22:45",
+		"collectShortcutDescription" : "NicolaiHess 12/11/2013 22:46",
+		"initCategoryList:" : "NicolaiHess 12/11/2013 22:46",
+		"initialExtent" : "BenjaminVanRyseghem 4/6/2012 15:49",
+		"initialize" : "NicolaiHess 12/11/2013 22:46",
+		"initializePresenter" : "NicolaiHess 12/11/2013 22:41",
+		"initializeWidgets" : "NicolaiHess 12/11/2013 22:44",
+		"okToolbar" : "BenjaminVanRyseghem 8/3/2012 16:09",
+		"orderingList" : "NicolaiHess 12/11/2013 21:23",
+		"shortcutList" : "NicolaiHess 12/11/2013 21:23",
+		"updateShortcutList" : "NicolaiHess 12/11/2013 22:47" } }

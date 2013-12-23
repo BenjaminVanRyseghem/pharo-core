@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RBProtectInstanceVariableRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBVariableRefactoring",
+	"type" : "normal" }

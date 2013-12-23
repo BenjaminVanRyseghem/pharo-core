@@ -1,0 +1,14 @@
+{
+	"category" : "OpalCompiler-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ManifestOpalCompilerCore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

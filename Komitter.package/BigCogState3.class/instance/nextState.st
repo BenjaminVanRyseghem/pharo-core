@@ -1,0 +1,4 @@
+protocol
+nextState
+
+	^ BigCogInitialState new

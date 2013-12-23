@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertOnlyOneAnnouncementOf:within:" : "MartinDias 6/3/2013 17:01",
+		"countAnnouncements:" : "MartinDias 6/3/2013 17:00",
+		"saveAnnouncement:" : "MartinDias 6/3/2013 17:00",
+		"saveAnnouncementOnce:" : "MartinDias 6/3/2013 17:00",
+		"setUp" : "MartinDias 6/3/2013 17:19",
+		"testClassAddedAnnounced" : "MartinDias 12/9/2013 11:38",
+		"testClassAddedAnnouncedOnlyOnce" : "MartinDias 12/9/2013 11:38",
+		"testClassFormatChangedAnnounced" : "MartinDias 12/9/2013 11:38",
+		"testClassModifiedAnnounced" : "MartinDias 12/9/2013 11:38",
+		"testClassModifiedAnnouncedOnlyOnce" : "MartinDias 12/9/2013 11:38",
+		"testClassRecategorizedAnnounced" : "MartinDias 7/8/2013 16:05" } }

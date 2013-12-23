@@ -1,0 +1,19 @@
+{
+	"category" : "NewList-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"listMorph",
+		"index",
+		"toggleTitle",
+		"rawList",
+		"pluggable",
+		"textMorph" ],
+	"name" : "NewListExample",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

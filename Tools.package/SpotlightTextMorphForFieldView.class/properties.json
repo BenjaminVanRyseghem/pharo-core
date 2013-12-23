@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-Spotlight",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SpotlightTextMorphForFieldView",
+	"pools" : [
+		 ],
+	"super" : "TextMorphForFieldView",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Kernel-BasicObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"x",
+		"y" ],
+	"name" : "Point",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

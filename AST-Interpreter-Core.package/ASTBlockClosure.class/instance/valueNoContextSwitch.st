@@ -1,0 +1,3 @@
+exception
+valueNoContextSwitch
+	^ self value

@@ -1,0 +1,15 @@
+{
+	"category" : "Collections-Unordered",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"hashBlock",
+		"equalBlock" ],
+	"name" : "PluggableDictionary",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }

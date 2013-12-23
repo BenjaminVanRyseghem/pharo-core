@@ -1,0 +1,14 @@
+{
+	"category" : "Fuel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ManifestFuel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+maxWidth
+
+	^ maxWidth value

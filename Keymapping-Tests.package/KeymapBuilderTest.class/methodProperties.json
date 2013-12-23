@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"keymapEventBuilderClass" : "CamilloBruni 3/18/2011 23:11" },
+	"instance" : {
+		"testAddKeymapCreatesCategory" : "GuillermoPolito 3/19/2013 19:12",
+		"testAddKeymapCreatesShortcut" : "GuillermoPolito 3/19/2013 19:12",
+		"testAttachKeymapAndExecuteExecutes" : "GuillermoPolito 3/19/2013 19:12" } }

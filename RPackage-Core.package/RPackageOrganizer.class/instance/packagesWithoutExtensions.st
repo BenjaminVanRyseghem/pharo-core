@@ -1,0 +1,4 @@
+accessing
+packagesWithoutExtensions
+	
+	^self packages.

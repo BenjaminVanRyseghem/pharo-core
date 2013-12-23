@@ -1,0 +1,15 @@
+{
+	"category" : "Kernel-Exceptions",
+	"classinstvars" : [
+		"isHaltOnceEnabled",
+		"callsUntilHaltOnCount" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Halt",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "CollectionsTests-Unordered",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SmallIdentityDictionaryTest",
+	"pools" : [
+		 ],
+	"super" : "SmallDictionaryTest",
+	"type" : "normal" }

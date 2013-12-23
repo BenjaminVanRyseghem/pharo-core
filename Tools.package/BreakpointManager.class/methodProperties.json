@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"breakpointMethodSourceFor:in:" : "ClementBera 6/28/2013 10:59",
+		"clear" : "marcus.denker 10/9/2008 20:35",
+		"compilePrototype:in:" : "ClementBera 6/28/2013 11:01",
+		"installInClass:selector:" : "ClementBera 7/26/2013 16:12",
+		"installed" : "ClementBera 7/26/2013 16:12",
+		"methodHasBreakpoint:" : "emm 5/30/2002 09:22",
+		"testBreakpoint" : "StephaneDucasse 11/7/2011 22:41",
+		"unInstall:" : "MarcusDenker 5/10/2013 00:24" },
+	"instance" : {
+		 } }

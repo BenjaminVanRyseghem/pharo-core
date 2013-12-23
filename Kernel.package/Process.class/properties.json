@@ -1,0 +1,19 @@
+{
+	"category" : "Kernel-Processes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PSKeys",
+		"PSKeysSema" ],
+	"commentStamp" : "IgorStasenko 11/7/2011 11:25",
+	"instvars" : [
+		"suspendedContext",
+		"priority",
+		"myList",
+		"name",
+		"env" ],
+	"name" : "Process",
+	"pools" : [
+		 ],
+	"super" : "Link",
+	"type" : "normal" }

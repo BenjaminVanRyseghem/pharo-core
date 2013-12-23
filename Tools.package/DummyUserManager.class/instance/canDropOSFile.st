@@ -1,0 +1,4 @@
+permissions
+canDropOSFile
+
+	^ true

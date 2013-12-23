@@ -1,0 +1,17 @@
+{
+	"category" : "KernelTests-Chronology",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"aDateAndTime",
+		"aDuration",
+		"aTimeZone",
+		"localTimeZoneToRestore" ],
+	"name" : "DateAndTimeDosEpochTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"keymapEventBuilderClass" : "CamilloBruni 3/18/2011 23:11" },
+	"instance" : {
+		"keymapContainer" : "CamilloBruni 3/18/2011 23:11",
+		"testBuffering" : "MarcusDenker 9/12/2013 10:03",
+		"testDetach" : "MarcusDenker 9/12/2013 10:03",
+		"testNoMultiTrigger" : "MarcusDenker 9/12/2013 10:03",
+		"testNoStaggeredTrigger" : "MarcusDenker 9/12/2013 10:03" } }

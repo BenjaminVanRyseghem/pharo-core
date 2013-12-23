@@ -1,0 +1,16 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector",
+		"numberReplaced",
+		"numberNotReplaced" ],
+	"name" : "RBInlineAllSendersRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring",
+	"type" : "normal" }

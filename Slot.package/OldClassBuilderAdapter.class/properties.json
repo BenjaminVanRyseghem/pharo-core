@@ -1,0 +1,14 @@
+{
+	"category" : "Slot-Compatibility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OldClassBuilderAdapter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

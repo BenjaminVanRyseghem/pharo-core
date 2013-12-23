@@ -1,0 +1,14 @@
+{
+	"category" : "System-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UnknownSystemChange",
+	"pools" : [
+		 ],
+	"super" : "SystemAnnouncement",
+	"type" : "normal" }

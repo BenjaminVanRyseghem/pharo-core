@@ -1,0 +1,14 @@
+{
+	"category" : "SlotTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlotLayoutEqualityTest",
+	"pools" : [
+		 ],
+	"super" : "SlotSilentTest",
+	"type" : "normal" }

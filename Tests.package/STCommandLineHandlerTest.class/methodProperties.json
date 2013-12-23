@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classToBeTested" : "CamilloBruni 7/3/2013 15:46",
+		"testCommandLineHandlerCondition" : "CamilloBruni 7/3/2013 15:45",
+		"testInstallSourceFilesFail" : "CamilloBruni 7/3/2013 15:45",
+		"testLoadSourceFiles" : "CamilloBruni 7/3/2013 15:45" } }

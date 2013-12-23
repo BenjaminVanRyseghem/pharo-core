@@ -1,0 +1,14 @@
+{
+	"category" : "Deprecated30",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ls 6/15/2003 13:44",
+	"instvars" : [
+		 ],
+	"name" : "HttpUrl",
+	"pools" : [
+		 ],
+	"super" : "HierarchicalUrl",
+	"type" : "normal" }

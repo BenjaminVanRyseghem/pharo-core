@@ -1,0 +1,14 @@
+{
+	"category" : "GroupManager-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GroupAnnouncer",
+	"pools" : [
+		 ],
+	"super" : "SystemAnnouncer",
+	"type" : "normal" }

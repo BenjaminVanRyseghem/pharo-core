@@ -1,0 +1,17 @@
+{
+	"category" : "Deprecated30",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultSuffixes",
+		"StandardMIMEMappings" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"main",
+		"sub",
+		"parameters" ],
+	"name" : "MIMEType",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

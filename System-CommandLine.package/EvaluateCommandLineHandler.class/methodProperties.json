@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"commandName" : "CamilloBruni 4/28/2012 22:48",
+		"description" : "CamilloBruni 2/6/2013 18:16",
+		"isResponsibleFor:" : "CamilloBruni 7/4/2012 00:20" },
+	"instance" : {
+		"activate" : "CamilloBruni 5/29/2013 15:51",
+		"argumentString" : "CamilloBruni 6/1/2013 11:18",
+		"evaluate:" : "MarcusDenker 5/21/2013 16:31",
+		"evaluateArguments" : "CamilloBruni 5/26/2013 16:14",
+		"evaluateStdIn" : "MarcusDenker 12/2/2013 14:06" } }

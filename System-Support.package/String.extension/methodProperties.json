@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asClass" : "CamilloBruni 5/8/2013 11:13",
+		"asClassIfAbsent:" : "CamilloBruni 5/8/2013 11:24",
+		"asClassIfPresent:" : "CamilloBruni 5/8/2013 12:03",
+		"asClassInEnvironment:" : "CamilloBruni 5/8/2013 11:16",
+		"asClassInEnvironment:ifAbsent:" : "CamilloBruni 5/8/2013 11:23" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"keyNotInNonEmpty" : "delaunay 4/29/2009 14:41",
+		"nonEmpty" : "delaunay 4/29/2009 14:25",
+		"test0FixtureDictionaryIncludes" : "CamilloBruni 8/31/2013 20:43",
+		"testIncludesAssociation" : "CamilloBruni 11/2/2012 15:27",
+		"testIncludesComportementForDictionnary" : "delaunay 4/30/2009 10:47",
+		"testIncludesIdentityBasicComportement" : "delaunay 5/12/2009 10:31",
+		"testIncludesKey" : "CamilloBruni 11/2/2012 15:27",
+		"valueNotInNonEmpty" : "delaunay 4/29/2009 14:41" } }

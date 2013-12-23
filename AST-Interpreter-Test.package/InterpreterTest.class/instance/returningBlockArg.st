@@ -1,0 +1,3 @@
+helper
+returningBlockArg
+	^ [:arg| ^arg]

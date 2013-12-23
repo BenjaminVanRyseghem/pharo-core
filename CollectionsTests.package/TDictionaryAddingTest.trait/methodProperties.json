@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"associationWithKeyAlreadyInToAdd" : "delaunay 5/5/2009 12:10",
+		"associationWithKeyNotInToAdd" : "delaunay 5/5/2009 12:08",
+		"nonEmptyDict" : "AlexandreBergel 1/6/2009 14:32",
+		"test0FixtureDictionaryAddingTest" : "CamilloBruni 8/31/2013 20:43",
+		"testAddAll" : "CamilloBruni 3/23/2013 12:07",
+		"testAddWithKeyAlreadyIn" : "delaunay 5/5/2009 12:11",
+		"testAddWithKeyNotIn" : "delaunay 5/5/2009 12:10",
+		"testDeclareFrom" : "CamilloBruni 3/23/2013 12:10" } }

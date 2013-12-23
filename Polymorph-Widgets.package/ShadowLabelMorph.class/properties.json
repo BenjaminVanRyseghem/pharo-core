@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets-Themes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ShadowLabelMorph",
+	"pools" : [
+		 ],
+	"super" : "LabelMorph",
+	"type" : "normal" }

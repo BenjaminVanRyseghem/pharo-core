@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"actualProcesses" : "SvenVanCaekenberghe 6/23/2013 20:47",
+		"knownProcesses" : "SvenVanCaekenberghe 6/23/2013 20:47" },
+	"instance" : {
+		"actualProcesses" : "SvenVanCaekenberghe 6/23/2013 20:48",
+		"knownProcesses" : "SvenVanCaekenberghe 6/23/2013 20:38",
+		"testInstalledMethodsWithIncorrectTrailerKind" : "CamilloBruni 2/10/2013 17:36",
+		"testInstanceSideMethodsWithNilKeyInLastLiteral" : "CamilloBruni 2/10/2013 17:35",
+		"testLayoutIntegrity" : "CamilloBruni 7/17/2013 14:32",
+		"testMethodsWithUnboundGlobals" : "MarcusDenker 3/1/2013 16:40",
+		"testObsoleteClasses" : "MarcusDenke 10/23/2013 13:27",
+		"testUndeclared" : "CamilloBruni 2/10/2013 17:34",
+		"testUnknownProcesses" : "MarcusDenker 11/15/2013 11:25" } }

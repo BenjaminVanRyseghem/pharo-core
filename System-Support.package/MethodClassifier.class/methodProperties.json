@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"classify:" : "CamilloBruni 1/30/2013 21:45",
+		"classifyAll:" : "StephaneDucasse 8/29/2013 22:03" },
+	"instance" : {
+		"buildPrefixDictionary" : "CamilloBruni 1/30/2013 22:17",
+		"classify:" : "CamilloBruni 1/30/2013 21:47",
+		"classifyAccessor:" : "CamilloBruni 1/30/2013 21:40",
+		"classifyAll:" : "StephaneDucasse 8/29/2013 22:03",
+		"classifyByKnownPrefix:" : "CamilloBruni 1/30/2013 22:13",
+		"classifyByOtherImplementors:" : "EstebanLorenzano 5/28/2013 14:10",
+		"classifyInSuperclassProtocol:" : "CamilloBruni 1/30/2013 22:11",
+		"initialize" : "CamilloBruni 1/30/2013 21:02" } }

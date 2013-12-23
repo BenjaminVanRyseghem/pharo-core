@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RBPullUpInstanceVariableRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBVariableRefactoring",
+	"type" : "normal" }

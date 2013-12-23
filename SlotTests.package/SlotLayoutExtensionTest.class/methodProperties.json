@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"should:extendWith:" : "MartinDias 8/7/2013 11:55",
+		"shouldnt:extendWith:" : "MartinDias 8/7/2013 11:54",
+		"testByteCanExtendByte" : "MartinDias 8/7/2013 11:36",
+		"testByteCannotExtendPointerWithFields" : "MartinDias 12/9/2013 11:38",
+		"testByteCannotExtendWord" : "MartinDias 8/7/2013 11:36",
+		"testCompiledMethodCanBeExtended" : "MartinDias 8/7/2013 11:36",
+		"testInstanceVariableNamesMetaclassInterface" : "MartinDias 8/7/2013 11:36",
+		"testPointerCanExtendPointer" : "MartinDias 12/9/2013 11:38",
+		"testPointerCanExtendVariable" : "MartinDias 12/9/2013 11:38",
+		"testPointerCannotExtendByte" : "MartinDias 12/9/2013 11:38",
+		"testPointerCannotExtendWord" : "MartinDias 12/9/2013 11:38",
+		"testPointerWithVariableExtensionIsNowVariable" : "MartinDias 8/7/2013 11:36",
+		"testVariableCanExtendPointer" : "MartinDias 12/9/2013 11:38",
+		"testVariableCanExtendVariable" : "MartinDias 8/7/2013 11:36",
+		"testVariableCannotExtendByte" : "MartinDias 8/7/2013 11:36",
+		"testVariableCannotExtendWord" : "MartinDias 8/7/2013 11:36",
+		"testWordCanExtendWord" : "MartinDias 8/7/2013 11:36",
+		"testWordCannotExtendByte" : "MartinDias 8/7/2013 11:36",
+		"testWordCannotExtendPointerWithFields" : "MartinDias 12/9/2013 11:38" } }

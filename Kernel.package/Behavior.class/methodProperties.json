@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"canZapMethodDictionary" : "dvf 9/27/2005 16:12",
+		"cleanUp" : "StephaneDucasse 3/9/2010 16:08",
+		"flushObsoleteSubclasses" : "apb 7/12/2004 23:23",
+		"initialize" : "apb 7/12/2004 23:51",
+		"initializeObsoleteSubclasses" : "apb 7/12/2004 23:46" },
+	"instance" : {
+		"basicNew" : "SebastianTleye 7/17/2013 10:06",
+		"basicNew:" : "SebastianTleye 7/17/2013 10:06",
+		"basicObsoleteSubclasses" : "ST 6/21/2013 10:12",
+		"bindingOf:" : "SebastianTleye 7/5/2013 17:16",
+		"format" : "",
+		"instSize" : "SebastianTleye 7/16/2013 17:04",
+		"isBehavior" : "SebastianTleye 7/4/2013 13:06",
+		"methodDict" : "ClementBera 9/27/2013 17:41",
+		"methodDict:" : "dvf 9/27/2005 17:08",
+		"name" : "SebastianTleye 7/17/2013 11:31",
+		"setFormat:" : "sd 11/19/2004 15:13",
+		"subclassDefinerClass" : "SebastianTleye 7/16/2013 17:04",
+		"superclass" : "",
+		"superclass:" : "ClementBera 9/27/2013 17:41",
+		"traitComposition" : "al 3/25/2006 12:36",
+		"traitComposition:" : "SebastianTleye 7/17/2013 13:13",
+		"users" : "SebastianTleye 7/4/2013 11:04",
+		"users:" : "SebastianTleye 7/4/2013 11:06" } }

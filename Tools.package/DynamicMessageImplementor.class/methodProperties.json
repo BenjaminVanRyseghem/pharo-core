@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"for:in:" : "HernanWilkinson 10/12/2010 16:31" },
+	"instance" : {
+		"argumentNameAt:" : "SeanDeNigris 5/28/2013 18:09",
+		"argumentNamePrefixOf:" : "HernanWilkinson 10/12/2010 17:19",
+		"hasParameter:" : "HernanWilkinson 10/12/2010 17:11",
+		"initializeFor:in:" : "HernanWilkinson 10/12/2010 16:32",
+		"isMessageAGetter" : "HernanWilkinson 10/12/2010 16:38",
+		"isMessageASetter" : "HernanWilkinson 10/12/2010 16:52",
+		"messageShouldBeImplemented" : "ClementBera 6/28/2013 14:29",
+		"value" : "HernanWilkinson 10/12/2010 17:02",
+		"write:of:" : "HernanWilkinson 10/12/2010 17:14",
+		"writeArgumentNameAt:" : "HernanWilkinson 10/12/2010 17:16",
+		"writeArgumentNameIfNecessaryOf:at:" : "HernanWilkinson 10/12/2010 17:14",
+		"writeGetterSourceCode" : "HernanWilkinson 10/12/2010 17:08",
+		"writeGetterSourceCodeIfNecessary" : "HernanWilkinson 10/12/2010 17:08",
+		"writeMethodName" : "HernanWilkinson 10/12/2010 17:09",
+		"writeSetterSourceCode" : "HernanWilkinson 10/12/2010 17:08",
+		"writeSetterSourceCodeIfNecessary" : "HernanWilkinson 10/12/2010 17:08",
+		"writeShouldBeImplemented" : "HernanWilkinson 10/12/2010 17:04",
+		"writeShouldBeImplementedIfNecessary" : "ClementBera 6/28/2013 14:28",
+		"writeSourceCode" : "ClementBera 6/28/2013 14:27" } }

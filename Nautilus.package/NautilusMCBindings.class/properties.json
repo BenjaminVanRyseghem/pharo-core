@@ -1,0 +1,15 @@
+{
+	"category" : "Nautilus-MCBindings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"bindingsRtoMC",
+		"bindingsMCtoR" ],
+	"name" : "NautilusMCBindings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

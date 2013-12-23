@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testLabelForSwapClassMethodRefersToInstance" : "GiselaDecuzzi 4/24/2013 13:37",
+		"testLabelForSwapInstanceMethodRefersToClass" : "GiselaDecuzzi 4/24/2013 13:36",
+		"testLabelForSwapWithoutSelectedMethodIsGeneric" : "GiselaDecuzzi 4/24/2013 13:35" } }

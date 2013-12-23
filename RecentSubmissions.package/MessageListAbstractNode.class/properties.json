@@ -1,0 +1,14 @@
+{
+	"category" : "RecentSubmissions-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MessageListAbstractNode",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeNodeModel",
+	"type" : "normal" }

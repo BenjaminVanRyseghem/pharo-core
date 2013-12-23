@@ -1,0 +1,14 @@
+{
+	"category" : "Manifest-CriticBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestManifestCriticBrowser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

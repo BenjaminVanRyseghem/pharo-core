@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"nameAnalysisNoClosureIn:for:" : "MarcusDenker 5/18/2013 10:13",
+		"testDoubleRemoteAnidatedBlocks" : "MarcusDenker 7/2/2012 10:43",
+		"testExampleIfNotNilReturnNil" : "MarcusDenker 7/2/2012 10:44",
+		"testExampleInlineBlockCollectionLR3" : "MarcusDenker 7/2/2012 10:44",
+		"testExamplePrimitiveErrorCode" : "MarcusDenler 12/10/2012 16:17",
+		"testExampleSelf" : "MarcusDenker 5/22/2013 16:50",
+		"testExampleSuper" : "MarcusDenker 5/22/2013 16:50",
+		"testExampleThisContext" : "MarcusDenker 5/22/2013 16:50",
+		"testExampleToDoArgument" : "MarcusDenker 6/7/2013 13:06",
+		"testInstanceVar" : "MarcusDenker 6/29/2012 16:03",
+		"testNoRemoteBlockArgument" : "MarcusDenker 7/2/2012 10:45",
+		"testNoRemoteBlockReturn" : "MarcusDenker 7/2/2012 10:45",
+		"testNoRemoteBlockTemp" : "MarcusDenker 7/2/2012 10:45",
+		"testNoRemoteMethodTemp" : "MarcusDenker 7/2/2012 10:45",
+		"testOptimizedBlockWrittenAfterClosedOverCase1" : "MarcusDenker 5/25/2013 16:44",
+		"testOptimizedBlockWrittenAfterClosedOverCase2" : "MarcusDenker 5/25/2013 16:45",
+		"testOptimizedBlocksAndSameNameTemps" : "MarcusDenker 7/2/2012 10:45",
+		"testReturn1" : "MarcusDenker 7/2/2012 10:44",
+		"testSemanticAnalysisOnNonMethodNode" : "CamilloBruni 8/31/2013 20:23",
+		"testSingleRemoteDifferentBlocksSameArgumentName" : "MarcusDenker 7/2/2012 10:45",
+		"testSingleRemoteMethodArgument" : "MarcusDenker 7/2/2012 10:45",
+		"testSingleRemoteTempVar" : "MarcusDenker 10/1/2013 15:07",
+		"testsingleRemoteTempVarWhileWithTempNotInlined" : "MarcusDenker 5/25/2013 16:46",
+		"testsingleRemoteTempVarWrittenAfterClosedOver" : "MarcusDenker 10/1/2013 15:08" } }

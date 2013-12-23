@@ -1,0 +1,3 @@
+testing
+isContext
+	^name = 'thisContext'

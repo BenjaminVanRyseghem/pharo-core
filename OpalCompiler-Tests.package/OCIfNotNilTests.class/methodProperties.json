@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testIfNilIfNotNil0Arg" : "MarcusDenker 5/13/2013 13:12",
+		"testIfNilIfNotNil0ArgAsVar" : "vb 4/16/2007 11:43",
+		"testIfNilIfNotNil1Arg" : "vb 4/15/2007 12:25",
+		"testIfNilIfNotNil1ArgAsVar" : "vb 4/16/2007 11:33",
+		"testIfNotNil0Arg" : "GabrielOmarCotelli 5/25/2010 21:22",
+		"testIfNotNil0ArgAsVar" : "GabrielOmarCotelli 5/25/2010 21:22",
+		"testIfNotNil1Arg" : "GabrielOmarCotelli 5/25/2010 21:22",
+		"testIfNotNil1ArgAsVar" : "GabrielOmarCotelli 5/25/2010 21:22",
+		"testIfNotNil1ArgWithStatement" : "MarcusDenker 4/17/2013 15:02",
+		"testIfNotNilIfNil0Arg" : "vb 4/16/2007 11:35",
+		"testIfNotNilIfNil0ArgAsVar" : "vb 4/16/2007 11:36",
+		"testIfNotNilIfNil1Arg" : "vb 4/16/2007 11:35",
+		"testIfNotNilIfNil1ArgAsVar" : "vb 4/16/2007 11:36" } }

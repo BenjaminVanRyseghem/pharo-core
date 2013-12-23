@@ -1,0 +1,14 @@
+{
+	"category" : "Kernel-Job",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"job" ],
+	"name" : "JobStartNotification",
+	"pools" : [
+		 ],
+	"super" : "JobNotification",
+	"type" : "normal" }

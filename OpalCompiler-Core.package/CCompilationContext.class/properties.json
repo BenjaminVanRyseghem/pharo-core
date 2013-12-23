@@ -1,0 +1,27 @@
+{
+	"category" : "OpalCompiler-Core-FrontEnd",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"WarningAllowed" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"requestor",
+		"failBlock",
+		"noPattern",
+		"class",
+		"category",
+		"logged",
+		"interactive",
+		"options",
+		"environment",
+		"parserClass",
+		"semanticAnalyzerClass",
+		"astTranslatorClass",
+		"bytecodeGeneratorClass",
+		"compiledMethodTrailer" ],
+	"name" : "CCompilationContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

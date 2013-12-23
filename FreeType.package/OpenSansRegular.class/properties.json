@@ -1,0 +1,14 @@
+{
+	"category" : "FreeType-Fonts-SourceCode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OpenSansRegular",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

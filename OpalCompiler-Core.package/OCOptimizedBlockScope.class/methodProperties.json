@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "JorgeRessia 9/23/2010 13:16",
+		"isInsideOptimizedLoop" : "JorgeRessia 9/23/2010 13:21",
+		"isOptimizedBlockScope" : "JorgeRessia 9/11/2010 08:08",
+		"markInlinedLoop" : "MarcusDenker 12/14/2012 11:25",
+		"outerNotOptimizedScope" : "JorgeRessia 9/23/2010 14:00" } }

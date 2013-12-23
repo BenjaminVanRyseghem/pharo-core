@@ -1,0 +1,4 @@
+exception-handling
+nextHandlerContext
+
+	^ self outerContext findNextHandlerContextStarting

@@ -1,0 +1,14 @@
+{
+	"category" : "Athens-PangoCairo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AthensPangoLayoutLine",
+	"pools" : [
+		 ],
+	"super" : "AthensPangoText",
+	"type" : "normal" }

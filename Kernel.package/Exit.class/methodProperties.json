@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"failure" : "CamilloBruni 4/8/2013 16:24",
+		"signalFailure" : "CamilloBruni 4/14/2013 22:27",
+		"signalFailure:" : "CamilloBruni 4/14/2013 22:27",
+		"signalSuccess" : "ErwanDouaille 4/8/2013 10:52",
+		"signalSuccess:" : "ErwanDouaille 4/8/2013 10:53",
+		"status:" : "CamilloBruni 4/8/2013 16:25",
+		"success" : "CamilloBruni 4/8/2013 16:24" },
+	"instance" : {
+		"defaultAction" : "CamilloBruni 4/20/2013 19:16",
+		"isSuccess" : "ErwanDouaille 4/8/2013 10:47",
+		"printMessage" : "ErwanDouaille 4/8/2013 11:07",
+		"printOn:" : "CamilloBruni 5/9/2013 20:10",
+		"status" : "ErwanDouaille 4/8/2013 10:46",
+		"status:" : "ErwanDouaille 4/8/2013 10:46" } }

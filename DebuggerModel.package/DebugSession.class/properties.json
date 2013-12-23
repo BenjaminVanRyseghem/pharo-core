@@ -1,0 +1,16 @@
+{
+	"category" : "DebuggerModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"interruptedContext",
+		"interruptedProcess",
+		"errorWasInUIProcess" ],
+	"name" : "DebugSession",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

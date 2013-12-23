@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"keyNotIn" : "delaunay 5/5/2009 11:07",
+		"nonEmpty" : "delaunay 5/5/2009 11:08",
+		"test0FixtureDictionaryAssocitionAccess" : "CamilloBruni 8/31/2013 20:43",
+		"testAssociationAt" : "CamilloBruni 11/2/2012 15:28",
+		"testAssociationAtError" : "CamilloBruni 11/2/2012 15:28",
+		"testAssociationAtIfAbsent" : "CamilloBruni 11/2/2012 15:28" } }

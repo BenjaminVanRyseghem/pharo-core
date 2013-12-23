@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-WindowNotification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"step" ],
+	"name" : "WindowScrolling",
+	"pools" : [
+		 ],
+	"super" : "WindowAnnouncement",
+	"type" : "normal" }

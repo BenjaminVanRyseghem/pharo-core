@@ -1,0 +1,4 @@
+tests
+selectedCategories
+
+	^ categoryWidget selectedCategories

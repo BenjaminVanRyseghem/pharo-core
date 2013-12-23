@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"initialize" : "ar 4/10/2005 23:55" },
+	"instance" : {
+		"asWideString" : "SeanDeNigris 1/24/2011 23:21",
+		"at:" : "ar 4/10/2005 23:38",
+		"byteAt:" : "ar 4/10/2005 23:38",
+		"byteAt:put:" : "ar 4/10/2005 23:38",
+		"byteSize" : "ar 4/10/2005 23:38",
+		"findIn:startingAt:matchTable:" : "SeanDeNigris 1/24/2011 23:30",
+		"isWideString" : "ar 4/12/2005 19:52",
+		"privateAt:put:" : "CamilloBruni 9/5/2011 18:07",
+		"species" : "ar 4/12/2005 17:34",
+		"string:" : "CamilloBruni 9/5/2011 20:04",
+		"wordAt:" : "ar 4/10/2005 23:38",
+		"wordAt:put:" : "ar 4/10/2005 23:39" } }

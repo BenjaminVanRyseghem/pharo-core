@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"forFont:surface:" : "IgorStasenko 10/20/2011 10:29" },
+	"instance" : {
+		"clearBitmap" : "IgorStasenko 10/19/2011 15:31",
+		"form" : "IgorStasenko 10/19/2011 15:37",
+		"getAdvance" : "IgorStasenko 10/25/2011 18:29",
+		"initForFont:surface:" : "IgorStasenko 11/21/2011 16:32",
+		"loadSlotInfo" : "IgorStasenko 7/12/2011 20:11",
+		"loadSurfaceTransform" : "IgorStasenko 11/7/2011 14:25",
+		"loadUnicode:" : "IgorStasenko 10/25/2011 18:40",
+		"pixelValue32Of:" : "FernandoOlivero 9/9/2013 19:35",
+		"renderGlyphsIn:from:to:" : "IgorStasenko 11/7/2011 13:45",
+		"setColor:" : "FernandoOlivero 9/9/2013 19:36",
+		"setPosition:advance:baseline:" : "IgorStasenko 11/7/2011 13:45" } }

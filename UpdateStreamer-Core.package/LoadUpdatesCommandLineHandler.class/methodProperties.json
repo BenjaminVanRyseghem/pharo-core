@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"commandName" : "MarcusDenker 11/7/2012 13:57",
+		"description" : "CamilloBruni 2/6/2013 18:16" },
+	"instance" : {
+		"activate" : "CamilloBruni 10/26/2013 21:30",
+		"loadDefaultUpdates" : "CamilloBruni 10/26/2013 21:30",
+		"loadUpdates" : "CamilloBruni 10/26/2013 21:52",
+		"loadUpdatesFromFile" : "CamilloBruni 1/14/2013 16:12",
+		"loadUpdatesFromFile:" : "MarcusDenker 4/8/2013 13:19",
+		"shouldForce" : "CamilloBruni 10/26/2013 21:36" } }

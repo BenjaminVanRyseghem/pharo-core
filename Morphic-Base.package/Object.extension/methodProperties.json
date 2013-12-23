@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addModelYellowButtonMenuItemsTo:forMorph:hand:" : "AlainPlantec 12/19/2009 23:13",
+		"asDraggableMorph" : "CamilloBruni 10/21/2012 23:38",
+		"asMorph" : "AlainPlantec 10/20/2009 10:14",
+		"asStringMorph" : "MarcusDenker 7/20/2012 14:57",
+		"asTextMorph" : "nk 2/26/2004 13:35",
+		"currentEvent" : "ar 3/18/2001 00:03",
+		"currentHand" : "nk 9/1/2004 10:41",
+		"defaultLabel" : "cb 6/25/2013 13:23",
+		"dragPassengersFor:inMorph:" : "BenjaminVanRyseghem 10/7/2011 21:36",
+		"externalName" : "HenrikSperreJohansen 6/28/2010 12:24",
+		"hasModelYellowButtonMenuItems" : "AlainPlantec 12/19/2009 23:13",
+		"head" : "BenjaminVanRyseghem 10/11/2013 15:27",
+		"iconOrThumbnailOfSize:" : "dgd 9/25/2004 23:17",
+		"isTransferable" : "BenjaminVanRyseghem 5/16/2013 12:27",
+		"tail" : "BenjaminVanRyseghem 10/11/2013 15:28",
+		"transferFor:from:" : "BenjaminVanRyseghem 5/16/2013 12:21",
+		"wantsVisualFeedback" : "BenjaminVanRyseghem 11/27/2013 14:52" } }

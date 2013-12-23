@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-KeyChain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "DummyUserManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

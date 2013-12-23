@@ -1,0 +1,15 @@
+{
+	"category" : "CompilerTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text",
+		"currentCompiler" ],
+	"name" : "CompilerExceptionsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

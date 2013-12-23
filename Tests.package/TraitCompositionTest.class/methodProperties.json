@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAliasCompositions" : "CamilloBruni 8/31/2013 20:23",
+		"testClassMethodsTakePrecedenceOverTraitsMethods" : "MarcusDenker 5/4/2013 12:53",
+		"testCompositionFromArray" : "dvf 8/30/2005 14:07",
+		"testEmptyTrait" : "al 12/15/2003 20:51",
+		"testInvalidComposition" : "CamilloBruni 8/31/2013 20:23",
+		"testOriginSelectorOf" : "EstebanLorenzano 1/15/2013 19:01",
+		"testPrinting" : "SebastianTleye 6/28/2013 17:34",
+		"testSum" : "dvf 8/26/2005 14:31",
+		"testSumWithParenthesis" : "dvf 8/26/2005 14:31" } }

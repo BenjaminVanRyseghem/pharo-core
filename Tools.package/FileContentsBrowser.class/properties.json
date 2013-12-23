@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-File Contents Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"packages" ],
+	"name" : "FileContentsBrowser",
+	"pools" : [
+		 ],
+	"super" : "Browser",
+	"type" : "normal" }

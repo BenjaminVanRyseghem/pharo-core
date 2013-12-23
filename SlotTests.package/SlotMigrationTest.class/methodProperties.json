@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddSlotAndMigrate" : "MartinDias 12/9/2013 11:38",
+		"testAddSlotPropagateAndMigrate" : "MartinDias 12/9/2013 11:38",
+		"testChangeLayoutTypeFromByte" : "MartinDias 12/9/2013 11:38",
+		"testChangeLayoutTypeToByte" : "MartinDias 12/9/2013 11:38",
+		"testChangingFormatKeepsMethod" : "MartinDias 12/9/2013 11:38",
+		"testRedefineSuperclass" : "MartinDias 12/9/2013 11:38",
+		"testRemoveSlotAndMigrate" : "MartinDias 12/9/2013 11:38",
+		"testReshapeByteVariableToPointerPropagatesToDeepHierarchy" : "MartinDias 12/9/2013 11:38",
+		"testReshapeClassPropagatesToDeepHierarchy" : "MartinDias 8/7/2013 11:30",
+		"testReshapePointerToByteVariablePropagatesToDeepHierarchy" : "MartinDias 12/9/2013 11:38",
+		"testReshapeSuperSuperClass" : "MartinDias 8/7/2013 11:30",
+		"testShiftSlotAndMigrate" : "MartinDias 12/9/2013 11:38",
+		"testSuperclassChangeLayoutType" : "MartinDias 12/9/2013 11:38",
+		"testSwitchSlotsAndMigrate" : "MartinDias 12/9/2013 11:38" } }

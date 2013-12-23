@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultGraphics" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"graphicalMorph" ],
+	"name" : "IconicButton",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

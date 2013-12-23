@@ -1,0 +1,4 @@
+protocol
+userNamePasswordFor: aGroup
+
+	^ nil

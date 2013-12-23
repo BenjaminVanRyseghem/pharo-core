@@ -1,0 +1,3 @@
+helper
+errorBlock
+	^ [Error signal]

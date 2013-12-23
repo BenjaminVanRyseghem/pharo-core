@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets-Themes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "EclipseUIThemeIcons",
+	"pools" : [
+		 ],
+	"super" : "PharoUIThemeIcons",
+	"type" : "normal" }

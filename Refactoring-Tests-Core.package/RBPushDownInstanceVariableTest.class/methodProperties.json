@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testModelPushDownToMetaclass" : "lr 9/8/2011 20:11",
+		"testModelPushDownToMultipleSubclasses" : "lr 9/8/2011 20:11",
+		"testModelRemoveUnusedVariable" : "SebastianTleye 8/28/2013 16:10",
+		"testNonExistantName" : "lr 9/8/2011 20:11",
+		"testPushDownInstanceVariable" : "SebastianTleye 8/28/2013 16:12" } }

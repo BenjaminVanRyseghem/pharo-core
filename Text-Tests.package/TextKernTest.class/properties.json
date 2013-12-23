@@ -1,0 +1,14 @@
+{
+	"category" : "Text-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TextKernTest",
+	"pools" : [
+		 ],
+	"super" : "HashAndEqualsTestCase",
+	"type" : "normal" }

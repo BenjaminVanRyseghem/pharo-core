@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAbsoluteFILE" : "SvenVanCaekenberghe 10/25/2013 15:35",
+		"testAbsoluteFILE2" : "SvenVanCaekenberghe 10/25/2013 15:06",
+		"testAbsoluteFILE3" : "SvenVanCaekenberghe 10/25/2013 17:11",
+		"testAbsoluteHTTP" : "SvenVanCaekenberghe 10/25/2013 15:22",
+		"testAbsolutePortErrorFix" : "SvenVanCaekenberghe 10/25/2013 15:32",
+		"testAbsoluteTELNET" : "SvenVanCaekenberghe 10/25/2013 15:17",
+		"testCombineWithRelative" : "SvenVanCaekenberghe 10/25/2013 15:37",
+		"testNew" : "SvenVanCaekenberghe 10/25/2013 18:50",
+		"testRelativeHTTP" : "SvenVanCaekenberghe 10/25/2013 16:12",
+		"testUsernamePassword" : "SvenVanCaekenberghe 10/25/2013 16:26",
+		"testUsernamePasswordEncoded2" : "SvenVanCaekenberghe 10/27/2013 11:47",
+		"testUsernamePasswordPrinting" : "fbs 2/2/2005 13:22",
+		"testUsernamePasswordPrintingEncoded" : "SvenVanCaekenberghe 10/25/2013 15:15" } }

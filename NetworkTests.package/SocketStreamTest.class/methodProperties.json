@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "ar 8/2/2010 18:10",
+		"tearDown" : "ar 8/2/2010 17:59",
+		"testNextIntoClose" : "ar 8/5/2010 12:20",
+		"testNextIntoCloseNonSignaling" : "ar 8/5/2010 12:20",
+		"testUpTo" : "ar 8/2/2010 18:32",
+		"testUpToAfterCloseNonSignaling" : "CamilloBruni 9/1/2013 03:08",
+		"testUpToAfterCloseSignaling" : "ar 8/2/2010 18:32",
+		"testUpToAll" : "ar 8/2/2010 18:29",
+		"testUpToAllAfterCloseNonSignaling" : "CamilloBruni 9/1/2013 03:08",
+		"testUpToAllAfterCloseSignaling" : "ar 8/2/2010 18:26",
+		"testUpToAllLimit" : "ar 8/2/2010 18:48",
+		"testUpToAllTimeout" : "ar 8/2/2010 18:11",
+		"testUpToEndClose" : "ar 8/5/2010 12:20",
+		"testUpToEndCloseNonSignaling" : "ar 8/5/2010 12:20",
+		"testUpToMax" : "ar 8/2/2010 18:49",
+		"testUpToSmallInteger" : "NickPapoulias 10/18/2013 11:48",
+		"testUpToTimeout" : "ar 8/2/2010 18:32",
+		"testUpToWithByteArray" : "NickPapoulias 10/18/2013 14:10" } }

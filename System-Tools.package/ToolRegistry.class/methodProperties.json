@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"browseDirectToolReferences" : "MarcusDenker 7/12/2012 18:02",
+		"codeCompletionAround:textMorph:keyStroke:" : "MarcusDenker 5/27/2011 14:24",
+		"doesNotUnderstand:" : "IgorStasenko 2/19/2011 03:15",
+		"hasToolNamed:" : "IgorStasenko 2/19/2011 03:18",
+		"informNoDebugger" : "IgorStasenko 10/29/2008 02:09",
+		"initDefaultToolSet" : "IgorStasenko 8/12/2011 16:37",
+		"initialize" : "cb 6/25/2013 13:32",
+		"inspector" : "MarcusDenker 9/28/2013 15:48",
+		"inspectorClass" : "AndreiChis 12/20/2013 16:32",
+		"menuItems" : "MarcusDenker 9/29/2013 15:31",
+		"openClassBrowser" : "IgorStasenko 2/19/2011 03:55",
+		"openFileList" : "MarcusDenker 4/2/2013 15:50",
+		"openMonticelloBrowser" : "MarcusDenker 4/2/2013 15:49",
+		"openProcessBrowser" : "IgorStasenko 10/29/2008 03:43",
+		"openRecentChangesLog" : "IgorStasenko 2/20/2011 14:39",
+		"openTestRunner" : "IgorStasenko 2/19/2011 04:02",
+		"openTranscript" : "MarcusDenker 4/2/2013 15:48",
+		"openWorkspace" : "IgorStasenko 2/19/2011 03:58",
+		"register:as:" : "BenjaminVanRyseghem 2/22/2012 14:53",
+		"remove:" : "IgorStasenko 10/29/2008 01:31",
+		"transcript" : "IgorStasenko 2/20/2011 14:36",
+		"using:do:" : "IgorStasenko 2/19/2011 04:03" } }

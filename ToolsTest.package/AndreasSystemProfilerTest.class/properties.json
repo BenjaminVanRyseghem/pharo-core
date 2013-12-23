@@ -1,0 +1,14 @@
+{
+	"category" : "ToolsTest-Profilers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tally" ],
+	"name" : "AndreasSystemProfilerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

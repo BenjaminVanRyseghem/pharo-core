@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DecompilerConstructorForClosures",
+	"pools" : [
+		 ],
+	"super" : "DecompilerConstructor",
+	"type" : "normal" }

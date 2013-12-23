@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"resources" : "CiprianTeodorov 5/19/2013 03:44" },
+	"instance" : {
+		"return4Bytes:" : "CiprianTeodorov 1/29/2013 19:39",
+		"returnUnion1Byte" : "CamilloBruni 9/5/2013 15:08",
+		"returnUnionPointer:" : "CiprianTeodorov 1/29/2013 19:39",
+		"returnUnionUnionChar:" : "CiprianTeodorov 1/29/2013 19:39",
+		"returnUnionUnionDouble:" : "CiprianTeodorov 1/29/2013 19:34",
+		"returnUnionUnionInt:" : "CiprianTeodorov 1/29/2013 19:39",
+		"returnUnionWithCallback:" : "CiprianTeodorov 1/29/2013 19:39",
+		"returnUnionWithStructChar:" : "CiprianTeodorov 1/19/2013 18:20",
+		"returnUnionWithStructInt:" : "CiprianTeodorov 1/19/2013 18:15",
+		"returnUnionWithStructStruct:" : "CiprianTeodorov 1/19/2013 18:51",
+		"testReturnUnion1Byte" : "CiprianTeodorov 5/19/2013 03:42",
+		"testReturnUnion2Pointers" : "CiprianTeodorov 5/19/2013 03:42",
+		"testReturnUnionUnionChar" : "CiprianTeodorov 5/19/2013 03:43",
+		"testReturnUnionUnionDouble" : "CiprianTeodorov 5/19/2013 03:43",
+		"testReturnUnionUnionInt" : "CiprianTeodorov 5/19/2013 03:43",
+		"testReturnUnionWithCallback" : "CiprianTeodorov 5/19/2013 03:43",
+		"testReturnUnionWithStructChar" : "CiprianTeodorov 5/19/2013 03:43",
+		"testReturnUnionWithStructInt" : "CiprianTeodorov 5/19/2013 03:43",
+		"testReturnUnionWithStructStruct" : "CiprianTeodorov 5/19/2013 03:44",
+		"testUnionWithUnion" : "CiprianTeodorov 5/19/2013 03:44" } }

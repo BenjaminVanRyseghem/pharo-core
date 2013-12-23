@@ -1,0 +1,15 @@
+{
+	"category" : "Kernel-Job",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"progress",
+		"title" ],
+	"name" : "JobProgress",
+	"pools" : [
+		 ],
+	"super" : "JobNotification",
+	"type" : "normal" }

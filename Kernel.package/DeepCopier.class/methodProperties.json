@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkBasicClasses" : "PavelKrivanek 11/15/2012 09:19",
+		"checkClass:" : "MartinDias 10/25/2013 13:35",
+		"checkDeep" : "eem 6/11/2008 17:21",
+		"checkVariables" : "MartinDias 10/25/2013 13:35",
+		"fixDependents" : "eem 6/11/2008 17:22",
+		"initialize" : "alain.plantec 5/28/2009 09:50",
+		"initialize:" : "stephane.ducasse 9/25/2008 17:46",
+		"references" : "tk 8/20/1998 22:13",
+		"warnInstanceVariableNotCopiedIn:selector:" : "MartinDias 10/25/2013 13:36" } }

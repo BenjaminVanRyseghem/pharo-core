@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultSpec" : "CamilloBruni 10/1/2013 12:21" },
+	"instance" : {
+		"childrenFor:" : "CamilloBruni 9/26/2013 14:30",
+		"choose" : "CamilloBruni 9/26/2013 19:48",
+		"chooseModalTo:" : "CamilloBruni 11/20/2013 17:02",
+		"filteredRoots" : "CamilloBruni 10/1/2013 12:40",
+		"hasSearch" : "CamilloBruni 10/1/2013 12:32",
+		"iconFor:" : "CamilloBruni 11/18/2013 20:59",
+		"initializeWidgets" : "CamilloBruni 10/1/2013 12:24",
+		"labelFor:" : "CamilloBruni 10/1/2013 12:42",
+		"roots" : "CamilloBruni 10/1/2013 12:28",
+		"searchField" : "CamilloBruni 11/18/2013 21:00",
+		"searchPattern" : "CamilloBruni 10/1/2013 12:32",
+		"searchUpdate:" : "CamilloBruni 10/1/2013 12:27",
+		"selectedItem" : "CamilloBruni 9/26/2013 02:00",
+		"selectedItems" : "CamilloBruni 9/26/2013 01:54",
+		"selectionChanged" : "CamilloBruni 9/26/2013 02:07",
+		"setFocus" : "CamilloBruni 10/1/2013 12:24",
+		"tree" : "CamilloBruni 11/17/2013 15:46",
+		"update" : "CamilloBruni 10/1/2013 12:50" } }

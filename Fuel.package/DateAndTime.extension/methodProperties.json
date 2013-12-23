@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"materializeFrom:" : "MaxLeske 2/18/2013 22:36" },
+	"instance" : {
+		"fuelAccept:" : "MartinDias 3/29/2012 03:05",
+		"fuelSet:nanoSecond:seconds:offset:" : "nice 4/27/2013 22:18",
+		"serializeOn:" : "nice 4/27/2013 22:10" } }

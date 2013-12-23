@@ -1,0 +1,14 @@
+{
+	"category" : "Settings-Polymorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PSMCSystemSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

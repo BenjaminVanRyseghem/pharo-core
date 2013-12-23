@@ -1,0 +1,18 @@
+{
+	"category" : "Kernel-Chronology",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ClockProvider",
+		"LocalTimeZone" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"seconds",
+		"offset",
+		"julianDayNumber",
+		"nanos" ],
+	"name" : "DateAndTime",
+	"pools" : [
+		"ChronologyConstants" ],
+	"super" : "Magnitude",
+	"type" : "normal" }

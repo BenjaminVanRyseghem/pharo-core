@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "LaurentLaffont 1/21/2010 21:13",
+		"testNextOpenSecondLesson" : "LaurentLaffont 2/15/2011 22:13",
+		"testSequenceNextNextOpenThirdLesson" : "LaurentLaffont 2/15/2011 22:12",
+		"testSequenceNextNextPreviousOpenSecondLesson" : "LaurentLaffont 2/15/2011 22:11",
+		"testShowFirstLessonOnGo" : "LaurentLaffont 1/21/2010 16:27",
+		"testShowingLessonByIndex" : "LaurentLaffont 2/15/2011 22:12",
+		"testShowingLessonBySelector" : "LaurentLaffont 2/15/2011 22:12" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "AST-Interpreter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"cause" ],
+	"name" : "InterpretationError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

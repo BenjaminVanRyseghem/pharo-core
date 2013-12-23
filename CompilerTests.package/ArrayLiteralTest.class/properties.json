@@ -1,0 +1,14 @@
+{
+	"category" : "CompilerTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ArrayLiteralTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

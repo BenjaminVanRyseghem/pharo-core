@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"=" : "MartinDias 4/12/2013 13:29",
+		"allSlotsDo:" : "ToonVerwaest 4/2/2011 14:27",
+		"allSlotsReverseDo:" : "CamilloBruni 4/4/2011 14:30",
+		"atName:" : "CamilloBruni 4/4/2011 13:03",
+		"atName:ifAbsent:" : "ToonVerwaest 4/1/2011 14:04",
+		"extend" : "CamilloBruni 7/17/2013 13:49",
+		"extend:" : "ToonVerwaest 4/2/2011 14:25",
+		"extend:as:" : "CamilloBruni 4/6/2011 14:28",
+		"fieldSize" : "ToonVerwaest 4/2/2011 14:27",
+		"firstFieldIndex" : "ToonVerwaest 4/2/2011 18:33",
+		"flatten" : "ToonVerwaest 4/2/2011 14:28",
+		"hasFields" : "ToonVerwaest 4/2/2011 14:29",
+		"hasSlots" : "ToonVerwaest 4/2/2011 14:29",
+		"hash" : "MartinDias 4/12/2013 13:29",
+		"ownFieldSize" : "CamilloBruni 4/6/2011 14:25",
+		"printSlotDefinitionOn:" : "ToonVerwaest 4/2/2011 14:29",
+		"rebase:to:" : "MartinDias 4/4/2013 20:40",
+		"visibleSlotNames" : "ToonVerwaest 4/2/2011 14:50",
+		"withParentScopesDo:" : "CamilloBruni 4/4/2011 18:31" } }

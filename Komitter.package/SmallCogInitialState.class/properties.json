@@ -1,0 +1,14 @@
+{
+	"category" : "Komitter-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SmallCogInitialState",
+	"pools" : [
+		 ],
+	"super" : "LoadingMorphState",
+	"type" : "normal" }

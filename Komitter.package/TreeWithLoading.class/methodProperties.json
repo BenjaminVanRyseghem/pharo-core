@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 11/25/2013 14:18" },
+	"instance" : {
+		"doesNotUnderstand:" : "BenjaminVanRyseghem 11/25/2013 14:31",
+		"initialize" : "BenjaminVanRyseghem 11/25/2013 14:18",
+		"initializeWidgets" : "BenjaminVanRyseghem 11/25/2013 14:18",
+		"loading" : "BenjaminVanRyseghem 11/25/2013 14:14",
+		"loading:" : "BenjaminVanRyseghem 11/25/2013 14:14",
+		"loadingAnimation" : "BenjaminVanRyseghem 11/26/2013 22:36",
+		"loadingSpec" : "BenjaminVanRyseghem 11/25/2013 14:18",
+		"showLoading" : "BenjaminVanRyseghem 11/25/2013 16:33",
+		"showTree" : "BenjaminVanRyseghem 11/25/2013 16:33",
+		"tree" : "BenjaminVanRyseghem 11/25/2013 14:13",
+		"treeSpec" : "BenjaminVanRyseghem 11/25/2013 14:17" } }

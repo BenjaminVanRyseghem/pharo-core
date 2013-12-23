@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"commandName" : "CamilloBruni 10/13/2012 12:51",
+		"description" : "CamilloBruni 10/13/2012 12:51" },
+	"instance" : {
+		"activate" : "CamilloBruni 4/6/2013 23:13",
+		"configuration" : "CamilloBruni 4/6/2013 22:56",
+		"configurationName" : "CamilloBruni 4/6/2013 23:19",
+		"configurationVersion" : "CamilloBruni 4/6/2013 22:48",
+		"defaultRepositoryUrl" : "CamilloBruni 9/4/2013 16:16",
+		"errorNoConfigurationsFound" : "CamilloBruni 10/13/2012 15:46",
+		"gofer" : "CamilloBruni 4/6/2013 23:25",
+		"groups" : "DamienCassou 10/2/2013 15:27",
+		"handleMergeConflictDuring:" : "CamilloBruni 9/15/2013 17:54",
+		"hasConfiguration" : "CamilloBruni 10/13/2012 13:20",
+		"hasRepositoryUrl" : "CamilloBruni 11/13/2013 17:01",
+		"installConfiguration" : "CamilloBruni 4/6/2013 22:47",
+		"installVersion:" : "DamienCassou 10/2/2013 15:29",
+		"list" : "CamilloBruni 4/6/2013 22:52",
+		"listConfigurationDetails" : "CamilloBruni 10/13/2012 14:02",
+		"listConfigurations" : "CamilloBruni 4/6/2013 23:25",
+		"loadConfigurationNames" : "CamilloBruni 10/13/2012 13:53",
+		"loadRepositoryUrl" : "CamilloBruni 11/13/2013 17:04",
+		"metacelloVersion:" : "CamilloBruni 10/25/2012 19:24",
+		"printConfigurations:" : "CamilloBruni 11/2/2012 15:26",
+		"printMetacelloProjectDetails:" : "CamilloBruni 4/6/2013 23:22",
+		"project" : "CamilloBruni 10/13/2012 14:02",
+		"repositoryUrl" : "CamilloBruni 4/6/2013 23:25" } }

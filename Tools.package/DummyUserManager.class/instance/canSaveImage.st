@@ -1,0 +1,4 @@
+permissions
+canSaveImage
+
+	^ true

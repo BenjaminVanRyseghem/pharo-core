@@ -1,0 +1,4 @@
+protocol
+titleText
+
+	^ titleWidget text

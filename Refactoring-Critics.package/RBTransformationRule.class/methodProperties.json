@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"cleanUp" : "MarcusDenker 10/11/2013 11:21",
+		"initialize" : "lr 2/23/2009 23:48",
+		"initializeRecursiveSelfRule" : "lr 11/2/2009 00:14",
+		"isVisible" : "lr 2/24/2009 17:09",
+		"recursiveSelfRule" : "MarcusDenker 10/12/2013 00:09" },
+	"instance" : {
+		"builder" : "CamilleTeruel 4/3/2013 17:24",
+		"changes" : "CamilleTeruel 4/3/2013 17:24",
+		"checkMethod:" : "CamilloBruni 8/31/2013 20:51",
+		"hasConflicts" : "lr 2/23/2009 23:47",
+		"initialize" : "lr 11/2/2009 00:14",
+		"isEmpty" : "lr 2/23/2009 23:47",
+		"problemCount" : "lr 2/23/2009 23:46",
+		"resetResult" : "lr 9/8/2011 20:10",
+		"result" : "lr 9/8/2011 20:15",
+		"rewriteRule" : "lr 2/23/2009 23:23" } }

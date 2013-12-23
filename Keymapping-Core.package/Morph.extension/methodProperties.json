@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allowsKeymapping" : "GuillermoPolito 8/6/2013 16:23",
+		"allowsKeymapping:" : "GuillermoPolito 8/6/2013 16:23",
+		"attachKeymapCategory:" : "GuillermoPolito 5/4/2013 16:02",
+		"attachKeymapCategory:onProperty:" : "GuillermoPolito 10/20/2011 23:33",
+		"attachKeymapCategory:targetting:" : "GuillermoPolito 10/20/2011 18:09",
+		"bindKeyCombination:toAction:" : "GuillermoPolito 8/5/2013 10:21",
+		"detachAllKeymapCategories" : "BenjaminVanRyseghem 2/20/2012 19:35",
+		"detachKeymapCategory:" : "BenjaminVanRyseghem 2/20/2012 19:23",
+		"detachKeymapCategory:targetting:" : "BenjaminVanRyseghem 2/20/2012 19:23",
+		"dispatchKeystrokeForEvent:" : "GuillermoPolito 3/14/2011 00:03",
+		"handleKeystrokeWithKeymappings:" : "GuillermoPolito 11/7/2013 16:52",
+		"hasKeymapCategoryNamed:" : "SeanDeNigris 7/9/2012 23:40",
+		"initializeShortcuts:" : "ThierryGoubier 9/15/2012 21:06",
+		"kmDispatcher" : "ThierryGoubier 9/14/2012 22:21",
+		"on:do:" : "GuillermoPolito 8/5/2013 10:27",
+		"removeKeyCombination:" : "BenjaminVanRyseghem 11/12/2013 16:14" } }

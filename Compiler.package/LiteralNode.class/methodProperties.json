@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "eem 9/6/2009 12:34",
+		"emitCodeForValue:encoder:" : "eem 5/14/2008 16:19",
+		"isConstantNumber" : "",
+		"isLiteralNode" : "MarcusDenker 9/20/2013 13:27",
+		"isSpecialConstant" : "",
+		"literalValue" : "",
+		"name:key:index:type:" : "eem 5/14/2008 09:30",
+		"printOn:indent:" : "ClementBera 7/26/2013 16:48",
+		"sizeCodeForValue:" : "eem 5/14/2008 17:03" } }

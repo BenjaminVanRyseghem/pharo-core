@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"default" : "stephaneducasse 2/4/2006 20:47",
+		"withRepositories:" : "EstebanLorenzano 9/8/2013 10:57" },
+	"instance" : {
+		"addBasicRepository:" : "abc 11/8/2013 17:09",
+		"addRepository:" : "abc 11/8/2013 17:09",
+		"addRepositoryGroup:" : "abc 11/8/2013 17:10",
+		"addTo:" : "abc 11/8/2013 17:10",
+		"disableCache" : "NorbertHartl 6/20/2008 10:11",
+		"includes:" : "avi 11/7/2003 00:20",
+		"includesVersionNamed:" : "EstebanLorenzano 5/3/2013 14:22",
+		"initialize" : "alain.plantec 5/28/2009 10:03",
+		"removeHTTPRepositoryLocationNamed:" : "BenjaminVanRyseghem 7/22/2013 14:51",
+		"removeRepository:" : "BenjaminVanRyseghem 7/22/2013 14:51",
+		"repositories" : "SeanDeNigris 7/17/2012 15:42",
+		"repositoriesDo:" : "avi 11/7/2003 00:51",
+		"useCache" : "abc 6/20/2008 10:02",
+		"versionWithInfo:" : "dvf 8/10/2004 23:02",
+		"versionWithInfo:ifNone:" : "marcus.denker 11/10/2008 10:04" } }

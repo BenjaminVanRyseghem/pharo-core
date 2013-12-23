@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"internSpec" : "BenjaminVanRyseghem 9/27/2013 10:47" },
+	"instance" : {
+		"groupLabel" : "BenjaminVanRyseghem 5/11/2012 17:21",
+		"groupTextField" : "BenjaminVanRyseghem 5/11/2012 17:21",
+		"initialExtent" : "BenjaminVanRyseghem 8/2/2012 16:41",
+		"initialize" : "CamilloBruni 7/17/2013 22:56",
+		"initializeDialogWindow:" : "BenjaminVanRyseghem 8/2/2012 16:46",
+		"initializePresenter" : "BenjaminVanRyseghem 8/2/2012 15:21",
+		"initializeWidgets" : "BenjaminVanRyseghem 8/2/2012 16:51",
+		"keychainEditingWrapper" : "BenjaminVanRyseghem 5/11/2012 17:49",
+		"keychainEditingWrapper:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"ok" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"setNewPassword" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"setPassword" : "BenjaminVanRyseghem 5/11/2012 17:21",
+		"title" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"usernameLabel" : "BenjaminVanRyseghem 5/11/2012 17:21",
+		"usernameTextField" : "BenjaminVanRyseghem 5/11/2012 17:21" } }

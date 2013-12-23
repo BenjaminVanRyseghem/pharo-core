@@ -1,0 +1,3 @@
+accessing
+getHeaderTitleSelector: anObject
+	getHeaderTitleSelector value: anObject

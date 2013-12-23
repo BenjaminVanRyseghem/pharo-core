@@ -1,0 +1,14 @@
+{
+	"category" : "AsmJit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"asm" ],
+	"name" : "AJx86AssemblerTests",
+	"pools" : [
+		"AJx86Registers" ],
+	"super" : "TestCase",
+	"type" : "normal" }

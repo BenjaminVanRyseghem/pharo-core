@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"objectClass:" : "Igor.Stasenko 5/17/2010 18:42" },
+	"instance" : {
+		"coerceReturnPointer:" : "IgorStasenko 7/1/2013 16:38",
+		"coerceReturnValue:" : "IgorStasenko 7/5/2013 15:46",
+		"dataIvarIndex" : "CiprianTeodorov 3/28/2013 20:24",
+		"fetchAddressFromData:gen:" : "IgorStasenko 7/1/2013 12:24",
+		"fetchStructAddressFrom:gen:" : "IgorStasenko 7/1/2013 12:21",
+		"objectClass" : "Igor.Stasenko 5/17/2010 18:43",
+		"objectClass:" : "Igor.Stasenko 5/17/2010 18:43",
+		"prepareReturnValue:for:" : "IgorStasenko 7/1/2013 16:25",
+		"pushAsPointer:" : "IgorStasenko 7/8/2013 17:38",
+		"pushAsValue:" : "IgorStasenko 7/5/2013 15:43",
+		"readOop:generator:" : "CiprianTeodorov 4/7/2013 19:32",
+		"returnViaRegisters" : "CiprianTeodorov 1/28/2013 23:42",
+		"valueSize" : "IgorStasenko 5/26/2012 14:12" } }

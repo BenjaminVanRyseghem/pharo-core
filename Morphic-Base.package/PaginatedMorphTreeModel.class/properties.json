@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-MorphTreeWidget-Pagination",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pageSize" ],
+	"name" : "PaginatedMorphTreeModel",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeModel",
+	"type" : "normal" }

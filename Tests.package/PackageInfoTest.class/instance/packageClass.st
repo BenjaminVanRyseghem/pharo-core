@@ -1,0 +1,3 @@
+*Tests-util
+packageClass
+	^ PackageInfo

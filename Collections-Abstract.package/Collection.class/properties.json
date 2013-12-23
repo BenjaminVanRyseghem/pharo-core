@@ -1,0 +1,15 @@
+{
+	"category" : "Collections-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MutexForPicking",
+		"RandomForPicking" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Collection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

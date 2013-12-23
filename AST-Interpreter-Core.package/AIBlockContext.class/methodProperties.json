@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"fromVMContext:" : "ClementBera 7/26/2013 16:11" },
+	"instance" : {
+		"=" : "ClementBera 10/18/2012 16:44",
+		"debugPrintString" : "ClementBera 3/6/2013 16:07",
+		"exceptionHandler" : "CamilloBruni 12/9/2011 20:52",
+		"exceptionHandler:" : "CamilloBruni 12/9/2011 20:52",
+		"hasExceptionHandler" : "CamilloBruni 12/12/2011 14:19",
+		"homeContext" : "CamilloBruni 12/9/2011 14:57",
+		"homeContext:" : "CamilloBruni 12/9/2011 14:57",
+		"method" : "CamilloBruni 3/6/2013 11:32",
+		"methodClass" : "CamilloBruni 3/6/2013 12:39",
+		"printOn:" : "ClementBera 12/7/2012 10:58",
+		"receiver" : "CamilloBruni 12/9/2011 15:05",
+		"returnContext" : "ClementBera 12/7/2012 10:40" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PathTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "variable" }

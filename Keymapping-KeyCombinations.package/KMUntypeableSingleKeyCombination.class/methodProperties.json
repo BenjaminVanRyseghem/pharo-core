@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"arrowDown" : "CamilloBruni 9/15/2013 21:01",
+		"arrowLeft" : "CamilloBruni 9/15/2013 21:01",
+		"arrowRight" : "CamilloBruni 9/15/2013 21:01",
+		"arrowUp" : "CamilloBruni 9/15/2013 21:01",
+		"backspace" : "CamilloBruni 9/15/2013 21:01",
+		"delete" : "CamilloBruni 9/15/2013 21:01",
+		"end" : "CamilloBruni 9/15/2013 21:01",
+		"enter" : "CamilloBruni 9/15/2013 21:01",
+		"escape" : "CamilloBruni 9/15/2013 21:01",
+		"home" : "CamilloBruni 9/15/2013 21:06",
+		"ifSpecialKey:do:" : "CamilloBruni 9/15/2013 21:14",
+		"key:name:symbol:" : "CamilloBruni 9/15/2013 21:04",
+		"newSpecialKeys" : "CamilloBruni 9/16/2013 00:22",
+		"pageDown" : "CamilloBruni 9/15/2013 21:06",
+		"pageUp" : "CamilloBruni 9/15/2013 21:01",
+		"specialKeys" : "CamilloBruni 9/15/2013 21:10",
+		"tab" : "CamilloBruni 9/15/2013 21:01" },
+	"instance" : {
+		"name" : "CamilloBruni 9/15/2013 21:02",
+		"name:" : "CamilloBruni 9/15/2013 21:04",
+		"printOn:" : "CamilloBruni 9/15/2013 21:07",
+		"symbol" : "CamilloBruni 9/15/2013 21:03",
+		"symbol:" : "CamilloBruni 9/15/2013 21:04" } }

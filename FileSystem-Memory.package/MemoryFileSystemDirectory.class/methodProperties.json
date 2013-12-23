@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"ensureCreateDirectory:" : "S 6/17/2013 13:33",
+		"ensureCreateFile:" : "S 6/17/2013 13:32",
+		"entries" : "CamilloBruni 6/22/2012 20:02",
+		"fileEntriesDo:" : "MarcusDenker 10/7/2013 21:24",
+		"fileEntriesIncludes:" : "CamilloBruni 5/24/2013 14:03",
+		"fileEntryAt:" : "CamilloBruni 5/24/2013 13:59",
+		"fileEntryAt:ifAbsent:" : "CamilloBruni 7/10/2012 14:47",
+		"fileEntryAt:ifPresent:" : "CamilloBruni 7/10/2012 14:48",
+		"fileEntryAt:put:" : "CamilloBruni 5/24/2013 13:55",
+		"fileEntryRemove:" : "CamilloBruni 6/17/2013 10:42",
+		"fileEntryRemove:ifAbsent:" : "CamilloBruni 6/17/2013 10:40",
+		"fileSize" : "CamilloBruni 7/10/2012 14:54",
+		"initialize" : "CamilloBruni 6/22/2012 20:00",
+		"isDirectory" : "CamilloBruni 6/22/2012 20:02" } }

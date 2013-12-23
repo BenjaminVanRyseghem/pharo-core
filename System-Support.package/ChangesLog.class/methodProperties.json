@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"default" : "CamilleTeruel 7/30/2012 00:45",
+		"reset" : "EstebanLorenzano 8/3/2012 14:07" },
+	"instance" : {
+		"assureStartupStampLogged" : "MartinDias 11/5/2013 14:45",
+		"forceChangesToDisk" : "MarcusDenker 10/9/2013 17:05",
+		"logChange:" : "MartinDias 11/5/2013 14:44",
+		"logClassRemoved:" : "GuillermoPolito 8/3/2012 14:42",
+		"logClassRenamed:" : "EstebanLorenzano 2/28/2013 16:49",
+		"logExpressionEvaluated:" : "GuillermoPolito 8/3/2012 14:43",
+		"logMethodRemoved:" : "CamilleTeruel 7/29/2012 19:46",
+		"logSnapshot:andQuit:" : "YuriyTymchuk 12/20/2013 14:27",
+		"recordStartupStamp" : "CamilloBruni 11/5/2013 16:55",
+		"registerToAnnouncements" : "EstebanLorenzano 2/28/2013 16:45" } }

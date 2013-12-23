@@ -1,0 +1,14 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"successor" ],
+	"name" : "IRBlockReturnTop",
+	"pools" : [
+		 ],
+	"super" : "IRReturn",
+	"type" : "normal" }

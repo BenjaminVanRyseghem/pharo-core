@@ -1,0 +1,24 @@
+{
+	"category" : "SmartSuggestions-Suggestion",
+	"classinstvars" : [
+		"collectorForInstancesVariable",
+		"collectorForTemporaryVariable",
+		"collectorForUndeclaredVariable",
+		"collectorForSourceCode",
+		"collectorForMethod",
+		"collectorForMessage",
+		"collectorForClass",
+		"collectorForClassVariable",
+		"collectorForLiteral",
+		"collectorForAll",
+		"collectorForAssignment" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SugsSuggestionFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

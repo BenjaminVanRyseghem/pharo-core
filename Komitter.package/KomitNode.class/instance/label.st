@@ -1,0 +1,4 @@
+protocol
+label
+
+	self subclassResponsibility

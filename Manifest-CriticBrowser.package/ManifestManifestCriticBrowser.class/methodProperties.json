@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"rejectClasses" : "SimonAllier 2/1/2013 15:29",
+		"rejectRules" : "SimonAllier 3/22/2013 15:13",
+		"ruleBadMessageRuleV1FalsePositive" : "CamilloBruni 9/18/2013 22:54",
+		"ruleCodeCruftLeftInMethodsRuleV1TODO" : "CamilloBruni 9/18/2013 22:54",
+		"ruleCollectionMessagesToExternalObjectRuleV1FalsePositive" : "CamilleTeruel 9/18/2013 10:41",
+		"ruleEquivalentSuperclassMethodsRuleV1FalsePositive" : "CamilloBruni 9/18/2013 22:54",
+		"ruleGuardClauseRuleV1FalsePositive" : "SimonAllier 2/6/2013 15:08",
+		"ruleImplementedNotSentRuleV1FalsePositive" : "SimonAllier 2/1/2013 15:29",
+		"ruleMissingSubclassResponsibilityRuleV1FalsePositive" : "SimomAllier 3/25/2013 16:31",
+		"ruleMissingYourselfRuleV1FalsePositive" : "CamilleTeruel 9/18/2013 10:41",
+		"ruleOnlyReadOrWrittenTemporaryRuleV1FalsePositive" : "CamilleTeruel 9/18/2013 10:41",
+		"ruleOnlyReadOrWrittenVariableRuleV1FalsePositive" : "CamilloBruni 9/18/2013 22:54",
+		"ruleReturnsIfTrueRuleV1FalsePositive" : "CamilloBruni 9/18/2013 22:54",
+		"ruleSentNotImplementedRuleV1FalsePositive" : "CamilleTeruel 9/18/2013 10:41",
+		"ruleSubclassResponsibilityNotDefinedRuleV1FalsePositive" : "SimonAllier 2/1/2013 15:29",
+		"ruleTemporaryVariableCapitalizationRuleV1FalsePositive" : "CamilleTeruel 9/18/2013 10:41" },
+	"instance" : {
+		 } }

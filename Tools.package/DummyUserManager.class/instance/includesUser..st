@@ -1,0 +1,4 @@
+protocol
+includesUser: aUser
+
+	^ false

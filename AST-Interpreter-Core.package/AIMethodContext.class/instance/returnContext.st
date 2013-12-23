@@ -1,0 +1,3 @@
+accessing
+returnContext
+	^ self outerContext

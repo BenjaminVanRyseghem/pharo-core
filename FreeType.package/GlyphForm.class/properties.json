@@ -1,0 +1,15 @@
+{
+	"category" : "FreeType-Fonts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"advance",
+		"linearAdvance" ],
+	"name" : "GlyphForm",
+	"pools" : [
+		 ],
+	"super" : "Form",
+	"type" : "normal" }

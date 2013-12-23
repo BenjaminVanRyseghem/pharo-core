@@ -1,0 +1,14 @@
+{
+	"category" : "FuelTests-Mocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FLNotSerializableMock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

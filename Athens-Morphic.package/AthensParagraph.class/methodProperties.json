@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"caretRect" : "IgorStasenko 8/31/2012 01:31",
+		"characterBlockForIndex:" : "IgorStasenko 11/21/2011 16:08",
+		"compose:style:from:in:" : "IgorStasenko 11/21/2011 12:22",
+		"compose:style:in:" : "IgorStasenko 11/21/2011 12:50",
+		"defaultCharacterBlock" : "IgorStasenko 11/21/2011 13:04",
+		"drawOnAthensCanvas:bounds:" : "IgorStasenko 10/7/2012 23:32",
+		"extent" : "IgorStasenko 11/21/2011 12:48",
+		"extraSelectionChanged" : "IgorStasenko 11/21/2011 13:07",
+		"findReplaceSelectionRegex:" : "IgorStasenko 11/21/2011 13:06",
+		"focused" : "IgorStasenko 8/31/2012 01:28",
+		"focused:" : "IgorStasenko 11/21/2011 12:45",
+		"positionWhenComposed:" : "IgorStasenko 11/21/2011 13:00",
+		"secondarySelection:" : "IgorStasenko 11/21/2011 13:06",
+		"selectionColor:" : "IgorStasenko 11/21/2011 13:02",
+		"selectionRects" : "IgorStasenko 11/21/2011 13:08",
+		"selectionStart:selectionStop:" : "IgorStasenko 11/21/2011 13:09",
+		"showCared" : "IgorStasenko 8/31/2012 01:28",
+		"showCaret" : "IgorStasenko 8/31/2012 01:29",
+		"showCaret:" : "IgorStasenko 8/31/2012 01:29",
+		"text" : "IgorStasenko 11/21/2011 13:05",
+		"textOwner:" : "IgorStasenko 11/21/2011 12:20" } }

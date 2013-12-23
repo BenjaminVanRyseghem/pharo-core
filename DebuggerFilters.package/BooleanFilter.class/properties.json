@@ -1,0 +1,15 @@
+{
+	"category" : "DebuggerFilters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filters",
+		"booleanOperator" ],
+	"name" : "BooleanFilter",
+	"pools" : [
+		 ],
+	"super" : "StackFilter",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "CamilloBruni 8/27/2013 15:06",
+		"testAddParameterForTwoArgumentMessage" : "lr 9/8/2011 20:11",
+		"testAddParameterThatReferencesGlobalAndLiteral" : "lr 9/8/2011 20:11",
+		"testAddParameterThatReferencesModelGlobal" : "lr 9/8/2011 20:11",
+		"testAddParameterThatReferencesSelf" : "lr 9/8/2011 20:11",
+		"testBadInitializationCode" : "lr 9/8/2011 20:11",
+		"testModelBadInitializationCode" : "lr 9/8/2011 20:11",
+		"testModelNonExistantName" : "lr 9/8/2011 20:11",
+		"testNonExistantName" : "lr 9/8/2011 20:11",
+		"testPrimitiveMethods" : "lr 9/8/2011 20:11" } }

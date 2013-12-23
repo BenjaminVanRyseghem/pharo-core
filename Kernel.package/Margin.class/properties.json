@@ -1,0 +1,17 @@
+{
+	"category" : "Kernel-BasicObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"right",
+		"bottom",
+		"left",
+		"top" ],
+	"name" : "Margin",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

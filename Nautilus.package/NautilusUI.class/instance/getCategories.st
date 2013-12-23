@@ -1,0 +1,4 @@
+tests
+getCategories
+
+	^ categoryWidget getCategories

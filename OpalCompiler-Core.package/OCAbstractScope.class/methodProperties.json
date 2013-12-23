@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"instanceScope" : "ms 7/11/2007 11:16",
+		"isInsideOptimizedLoop" : "JorgeRessia 9/23/2010 19:15",
+		"isInstanceScope" : "JorgeRessia 9/23/2010 19:15",
+		"isOptimizedBlockScope" : "MarcusDenker 12/20/2012 14:38",
+		"lookupSelector:" : "ajh 2/25/2003 22:41",
+		"lookupVar:" : "ajh 3/11/2003 20:19",
+		"lookupVarForDeclaration:" : "MarcusDenker 6/5/2013 13:53",
+		"node" : "MarcusDenker 12/18/2012 13:39",
+		"node:" : "MarcusDenker 12/18/2012 13:32",
+		"outerScope" : "ajh 2/26/2003 13:44",
+		"outerScope:" : "ajh 2/26/2003 13:43",
+		"possibleSelectorsFor:" : "ajh 2/25/2003 22:40",
+		"scopeLevel" : "ajh 3/20/2003 11:27" } }

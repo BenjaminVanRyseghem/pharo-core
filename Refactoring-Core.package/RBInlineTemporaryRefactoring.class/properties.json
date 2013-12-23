@@ -1,0 +1,18 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sourceInterval",
+		"selector",
+		"sourceTree",
+		"assignmentNode",
+		"definingNode" ],
+	"name" : "RBInlineTemporaryRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring",
+	"type" : "normal" }

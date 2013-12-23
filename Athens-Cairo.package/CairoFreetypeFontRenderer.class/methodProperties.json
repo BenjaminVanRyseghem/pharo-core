@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"advance" : "IgorStasenko 9/1/2012 21:29",
+		"advance:" : "IgorStasenko 9/1/2012 21:30",
+		"canvas:" : "IgorStasenko 9/2/2012 00:24",
+		"font:" : "IgorStasenko 9/2/2012 00:28",
+		"initialize" : "IgorStasenko 9/2/2012 00:24",
+		"render:" : "IgorStasenko 8/30/2012 18:27",
+		"renderCharacters:from:to:" : "IgorStasenko 10/11/2012 15:46",
+		"setColor:" : "IgorStasenko 9/2/2012 01:43" } }

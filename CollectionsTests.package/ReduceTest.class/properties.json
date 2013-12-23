@@ -1,0 +1,14 @@
+{
+	"category" : "CollectionsTests-Sequenceable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ReduceTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

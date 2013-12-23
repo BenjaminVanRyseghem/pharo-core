@@ -1,0 +1,14 @@
+{
+	"category" : "Settings-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GraphicFontSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

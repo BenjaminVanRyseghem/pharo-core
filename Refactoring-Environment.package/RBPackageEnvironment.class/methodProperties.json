@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"onEnvironment:packageNames:" : "CamilloBruni 8/27/2013 01:39",
+		"onEnvironment:packages:" : "lr 11/25/2009 08:54",
+		"package:" : "CamilloBruni 7/2/2013 23:24",
+		"packageName:" : "CamilloBruni 7/2/2013 23:24",
+		"packageNames:" : "CamilloBruni 7/2/2013 23:22",
+		"packages:" : "CamilloBruni 7/2/2013 23:22" },
+	"instance" : {
+		"asSelectorEnvironment" : "lr 9/8/2011 20:32",
+		"classesAndSelectorsDo:" : "CamilloBruni 8/27/2013 01:42",
+		"classesDo:" : "lr 12/3/2009 10:16",
+		"definesClass:" : "lr 5/15/2010 09:39",
+		"includesCategory:" : "CamilloBruni 7/7/2013 18:34",
+		"includesClass:" : "CamilloBruni 7/7/2013 18:33",
+		"includesProtocol:in:" : "lr 12/3/2009 10:13",
+		"includesSelector:in:" : "CamilloBruni 8/27/2013 01:49",
+		"initialize" : "lr 4/12/2010 15:25",
+		"numberSelectors" : "lr 12/3/2009 13:30",
+		"packageNames" : "lr 11/25/2009 08:49",
+		"packages" : "lr 11/25/2009 08:46",
+		"packages:" : "lr 12/20/2009 09:29",
+		"postCopy" : "lr 4/12/2010 15:26",
+		"printOn:" : "CamilloBruni 8/27/2013 01:36",
+		"storeOn:" : "TestRunner 12/23/2009 21:22" } }

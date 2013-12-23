@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allPropagationsDo:" : "MartinDias 7/11/2013 15:39",
+		"apply" : "ToonVerwaest 4/1/2011 17:49",
+		"checkSanity" : "CamilloBruni 3/30/2011 19:27",
+		"computeChange" : "ToonVerwaest 3/21/2011 01:20",
+		"initialize" : "ToonVerwaest 4/1/2011 03:31",
+		"layout" : "ToonVerwaest 3/20/2011 13:50",
+		"layout:" : "MartinDias 4/12/2013 13:01",
+		"newClass" : "ToonVerwaest 4/1/2011 17:49",
+		"newLayout" : "ToonVerwaest 4/1/2011 17:24",
+		"oldLayout" : "ToonVerwaest 4/1/2011 17:38",
+		"propagate" : "MartinDias 7/11/2013 15:30",
+		"result" : "ToonVerwaest 3/31/2011 19:53",
+		"target" : "ToonVerwaest 3/20/2011 19:40",
+		"target:" : "ToonVerwaest 3/19/2011 15:57" } }

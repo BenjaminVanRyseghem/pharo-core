@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"fromVMContext:" : "ClementBera 10/18/2012 14:39" },
+	"instance" : {
+		"=" : "ClementBera 10/18/2012 11:31",
+		"debugPrintString" : "ClementBera 3/5/2013 13:48",
+		"homeContext" : "CamilloBruni 12/9/2011 20:04",
+		"method" : "ClementBera 10/19/2012 11:00",
+		"printOn:" : "ClementBera 12/7/2012 10:58",
+		"receiver" : "CamilloBruni 12/5/2011 17:33",
+		"receiver:" : "CamilloBruni 12/5/2011 17:33",
+		"returnContext" : "CamilloBruni 12/5/2011 20:05",
+		"returnContext:" : "CamilloBruni 12/12/2011 15:51" } }

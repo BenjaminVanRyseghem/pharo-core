@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setNotRun" : "EstebanLorenzano 9/19/2013 16:59",
+		"testAnnouncementClassRemovedIsRaisedOnRemoveFromSystem" : "EstebanLorenzano 9/19/2013 17:00",
+		"testMethodPackageFromObsoleteClass" : "EstebanLorenzano 7/27/2012 19:40",
+		"testMethodPackageOfRemovedClass" : "GuillermoPolito 5/29/2012 13:25" } }

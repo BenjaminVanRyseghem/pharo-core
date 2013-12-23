@@ -1,0 +1,4 @@
+protocol
+asHistoryString
+	
+	^ '*', super asHistoryString

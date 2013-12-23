@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testExtractLocalInALiteralNodeIsValid" : "GiselaDecuzzi 5/15/2013 15:04",
+		"testExtractLocalInAMessageNodeIsValid" : "GiselaDecuzzi 5/15/2013 14:36",
+		"testExtractLocalInASequenceNodeWithMoreSentencesIsNotValid" : "GiselaDecuzzi 5/15/2013 14:42",
+		"testExtractLocalInASequenceNodeWithOneSentenceIsValid" : "GiselaDecuzzi 5/15/2013 14:45" } }

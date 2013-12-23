@@ -1,0 +1,14 @@
+{
+	"category" : "RecentSubmissions-MessageWrappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VersionMethodReferenceConverter",
+	"pools" : [
+		 ],
+	"super" : "AbstractMethodReferenceConverter",
+	"type" : "normal" }

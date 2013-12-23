@@ -1,0 +1,22 @@
+{
+	"category" : "Kernel-Job",
+	"classinstvars" : [
+		"jobAnnouncer" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"block",
+		"currentValue",
+		"min",
+		"max",
+		"title",
+		"children",
+		"isRunning",
+		"parent",
+		"process" ],
+	"name" : "Job",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

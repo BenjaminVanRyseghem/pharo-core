@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"signalFor:" : "abc 8/8/2011 12:50" },
+	"instance" : {
+		"cancel" : "CamilloBruni 9/12/2013 23:32",
+		"defaultAction" : "abc 8/8/2011 12:56",
+		"load" : "CamilloBruni 9/12/2013 23:32",
+		"merge" : "CamilloBruni 9/12/2013 23:32",
+		"messageText" : "CamilloBruni 1/16/2012 17:42",
+		"versions:" : "abc 8/8/2011 12:53" } }

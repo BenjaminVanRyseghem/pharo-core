@@ -1,0 +1,15 @@
+{
+	"category" : "KernelTests-Classes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"className",
+		"renamedName" ],
+	"name" : "ClassTest",
+	"pools" : [
+		 ],
+	"super" : "ClassTestCase",
+	"type" : "normal" }

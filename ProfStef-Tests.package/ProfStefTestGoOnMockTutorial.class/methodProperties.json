@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "LaurentLaffont 4/26/2011 13:54",
+		"tearDown" : "LaurentLaffont 4/26/2011 13:26",
+		"testFirstLessonShouldBeDisplayed" : "LaurentLaffont 4/26/2011 13:26",
+		"testLastShouldGoToThirdLesson" : "LaurentLaffont 4/26/2011 13:34",
+		"testLastThenFirstShouldGoToFirstLesson" : "LaurentLaffont 4/26/2011 13:35",
+		"testLastThenPreviousShouldGoToSecondLesson" : "LaurentLaffont 4/26/2011 13:35",
+		"testNextShouldGoToSecondLesson" : "LaurentLaffont 4/26/2011 13:33" } }

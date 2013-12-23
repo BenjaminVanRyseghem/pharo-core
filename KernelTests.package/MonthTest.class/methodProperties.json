@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classToBeTested" : "brp 7/27/2003 12:42",
+		"selectorsToBeIgnored" : "brp 7/26/2003 23:29",
+		"setUp" : "CamilloBruni 8/22/2013 19:42",
+		"tearDown" : "brp 8/6/2003 19:37",
+		"testConverting" : "brp 7/26/2003 22:52",
+		"testEnumerating" : "brp 1/30/2005 09:35",
+		"testIndexOfMonth" : "StephaneDucasse 6/9/2012 22:57",
+		"testInquiries" : "brp 8/23/2003 16:08",
+		"testInstanceCreation" : "CamilloBruni 8/22/2013 19:42",
+		"testNameOfMonth" : "StephaneDucasse 6/9/2012 22:56",
+		"testPreviousNext" : "brp 7/26/2003 23:02",
+		"testPrinting" : "brp 7/26/2003 22:50",
+		"testReadFrom" : "brp 7/26/2003 22:46" } }

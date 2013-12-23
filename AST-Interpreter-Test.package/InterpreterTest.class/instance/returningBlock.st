@@ -1,0 +1,3 @@
+helper
+returningBlock
+	^ [^ 2]

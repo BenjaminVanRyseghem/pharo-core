@@ -1,0 +1,14 @@
+{
+	"category" : "RPackage-SystemIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PackageChecker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

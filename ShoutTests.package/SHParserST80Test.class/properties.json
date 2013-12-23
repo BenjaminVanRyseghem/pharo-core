@@ -1,0 +1,14 @@
+{
+	"category" : "ShoutTests-Parsing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SHParserST80Test",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "NautilusRefactoring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CodeRewritingRule",
+	"pools" : [
+		 ],
+	"super" : "RBTransformationRule",
+	"type" : "normal" }

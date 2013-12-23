@@ -1,0 +1,15 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 13:13",
+	"instvars" : [
+		"mouseOverRecipient",
+		"mouseOverSelector" ],
+	"name" : "EventHandlerPlus",
+	"pools" : [
+		 ],
+	"super" : "EventHandler",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Multilingual-Encodings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "X11Encoding",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

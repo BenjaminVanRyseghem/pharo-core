@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"extending:scope:host:" : "MartinDias 7/11/2013 16:01" },
+	"instance" : {
+		"=" : "MartinDias 4/12/2013 13:27",
+		"compactClassIndex" : "MartinDias 3/28/2013 12:00",
+		"compactClassIndex:" : "ToonVerwaest 4/1/2011 01:35",
+		"computeChangesFrom:in:" : "ToonVerwaest 4/1/2011 02:22",
+		"extend" : "MartinDias 9/5/2013 15:49",
+		"extend:" : "MartinDias 7/24/2013 13:21",
+		"extendByte" : "MartinDias 7/24/2013 13:21",
+		"extendCompiledMethod" : "MartinDias 7/24/2013 13:21",
+		"extendVariable:" : "MartinDias 7/24/2013 13:21",
+		"extendWord" : "MartinDias 7/24/2013 13:21",
+		"format" : "MartinDias 7/3/2013 18:00",
+		"hash" : "MartinDias 4/12/2013 13:27",
+		"initialize" : "ToonVerwaest 4/1/2011 01:34",
+		"initializeInstance:" : "ToonVerwaest 4/1/2011 01:53",
+		"reshapeFrom:to:" : "MartinDias 8/28/2013 15:48",
+		"reshapeTo:" : "CamilloBruni 7/17/2013 13:42" } }

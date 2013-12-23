@@ -1,0 +1,14 @@
+{
+	"category" : "AST-Interpreter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"method" ],
+	"name" : "AIRootContext",
+	"pools" : [
+		 ],
+	"super" : "AIBlockContext",
+	"type" : "normal" }

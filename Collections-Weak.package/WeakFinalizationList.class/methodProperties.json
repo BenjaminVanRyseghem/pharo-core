@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"hasNewFinalization" : "Igor.Stasenko 9/22/2010 20:18",
+		"initialize" : "EstebanLorenzano 9/19/2013 15:32",
+		"startUp:" : "EstebanLorenzano 9/19/2013 14:36" },
+	"instance" : {
+		"first" : "Igor.Stasenko 9/22/2010 21:06",
+		"swapWithNil" : "Igor.Stasenko 9/22/2010 21:06" } }

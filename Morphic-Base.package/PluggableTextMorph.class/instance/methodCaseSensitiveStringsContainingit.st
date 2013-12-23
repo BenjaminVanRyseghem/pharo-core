@@ -1,0 +1,3 @@
+menu messages
+methodCaseSensitiveStringsContainingit
+	self handleEdit: [textMorph editor methodCaseSensitiveStringsContainingit]

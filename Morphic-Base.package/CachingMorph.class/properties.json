@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-Base-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"damageRecorder",
+		"cacheCanvas" ],
+	"name" : "CachingMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

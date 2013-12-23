@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"asSlot" : "CamilloBruni 3/22/2011 16:40",
+		"checkValidName:" : "MartinDias 7/24/2013 13:39",
+		"named:" : "MartinDias 8/7/2012 01:12" },
+	"instance" : {
+		"=" : "MartinDias 6/24/2013 18:11",
+		"asSlot" : "CAmi 3/15/2011 14:34",
+		"finalize:" : "CAmi 3/15/2011 16:55",
+		"hash" : "MartinDias 4/12/2013 13:37",
+		"index" : "CamilloBruni 3/10/2011 15:01",
+		"index:" : "CamilloBruni 4/4/2011 18:16",
+		"initialize:" : "CamilloBruni 3/10/2011 17:17",
+		"internalRead:" : "MartinDias 6/24/2013 16:29",
+		"internalWrite:to:" : "MartinDias 6/24/2013 16:29",
+		"isVisible" : "CamilloBruni 3/30/2011 18:46",
+		"name" : "CamilloBruni 3/10/2011 15:01",
+		"name:" : "MartinDias 7/29/2012 20:58",
+		"parentScopeFor:" : "CamilloBruni 4/4/2011 18:41",
+		"printOn:" : "CamilloBruni 3/30/2011 15:37",
+		"read:" : "MartinDias 6/24/2013 16:28",
+		"size" : "CAmi 3/15/2011 14:32",
+		"storeInitializationOn:" : "CAmi 3/15/2011 17:59",
+		"storeOn:" : "CamilloBruni 3/29/2011 16:36",
+		"write:to:" : "MartinDias 6/24/2013 16:29" } }

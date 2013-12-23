@@ -1,0 +1,14 @@
+{
+	"category" : "Settings-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CodeHolderSystemSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

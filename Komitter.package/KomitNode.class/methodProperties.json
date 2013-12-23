@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"<=" : "BenjaminVanRyseghem 11/24/2013 21:25",
+		"=" : "BenjaminVanRyseghem 11/25/2013 16:49",
+		"checkChildren" : "BenjaminVanRyseghem 11/22/2013 13:30",
+		"hash" : "BenjaminVanRyseghem 12/7/2013 10:51",
+		"icon" : "BenjaminVanRyseghem 11/24/2013 20:37",
+		"ifNotSilentDo:" : "BenjaminVanRyseghem 11/24/2013 14:11",
+		"initialize" : "BenjaminVanRyseghem 11/24/2013 14:25",
+		"label" : "BenjaminVanRyseghem 11/24/2013 20:36",
+		"silentWhile:" : "BenjaminVanRyseghem 11/22/2013 13:30" } }

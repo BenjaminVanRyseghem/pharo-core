@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"initialize" : "BenjaminVanRyseghem 11/25/2013 17:34",
+		"new" : "BenjaminVanRyseghem 11/25/2013 17:36",
+		"package:" : "BenjaminVanRyseghem 11/25/2013 17:35",
+		"removePackage:" : "BenjaminVanRyseghem 11/27/2013 13:42" },
+	"instance" : {
+		"<=" : "BenjaminVanRyseghem 11/24/2013 21:27",
+		"=" : "BenjaminVanRyseghem 11/24/2013 19:55",
+		"classes" : "BenjaminVanRyseghem 11/27/2013 16:32",
+		"flush" : "BenjaminVanRyseghem 12/9/2013 18:20",
+		"hash" : "BenjaminVanRyseghem 12/7/2013 10:51",
+		"initialize" : "BenjaminVanRyseghem 12/9/2013 18:19",
+		"isEmpty" : "BenjaminVanRyseghem 11/22/2013 16:48",
+		"isFullyCommited" : "BenjaminVanRyseghem 11/27/2013 16:50",
+		"isFullyCommited:" : "BenjaminVanRyseghem 11/27/2013 16:50",
+		"isPackage" : "BenjaminVanRyseghem 11/21/2013 22:36",
+		"koDestinationText" : "BenjaminVanRyseghem 11/21/2013 22:26",
+		"koSourceText" : "BenjaminVanRyseghem 11/26/2013 10:22",
+		"package" : "BenjaminVanRyseghem 11/21/2013 14:01",
+		"package:" : "BenjaminVanRyseghem 11/27/2013 16:24",
+		"patch" : "BenjaminVanRyseghem 12/9/2013 18:29",
+		"printOn:" : "BenjaminVanRyseghem 11/21/2013 14:13",
+		"remotes" : "BenjaminVanRyseghem 11/22/2013 16:14",
+		"retrievePatch" : "BenjaminVanRyseghem 12/9/2013 18:29" } }

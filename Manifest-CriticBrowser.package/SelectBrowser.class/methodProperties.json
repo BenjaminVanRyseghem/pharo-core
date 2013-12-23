@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"defaultSpec" : "SimonAllier 9/28/2012 13:56" },
+	"instance" : {
+		"addAllButtonModel" : "",
+		"addButtonModel" : "",
+		"initialExtent" : "StephaneDucasse 3/21/2013 09:26",
+		"initializeWidgets" : "SimonAllier 1/28/2013 10:36",
+		"items:" : "StephaneDucasse 3/21/2013 09:27",
+		"nextAction" : "",
+		"nextButtonModel" : "SimonAllier 3/22/2013 15:16",
+		"removeAllButtonModel" : "",
+		"removeButtonModel" : "",
+		"selectedModel" : "",
+		"setAddAllButtonModel" : "",
+		"setAddButtonModel" : "Sd 11/30/2012 17:37",
+		"setFocusOrder" : "",
+		"setNextButtonModel" : "Sd 11/30/2012 17:37",
+		"setRemoveAllButtonModel" : "Sd 11/30/2012 17:37",
+		"setRemoveButtonModel" : "",
+		"toSelectModel" : "" } }

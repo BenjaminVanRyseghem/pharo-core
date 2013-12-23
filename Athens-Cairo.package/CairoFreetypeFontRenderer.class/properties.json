@@ -1,0 +1,22 @@
+{
+	"category" : "Athens-Cairo-Text",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TCairoLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"font",
+		"surface",
+		"utfConverter",
+		"canvas",
+		"advance",
+		"originalFont",
+		"cache" ],
+	"name" : "CairoFreetypeFontRenderer",
+	"pools" : [
+		"AthensCairoDefs" ],
+	"super" : "Object",
+	"traitcomposition" : "TCairoLibrary",
+	"type" : "normal" }

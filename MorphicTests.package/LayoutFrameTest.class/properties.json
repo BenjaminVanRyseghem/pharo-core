@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicTests-Layouts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LayoutFrameTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"category" : "Athens-PangoCairo",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TPangoCairoLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"spacing",
+		"tabs",
+		"alignment",
+		"ellipsize",
+		"wrap",
+		"indentation",
+		"justify" ],
+	"name" : "AthensPangoLayoutDescription",
+	"pools" : [
+		"PangoConstants",
+		"PangoTypes" ],
+	"super" : "Object",
+	"traitcomposition" : "TPangoCairoLibrary",
+	"type" : "normal" }

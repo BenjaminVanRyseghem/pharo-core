@@ -1,0 +1,14 @@
+{
+	"category" : "AST-Interpreter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sourceCode" ],
+	"name" : "FakeCompiledMethod",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

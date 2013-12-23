@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"compilerClass" : "MarcusDenker 5/23/2013 13:50",
+		"methodWithCopiedAndAssignedTemps" : "MarcusDenker 5/23/2013 13:45",
+		"methodWithCopiedAndPostClosedOverAssignedTemps" : "MarcusDenker 5/23/2013 13:45",
+		"methodWithCopiedTemps" : "MarcusDenker 5/23/2013 13:45",
+		"methodWithOptimizedBlocks" : "MarcusDenker 5/23/2013 13:45",
+		"methodWithOptimizedBlocksA" : "MarcusDenker 5/23/2013 13:45",
+		"methodWithVariousTemps" : "MarcusDenker 5/23/2013 13:45" },
+	"instance" : {
+		"closureCases" : "MarcusDenker 5/23/2013 13:45",
+		"doTestDebuggerTempAccessWith:with:" : "MarcusDenker 9/5/2013 13:00",
+		"evaluate:in:to:" : "MarcusDenker 9/5/2013 12:59",
+		"setUp" : "MarcusDenker 5/23/2013 13:46",
+		"tearDown" : "MarcusDenker 5/23/2013 13:45",
+		"testDebuggerTempAccess" : "MarcusDenker 5/23/2013 13:53",
+		"testInlineBlockCollectionEM1" : "MarcusDenker 5/23/2013 13:45",
+		"testInlineBlockCollectionLR1" : "MarcusDenker 5/23/2013 13:45",
+		"testInlineBlockCollectionLR2" : "MarcusDenker 5/23/2013 13:45",
+		"testInlineBlockCollectionLR3" : "MarcusDenker 5/23/2013 13:45",
+		"testInlineBlockCollectionSD1" : "MarcusDenker 5/23/2013 13:45",
+		"testOptimizedBlockLocalNilling1" : "MarcusDenker 5/23/2013 13:45",
+		"testOptimizedBlockLocalNilling2" : "MarcusDenker 5/23/2013 13:45" } }

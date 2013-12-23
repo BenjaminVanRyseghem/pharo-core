@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"getGlyphWidth:" : "IgorStasenko 11/7/2011 14:15",
+		"getPreciseAscent" : "IgorStasenko 9/1/2012 21:00",
+		"getPreciseDescent" : "IgorStasenko 11/7/2011 14:47",
+		"getPreciseHeight" : "IgorStasenko 10/28/2011 11:46",
+		"glyphRendererOn:" : "IgorStasenko 10/20/2011 05:12" } }

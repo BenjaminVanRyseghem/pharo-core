@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"actionType" : "AndreiChis 9/20/2013 18:10" },
+	"instance" : {
+		"appliesToDebugger:" : "AndreiChis 10/4/2013 14:18",
+		"askForSuperclassOf:to:toImplement:ifCancel:" : "AndreiChis 10/4/2013 14:10",
+		"defaultLabel" : "AndreiChis 9/20/2013 19:17",
+		"defaultOrder" : "AndreiChis 9/20/2013 18:05",
+		"executeAction" : "AndreiChis 10/4/2013 14:11",
+		"id" : "AndreiChis 9/20/2013 18:05" } }

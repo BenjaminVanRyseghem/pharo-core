@@ -1,0 +1,15 @@
+{
+	"category" : "ProfStef-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lesson",
+		"title" ],
+	"name" : "MockLessonView",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

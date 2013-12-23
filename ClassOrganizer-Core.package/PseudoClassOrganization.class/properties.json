@@ -1,0 +1,14 @@
+{
+	"category" : "ClassOrganizer-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PseudoClassOrganization",
+	"pools" : [
+		 ],
+	"super" : "ClassOrganization",
+	"type" : "normal" }

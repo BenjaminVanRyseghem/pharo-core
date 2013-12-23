@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "BenjaminVanRyseghem 7/10/2012 21:12",
+		"associationsDo:" : "BenjaminVanRyseghem 7/10/2012 21:14",
+		"at:put:" : "BenjaminVanRyseghem 7/10/2012 21:32",
+		"initialize" : "CamilloBruni 7/17/2013 23:06",
+		"initialize:" : "CamilloBruni 7/17/2013 23:06",
+		"removeKey:ifAbsent:" : "BenjaminVanRyseghem 7/10/2012 21:18" } }

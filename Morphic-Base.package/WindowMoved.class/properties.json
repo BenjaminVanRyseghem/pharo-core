@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-Base-WindowNotification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"oldPosition",
+		"newPosition" ],
+	"name" : "WindowMoved",
+	"pools" : [
+		 ],
+	"super" : "WindowAnnouncement",
+	"type" : "normal" }

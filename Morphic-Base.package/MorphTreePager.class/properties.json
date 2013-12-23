@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-MorphTreeWidget-Pagination",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentPageFirstIndex" ],
+	"name" : "MorphTreePager",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeNavigationBar",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"defaultSpec" : "CamilloBruni 9/26/2013 00:50" },
+	"instance" : {
+		"chooseNewEnvironment" : "CamilloBruni 10/1/2013 12:16",
+		"enableCustom" : "CamilloBruni 11/17/2013 15:33",
+		"enableCustom:" : "CamilloBruni 11/17/2013 15:33",
+		"enableGlobal" : "CamilloBruni 11/17/2013 15:33",
+		"enableGlobal:" : "CamilloBruni 11/17/2013 15:33",
+		"environment" : "CamilloBruni 11/17/2013 15:33",
+		"environment:" : "CamilloBruni 11/17/2013 15:33",
+		"environments" : "CamilloBruni 11/17/2013 15:34",
+		"environments:" : "CamilloBruni 11/17/2013 15:34",
+		"environmentsView" : "CamilloBruni 9/26/2013 00:51",
+		"initialize" : "CamilloBruni 9/26/2013 01:08",
+		"initializeWidgets" : "CamilloBruni 9/26/2013 01:07",
+		"label" : "CamilloBruni 9/26/2013 00:52",
+		"label:" : "CamilloBruni 9/26/2013 00:52",
+		"labelView" : "CamilloBruni 9/26/2013 00:50",
+		"update" : "CamilloBruni 9/26/2013 19:59",
+		"whenEnvironmentChanged:" : "CamilloBruni 9/26/2013 01:10" } }

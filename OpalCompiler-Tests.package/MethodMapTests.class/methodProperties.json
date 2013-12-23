@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compileAndRunExample:" : "MarcusDenker 12/20/2012 15:14",
+		"compileMethod:" : "MarcusDenker 12/20/2012 15:13",
+		"testBlockAndContextSourceNode" : "MarcusDenker 4/29/2013 15:04",
+		"testBlockSourceNode" : "MarcusDenker 4/29/2013 15:03",
+		"testExampleSimpleTemp" : "MarcusDenker 12/19/2012 17:32",
+		"testExampleTempNamedCopying" : "MarcusDenker 12/19/2012 18:02",
+		"testExampleTempNamedCopying2" : "MarcusDenker 12/19/2012 18:02",
+		"testExampleTempNamedPutCopying" : "MarcusDenker 12/19/2012 18:02",
+		"testExampleTempNamedPutCopying2" : "MarcusDenker 12/19/2012 18:01",
+		"testExampleTempNamedPutTempVector" : "MarcusDenker 12/19/2012 18:01",
+		"testExampleTempNamedPutTempVector2" : "MarcusDenker 12/19/2012 18:02",
+		"testExampleTempNamedTempVector" : "MarcusDenker 12/19/2012 18:03",
+		"testExampleTempNamedTempVector2" : "MarcusDenker 12/19/2012 18:03",
+		"testExampleTempNamedTempVectorNestedBlock" : "MarcusDenker 12/19/2012 17:38",
+		"testMethodSourceNodeAtPC" : "MarcusDenker 4/29/2013 15:03",
+		"testSimpleSourceMapping" : "md 1/17/2013 16:47",
+		"testSourceMappingBlock" : "md 1/17/2013 16:47",
+		"testTempNamedTempCopyingNestedBlock" : "MarcusDenker 12/19/2012 18:04",
+		"testTempNamedTempCopyingNestedBlockPROBLEM" : "MarcusDenker 12/19/2012 17:39",
+		"testThisContextSourceNode" : "MarcusDenker 4/19/2013 13:00" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Tools-Explorer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"itemName",
+		"parent" ],
+	"name" : "ObjectExplorerWrapper",
+	"pools" : [
+		 ],
+	"super" : "ListItemWrapper",
+	"type" : "normal" }

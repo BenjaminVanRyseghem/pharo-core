@@ -1,0 +1,4 @@
+private
+timestampClass
+
+	^ TimeStamp

@@ -1,0 +1,15 @@
+{
+	"category" : "ProfStef-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LaurentLaffont 1/15/2010 10:24",
+	"instvars" : [
+		"shoutMorph",
+		"window" ],
+	"name" : "LessonView",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,32 @@
+{
+	"category" : "Morphic-Base-MorphTreeWidget",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keystrokeActionSelector",
+		"multipleSelection",
+		"autoMultiSelection",
+		"potentialDropMorph",
+		"firstClickedMorph",
+		"lastClickedMorph",
+		"columnDropUnabled",
+		"doubleClickBlock",
+		"autoDeselection",
+		"searchedElement",
+		"lastKeystrokeTime",
+		"lastKeystrokes",
+		"lastSelection",
+		"client",
+		"isSelectionUpdateFromView",
+		"isCheckList",
+		"autoTargetMorph",
+		"selectedMorphList",
+		"removeOnlyLastSelected" ],
+	"name" : "MorphTreeListManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

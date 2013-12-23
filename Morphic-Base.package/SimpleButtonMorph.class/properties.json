@@ -1,0 +1,23 @@
+{
+	"category" : "Morphic-Base-Widgets",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TAbleToRotate classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 8/8/2010 17:34",
+	"instvars" : [
+		"target",
+		"actionSelector",
+		"arguments",
+		"actWhen",
+		"oldColor",
+		"mouseDownTime",
+		"label",
+		"helpText" ],
+	"name" : "SimpleButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"traitcomposition" : "TAbleToRotate",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "HelpSystem-Tests-Core-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WikiStyleHelpTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

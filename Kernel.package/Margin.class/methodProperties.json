@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"fromNumber:" : "StephaneDucasse 9/7/2013 09:03",
+		"fromPoint:" : "StephaneDucasse 9/7/2013 09:10",
+		"fromRectangle:" : "StephaneDucasse 9/7/2013 09:34",
+		"left:top:right:bottom:" : "StephaneDucasse 9/7/2013 11:24",
+		"top:left:bottom:right:" : "StephaneDucasse 9/7/2013 09:13" },
+	"instance" : {
+		"asMargin" : "StephaneDucasse 9/7/2013 11:26",
+		"bottom" : "StephaneDucasse 9/7/2013 09:02",
+		"expandRectangle:" : "StephaneDucasse 9/7/2013 10:57",
+		"extendRectangle:" : "StephaneDucasse 9/7/2013 12:55",
+		"fromNumber:" : "StephaneDucasse 9/7/2013 08:58",
+		"fromPoint:" : "StephaneDucasse 9/7/2013 09:08",
+		"fromRectangle:" : "StephaneDucasse 9/7/2013 09:32",
+		"height" : "StephaneDucasse 9/7/2013 11:37",
+		"initialize" : "StephaneDucasse 9/7/2013 09:01",
+		"insetRectangle:" : "StephaneDucasse 9/7/2013 10:57",
+		"isZero" : "StephaneDucasse 9/7/2013 10:29",
+		"left" : "StephaneDucasse 9/7/2013 09:02",
+		"printOn:" : "StephaneDucasse 9/7/2013 09:18",
+		"right" : "StephaneDucasse 9/7/2013 09:02",
+		"rightBottom" : "StephaneDucasse 9/7/2013 12:55",
+		"setTop:left:bottom:right:" : "StephaneDucasse 9/7/2013 09:00",
+		"top" : "StephaneDucasse 9/7/2013 09:02",
+		"width" : "StephaneDucasse 9/7/2013 11:37" } }

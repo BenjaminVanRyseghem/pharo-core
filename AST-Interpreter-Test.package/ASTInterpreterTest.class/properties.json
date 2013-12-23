@@ -1,0 +1,15 @@
+{
+	"category" : "AST-Interpreter-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"interpreter",
+		"context" ],
+	"name" : "ASTInterpreterTest",
+	"pools" : [
+		 ],
+	"super" : "InterpreterTest",
+	"type" : "normal" }

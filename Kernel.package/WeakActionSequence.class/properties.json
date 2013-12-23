@@ -1,0 +1,14 @@
+{
+	"category" : "Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WeakActionSequence",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }

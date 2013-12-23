@@ -1,0 +1,15 @@
+{
+	"category" : "NetworkTests-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"clientStream",
+		"serverStream" ],
+	"name" : "SocketStreamTest",
+	"pools" : [
+		 ],
+	"super" : "ClassTestCase",
+	"type" : "normal" }

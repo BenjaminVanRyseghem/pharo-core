@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createSuggestionAccesorsClassVar:" : "GiselaDecuzzi 4/23/2013 13:57",
+		"createSuggestionAccesorsInstVar:" : "GiselaDecuzzi 4/23/2013 11:19",
+		"targetFor:in:" : "GiselaDecuzzi 4/23/2013 13:56",
+		"testCreateAccessorsIsNotValidIfAccessorsAreAlreadyCreated" : "GiselaDecuzzi 4/23/2013 11:19",
+		"testCreateAccessorsIsValidIfAccessIsMissed" : "GiselaDecuzzi 4/23/2013 11:25",
+		"testCreateAccessorsIsValidIfAccessorsAreMissed" : "GiselaDecuzzi 4/23/2013 11:23",
+		"testCreateAccessorsIsValidIfMuttatorMissed" : "GiselaDecuzzi 4/23/2013 11:25",
+		"testCreateClassAccessorsIsNotValidIfAccessorsAreAlreadyCreated" : "GiselaDecuzzi 4/23/2013 11:28",
+		"testCreateClassAccessorsIsValidIfAccessIsMissed" : "GiselaDecuzzi 4/23/2013 14:10",
+		"testCreateClassAccessorsIsValidIfAccessorsAreMissed" : "GiselaDecuzzi 4/23/2013 14:10",
+		"testCreateClassAccessorsIsValidIfMuttatorMissed" : "GiselaDecuzzi 4/23/2013 14:11" } }

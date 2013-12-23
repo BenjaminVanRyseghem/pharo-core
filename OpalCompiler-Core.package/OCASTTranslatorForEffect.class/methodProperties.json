@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"emitAnd:" : "nice 5/1/2013 15:58",
+		"emitIfFalse:" : "MarcusDenker 4/11/2013 15:12",
+		"emitIfNotNil:" : "MarcusDenker 5/22/2013 16:50",
+		"emitIfTrue:" : "MarcusDenker 4/11/2013 15:12",
+		"emitMessageNode:" : "MarcusDenker 10/14/2010 15:50",
+		"emitOr:" : "nice 5/1/2013 15:58",
+		"visitArrayNode:" : "ClementBera 10/22/2013 13:09",
+		"visitAssignmentNode:" : "MarcusDenker 4/11/2013 15:12",
+		"visitBlockNode:" : "ClementBera 10/22/2013 13:04",
+		"visitLiteralNode:" : "MarcusDenker 4/17/2013 14:59",
+		"visitSequenceNode:" : "nice 5/2/2013 00:21",
+		"visitVariableNode:" : "MarcusDenker 4/17/2013 14:56" } }

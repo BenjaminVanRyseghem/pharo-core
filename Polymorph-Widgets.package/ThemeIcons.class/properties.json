@@ -1,0 +1,15 @@
+{
+	"category" : "Polymorph-Widgets-Themes",
+	"classinstvars" : [
+		"icons",
+		"current" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 10:25",
+	"instvars" : [
+		"icons" ],
+	"name" : "ThemeIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

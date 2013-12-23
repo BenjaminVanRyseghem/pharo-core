@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-MorphTreeWidget",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedNodePath" ],
+	"name" : "MorphTreeMorphSingleSelection",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeMorphSelection",
+	"type" : "normal" }

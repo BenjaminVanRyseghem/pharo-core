@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"analyze:" : "MarcusDenker 7/10/2013 15:55",
+		"blockcounter" : "MarcusDenker 5/18/2013 10:23",
+		"compilationContext" : "ClementBera 5/16/2013 13:59",
+		"compilationContext:" : "MarcusDenker 5/7/2013 08:56",
+		"declareVariableNode:" : "md 11/14/2013 17:11",
+		"lookupVariableForRead:" : "MarcusDenker 5/18/2013 10:32",
+		"lookupVariableForWrite:" : "MarcusDenker 4/16/2013 15:58",
+		"scope:" : "MarcusDenker 9/4/2010 09:53",
+		"storeIntoSpecialVariable:" : "MarcusDenker 5/23/2013 10:17",
+		"undeclaredVariable:" : "MarcusDenker 5/17/2013 16:26",
+		"uninitializedVariable:" : "MarcusDenker 5/22/2013 16:50",
+		"unknownSelector:" : "MarcusDenker 5/17/2013 16:34",
+		"unusedVariable:" : "MarcusDenker 5/17/2013 16:26",
+		"variable:shadows:" : "MarcusDenker 5/17/2013 16:26",
+		"visitAssignmentNode:" : "MarcusDenker 5/22/2013 16:51",
+		"visitBlockNode:" : "MarcusDenker 5/18/2013 10:23",
+		"visitInlinedBlockNode:" : "MarcusDenker 5/18/2013 10:23",
+		"visitMessageNode:" : "MarcusDenker 5/25/2013 16:21",
+		"visitMethodNode:" : "MarcusDenker 5/18/2013 10:44",
+		"visitPragmaNode:" : "MarcusDenker 5/14/2013 16:32",
+		"visitSequenceNode:" : "GabrielOmarCotelli 11/28/2013 19:14",
+		"visitVariableNode:" : "MarcusDenker 5/22/2013 16:51" } }

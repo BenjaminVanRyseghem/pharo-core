@@ -1,0 +1,14 @@
+{
+	"category" : "System-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BernardoContreras 1/18/2012 21:44",
+	"instvars" : [
+		"tools" ],
+	"name" : "ToolRegistry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"allManagers" : "StephaneDucasse 6/2/2012 19:39",
+		"initializeDefaultFromMC" : "EstebanLorenzano 11/27/2013 11:02" },
+	"instance" : {
+		"allManagers" : "StephaneDucasse 6/2/2012 19:39",
+		"initializeFromMC" : "EstebanLorenzano 10/8/2013 18:40",
+		"initializeFromMCExtensionsFor:protocol:" : "EstebanLorenzano 10/16/2013 12:49",
+		"initializeFromMCFor:" : "EstebanLorenzano 10/16/2013 15:58",
+		"initializeFromMCMethodsFor:" : "EstebanLorenzano 10/16/2013 12:48",
+		"isDefinedAsPackageOrSubPackageInMC:" : "EstebanLorenzano 11/27/2013 15:14",
+		"updateAfterNewMCPackageRegistred:" : "EstebanLorenzano 11/27/2013 15:17",
+		"updateAfterNewMCPackageUnregistred:" : "EstebanLorenzano 11/27/2013 15:17" } }

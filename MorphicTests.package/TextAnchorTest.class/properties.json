@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicTests-Text Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TextAnchorTest",
+	"pools" : [
+		 ],
+	"super" : "HashAndEqualsTestCase",
+	"type" : "normal" }

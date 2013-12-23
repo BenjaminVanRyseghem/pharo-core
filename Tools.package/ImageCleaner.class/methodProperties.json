@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"cleanUpForProduction" : "MarcusDenker 11/16/2012 17:01",
+		"cleanUpForRelease" : "MarcusDenker 11/16/2012 17:01" },
+	"instance" : {
+		"classesForCleanUpInProduction" : "MarcusDenker 11/16/2012 16:30",
+		"cleanUpForProduction" : "MarcusDenker 10/3/2013 19:55",
+		"cleanUpForRelease" : "MarcusDenker 7/26/2013 17:00",
+		"cleanUpMethods" : "MarcusDenke 10/23/2013 13:28",
+		"cleanUpProcesses" : "MarcusDenker 6/24/2013 12:42",
+		"packagesForCleanUpInProduction" : "EstebanLorenzano 2/19/2013 14:13" } }

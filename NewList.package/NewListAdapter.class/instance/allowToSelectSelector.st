@@ -1,0 +1,4 @@
+accessing
+allowToSelectSelector
+
+	^ allowToSelectSelector

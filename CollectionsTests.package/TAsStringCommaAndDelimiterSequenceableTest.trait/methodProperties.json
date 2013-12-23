@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"empty" : "",
+		"nonEmpty" : "",
+		"nonEmpty1Element" : "",
+		"testAsCommaStringMore" : "delaunay 4/23/2009 14:41",
+		"testAsCommaStringOne" : "delaunay 4/8/2009 11:38",
+		"testAsStringOnDelimiterLastMore" : "delaunay 4/9/2009 09:39",
+		"testAsStringOnDelimiterLastOne" : "delaunay 4/9/2009 09:43",
+		"testAsStringOnDelimiterMore" : "delaunay 4/8/2009 11:53",
+		"testAsStringOnDelimiterOne" : "delaunay 4/8/2009 14:43" } }

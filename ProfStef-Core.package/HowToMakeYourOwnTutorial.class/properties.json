@@ -1,0 +1,14 @@
+{
+	"category" : "ProfStef-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LaurentLaffont 2/15/2011 22:20",
+	"instvars" : [
+		 ],
+	"name" : "HowToMakeYourOwnTutorial",
+	"pools" : [
+		 ],
+	"super" : "AbstractTutorial",
+	"type" : "normal" }

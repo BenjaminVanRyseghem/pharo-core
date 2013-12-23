@@ -1,0 +1,4 @@
+accessing
+miterLimit
+
+	^ miterLimit

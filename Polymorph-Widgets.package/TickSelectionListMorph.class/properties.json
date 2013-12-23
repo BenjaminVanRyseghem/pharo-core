@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"storeValue" ],
+	"name" : "TickSelectionListMorph",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeMorph",
+	"type" : "normal" }

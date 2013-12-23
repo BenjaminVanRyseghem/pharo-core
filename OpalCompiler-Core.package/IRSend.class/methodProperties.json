@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "ToonVerwaest 3/27/2011 19:23",
+		"executeOn:" : "TestRunner 1/6/2010 10:26",
+		"isSend" : "md 11/12/2004 15:57",
+		"isSuperSend" : "md 10/10/2005 17:37",
+		"selector" : "md 6/23/2005 13:45",
+		"selector:" : "ajh 3/10/2003 00:44",
+		"superOf:" : "ajh 3/10/2003 00:45" } }

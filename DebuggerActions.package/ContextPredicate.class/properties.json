@@ -1,0 +1,14 @@
+{
+	"category" : "DebuggerActions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"result" ],
+	"name" : "ContextPredicate",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"bufferedWriteStreamOn:" : "SvenVanCaekenberghe 5/18/2013 18:58",
+		"capitalizeString:" : "SvenVanCaekenberghe 9/10/2010 20:14",
+		"currentProcessID" : "SvenVanCaekenberghe 12/14/2010 13:10",
+		"decodeBase64:" : "SvenVanCaekenberghe 3/21/2011 20:11",
+		"encodeBase64:" : "SvenVanCaekenberghe 4/26/2011 18:58",
+		"httpDate" : "SvenVanCaekenberghe 9/16/2010 15:52",
+		"httpDate:" : "SvenVanCaekenberghe 6/28/2011 10:55",
+		"isCapitalizedString:" : "SvenVanCaekenberghe 8/18/2011 14:15",
+		"nextPutAll:on:" : "SvenVanCaekenberghe 5/28/2013 13:04",
+		"parseHttpDate:" : "SvenVanCaekenberghe 11/10/2013 11:28",
+		"readUpToEnd:limit:" : "SvenVanCaekenberghe 6/11/2013 14:04",
+		"signalProgress:total:" : "SvenVanCaekenberghe 9/28/2013 18:00",
+		"streamFrom:to:" : "SvenVanCaekenberghe 9/17/2012 14:47",
+		"streamFrom:to:size:" : "SvenVanCaekenberghe 9/17/2012 14:47",
+		"streamingBufferSize" : "SvenVanCaekenberghe 9/17/2012 14:27",
+		"trimString:" : "SvenVanCaekenberghe 10/5/2010 21:24" },
+	"instance" : {
+		 } }

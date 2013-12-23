@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Arithmetic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CollectionsArithmeticReadme",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

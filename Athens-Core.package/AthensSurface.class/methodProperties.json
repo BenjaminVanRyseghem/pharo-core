@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"extent:" : "sig 2/29/2012 21:43" },
+	"instance" : {
+		"asForm" : "sig 2/29/2012 21:51",
+		"cacheAt:ifAbsentPut:" : "IgorStasenko 10/12/2012 03:22",
+		"clear" : "IgorStasenko 12/20/2011 15:38",
+		"clear:" : "IgorStasenko 9/1/2012 20:06",
+		"clipBy:during:" : "IgorStasenko 4/21/2011 14:47",
+		"createFormPaint:" : "IgorStasenko 3/8/2012 13:46",
+		"createLinearGradient:origin:corner:" : "IgorStasenko 4/13/2011 17:45",
+		"createLinearGradient:start:stop:" : "IgorStasenko 4/12/2013 09:59",
+		"createPath:" : "IgorStasenko 3/26/2011 19:32",
+		"createRadialGradient:center:radius:" : "IgorStasenko 4/27/2012 12:17",
+		"createRadialGradient:center:radius:focalPoint:" : "IgorStasenko 4/27/2012 12:16",
+		"createRectanglePath:" : "FernandoOlivero 1/13/2012 03:08",
+		"createSolidColorPaint:" : "IgorStasenko 12/20/2011 15:25",
+		"createStrokePaintFor:" : "IgorStasenko 4/27/2012 11:20",
+		"disableMask" : "IgorStasenko 3/27/2011 18:15",
+		"drawDuring:" : "IgorStasenko 3/7/2012 15:06",
+		"enableMask" : "IgorStasenko 3/27/2011 18:15",
+		"flushCacheAt:" : "IgorStasenko 10/12/2012 03:56",
+		"maskEnabled" : "IgorStasenko 3/27/2011 18:16",
+		"newCanvas" : "IgorStasenko 3/21/2011 02:35",
+		"releaseCanvas" : "IgorStasenko 3/22/2011 22:40" } }

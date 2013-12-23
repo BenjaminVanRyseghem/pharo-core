@@ -1,0 +1,22 @@
+{
+	"category" : "Morphic-Base-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"action",
+		"checked",
+		"enabled",
+		"separator",
+		"subMenu",
+		"icon",
+		"enabledBlock",
+		"keyText" ],
+	"name" : "PluggableMenuItemSpec",
+	"pools" : [
+		 ],
+	"super" : "MenuSpec",
+	"type" : "normal" }

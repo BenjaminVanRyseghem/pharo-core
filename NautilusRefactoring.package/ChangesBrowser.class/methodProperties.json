@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"buildShortcutsOn:" : "GuillermoPolito 3/19/2013 19:12",
+		"changes:" : "",
+		"defaultSpec" : "CD 11/29/2013 16:28",
+		"title" : "" },
+	"instance" : {
+		"accept" : "CD 11/29/2013 16:18",
+		"acceptButton" : "",
+		"buildDiffFor:" : "",
+		"cancel" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"cancelButton" : "",
+		"change:" : "CD 11/29/2013 16:19",
+		"changes:" : "CamilloBruni 10/8/2012 22:21",
+		"changesTree" : "CD 11/29/2013 16:21",
+		"initializeAcceptButton" : "BenjaminVanRyseghem 6/11/2012 10:51",
+		"initializeCancelButton" : "BenjaminVanRyseghem 6/11/2012 10:52",
+		"initializeChangesTree" : "CD 11/29/2013 16:24",
+		"initializePresenter" : "BenjaminVanRyseghem 12/5/2013 12:48",
+		"initializeTextArea" : "GuillermoPolito 8/5/2013 10:21",
+		"initializeWidgets" : "CD 11/29/2013 16:20",
+		"pickedChanges" : "CD 11/29/2013 16:19",
+		"scopeChooser" : "CamilloBruni 11/20/2013 17:02",
+		"setFocus" : "CD 11/29/2013 16:19",
+		"setShortcuts" : "CD 11/29/2013 16:21",
+		"textArea" : "",
+		"updateChanges" : "CamilloBruni 11/18/2013 21:00" } }

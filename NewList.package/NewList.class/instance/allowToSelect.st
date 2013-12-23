@@ -1,0 +1,4 @@
+accessing
+allowToSelect
+
+	^ allowToSelect value

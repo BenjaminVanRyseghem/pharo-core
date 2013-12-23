@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"with:" : "CamilloBruni 8/28/2013 16:05" },
+	"instance" : {
+		"beNegative" : "CamilloBruni 8/28/2013 16:08",
+		"bePositive" : "CamilloBruni 8/28/2013 16:08",
+		"dispatchTo:" : "CamilloBruni 8/28/2013 17:01",
+		"initializePiece:" : "CamilloBruni 8/28/2013 17:01",
+		"piece" : "CamilloBruni 8/28/2013 16:04" } }

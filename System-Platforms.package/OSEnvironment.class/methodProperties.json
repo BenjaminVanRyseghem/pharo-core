@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"default" : "CamilloBruni 4/29/2013 15:47",
+		"platform:" : "CamilloBruni 4/29/2013 16:50" },
+	"instance" : {
+		"asDictionary" : "CamilloBruni 4/29/2013 16:24",
+		"associations" : "CamilloBruni 4/29/2013 16:17",
+		"associationsDo:" : "CamilloBruni 4/29/2013 16:21",
+		"at:" : "CamilloBruni 4/29/2013 16:14",
+		"at:ifAbsent:" : "CamilloBruni 4/29/2013 16:14",
+		"at:ifAbsentPut:" : "CamilloBruni 4/29/2013 16:16",
+		"at:ifPresent:" : "CamilloBruni 5/4/2013 15:29",
+		"at:ifPresent:ifAbsent:" : "CamilloBruni 4/29/2013 16:16",
+		"at:put:" : "CamilloBrunui 5/6/2013 16:37",
+		"do:" : "CamilloBruni 5/4/2013 15:31",
+		"getEnv:" : "CamilloBruni 4/29/2013 15:43",
+		"includes:" : "CamilloBruni 5/4/2013 15:27",
+		"includesKey:" : "CamilloBruni 5/4/2013 15:30",
+		"initializeWith:" : "CamilloBruni 4/29/2013 16:50",
+		"keys" : "CamilloBruni 4/29/2013 16:18",
+		"keysAndValuesDo:" : "CamilloBruni 4/29/2013 17:43",
+		"keysAndValuesDo:withAssociationString:" : "CamilloBruni 4/29/2013 17:42",
+		"keysDo:" : "CamilloBruni 4/29/2013 16:21",
+		"platform" : "CamilloBruni 4/29/2013 16:50",
+		"removeKey:" : "CamilloBruni 5/4/2013 15:25",
+		"unsetEnv:" : "CamilloBruni 4/29/2013 15:52",
+		"values" : "CamilloBruni 4/29/2013 16:19",
+		"valuesDo:" : "CamilloBruni 4/29/2013 16:22" } }

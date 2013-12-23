@@ -1,0 +1,14 @@
+{
+	"category" : "FuelTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FLGlobalSendSerializationTest",
+	"pools" : [
+		 ],
+	"super" : "FLSerializationTest",
+	"type" : "normal" }

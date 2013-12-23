@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testLessonsReturnsAllLessonInstances" : "LaurentLaffont 9/21/2010 20:32",
+		"testTitleHumanizeClassName" : "LaurentLaffont 1/27/2010 21:05",
+		"testTutorialRaisesShouldBeImplemented" : "LaurentLaffont 4/26/2011 12:46",
+		"testTutorialsReturnsAllButMockTutorial" : "LaurentLaffont 1/30/2010 09:36" } }

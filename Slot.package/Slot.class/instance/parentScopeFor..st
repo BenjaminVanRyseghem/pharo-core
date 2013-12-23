@@ -1,0 +1,3 @@
+accessing
+parentScopeFor: aScope
+	^ aScope

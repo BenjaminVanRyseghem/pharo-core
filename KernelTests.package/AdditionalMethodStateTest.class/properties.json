@@ -1,0 +1,14 @@
+{
+	"category" : "KernelTests-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"atState" ],
+	"name" : "AdditionalMethodStateTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Athens-PangoCairo",
+	"classinstvars" : [
+		"session",
+		"libHandle" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PangoCairoLibraryLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

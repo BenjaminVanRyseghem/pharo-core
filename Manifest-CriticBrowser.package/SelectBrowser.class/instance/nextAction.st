@@ -1,0 +1,3 @@
+protocol
+nextAction
+	self subclassResponsibility

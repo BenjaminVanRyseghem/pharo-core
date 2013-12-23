@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"initialize" : "BenjaminVanRyseghem 11/27/2013 15:17",
+		"new" : "BenjaminVanRyseghem 11/21/2013 14:48",
+		"resetCache" : "BenjaminVanRyseghem 11/21/2013 15:35",
+		"trackedClass:" : "BenjaminVanRyseghem 11/21/2013 14:48" },
+	"instance" : {
+		"<=" : "BenjaminVanRyseghem 11/24/2013 21:25",
+		"addClassDefinition:" : "BenjaminVanRyseghem 11/21/2013 21:58",
+		"addMethodDefinition:" : "BenjaminVanRyseghem 11/21/2013 21:59",
+		"addOperation:" : "BenjaminVanRyseghem 11/21/2013 14:43",
+		"addOrganizationDefinition:" : "BenjaminVanRyseghem 11/22/2013 16:43",
+		"definition" : "BenjaminVanRyseghem 11/21/2013 22:04",
+		"definition:" : "BenjaminVanRyseghem 11/21/2013 21:58",
+		"definitions" : "BenjaminVanRyseghem 11/24/2013 21:41",
+		"flush" : "BenjaminVanRyseghem 11/27/2013 13:51",
+		"initialize" : "BenjaminVanRyseghem 11/21/2013 20:55",
+		"isKomitClass" : "BenjaminVanRyseghem 12/7/2013 10:56",
+		"koDestinationText" : "BenjaminVanRyseghem 11/21/2013 22:05",
+		"koSourceText" : "BenjaminVanRyseghem 11/26/2013 10:21",
+		"methods" : "BenjaminVanRyseghem 11/24/2013 21:41",
+		"operations" : "BenjaminVanRyseghem 11/21/2013 22:03",
+		"printOn:" : "BenjaminVanRyseghem 11/21/2013 14:57",
+		"trackedClass" : "BenjaminVanRyseghem 11/21/2013 14:23",
+		"trackedClass:" : "BenjaminVanRyseghem 11/21/2013 14:23" } }

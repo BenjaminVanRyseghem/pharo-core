@@ -1,0 +1,20 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ajh 3/25/2003 00:26",
+	"instvars" : [
+		"pending",
+		"gen",
+		"currentInstr",
+		"currentScope",
+		"trailer",
+		"tempVectorStack",
+		"compilationContext" ],
+	"name" : "IRTranslator",
+	"pools" : [
+		 ],
+	"super" : "IRInterpreter",
+	"type" : "normal" }

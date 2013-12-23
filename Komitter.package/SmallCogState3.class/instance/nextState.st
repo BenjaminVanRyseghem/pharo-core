@@ -1,0 +1,4 @@
+protocol
+nextState
+
+	^ SmallCogInitialState new

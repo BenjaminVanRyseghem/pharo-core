@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"komit:" : "BenjaminVanRyseghem 11/26/2013 13:18" },
+	"instance" : {
+		"commitKomit:" : "BenjaminVanRyseghem 11/26/2013 21:01",
+		"commitSlice:" : "BenjaminVanRyseghem 12/6/2013 21:36",
+		"createVersionFor:" : "BenjaminVanRyseghem 12/6/2013 21:26",
+		"retryOnCredentialRequest:for:" : "BenjaminVanRyseghem 11/29/2013 13:50",
+		"storeDependencies:for:" : "BenjaminVanRyseghem 11/29/2013 13:51",
+		"storeVersion:for:" : "BenjaminVanRyseghem 11/29/2013 13:51",
+		"submitCommit:" : "BenjaminVanRyseghem 11/27/2013 13:18" } }

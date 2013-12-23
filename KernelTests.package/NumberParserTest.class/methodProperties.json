@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"areLowercaseDigitsAllowed" : "YuriyTymchuk 10/29/2013 11:10",
+		"testFail" : "YuriyTymchuk 10/29/2013 11:10",
+		"testFloatFromStreamAsNumber" : "YuriyTymchuk 10/29/2013 11:10",
+		"testFloatFromStreamWithExponent" : "YuriyTymchuk 10/29/2013 11:10",
+		"testFloatGradualUnderflow" : "YuriyTymchuk 10/29/2013 11:10",
+		"testFloatPrintString" : "YuriyTymchuk 10/29/2013 11:10",
+		"testFloatReadError" : "YuriyTymchuk 10/29/2013 11:10",
+		"testFloatReadWithRadix" : "YuriyTymchuk 10/29/2013 11:10",
+		"testIntegerReadFrom" : "YuriyTymchuk 10/29/2013 11:10",
+		"testIntegerReadWithRadix" : "YuriyTymchuk 10/29/2013 11:10",
+		"testScaledDecimalWithTrailingZeroes" : "YuriyTymchuk 10/29/2013 11:10",
+		"testSqueezingOutNumbers" : "BenjaminVanRyseghem 7/1/2012 02:03",
+		"testcheckForCoverage" : "YuriyTymchuk 10/29/2013 11:10" } }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adoptInstance:from:" : "ar 7/13/1999 04:52",
+		"baseClass" : "SebastianTleye 7/12/2013 14:42",
+		"basicLocalSelectors" : "al 3/25/2006 13:16",
+		"basicLocalSelectors:" : "al 3/25/2006 13:16",
+		"classClass" : "SebastianTleye 7/12/2013 14:42",
+		"definition" : "al 7/4/2009 17:45",
+		"environment" : "ar 7/11/1999 05:19",
+		"fileOutOn:moveSource:toFile:" : "ar 12/22/1999 17:31",
+		"fileOutOn:moveSource:toFile:initializing:" : "MarcusDenker 5/7/2013 23:32",
+		"instanceVariableNames:" : "MartinDias 6/24/2013 15:26",
+		"isClass" : "MarcusDenker 10/17/2013 12:08",
+		"name" : "",
+		"new" : "nk 11/9/2003 10:00",
+		"postCopy" : "nice 12/29/2010 10:21",
+		"soleInstance" : "",
+		"traitComposition" : "al 3/25/2006 12:35",
+		"traitComposition:" : "al 3/25/2006 12:38",
+		"veryDeepCopyWith:" : "tk 8/19/1998 16:16" } }

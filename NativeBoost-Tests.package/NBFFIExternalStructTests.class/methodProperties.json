@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"resources" : "CiprianTeodorov 5/19/2013 03:41" },
+	"instance" : {
+		"returnStruct1Byte" : "CamilloBruni 9/5/2013 15:09",
+		"returnStruct9Bytes" : "IgorStasenko 6/27/2013 15:52",
+		"returnStructWithCallback:" : "IgorStasenko 6/27/2013 15:54",
+		"testExternallyAllocatedStructure" : "IgorStasenko 7/12/2013 15:01",
+		"testNestedStructure" : "CiprianTeodorov 5/19/2013 03:41",
+		"testReturnStruct1Byte" : "CiprianTeodorov 5/19/2013 03:42",
+		"testReturnStruct9Bytes" : "CiprianTeodorov 5/19/2013 03:42",
+		"testReturnStructWithCallback" : "CiprianTeodorov 5/19/2013 03:42",
+		"testStructAccess" : "IgorStasenko 7/12/2013 15:00" } }

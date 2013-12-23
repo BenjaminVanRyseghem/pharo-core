@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"buildPathFrom:" : "IgorStasenko 3/7/2012 14:53" },
+	"instance" : {
+		"absolute" : "IgorStasenko 3/7/2012 16:45",
+		"angleOfVector:" : "IgorStasenko 3/8/2012 16:36",
+		"arcCenterX:centerY:radius:startAngle:endAngle:" : "IgorStasenko 3/8/2012 16:47",
+		"arcNegativeCenterX:centerY:radius:startAngle:endAngle:" : "IgorStasenko 3/8/2012 17:01",
+		"arcTo:angle:cw:" : "IgorStasenko 8/7/2013 14:01",
+		"calcCenter:end:angle:" : "IgorStasenko 3/8/2012 16:54",
+		"ccwArcTo:angle:" : "IgorStasenko 3/8/2012 17:06",
+		"close" : "FernandoOlivero 3/9/2012 14:42",
+		"closePath" : "FernandoOlivero 3/9/2012 14:43",
+		"context:" : "IgorStasenko 3/7/2012 15:15",
+		"copyPath" : "IgorStasenko 3/7/2012 16:47",
+		"createPath:" : "IgorStasenko 3/7/2012 17:15",
+		"curveVia:and:to:" : "FernandoOlivero 3/11/2012 00:52",
+		"curveVia:to:" : "IgorStasenko 3/7/2012 17:45",
+		"curveViaX:Y:viaX:Y:toX:Y:" : "IgorStasenko 3/7/2012 17:39",
+		"cwArcTo:angle:" : "IgorStasenko 3/8/2012 17:05",
+		"getCurrentPoint" : "IgorStasenko 9/3/2012 02:40",
+		"lineTo:" : "FernandoOlivero 3/29/2012 18:18",
+		"lineToX:Y:" : "IgorStasenko 3/7/2012 16:08",
+		"moveTo:" : "FernandoOlivero 3/29/2012 14:16",
+		"moveToX:Y:" : "IgorStasenko 3/7/2012 16:07",
+		"newPath" : "IgorStasenko 3/7/2012 16:04",
+		"relative" : "IgorStasenko 3/7/2012 16:45",
+		"toAbsolute:" : "IgorStasenko 3/7/2012 16:20" } }

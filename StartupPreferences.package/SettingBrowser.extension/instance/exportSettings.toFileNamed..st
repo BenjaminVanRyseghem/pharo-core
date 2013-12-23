@@ -1,0 +1,3 @@
+*StartupPreferences
+exportSettings: aCollection toFileNamed: filename
+	StartupPreferencesLoader default addAtStartupInPreferenceVersionFolder: aCollection named: filename

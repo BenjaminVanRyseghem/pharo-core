@@ -1,0 +1,18 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 10/21/2008 13:27",
+	"instvars" : [
+		"enabled",
+		"active",
+		"over",
+		"down",
+		"stateMap" ],
+	"name" : "MultistateButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

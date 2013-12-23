@@ -1,0 +1,16 @@
+{
+	"category" : "Athens-Cairo-Paints",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TCairoLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "AthensCairoPatternPaint",
+	"pools" : [
+		"AthensCairoDefs" ],
+	"super" : "NBExternalObject",
+	"traitcomposition" : "TCairoLibrary",
+	"type" : "normal" }

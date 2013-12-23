@@ -1,0 +1,14 @@
+{
+	"category" : "Tabs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "LockableTab",
+	"pools" : [
+		 ],
+	"super" : "Tab",
+	"type" : "normal" }

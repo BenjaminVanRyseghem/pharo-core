@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testNextBrotherItsTheNextOfTheChilds" : "GiselaDecuzzi 5/13/2013 17:45",
+		"testNextBrotherItsThePreviousOfTheChilds" : "GiselaDecuzzi 5/14/2013 16:07",
+		"testNextBrotherWhenItsTheFirstItsTheLast" : "GiselaDecuzzi 5/14/2013 16:09",
+		"testNextBrotherWhenItsTheLasItsTheFirst" : "GiselaDecuzzi 5/13/2013 17:45",
+		"testNextChildWhenHasChildsIsTheBiggerOne" : "GiselaDecuzzi 5/13/2013 17:45",
+		"testNextChildWhenItHasNotChildsItIsNil" : "GiselaDecuzzi 5/13/2013 17:45",
+		"testNotBrotherWhenOrphan" : "GiselaDecuzzi 5/14/2013 16:09",
+		"testNotPreviousBrotherWhenOrphan" : "GiselaDecuzzi 5/14/2013 16:10",
+		"testSameNodeIsTheBrotherWhenOnlyChild" : "GiselaDecuzzi 5/13/2013 17:45" } }

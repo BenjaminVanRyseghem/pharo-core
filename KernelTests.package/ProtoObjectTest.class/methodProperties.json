@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testFlag" : "CamilloBruni 8/31/2013 20:23",
+		"testIfNil" : "CamilloBruni 8/31/2013 20:23",
+		"testIfNilIfNotNil" : "ul 12/18/2009 15:49",
+		"testIfNotNil" : "ul 12/18/2009 15:48",
+		"testIfNotNilIfNil" : "ul 12/18/2009 15:48",
+		"testIsNil" : "ul 12/18/2009 15:48",
+		"testNotTheSame" : "SeanDeNigris 5/1/2012 14:50" } }

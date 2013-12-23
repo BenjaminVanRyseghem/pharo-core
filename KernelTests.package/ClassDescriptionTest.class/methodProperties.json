@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAllMethodCategoriesIntegratedThrough" : "StephaneDucasse 8/29/2013 20:55",
+		"testClassDescriptionRespectsPolymorphismWithTraitDescription" : "MartinDias 12/3/2013 14:53",
+		"testMethods" : "sd 5/10/2008 12:34",
+		"testNumberOfMethods" : "Alexandre Bergel 4/27/2010 14:17",
+		"testOrganization" : "EstebanLorenzano 5/28/2013 13:22" } }

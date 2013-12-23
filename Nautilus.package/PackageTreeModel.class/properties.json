@@ -1,0 +1,14 @@
+{
+	"category" : "Nautilus-Tree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model" ],
+	"name" : "PackageTreeModel",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeModel",
+	"type" : "normal" }

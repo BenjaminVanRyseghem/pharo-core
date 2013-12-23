@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"openWithEnvironment:removeTestCase:" : "SimonAllier 1/29/2013 13:42",
+		"title" : "" },
+	"instance" : {
+		"addAllItems" : "MarcusDenker 7/24/2013 15:08",
+		"addItems" : "MarcusDenker 12/2/2013 18:26",
+		"defaultRulesRootName" : "StephaneDucasse 3/21/2013 09:31",
+		"environment:" : "",
+		"initialize" : "StephaneDucasse 3/21/2013 09:31",
+		"items:" : "SimonAllier 5/22/2012 10:45",
+		"nextAction" : "CamilleTeruel 11/12/2013 19:35",
+		"removeAllItems" : "MarcusDenker 7/24/2013 15:08",
+		"removeItems" : "StephaneDucasse 3/21/2013 09:32",
+		"removeTestCase:" : "SimonAllier 1/29/2013 13:41",
+		"updateTree" : "StephaneDucasse 11/21/2012 18:24" } }

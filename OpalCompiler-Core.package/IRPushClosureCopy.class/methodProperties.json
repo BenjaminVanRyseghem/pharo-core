@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "ToonVerwaest 3/27/2011 19:24",
+		"arguments" : "MarcusDenker 8/27/2010 13:28",
+		"arguments:" : "MarcusDenker 8/27/2010 13:28",
+		"blockSequence" : "jb 3/29/2010 13:38",
+		"blockSequence:" : "jb 4/2/2010 16:27",
+		"copiedValues" : "ToonVerwaest 3/26/2011 19:26",
+		"copiedValues:" : "MarcusDenker 8/19/2010 15:00",
+		"definedTemps" : "MarcusDenker 10/14/2010 15:27",
+		"executeOn:" : "MarcusDenker 8/27/2010 13:32",
+		"hasTempVector:" : "ToonVerwaest 3/27/2011 18:25",
+		"indexForVarNamed:" : "MarcusDenker 8/18/2010 14:55",
+		"initialize" : "MarcusDenker 5/19/2011 14:55",
+		"isPushClosureCopy" : "JorgeRessia 12/25/2009 20:44",
+		"lastBlockSequence" : "JorgeRessia 5/19/2010 11:23",
+		"lastBlockSequence:" : "JorgeRessia 5/19/2010 11:23",
+		"nonBodySuccessorSequences" : "MarcusDenker 8/8/2011 13:30",
+		"numArgs" : "jorgeRessia 10/1/2009 16:31",
+		"numArgs:" : "MarcusDenker 8/19/2010 15:00",
+		"successorSequences" : "jb 3/31/2010 11:32",
+		"tempKeys" : "MarcusDenker 4/13/2010 14:52",
+		"tempMap" : "jb 8/26/2010 17:01",
+		"tempVectorName" : "MarcusDenker 8/19/2010 10:34",
+		"tempVectorNamed:" : "MarcusDenker 12/20/2012 14:22" } }

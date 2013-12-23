@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"visitBlockReturnTop:" : "CamilloBruni 9/20/2013 22:54",
+		"visitInstVarAccess:" : "CamilloBruni 9/20/2013 22:54",
+		"visitJump:" : "CamilloBruni 9/20/2013 22:54",
+		"visitJumpIf:" : "CamilloBruni 9/20/2013 22:54",
+		"visitLiteralVariableAccess:" : "CamilloBruni 9/20/2013 22:54",
+		"visitMethod:" : "CamilloBruni 9/20/2013 22:55",
+		"visitPop:" : "CamilloBruni 9/20/2013 22:54",
+		"visitPushArray:" : "CamilloBruni 9/20/2013 22:54",
+		"visitPushClosureCopy:" : "CamilloBruni 9/20/2013 22:54",
+		"visitPushDup:" : "CamilloBruni 9/20/2013 22:54",
+		"visitPushLiteral:" : "CamilloBruni 9/20/2013 22:54",
+		"visitReceiverAccess:" : "CamilloBruni 9/20/2013 22:54",
+		"visitRemoteTempAccess:" : "CamilloBruni 9/20/2013 22:54",
+		"visitReturn:" : "CamilloBruni 9/20/2013 22:54",
+		"visitSend:" : "CamilloBruni 9/20/2013 22:54",
+		"visitSequence:" : "CamilloBruni 9/20/2013 22:56",
+		"visitTempAccess:" : "CamilloBruni 9/20/2013 22:54",
+		"visitTempVector:" : "CamilloBruni 9/20/2013 22:54",
+		"visitThisContextAccess:" : "CamilloBruni 9/20/2013 22:54" } }

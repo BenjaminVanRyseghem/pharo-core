@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"containsFlag" : "BenjaminVanRyseghem 4/7/2011 18:51",
+		"containsHalt" : "CAMILLETERUEL 3/29/2013 11:52",
+		"correspondingMethods" : "MarcusDenker 10/19/2012 09:50",
+		"correspondingTestMethod" : "MarcusDenker 5/4/2013 10:15",
+		"dragAndDropPrint" : "CamilloBruni 10/21/2012 23:56",
+		"hasErrorTest" : "BenjaminVanRyseghem 4/7/2011 18:10",
+		"hasFailedTest" : "BenjaminVanRyseghem 4/7/2011 18:11",
+		"hasPassedTest" : "BenjaminVanRyseghem 4/7/2011 18:11",
+		"isOverride" : "CamilloBruni 9/14/2012 00:41",
+		"isTestMethod" : "EstebanLorenzano 11/29/2013 14:28" } }

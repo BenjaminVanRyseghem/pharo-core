@@ -1,0 +1,14 @@
+{
+	"category" : "RPackage-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RPackageClassesSynchronisationTest",
+	"pools" : [
+		 ],
+	"super" : "RPackageMCSynchronisationTest",
+	"type" : "normal" }

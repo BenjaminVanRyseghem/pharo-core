@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Tests-Disk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DiskFileSystemTest",
+	"pools" : [
+		 ],
+	"super" : "FileSystemTest",
+	"type" : "normal" }

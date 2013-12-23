@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compile:" : "StephaneDucasse 2/10/2011 16:59",
+		"compiling:shouldRaise:" : "StephaneDucasse 2/10/2011 17:00",
+		"interactive" : "JohanBrichau 4/15/2011 15:56",
+		"removeGeneratedMethods" : "StephaneDucasse 8/29/2013 21:06",
+		"select" : "cwp 8/25/2009 20:23",
+		"selectFrom:to:" : "cwp 8/25/2009 20:23",
+		"selectionInterval" : "cwp 8/25/2009 20:22",
+		"setUp" : "MarcusDenker 5/20/2013 13:09",
+		"tearDown" : "MarcusDenker 5/20/2013 13:09",
+		"testAmbiguousSelector" : "JohanBrichau 4/15/2011 15:58",
+		"testUndeclaredVariable" : "StephaneDucasse 2/10/2011 17:29",
+		"testUndefinedVariable" : "StephaneDucasse 2/10/2011 17:30",
+		"testUnknownSelector" : "StephaneDucasse 2/10/2011 17:30",
+		"testUnusedVariable" : "MarcusDenker 5/1/2013 10:03",
+		"text" : "StephaneDucasse 2/10/2011 17:36" } }

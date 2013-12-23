@@ -1,0 +1,28 @@
+{
+	"category" : "Polymorph-Tools-Diff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"srcText",
+		"dstText",
+		"prettyPrint",
+		"contextClass",
+		"srcMorph",
+		"dstMorph",
+		"scrollbarMorph",
+		"mapMorph",
+		"joinMorph",
+		"difference",
+		"joinMappings",
+		"optionsPanel",
+		"showOnlyDestination",
+		"showOptions",
+		"showOnlySource" ],
+	"name" : "DiffMorph",
+	"pools" : [
+		 ],
+	"super" : "ComposableMorph",
+	"type" : "normal" }

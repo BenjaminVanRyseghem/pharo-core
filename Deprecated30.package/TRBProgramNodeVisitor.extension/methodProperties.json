@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptArgumentNode:" : "CamilleTeruel 4/3/2013 15:12",
+		"acceptArrayNode:" : "CamilleTeruel 4/3/2013 15:12",
+		"acceptAssignmentNode:" : "StephaneDucasse 3/29/2013 15:17",
+		"acceptBlockNode:" : "CamilleTeruel 4/3/2013 15:13",
+		"acceptCascadeNode:" : "StephaneDucasse 3/29/2013 18:03",
+		"acceptLiteralArrayNode:" : "StephaneDucasse 3/29/2013 18:03",
+		"acceptLiteralNode:" : "CamilleTeruel 4/3/2013 15:11",
+		"acceptMessageNode:" : "StephaneDucasse 3/29/2013 18:04",
+		"acceptMethodNode:" : "StephaneDucasse 3/29/2013 18:04",
+		"acceptParseErrorNode:" : "StephaneDucasse 3/29/2013 18:04",
+		"acceptPatternBlockNode:" : "StephaneDucasse 3/29/2013 18:04",
+		"acceptPatternWrapperBlockNode:" : "StephaneDucasse 3/29/2013 18:05",
+		"acceptPragmaNode:" : "StephaneDucasse 3/29/2013 18:05",
+		"acceptReturnNode:" : "CamilleTeruel 4/3/2013 15:13",
+		"acceptSelfNode:" : "CamilleTeruel 4/3/2013 15:14",
+		"acceptSequenceNode:" : "StephaneDucasse 3/29/2013 18:05",
+		"acceptSuperNode:" : "CamilleTeruel 4/3/2013 15:14",
+		"acceptTemporaryNode:" : "CamilleTeruel 4/3/2013 15:14",
+		"acceptThisContextNode:" : "CamilleTeruel 4/3/2013 15:14",
+		"acceptVariableNode:" : "StephaneDucasse 3/29/2013 18:06",
+		"visitArgument:" : "CamilleTeruel 4/3/2013 15:15",
+		"visitArguments:" : "StephaneDucasse 3/29/2013 16:20",
+		"visitTemporaries:" : "CamilleTeruel 4/3/2013 15:15" } }

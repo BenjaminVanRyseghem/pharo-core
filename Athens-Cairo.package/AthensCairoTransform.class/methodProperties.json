@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"for:" : "IgorStasenko 12/20/2011 16:49" },
+	"instance" : {
+		"canvas:" : "IgorStasenko 12/20/2011 16:43",
+		"loadIdentity" : "IgorStasenko 12/20/2011 16:47",
+		"moveTo:" : "FernandoOlivero 1/15/2012 19:39",
+		"moveToX:Y:" : "FernandoOlivero 1/14/2012 20:31",
+		"primTransformX:Y:" : "IgorStasenko 12/21/2011 13:43",
+		"restore" : "FernandoOlivero 1/14/2012 00:32",
+		"restoreAfter:" : "IgorStasenko 3/7/2012 13:55",
+		"rotateByDegrees:" : "IgorStasenko 12/20/2011 16:45",
+		"rotateByRadians:" : "IgorStasenko 12/20/2011 16:45",
+		"save" : "FernandoOlivero 1/14/2012 00:32",
+		"scaleBy:" : "FernandoOlivero 1/15/2012 16:49",
+		"scaleX:Y:" : "IgorStasenko 12/20/2011 16:44",
+		"transform:" : "IgorStasenko 12/21/2011 13:42",
+		"translateBy:" : "FernandoOlivero 1/14/2012 00:38",
+		"translateX:Y:" : "IgorStasenko 12/20/2011 16:54" } }

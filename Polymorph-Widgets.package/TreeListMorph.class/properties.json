@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 10:15",
+	"instvars" : [
+		"font" ],
+	"name" : "TreeListMorph",
+	"pools" : [
+		 ],
+	"super" : "SimpleHierarchicalListMorph",
+	"type" : "normal" }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allManagers" : "StephaneDucasse 6/2/2012 20:31",
+		"hasClass:" : "lr 3/14/2010 21:13",
+		"hasClass:selector:" : "lr 3/14/2010 21:13",
+		"hasPackage:" : "GabrielOmarCotelli 12/3/2013 17:20",
+		"hasVersion:" : "GabrielOmarCotelli 12/3/2013 17:21",
+		"runCase" : "EstebanLorenzano 9/12/2012 16:44",
+		"setUp" : "lr 12/13/2009 17:49",
+		"tearDown" : "CamilloBruni 10/21/2012 12:44",
+		"testCleanup" : "CamilloBruni 8/31/2013 20:23",
+		"testCommit" : "CamilloBruni 8/31/2013 20:23",
+		"testFetch" : "CamilloBruni 8/31/2013 20:23",
+		"testLoad" : "CamilloBruni 8/31/2013 20:23",
+		"testLocalChanges" : "CamilloBruni 8/31/2013 20:23",
+		"testMerge" : "CamilloBruni 8/31/2013 20:23",
+		"testPush" : "CamilloBruni 8/31/2013 20:23",
+		"testRecompile" : "CamilloBruni 8/31/2013 20:23",
+		"testReinitialize" : "CamilloBruni 8/31/2013 20:23",
+		"testRemoteChanges" : "CamilloBruni 8/31/2013 20:23",
+		"testRevert" : "CamilloBruni 8/31/2013 20:23",
+		"testUnload" : "CamilloBruni 8/31/2013 20:23",
+		"testUpdate" : "CamilloBruni 8/31/2013 20:23" } }

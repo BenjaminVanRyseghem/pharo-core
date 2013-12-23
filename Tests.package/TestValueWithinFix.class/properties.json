@@ -1,0 +1,14 @@
+{
+	"category" : "Tests-Bugs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestValueWithinFix",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

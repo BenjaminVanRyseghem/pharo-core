@@ -1,0 +1,4 @@
+protocol
+addUser: aUser
+
+	^ false

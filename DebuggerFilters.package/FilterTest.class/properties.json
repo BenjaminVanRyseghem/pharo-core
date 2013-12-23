@@ -1,0 +1,19 @@
+{
+	"category" : "DebuggerFilters-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context",
+		"process",
+		"session",
+		"nilContext",
+		"otherProcess",
+		"otherSession" ],
+	"name" : "FilterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Morphic-Base-MorphTreeWidget-Pagination",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"atBottom",
+		"lastIndex",
+		"pageSizeEditor",
+		"nextPageAllowed" ],
+	"name" : "MorphTreeChunkPager",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeNavigationBar",
+	"type" : "normal" }

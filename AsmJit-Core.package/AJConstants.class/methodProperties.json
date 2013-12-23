@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"initOpCodes" : "CamilloBruni 3/29/2012 13:49",
+		"initialize" : "MartinMcClure 1/27/2013 15:13",
+		"initializeConditionCodes" : "",
+		"initializePrefetchHints" : "" },
+	"instance" : {
+		 } }

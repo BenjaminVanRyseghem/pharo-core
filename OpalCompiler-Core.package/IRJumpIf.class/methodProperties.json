@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "ToonVerwaest 3/27/2011 19:24",
+		"boolean" : "ajh 3/10/2003 00:43",
+		"boolean:" : "ajh 3/10/2003 00:43",
+		"executeOn:" : "ajh 3/10/2003 00:47",
+		"isGoto" : "ajh 3/11/2003 00:19",
+		"isIf" : "ajh 3/11/2003 00:21",
+		"nextBytecodeOffsetAfterJump" : "MarcusDenker 4/23/2013 16:53",
+		"nonBodySuccessorSequences" : "MarcusDenker 8/8/2011 13:30",
+		"otherwise" : "ajh 3/10/2003 00:43",
+		"otherwise:" : "pmm 2/2/2007 18:05",
+		"successorSequences" : "ajh 3/11/2003 00:02" } }

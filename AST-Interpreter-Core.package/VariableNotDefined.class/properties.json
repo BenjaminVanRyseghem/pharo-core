@@ -1,0 +1,15 @@
+{
+	"category" : "AST-Interpreter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"variableName",
+		"context" ],
+	"name" : "VariableNotDefined",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

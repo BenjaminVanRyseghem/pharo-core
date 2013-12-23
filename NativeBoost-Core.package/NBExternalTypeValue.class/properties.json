@@ -1,0 +1,15 @@
+{
+	"category" : "NativeBoost-Core-Objects",
+	"classinstvars" : [
+		"valueType",
+		"valueSize" ],
+	"classvars" : [
+		"Printing" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NBExternalTypeValue",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "bytes" }

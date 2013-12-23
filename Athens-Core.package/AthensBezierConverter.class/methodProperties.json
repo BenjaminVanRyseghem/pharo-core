@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"initialize" : "IgorStasenko 4/29/2011 18:10" },
+	"instance" : {
+		"angleBetween:and:ifDegenerate:" : "IgorStasenko 5/1/2011 21:45",
+		"curveVia:to:" : "IgorStasenko 5/1/2011 22:03",
+		"initialize" : "IgorStasenko 4/29/2011 18:11",
+		"isFlatBezier2_x1:y1:x2:y2:x3:y3:" : "IgorStasenko 4/29/2011 18:09",
+		"recursiveBezier2_x1:y1:x2:y2:x3:y3:" : "IgorStasenko 5/1/2011 21:47" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"isInlineAndOr" : "MarcusDenker 7/22/2013 16:04",
+		"isInlineCase" : "MarcusDenker 7/22/2013 16:06",
+		"isInlineIf" : "MarcusDenker 7/22/2013 16:03",
+		"isInlineIfNil" : "MarcusDenker 12/2/2013 14:12",
+		"isInlineTimesRepeat" : "MarcusDenker 9/30/2013 14:54",
+		"isInlineToDo" : "MarcusDenker 9/20/2013 15:06",
+		"isInlineWhile" : "MarcusDenker 7/22/2013 16:04",
+		"isInlined" : "MarcusDenker 9/30/2013 14:39" } }

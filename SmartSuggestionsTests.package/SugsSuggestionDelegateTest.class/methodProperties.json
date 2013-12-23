@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createContexForDelegate" : "GiselaDecuzzi 4/23/2013 15:47",
+		"createSuggestionDelegate:" : "GiselaDecuzzi 4/23/2013 14:50",
+		"testDelegateSelectionWithInstaceVariablesItsValid" : "GiselaDecuzzi 4/23/2013 15:11",
+		"testDelegateSelectionWithoutInstaceVariablesItsNotValid" : "GiselaDecuzzi 4/23/2013 15:12" } }

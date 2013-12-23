@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"circle" : "IgorStasenko 7/2/2012 18:27",
+		"defaultExtent" : "IgorStasenko 7/2/2012 19:16",
+		"drawCircles:" : "IgorStasenko 7/2/2012 18:21",
+		"drawOn:" : "IgorStasenko 7/2/2012 18:22",
+		"drawSpike:" : "IgorStasenko 7/2/2012 19:33",
+		"initialize" : "IgorStasenko 7/2/2012 19:31",
+		"render" : "IgorStasenko 7/3/2012 16:54",
+		"step" : "IgorStasenko 7/2/2012 19:18",
+		"stepTime" : "IgorStasenko 7/2/2012 19:12" } }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddingMethods" : "VeronicaUquillas 4/28/2011 16:43",
+		"testAsClassDefinition" : "VeronicaUquillas 5/12/2011 19:31",
+		"testAsClassDefinition2" : "ST 6/20/2013 17:06",
+		"testAsClassDefinitionSourceDefinition" : "ST 6/20/2013 16:50",
+		"testAsRingDefinition" : "MartinDias 11/12/2013 18:01",
+		"testClassEquality" : "VeronicaUquillas 8/10/2011 11:42",
+		"testExistingClass" : "VeronicaUquillas 4/28/2011 16:10",
+		"testNonExistingClass" : "MartinDias 10/28/2013 16:42",
+		"testRemovingMethods" : "VeronicaUquillas 4/28/2011 16:44",
+		"testWithCategory" : "VeronicaUquillas 4/28/2011 16:11",
+		"testWithClassInstanceVariables" : "MartinDias 11/12/2013 18:51",
+		"testWithClassVariables" : "VeronicaUquillas 4/28/2011 16:11",
+		"testWithComment" : "MarcusDenker 10/16/2013 13:41",
+		"testWithDefaultNamespace" : "VeronicaUquillas 5/9/2011 16:19",
+		"testWithInstanceVariables" : "MartinDias 11/12/2013 18:50",
+		"testWithPoolDictionaries" : "MartinDias 10/28/2013 16:42",
+		"testWithProtocols" : "VeronicaUquillas 4/28/2011 16:44",
+		"testWithSuperclass" : "VeronicaUquillas 5/12/2011 19:16" } }

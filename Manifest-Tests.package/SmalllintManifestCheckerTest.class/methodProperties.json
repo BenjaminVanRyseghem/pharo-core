@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cleaningResources" : "StephaneDucasse 3/21/2013 13:51",
+		"package" : "StephaneDucasse 3/21/2013 13:43",
+		"setUp" : "CamilloBruni 8/22/2013 11:45",
+		"tearDown" : "StephaneDucasse 3/21/2013 13:51",
+		"testCriticsOf" : "CamilloBruni 8/22/2013 11:46",
+		"testIsFalsePositive" : "CamilloBruni 8/22/2013 11:46",
+		"testIsToDo" : "CamilloBruni 8/22/2013 11:46",
+		"testToDoOf" : "CamilloBruni 8/22/2013 11:46" } }

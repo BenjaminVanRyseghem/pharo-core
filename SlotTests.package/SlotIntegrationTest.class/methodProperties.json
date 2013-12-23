@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "MartinDias 8/7/2013 12:12",
+		"testAddAndAddInstVarNamedWithTrait2" : "MartinDias 8/7/2013 11:24",
+		"testAddAndRemoveInstVarNamedWithTrait2" : "MartinDias 8/7/2013 11:24",
+		"testAddInstVarNamed" : "MartinDias 8/7/2013 11:24",
+		"testAddInstVarNamedClassInterface" : "MartinDias 8/7/2013 11:24",
+		"testAddInstVarNamedWithTrait" : "MartinDias 8/7/2013 11:24",
+		"testAddInstVarNamedWithTrait2" : "MartinDias 8/7/2013 11:24",
+		"testAnonymousSubclass" : "MartinDias 8/7/2013 11:24",
+		"testBecomeCompactAndUncompact" : "MartinDias 12/9/2013 11:38",
+		"testCompiledMethodLayout" : "MartinDias 8/7/2013 11:24",
+		"testCopyPreservesLayout" : "MartinDias 12/9/2013 11:38",
+		"testRemoveInstVarNamed" : "MartinDias 8/7/2013 11:24",
+		"testRemoveInstVarNamedClassInterface" : "MartinDias 8/7/2013 11:24",
+		"testRemoveInstVarNamedWithTrait2" : "MartinDias 8/7/2013 11:24",
+		"testReshapeClassPropagatesToDeepHierarchyClassInterface" : "MartinDias 8/7/2013 11:24",
+		"testReshapeClassWithClassSlot" : "MartinDias 8/7/2013 14:05",
+		"testReshapeCompactClass" : "MartinDias 8/7/2013 15:48",
+		"testSmallIntegerLayout" : "MartinDias 8/7/2013 11:24" } }

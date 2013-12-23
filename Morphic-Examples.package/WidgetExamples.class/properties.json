@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Examples-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WidgetExamples",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"default" : "BenjaminVanRyseghem 5/4/2013 01:28",
+		"initialize" : "BenjaminVanRyseghem 5/4/2013 12:59",
+		"reset" : "BenjaminVanRyseghem 5/4/2013 12:59" },
+	"instance" : {
+		"addUser:" : "BenjaminVanRyseghem 5/4/2013 01:38",
+		"canBrowse" : "BenjaminVanRyseghem 5/4/2013 01:39",
+		"canDebug" : "BenjaminVanRyseghem 5/4/2013 01:26",
+		"canDropOSFile" : "BenjaminVanRyseghem 5/4/2013 01:37",
+		"canEditCode" : "BenjaminVanRyseghem 5/4/2013 01:37",
+		"canEvaluateCode" : "BenjaminVanRyseghem 5/4/2013 01:37",
+		"canInspect" : "BenjaminVanRyseghem 5/4/2013 01:35",
+		"canRunStartupScript" : "BenjaminVanRyseghem 5/4/2013 01:35",
+		"canSaveImage" : "BenjaminVanRyseghem 5/7/2013 18:53",
+		"canShowMorphHalo" : "BenjaminVanRyseghem 5/4/2013 01:37",
+		"includesUser:" : "BenjaminVanRyseghem 5/4/2013 01:38",
+		"openSwitchUsers" : "BenjaminVanRyseghem 5/4/2013 18:31",
+		"reset" : "BenjaminVanRyseghem 5/4/2013 12:59",
+		"setCurrentUser:" : "BenjaminVanRyseghem 5/4/2013 13:03",
+		"userNamePasswordFor:" : "BenjaminVanRyseghem 5/4/2013 01:36",
+		"userNames" : "BenjaminVanRyseghem 5/4/2013 01:40",
+		"users" : "BenjaminVanRyseghem 5/4/2013 01:39" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "CollectionsTests-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"a",
+		"b" ],
+	"name" : "AssociationTest",
+	"pools" : [
+		 ],
+	"super" : "ClassTestCase",
+	"type" : "normal" }

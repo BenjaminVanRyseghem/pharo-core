@@ -1,0 +1,14 @@
+{
+	"category" : "NetworkTests-Url",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HttpUrlTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

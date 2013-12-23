@@ -1,0 +1,4 @@
+accessing
+pointerSize
+
+	self subclassResponsibility 

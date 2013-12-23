@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-Base-Windows",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TEasilyThemed classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "LaurentLaffont 7/12/2011 23:33",
+	"instvars" : [
+		"tabGroup" ],
+	"name" : "GroupWindowMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

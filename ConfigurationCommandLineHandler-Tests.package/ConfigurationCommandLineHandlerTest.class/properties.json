@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationCommandLineHandler-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ConfigurationCommandLineHandlerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

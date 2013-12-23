@@ -1,0 +1,14 @@
+{
+	"category" : "FreeType-Fonts-SourceCode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SourceCodeProRegular",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

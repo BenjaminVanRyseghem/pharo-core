@@ -1,0 +1,9 @@
+SystemOrganization addCategory: #Base!
+SystemOrganization addCategory: #Cache!
+SystemOrganization addCategory: #FontManager!
+SystemOrganization addCategory: #Fonts!
+SystemOrganization addCategory: #'Fonts-SourceCode'!
+SystemOrganization addCategory: #FreeType!
+SystemOrganization addCategory: #GlyphRendering!
+SystemOrganization addCategory: #Settings!
+SystemOrganization addCategory: #UI!

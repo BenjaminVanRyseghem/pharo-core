@@ -1,0 +1,17 @@
+{
+	"category" : "Tools-ConfigurationBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"configurationList",
+		"configurations",
+		"repository",
+		"configurationPattern" ],
+	"name" : "MetacelloConfigurationBrowserPane",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

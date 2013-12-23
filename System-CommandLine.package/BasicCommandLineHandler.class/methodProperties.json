@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"commandName" : "EstebanLorenzano 5/23/2013 14:28",
+		"description" : "EstebanLorenzano 5/23/2013 14:30",
+		"initialize" : "SeanDeNigris 10/4/2013 13:14",
+		"isResponsibleFor:" : "EstebanLorenzano 5/23/2013 15:10",
+		"priority" : "CamilloBruni 5/31/2013 11:32",
+		"startUp:" : "EstebanLorenzano 5/23/2013 14:31" },
+	"instance" : {
+		"activate" : "StephaneDucasse 8/22/2013 23:21",
+		"activateSubCommand:" : "EstebanLorenzano 5/23/2013 14:27",
+		"copyright" : "EstebanLorenzano 5/23/2013 14:27",
+		"default" : "CamilloBruni 5/26/2013 14:08",
+		"error" : "EstebanLorenzano 5/23/2013 14:27",
+		"handleArgument:" : "CamilloBruni 5/26/2013 14:05",
+		"handleEmptyArguments" : "CamilloBruni 5/26/2013 13:42",
+		"handleExit:" : "EstebanLorenzano 5/23/2013 14:27",
+		"handleExit:for:" : "EstebanLorenzano 5/23/2013 14:27",
+		"handleSubcommand" : "EstebanLorenzano 5/23/2013 15:33",
+		"initialize" : "EstebanLorenzano 5/23/2013 14:27",
+		"list" : "CamilloBruni 9/4/2013 17:13",
+		"noQuit" : "CamilloBruni 5/26/2013 14:01",
+		"selectHandlers" : "DamienCassou 12/11/2013 15:35",
+		"selectedHandler" : "CamilloBruni 5/26/2013 13:59",
+		"subCommandsRoot" : "DamienCassou 12/11/2013 15:35",
+		"version" : "EstebanLorenzano 5/23/2013 14:27" } }

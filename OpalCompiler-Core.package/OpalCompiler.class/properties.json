@@ -1,0 +1,20 @@
+{
+	"category" : "OpalCompiler-Core-FrontEnd",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"ast",
+		"source",
+		"context",
+		"receiver",
+		"compilationContext",
+		"compilationContextClass",
+		"useFaultyForParsing" ],
+	"name" : "OpalCompiler",
+	"pools" : [
+		 ],
+	"super" : "AbstractCompiler",
+	"type" : "normal" }

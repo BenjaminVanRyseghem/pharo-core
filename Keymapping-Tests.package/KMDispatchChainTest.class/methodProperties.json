@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testGlobalIsFirst" : "GuillermoPolito 5/3/2013 17:51",
+		"testPassesOnTheTarget" : "GuillermoPolito 5/3/2013 17:53",
+		"testTargetDoesNotIterateTheNil" : "MarcusDenker 9/11/2013 14:47" } }

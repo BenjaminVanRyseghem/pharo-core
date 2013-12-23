@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-Base-WindowNotification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"window",
+		"event" ],
+	"name" : "WindowAnnouncement",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

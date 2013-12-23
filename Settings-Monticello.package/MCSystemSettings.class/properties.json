@@ -1,0 +1,14 @@
+{
+	"category" : "Settings-Monticello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MCSystemSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

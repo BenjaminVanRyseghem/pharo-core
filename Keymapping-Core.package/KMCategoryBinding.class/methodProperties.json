@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"target:morph:category:" : "GuillermoPolito 10/20/2011 19:05" },
+	"instance" : {
+		"category" : "BenjaminVanRyseghem 2/20/2012 19:19",
+		"category:" : "GuillermoPolito 10/20/2011 18:37",
+		"completeMatch:buffer:" : "GuillermoPolito 5/4/2013 15:40",
+		"morph" : "BenjaminVanRyseghem 2/20/2012 19:19",
+		"morph:" : "GuillermoPolito 10/20/2011 19:05",
+		"nextForKmChain:" : "GuillermoPolito 5/3/2013 17:49",
+		"noMatch" : "GuillermoPolito 10/20/2011 18:53",
+		"partialMatch" : "GuillermoPolito 10/20/2011 18:53",
+		"printOn:" : "SeanDeNigris 7/17/2012 09:04",
+		"target" : "BenjaminVanRyseghem 2/20/2012 19:19",
+		"target:" : "GuillermoPolito 10/20/2011 18:37",
+		"verifyMatchWith:notifying:thenDoing:" : "BenjaminVanRyseghem 7/3/2012 14:47" } }

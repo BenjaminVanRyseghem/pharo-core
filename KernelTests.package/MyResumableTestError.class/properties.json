@@ -1,0 +1,14 @@
+{
+	"category" : "KernelTests-Exception",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MyResumableTestError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

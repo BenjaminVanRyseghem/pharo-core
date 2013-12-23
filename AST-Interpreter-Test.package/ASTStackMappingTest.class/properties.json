@@ -1,0 +1,15 @@
+{
+	"category" : "AST-Interpreter-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methodContext",
+		"blockContext" ],
+	"name" : "ASTStackMappingTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

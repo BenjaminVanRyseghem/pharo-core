@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"openOn:extentBlock:childsBlock:" : "IgorStasenko 5/3/2013 23:21" },
+	"instance" : {
+		"buildSubtreeFor:level:" : "IgorStasenko 5/3/2013 22:24",
+		"layOutGeometry" : "IgorStasenko 5/3/2013 23:30",
+		"renderOn:" : "IgorStasenko 5/4/2013 00:34",
+		"root:" : "IgorStasenko 5/3/2013 22:22",
+		"root:extentBlock:childsBlock:" : "IgorStasenko 5/3/2013 23:14",
+		"rowAt:" : "IgorStasenko 5/3/2013 22:55",
+		"spacingBetweenRows" : "IgorStasenko 5/3/2013 22:59" } }

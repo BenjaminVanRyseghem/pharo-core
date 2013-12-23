@@ -1,0 +1,14 @@
+{
+	"category" : "KernelTests-Exception",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MyTestError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

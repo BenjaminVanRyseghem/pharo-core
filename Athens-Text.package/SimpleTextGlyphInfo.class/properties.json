@@ -1,0 +1,14 @@
+{
+	"category" : "Athens-Text",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SimpleTextGlyphInfo",
+	"pools" : [
+		 ],
+	"super" : "FT2GlyphSlot",
+	"type" : "normal" }

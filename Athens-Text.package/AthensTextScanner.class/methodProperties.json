@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCharacter:" : "IgorStasenko 11/10/2011 12:00",
+		"addCommand:" : "IgorStasenko 11/10/2011 11:26",
+		"addEmphasis:" : "IgorStasenko 11/10/2011 11:14",
+		"applyAttributes" : "IgorStasenko 11/10/2011 11:58",
+		"defaultColor" : "IgorStasenko 11/10/2011 11:13",
+		"defaultFont" : "IgorStasenko 11/10/2011 11:13",
+		"defaultTextStyle" : "IgorStasenko 10/11/2011 16:53",
+		"endLine:" : "IgorStasenko 10/11/2011 17:19",
+		"initialize" : "IgorStasenko 11/10/2011 11:54",
+		"lines" : "IgorStasenko 10/17/2011 12:45",
+		"newLine:" : "IgorStasenko 11/10/2011 12:21",
+		"resetBackground" : "IgorStasenko 10/28/2011 14:58",
+		"setActualFont:" : "IgorStasenko 11/10/2011 12:04",
+		"setAttributes:" : "IgorStasenko 11/10/2011 12:13",
+		"setFont:" : "IgorStasenko 10/11/2011 16:52",
+		"text:" : "IgorStasenko 10/11/2011 16:08",
+		"textBackground:" : "IgorStasenko 11/10/2011 11:31",
+		"textColor:" : "IgorStasenko 11/10/2011 11:15",
+		"textStyle" : "IgorStasenko 10/11/2011 16:53" } }

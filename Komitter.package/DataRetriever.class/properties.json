@@ -1,0 +1,19 @@
+{
+	"category" : "Komitter-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"block",
+		"data",
+		"fork",
+		"semaphore",
+		"nullObject",
+		"semaphoreIsValid" ],
+	"name" : "DataRetriever",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

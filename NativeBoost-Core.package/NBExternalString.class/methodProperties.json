@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"coerceReturnValue:" : "IgorStasenko 7/1/2013 11:12",
+		"prepareArgumentUsing:" : "IgorStasenko 7/1/2013 11:13",
+		"pushAsPointer:" : "Igor.Stasenko 4/28/2010 20:26",
+		"pushAsValue:" : "Igor.Stasenko 4/28/2010 13:44",
+		"strLen:" : "Igor.Stasenko 5/2/2010 20:38",
+		"valueSize" : "Igor.Stasenko 4/28/2010 15:56" } }

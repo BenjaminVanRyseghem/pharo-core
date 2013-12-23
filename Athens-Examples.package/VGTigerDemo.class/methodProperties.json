@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"checkDataSizes" : "",
+		"commands" : "",
+		"runDemo" : "",
+		"tigerCommandCount" : "",
+		"tigerCommands" : "",
+		"tigerMaxX" : "",
+		"tigerMaxY" : "",
+		"tigerMinX" : "",
+		"tigerMinY" : "",
+		"tigerPoints" : "",
+		"tigerPointsCount" : "" },
+	"instance" : {
+		"convertPathData2" : "",
+		"initialize" : "IgorStasenko 6/10/2012 09:42",
+		"runDemo" : "IgorStasenko 6/10/2012 09:40" } }

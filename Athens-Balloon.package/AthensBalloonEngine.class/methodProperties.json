@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clipRect:" : "IgorStasenko 9/19/2011 16:15",
+		"copyBits" : "IgorStasenko 4/21/2011 16:20",
+		"drawImage:transform:" : "IgorStasenko 4/22/2011 13:56",
+		"fastReset" : "IgorStasenko 9/19/2011 16:37",
+		"fillBezierShape:" : "IgorStasenko 4/1/2011 09:26",
+		"fillRectangle:" : "IgorStasenko 4/21/2011 15:04",
+		"prepareForRendering" : "IgorStasenko 4/13/2011 12:15",
+		"registerColorFill:" : "IgorStasenko 4/1/2011 09:16",
+		"registerFormFill:origin:direction:normal:" : "IgorStasenko 4/22/2011 18:52",
+		"registerLinearGradient:origin:corner:" : "IgorStasenko 4/1/2011 16:01",
+		"registerRadialGradient:center:direction:normal:" : "IgorStasenko 4/14/2011 17:15",
+		"registerRadialGradient:center:radius:" : "IgorStasenko 4/14/2011 16:26",
+		"reset" : "IgorStasenko 4/22/2011 14:00",
+		"setFill:" : "IgorStasenko 4/1/2011 09:03",
+		"strokeBezierShape:width:" : "IgorStasenko 9/14/2011 15:12",
+		"strokeRectangle:borderWidth:" : "IgorStasenko 5/2/2011 04:36",
+		"strokeRectangle:width:" : "IgorStasenko 9/19/2011 15:38" } }

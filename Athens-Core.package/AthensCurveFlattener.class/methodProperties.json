@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"initialize" : "IgorStasenko 4/26/2013 17:40" },
+	"instance" : {
+		"accountForAngleTolerance" : "IgorStasenko 4/29/2013 21:48",
+		"angleTolerance" : "IgorStasenko 4/29/2013 21:48",
+		"curveCollinearityEpsilon" : "IgorStasenko 4/25/2013 00:59",
+		"curveVia:and:to:" : "IgorStasenko 4/26/2013 17:34",
+		"curveVia:to:" : "IgorStasenko 4/18/2013 21:47",
+		"defaultTolerance" : "IgorStasenko 4/18/2013 21:59",
+		"distanceToleranceSquared" : "IgorStasenko 5/2/2013 17:43",
+		"flattenCubicBezier:y1:x2:y2:x3:y3:x4:y4:" : "IgorStasenko 4/19/2013 22:17",
+		"flattenPath:transform:" : "ClementBera 6/28/2013 10:29",
+		"flattenPath:transform:toleranceMultiplier:" : "IgorStasenko 4/18/2013 17:48",
+		"flattenQuadBezier:y1:x2:y2:x3:y3:" : "IgorStasenko 4/18/2013 23:34",
+		"initialize" : "IgorStasenko 4/18/2013 17:58",
+		"inverseTransform:" : "IgorStasenko 4/18/2013 18:06",
+		"isFlatQuadBezier:y1:x2:y2:x3:y3:" : "IgorStasenko 4/18/2013 22:33",
+		"lengthTolerance" : "IgorStasenko 4/18/2013 17:49",
+		"lengthToleranceSquared" : "IgorStasenko 4/18/2013 17:49",
+		"lineTo:" : "IgorStasenko 4/18/2013 21:46",
+		"lineToX:y:" : "IgorStasenko 4/25/2013 01:14",
+		"moveTo:" : "IgorStasenko 4/18/2013 18:04",
+		"overCuspLimit:" : "IgorStasenko 4/29/2013 21:32",
+		"quadricBezierSegment:" : "IgorStasenko 4/18/2013 17:24",
+		"subdivisionLimit" : "IgorStasenko 5/2/2013 17:43",
+		"toleranceMultiplier:" : "IgorStasenko 4/18/2013 17:56",
+		"transform:" : "IgorStasenko 4/18/2013 17:56" } }

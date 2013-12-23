@@ -1,0 +1,15 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"protocols",
+		"source" ],
+	"name" : "RBAddMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring",
+	"type" : "normal" }

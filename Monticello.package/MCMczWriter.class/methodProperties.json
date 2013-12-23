@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"fileOut:on:" : "stephaneducasse 2/4/2006 20:47",
+		"readerClass" : "cwp 8/1/2003 12:35" },
+	"instance" : {
+		"addString:at:" : "stephaneducasse 2/4/2006 20:47",
+		"addString:at:encodedTo:" : "nicolascellier 6/2/2013 18:39",
+		"flush" : "avi 2/17/2004 02:17",
+		"format" : "avi 2/17/2004 01:54",
+		"initialize" : "alain.plantec 5/28/2009 10:03",
+		"serializeDefinitions:" : "nicolascellier 5/31/2013 23:07",
+		"serializeInBinary:" : "MarianoMartinezPeck 6/17/2012 12:37",
+		"serializePackage:" : "cwp 8/13/2003 01:06",
+		"serializeVersionInfo:" : "CamilloBruni 7/6/2012 15:52",
+		"snapshotWriterClass" : "avi 2/17/2004 02:07",
+		"writeDefinitions:" : "avi 2/17/2004 01:48",
+		"writeFormat" : "avi 2/17/2004 01:56",
+		"writePackage:" : "nicolascellier 6/2/2013 18:39",
+		"writeSnapshot:" : "nicolascellier 6/2/2013 18:39",
+		"writeVersion:" : "avi 9/13/2004 16:49",
+		"writeVersionDependency:" : "nicolascellier 6/2/2013 18:39",
+		"writeVersionInfo:" : "nicolascellier 6/2/2013 18:39",
+		"zip" : "cwp 8/1/2003 00:06" } }

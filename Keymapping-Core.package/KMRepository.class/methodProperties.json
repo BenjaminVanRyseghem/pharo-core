@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"cleanUp" : "MarcusDenker 10/11/2013 12:31",
+		"default" : "CamilloBruni 3/18/2011 23:11",
+		"default:" : "CamilloBruni 3/18/2011 23:11",
+		"reset" : "MarcusDenker 9/12/2013 10:03" },
+	"instance" : {
+		"addCategory:" : "GuillermoPolito 12/15/2010 01:59",
+		"attach:to:" : "GuillermoPolito 12/26/2010 22:05",
+		"attachCategoryName:to:" : "GuillermoPolito 3/13/2011 17:58",
+		"categories" : "CamilloBruni 3/18/2011 23:11",
+		"categoryForName:" : "MarcusDenker 9/12/2013 10:03",
+		"categoryHolders" : "CamilloBruni 3/18/2011 23:11",
+		"ensureCategoryByName:" : "MarcusDenker 9/12/2013 10:03",
+		"globalCategories" : "GuillermoPolito 5/3/2013 15:55",
+		"includesCategory:" : "CamilloBruni 3/18/2011 23:11",
+		"includesCategoryNamed:" : "CamilloBruni 3/18/2011 23:11",
+		"initializeKeymap:executingOn:doing:inCategory:platform:" : "GuillermoPolito 4/6/2012 13:25",
+		"initializeKeymap:executingOn:doing:inCategory:platform:description:" : "GuillermoPolito 3/19/2013 19:12",
+		"keymapNamed:inCategory:" : "CamilloBruni 3/18/2011 23:11",
+		"setAsGlobalCategory:" : "GuillermoPolito 5/3/2013 15:58" } }

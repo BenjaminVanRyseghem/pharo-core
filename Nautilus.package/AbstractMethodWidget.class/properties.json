@@ -1,0 +1,14 @@
+{
+	"category" : "Nautilus-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MethodsIconsCache" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "AbstractMethodWidget",
+	"pools" : [
+		 ],
+	"super" : "AbstractWidget",
+	"type" : "normal" }

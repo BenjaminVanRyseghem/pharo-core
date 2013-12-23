@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"definition:" : "BenjaminVanRyseghem 11/26/2013 14:28",
+		"initialize" : "BenjaminVanRyseghem 11/26/2013 14:29",
+		"new" : "BenjaminVanRyseghem 11/26/2013 14:29" },
+	"instance" : {
+		"<=" : "BenjaminVanRyseghem 11/24/2013 21:26",
+		"definition" : "BenjaminVanRyseghem 11/21/2013 16:33",
+		"definition:" : "BenjaminVanRyseghem 11/21/2013 16:32",
+		"isCommitable" : "BenjaminVanRyseghem 11/23/2013 21:36",
+		"isDefinition" : "BenjaminVanRyseghem 11/21/2013 22:36",
+		"koDestinationText" : "BenjaminVanRyseghem 11/21/2013 22:07",
+		"koSourceText" : "BenjaminVanRyseghem 11/21/2013 22:06",
+		"operation" : "BenjaminVanRyseghem 11/21/2013 21:09",
+		"operation:" : "BenjaminVanRyseghem 11/21/2013 17:50" } }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"containsFlag" : "BenjaminVanRyseghem 8/27/2011 22:46",
+		"containsHalt" : "CAMILLETERUEL 3/29/2013 11:52",
+		"containsShouldBeImplemented" : "BenjaminVanRyseghem 2/14/2012 20:28",
+		"correspondingMethods" : "MarcusDenker 10/19/2012 09:58",
+		"correspondingTestMethod" : "MarcusDenker 5/6/2013 17:11",
+		"hasErrorTest" : "BenjaminVanRyseghem 8/27/2011 23:11",
+		"hasFailedTest" : "BenjaminVanRyseghem 8/27/2011 23:11",
+		"hasPassedTest" : "BenjaminVanRyseghem 8/27/2011 22:52",
+		"isOverride" : "CamilloBruni 9/14/2012 00:41",
+		"isTestMethod" : "EstebanLorenzano 11/29/2013 14:30",
+		"literals" : "BenjaminVanRyseghem 9/1/2011 09:40",
+		"numArgs" : "EstebanLorenzano 11/29/2013 14:32" } }

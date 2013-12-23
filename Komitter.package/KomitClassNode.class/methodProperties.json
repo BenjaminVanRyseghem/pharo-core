@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"addedClassIcon" : "BenjaminVanRyseghem 11/26/2013 17:22",
+		"defaultClassIcon" : "BenjaminVanRyseghem 11/26/2013 15:33",
+		"deletedClassIcon" : "BenjaminVanRyseghem 11/26/2013 17:22",
+		"modifiedClassIcon" : "BenjaminVanRyseghem 11/26/2013 17:22" },
+	"instance" : {
+		"getDefinitions" : "BenjaminVanRyseghem 11/24/2013 14:22",
+		"getMethods" : "BenjaminVanRyseghem 11/24/2013 14:21",
+		"icon" : "BenjaminVanRyseghem 11/26/2013 15:40",
+		"initialize" : "BenjaminVanRyseghem 11/24/2013 21:28",
+		"label" : "BenjaminVanRyseghem 11/21/2013 21:41",
+		"printOn:" : "BenjaminVanRyseghem 11/21/2013 14:58" } }

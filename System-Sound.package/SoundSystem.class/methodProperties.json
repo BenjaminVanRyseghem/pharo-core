@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"current" : "StephaneDucasse 8/4/2013 13:42",
+		"current:" : "StephaneDucasse 8/12/2013 13:10",
+		"resetSoundSystem" : "StephaneDucasse 8/3/2013 22:54",
+		"soundEnabled" : "StephaneDucasse 8/3/2013 21:31",
+		"soundEnabled:" : "StephaneDucasse 8/3/2013 21:31",
+		"soundQuickStart" : "StephaneDucasse 8/3/2013 21:31",
+		"soundQuickStart:" : "StephaneDucasse 8/3/2013 21:31" },
+	"instance" : {
+		"activate" : "StephaneDucasse 8/3/2013 21:30",
+		"beep" : "StephaneDucasse 8/3/2013 22:11",
+		"deactivate" : "StephaneDucasse 8/3/2013 21:30",
+		"playSampledSound:rate:" : "StephaneDucasse 8/3/2013 22:10",
+		"playSoundNamed:" : "StephaneDucasse 8/3/2013 22:10",
+		"playSoundNamed:ifAbsentReadFrom:" : "StephaneDucasse 8/3/2013 22:10",
+		"playSoundNamedOrBeep:" : "StephaneDucasse 8/3/2013 22:10",
+		"randomBitsFromSoundInput:" : "StephaneDucasse 8/3/2013 22:10",
+		"sampledSoundChoices" : "StephaneDucasse 8/3/2013 22:10",
+		"shutDown" : "StephaneDucasse 8/3/2013 22:09",
+		"soundEnabled" : "StephaneDucasse 8/3/2013 22:39",
+		"soundEnabled:" : "YuriyTymchuk 10/25/2013 19:36",
+		"soundNamed:" : "StephaneDucasse 8/3/2013 22:09" } }

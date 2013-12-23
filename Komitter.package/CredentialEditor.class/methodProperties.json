@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 12/4/2013 14:33" },
+	"instance" : {
+		"getPassword" : "BenjaminVanRyseghem 12/4/2013 13:04",
+		"getUsername" : "BenjaminVanRyseghem 12/4/2013 13:03",
+		"initialExtent" : "BenjaminVanRyseghem 12/4/2013 14:31",
+		"initializeDialogWindow:" : "BenjaminVanRyseghem 12/4/2013 13:24",
+		"initializePresenter" : "BenjaminVanRyseghem 12/4/2013 14:34",
+		"initializeWidgets" : "BenjaminVanRyseghem 12/4/2013 14:31",
+		"password" : "BenjaminVanRyseghem 12/4/2013 12:41",
+		"passwordLabel" : "BenjaminVanRyseghem 12/4/2013 12:41",
+		"setPassword:" : "BenjaminVanRyseghem 12/4/2013 12:51",
+		"setUsername:" : "BenjaminVanRyseghem 12/4/2013 12:51",
+		"showPasswordWidget" : "BenjaminVanRyseghem 12/4/2013 14:31",
+		"title" : "BenjaminVanRyseghem 12/4/2013 12:47",
+		"username" : "BenjaminVanRyseghem 12/4/2013 12:41",
+		"usernameLabel" : "BenjaminVanRyseghem 12/4/2013 12:41" } }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBinaryMessage" : "SeanDeNigris 5/28/2013 18:16",
+		"testConflictingArgumentNames" : "SeanDeNigris 5/28/2013 18:31",
+		"testGenerateGetter" : "CamilloBruni 7/3/2013 16:01",
+		"testGenerateSetter" : "CamilloBruni 7/3/2013 16:02",
+		"testNonConflictingArgumentNames" : "SeanDeNigris 5/28/2013 18:33",
+		"testOneArgumentNotMatchingAnInstanceVariable" : "SeanDeNigris 5/28/2013 18:42",
+		"testUnaryMessageNotMatchingAnInstanceVariable" : "SeanDeNigris 5/28/2013 18:41" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "HudsonBuildTools20",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TestCommandLineHandler",
+	"pools" : [
+		 ],
+	"super" : "CommandLineHandler",
+	"type" : "normal" }

@@ -1,0 +1,36 @@
+{
+	"category" : "OpalCompiler-Core-Bytecode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BytecodeTable",
+		"Bytecodes",
+		"SpecialConstants",
+		"SpecialSelectors" ],
+	"commentStamp" : "ajh 5/23/2003 10:59",
+	"instvars" : [
+		"seqOrder",
+		"orderSeq",
+		"seqBytes",
+		"jumps",
+		"literals",
+		"lastLiteral",
+		"currentSeqId",
+		"currentSeqNum",
+		"bytes",
+		"lastSpecialReturn",
+		"instrMaps",
+		"instrMap",
+		"stacks",
+		"stack",
+		"primNum",
+		"numArgs",
+		"properties",
+		"numberOfTemps",
+		"additionalLiterals",
+		"forceLongForm" ],
+	"name" : "IRBytecodeGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

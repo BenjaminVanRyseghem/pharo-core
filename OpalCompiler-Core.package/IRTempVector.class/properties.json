@@ -1,0 +1,15 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"vars" ],
+	"name" : "IRTempVector",
+	"pools" : [
+		 ],
+	"super" : "IRInstruction",
+	"type" : "normal" }

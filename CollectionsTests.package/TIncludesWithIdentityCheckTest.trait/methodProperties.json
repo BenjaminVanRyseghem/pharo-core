@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"anotherElementNotIn" : "",
+		"collectionWithCopyNonIdentical" : "delaunay 4/28/2009 11:31",
+		"elementNotIn" : "",
+		"empty" : "",
+		"nonEmpty" : "",
+		"test0FixtureIncludeWithIdentityTest" : "CamilloBruni 8/31/2013 20:43",
+		"testIdentityIncludes" : "StephaneDucasse 5/22/2010 18:16" } }

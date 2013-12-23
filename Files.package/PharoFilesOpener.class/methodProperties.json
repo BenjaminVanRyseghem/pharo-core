@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"default" : "DamienCassou 8/16/2013 10:04",
+		"reset" : "DamienCassou 8/16/2013 10:04" },
+	"instance" : {
+		"badContentMsg" : "DamienCassou 8/15/2013 11:28",
+		"cannotLocateMsg" : "DamienCassou 8/15/2013 10:15",
+		"cannotWriteMsg" : "DamienCassou 8/15/2013 10:16",
+		"changesFileOrNil" : "MartinDias 11/4/2013 17:27",
+		"changesName" : "DamienCassou 8/15/2013 10:05",
+		"ignoreIfFail:" : "DamienCassou 9/13/2013 16:16",
+		"inform:withChangesRef:" : "DamienCassou 8/15/2013 11:30",
+		"inform:withRef:" : "DamienCassou 8/15/2013 10:19",
+		"inform:withSourceRef:" : "DamienCassou 8/15/2013 11:30",
+		"informCannotLocateSources" : "DamienCassou 8/15/2013 11:18",
+		"informProblemInChanges:" : "DamienCassou 8/15/2013 11:30",
+		"lastImagePath" : "DamienCassou 8/15/2013 10:06",
+		"openChanges:" : "DamienCassou 9/13/2013 16:16",
+		"openOrDownloadSources" : "DamienCassou 8/15/2013 10:44",
+		"openSources" : "DamienCassou 8/15/2013 10:38",
+		"openSources:forImage:" : "MarcusDenker 12/2/2013 14:11",
+		"setInformAboutReadOnlyChanges" : "DamienCassou 8/16/2013 10:34",
+		"shouldInformAboutReadOnlyChanges" : "DamienCassou 8/16/2013 10:33",
+		"sourcesFileOrNil" : "MartinDias 11/4/2013 17:27",
+		"sourcesName" : "DamienCassou 8/15/2013 10:07",
+		"unsetInformAboutReadOnlyChanges" : "DamienCassou 8/16/2013 10:34" } }

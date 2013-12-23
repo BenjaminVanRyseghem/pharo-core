@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "AndreiChis 9/30/2013 11:00",
+		"testBlockFilter" : "AndreiChis 9/30/2013 11:01",
+		"testBooleanFilter" : "AndreiChis 9/30/2013 11:01",
+		"testKernelClassesFilter" : "AndreiChis 9/30/2013 11:01",
+		"testSelectorFilter" : "AndreiChis 9/30/2013 11:01" } }

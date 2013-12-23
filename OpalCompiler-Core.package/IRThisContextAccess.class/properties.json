@@ -1,0 +1,14 @@
+{
+	"category" : "OpalCompiler-Core-IR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IRThisContextAccess",
+	"pools" : [
+		 ],
+	"super" : "IRAccess",
+	"type" : "normal" }

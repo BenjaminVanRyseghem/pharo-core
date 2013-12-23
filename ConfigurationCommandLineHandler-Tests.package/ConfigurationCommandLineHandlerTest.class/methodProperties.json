@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activate:" : "EstebanLorenzano 5/23/2013 14:37",
+		"argumentsWith:" : "CamilloBruni 10/13/2012 13:03",
+		"command:" : "CamilloBruni 10/13/2012 13:17",
+		"testGroups" : "CamilloBruni 10/15/2013 01:20",
+		"testHasConfiguration" : "CamilloBruni 10/13/2012 13:21",
+		"testListConfigurations" : "CamilloBruni 10/16/2012 12:23",
+		"testResponsibility" : "CamilloBruni 10/13/2012 13:04" } }

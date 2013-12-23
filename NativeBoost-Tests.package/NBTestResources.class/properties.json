@@ -1,0 +1,14 @@
+{
+	"category" : "NativeBoost-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NBTestResources",
+	"pools" : [
+		 ],
+	"super" : "TestResource",
+	"type" : "normal" }

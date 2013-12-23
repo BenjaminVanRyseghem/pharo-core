@@ -1,0 +1,16 @@
+{
+	"category" : "NautilusCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"index",
+		"frontward",
+		"wait" ],
+	"name" : "GoBackStringMorph",
+	"pools" : [
+		 ],
+	"super" : "RotatingStringMorph",
+	"type" : "normal" }

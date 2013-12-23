@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"flush" : "IgorStasenko 8/12/2013 16:20",
+		"initialize" : "IgorStasenko 9/2/2012 01:57",
+		"soleInstance" : "IgorStasenko 9/1/2012 23:55" },
+	"instance" : {
+		"at:" : "IgorStasenko 9/2/2012 19:15",
+		"at:ifAbsentPut:" : "IgorStasenko 9/2/2012 00:31",
+		"flush" : "BenjaminVanRyseghem 7/3/2013 13:26",
+		"for:at:ifAbsentPut:" : "BenjaminVanRyseghem 7/3/2013 13:25",
+		"initialize" : "BenjaminVanRyseghem 7/3/2013 13:26",
+		"nbSessionChanged" : "IgorStasenko 9/2/2012 01:54",
+		"removeAt:" : "IgorStasenko 10/12/2012 03:54" } }

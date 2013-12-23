@@ -1,0 +1,4 @@
+permissions
+canBrowse
+
+	^ true

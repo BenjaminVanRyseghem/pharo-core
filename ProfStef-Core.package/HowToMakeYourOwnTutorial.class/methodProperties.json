@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createLessonFactoryMethods" : "LaurentLaffont 9/21/2010 20:28",
+		"implementTutorial" : "LaurentLaffont 1/21/2010 22:26",
+		"runYourTutorial" : "LaurentLaffont 1/21/2010 22:29",
+		"subclassAbstractTutorial" : "LaurentLaffont 1/21/2010 21:55",
+		"tutorial" : "LaurentLaffont 1/21/2010 21:45" } }

@@ -1,0 +1,20 @@
+{
+	"category" : "NautilusCommon-Plugin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"classButton",
+		"container",
+		"methodButton",
+		"packageButton",
+		"protocolButton",
+		"hFill",
+		"groupButton" ],
+	"name" : "NautilusBreadcrumbsPlugin",
+	"pools" : [
+		 ],
+	"super" : "AbstractNautilusPlugin",
+	"type" : "normal" }

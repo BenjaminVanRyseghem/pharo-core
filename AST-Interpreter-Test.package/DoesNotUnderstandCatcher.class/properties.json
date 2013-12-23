@@ -1,0 +1,14 @@
+{
+	"category" : "AST-Interpreter-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DoesNotUnderstandCatcher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Nautilus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"categoryWidget",
+		"methodWidget" ],
+	"name" : "NautilusUI",
+	"pools" : [
+		 ],
+	"super" : "AbstractNautilusUI",
+	"type" : "normal" }

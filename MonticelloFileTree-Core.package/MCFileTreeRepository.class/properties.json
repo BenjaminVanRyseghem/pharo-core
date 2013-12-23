@@ -1,0 +1,16 @@
+{
+	"category" : "MonticelloFileTree-Core",
+	"classinstvars" : [
+		"defaultPackageExtension",
+		"defaultPropertyFileExtension" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"readonly",
+		"repositoryProperties" ],
+	"name" : "MCFileTreeRepository",
+	"pools" : [
+		 ],
+	"super" : "MCDirectoryRepository",
+	"type" : "normal" }

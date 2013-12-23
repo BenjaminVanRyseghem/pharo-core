@@ -1,0 +1,14 @@
+{
+	"category" : "FreeType-Cache",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FreeTypeCacheLinkedList",
+	"pools" : [
+		 ],
+	"super" : "LinkedList",
+	"type" : "normal" }

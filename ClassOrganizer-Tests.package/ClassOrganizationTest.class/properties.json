@@ -1,0 +1,14 @@
+{
+	"category" : "ClassOrganizer-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"organization" ],
+	"name" : "ClassOrganizationTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

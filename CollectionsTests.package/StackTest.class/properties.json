@@ -1,0 +1,16 @@
+{
+	"category" : "CollectionsTests-Stack",
+	"classinstvars" : [
+		"testSize" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"empty",
+		"nonEmpty" ],
+	"name" : "StackTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"traitcomposition" : "TEmptyTest - {#testIfNotEmptyifEmpty. #testIfEmpty. #testNotEmpty} + (TCloneTest - {#testCopyNonEmpty})",
+	"type" : "normal" }

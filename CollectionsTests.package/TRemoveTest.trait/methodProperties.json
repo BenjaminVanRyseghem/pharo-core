@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"elementNotIn" : "delaunay 5/11/2009 10:53",
+		"empty" : "stephane.ducasse 11/29/2008 14:32",
+		"nonEmptyWithoutEqualElements" : "delaunay 5/11/2009 10:52",
+		"test0FixtureTRemoveTest" : "CamilloBruni 8/31/2013 20:43",
+		"testRemoveAll" : "CamilloBruni 8/31/2013 20:45",
+		"testRemoveAllError" : "CamilloBruni 11/2/2012 16:13",
+		"testRemoveAllFoundIn" : "CamilloBruni 8/31/2013 20:45",
+		"testRemoveAllSuchThat" : "CamilloBruni 11/2/2012 15:41",
+		"testRemoveElementFromEmpty" : "delaunay 5/11/2009 10:52",
+		"testRemoveElementReallyRemovesElement" : "delaunay 5/11/2009 10:52",
+		"testRemoveElementThatExists" : "CamilloBruni 8/31/2013 20:43",
+		"testRemoveIfAbsent" : "CamilloBruni 8/31/2013 20:43" } }

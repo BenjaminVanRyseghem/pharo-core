@@ -1,0 +1,4 @@
+protocol
+getUsername
+	
+	^ username text

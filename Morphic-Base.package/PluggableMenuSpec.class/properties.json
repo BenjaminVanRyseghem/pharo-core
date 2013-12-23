@@ -1,0 +1,17 @@
+{
+	"category" : "Morphic-Base-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 6/6/2011 22:13",
+	"instvars" : [
+		"label",
+		"model",
+		"items",
+		"parentMenu" ],
+	"name" : "PluggableMenuSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

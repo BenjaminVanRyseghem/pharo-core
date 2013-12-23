@@ -1,0 +1,14 @@
+{
+	"category" : "NOCompletion-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NOCMenuMorph",
+	"pools" : [
+		 ],
+	"super" : "NECMenuMorph",
+	"type" : "normal" }

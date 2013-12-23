@@ -1,0 +1,14 @@
+{
+	"category" : "SmartSuggestionsTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SugsSuggestionCreateAccessorsTest",
+	"pools" : [
+		 ],
+	"super" : "SugsSuggestionTest",
+	"type" : "normal" }

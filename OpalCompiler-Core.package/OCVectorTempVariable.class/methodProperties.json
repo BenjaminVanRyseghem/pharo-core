@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"emitStore:" : "MarcusDenker 12/18/2012 16:42",
+		"emitValue:" : "MarcusDenker 12/18/2012 16:42",
+		"isRemote" : "MarcusDenker 9/5/2010 17:13",
+		"isTempVectorTemp" : "MarcusDenker 9/9/2010 16:11",
+		"readFromContext:scope:" : "MarcusDenker 12/20/2012 14:39",
+		"vectorName" : "MarcusDenker 12/18/2012 16:44",
+		"vectorName:" : "MarcusDenker 12/18/2012 16:43",
+		"writeFromContext:scope:value:" : "MarcusDenker 12/18/2012 16:42" } }

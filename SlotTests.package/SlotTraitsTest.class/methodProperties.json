@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testClassWithClassTrait" : "MartinDias 8/7/2013 11:31",
+		"testClassWithTrait" : "MartinDias 8/7/2013 11:31",
+		"testClassWithTrait2" : "MartinDias 8/7/2013 11:31",
+		"testModifyClassTraitComposition" : "MartinDias 8/7/2013 11:31",
+		"testModifyTraitComposition" : "MartinDias 8/7/2013 11:31",
+		"testRemoveClassTrait" : "MartinDias 8/7/2013 11:31",
+		"testRemoveTrait" : "MartinDias 8/7/2013 11:31",
+		"testTraitUsersAfterClassReshape" : "MartinDias 8/7/2013 11:31",
+		"testTraitUsersAfterMetaclassReshape" : "MartinDias 8/7/2013 11:31" } }

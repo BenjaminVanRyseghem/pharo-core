@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"balloonText" : "BenjaminVanRyseghem 11/1/2013 18:20",
+		"balloonText:" : "BenjaminVanRyseghem 11/1/2013 18:16",
+		"balloonTextSelector" : "BenjaminVanRyseghem 11/1/2013 18:17",
+		"balloonTextSelector:" : "BenjaminVanRyseghem 11/1/2013 18:18",
+		"contents" : "BenjaminVanRyseghem 11/1/2013 17:35",
+		"icon" : "BenjaminVanRyseghem 11/1/2013 17:59",
+		"iconSelector" : "BenjaminVanRyseghem 11/1/2013 17:55",
+		"iconSelector:" : "BenjaminVanRyseghem 11/1/2013 17:55",
+		"nameSelector" : "BenjaminVanRyseghem 11/1/2013 17:32",
+		"nameSelector:" : "BenjaminVanRyseghem 11/1/2013 17:44",
+		"step" : "BenjaminVanRyseghem 11/1/2013 18:21",
+		"stepTime" : "BenjaminVanRyseghem 11/1/2013 17:45",
+		"subMenuSelector" : "BenjaminVanRyseghem 11/1/2013 18:03",
+		"subMenuSelector:" : "BenjaminVanRyseghem 11/1/2013 18:05",
+		"updateBalloonText" : "BenjaminVanRyseghem 11/1/2013 18:17",
+		"updateContents" : "BenjaminVanRyseghem 11/1/2013 17:41",
+		"updateIcon" : "BenjaminVanRyseghem 11/1/2013 17:55",
+		"updateSubMenu" : "BenjaminVanRyseghem 11/1/2013 18:06" } }

@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"ambiguous" : "EstebanLorenzano 5/28/2013 13:21",
+		"defaultName" : "EstebanLorenzano 5/28/2013 14:16",
+		"empty" : "MarcusDenker 10/3/2013 17:49",
+		"name:" : "BenjaminVanRyseghem 4/12/2012 14:06",
+		"name:methods:" : "BenjaminVanRyseghem 4/12/2012 14:02",
+		"nullCategory" : "MarcusDenker 10/3/2013 17:49",
+		"unclassified" : "EstebanLorenzano 5/28/2013 14:15" },
+	"instance" : {
+		"addAllMethodsFrom:" : "SebastianTleye 8/28/2013 17:22",
+		"addMethod:" : "BenjaminVanRyseghem 4/12/2012 14:11",
+		"canBeRemoved" : "EstebanLorenzano 6/17/2013 12:51",
+		"canBeRenamed" : "EstebanLorenzano 11/29/2013 16:04",
+		"includesSelector:" : "EstebanLorenzano 6/28/2013 16:04",
+		"initialize" : "CamilloBruni 7/17/2013 23:07",
+		"isEmpty" : "BenjaminVanRyseghem 4/12/2012 16:27",
+		"isExtensionProtocol" : "EstebanLorenzano 10/2/2013 16:23",
+		"isVirtualProtocol" : "EstebanLorenzano 6/27/2013 15:53",
+		"methods" : "BenjaminVanRyseghem 4/12/2012 14:21",
+		"methods:" : "BenjaminVanRyseghem 4/12/2012 14:02",
+		"name" : "BenjaminVanRyseghem 4/12/2012 14:21",
+		"name:" : "EstebanLorenzano 11/29/2013 15:57",
+		"printOn:" : "BenjaminVanRyseghem 4/12/2012 14:28",
+		"removeAllMethods" : "SebastianTleye 8/28/2013 17:03",
+		"removeMethod:" : "BenjaminVanRyseghem 4/12/2012 14:11",
+		"rename:" : "BenjaminVanRyseghem 4/12/2012 14:12" } }

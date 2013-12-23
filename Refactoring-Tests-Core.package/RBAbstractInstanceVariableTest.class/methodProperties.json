@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "CamilloBruni 8/27/2013 15:05",
+		"testAbstractInstanceVariable" : "lr 9/8/2011 20:11",
+		"testAbstractWithAssignmentUsed" : "lr 9/8/2011 20:11",
+		"testAbstractWithDefaultNamesUsed" : "lr 9/8/2011 20:11",
+		"testInheritedName" : "lr 9/8/2011 20:11",
+		"testMetaclassInstanceVariables" : "lr 9/8/2011 20:11",
+		"testNonExistantName" : "lr 9/8/2011 20:11" } }

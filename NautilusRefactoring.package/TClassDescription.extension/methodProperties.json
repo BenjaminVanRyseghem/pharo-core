@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"codeRewritingClass:" : "SebastianTleye 8/13/2013 14:23",
+		"groupRefactoring:" : "SebastianTleye 8/13/2013 14:23",
+		"instVarRefactoring:" : "SebastianTleye 8/13/2013 14:17",
+		"methodRefactoring:" : "SebastianTleye 8/13/2013 14:24",
+		"packageRefactoringMenu:" : "SebastianTleye 8/13/2013 14:23",
+		"refactoringMenu:" : "SebastianTleye 8/13/2013 14:24",
+		"refactoringMethod:" : "SebastianTleye 8/13/2013 14:23",
+		"refactoringSubmenu:" : "SebastianTleye 8/13/2013 14:24",
+		"renameMethodAllItem:" : "SebastianTleye 8/13/2013 14:24",
+		"sourceCodeRefactoring:" : "SebastianTleye 8/13/2013 14:24",
+		"sourceCodeRefactoringMenu:" : "GuillermoPolito 11/7/2013 14:17",
+		"varRefactoringSubMenu:" : "SebastianTleye 8/13/2013 14:21" } }

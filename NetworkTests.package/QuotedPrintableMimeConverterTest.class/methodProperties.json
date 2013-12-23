@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decode:" : "SvenVanCaekenberghe 12/8/2013 23:10",
+		"encode:" : "SvenVanCaekenberghe 12/8/2013 23:10",
+		"setUp" : "SvenVanCaekenberghe 12/8/2013 23:09",
+		"testDecodeCRLF" : "SvenVanCaekenberghe 12/8/2013 19:04",
+		"testDecodeCustomNewline" : "SvenVanCaekenberghe 12/8/2013 23:37",
+		"testDecodeDecodedStrings" : "SvenVanCaekenberghe 12/8/2013 19:04",
+		"testDecodeSimpleStrings" : "SvenVanCaekenberghe 12/8/2013 19:04",
+		"testDecodeSoftLinebreak" : "SvenVanCaekenberghe 12/8/2013 19:04",
+		"testDecodeSoftLinebreakCR" : "SvenVanCaekenberghe 12/8/2013 19:04",
+		"testDecodeSoftLinebreakCRLF" : "SvenVanCaekenberghe 12/8/2013 19:04",
+		"testDecodeSoftLinebreakLF" : "SvenVanCaekenberghe 12/8/2013 19:04",
+		"testEncodeCR" : "SvenVanCaekenberghe 12/8/2013 19:05",
+		"testEncodeCRLF" : "SvenVanCaekenberghe 12/8/2013 19:05",
+		"testEncodeEncodedStrings" : "SvenVanCaekenberghe 12/8/2013 19:05",
+		"testEncodeLF" : "SvenVanCaekenberghe 12/8/2013 19:05",
+		"testEncodeLongLine" : "SvenVanCaekenberghe 12/8/2013 23:18",
+		"testEncodeSimpleStrings" : "SvenVanCaekenberghe 12/8/2013 19:05",
+		"testEncodeSoftLinebreak" : "SvenVanCaekenberghe 12/8/2013 19:05",
+		"testLongLine" : "SvenVanCaekenberghe 12/8/2013 19:05" } }

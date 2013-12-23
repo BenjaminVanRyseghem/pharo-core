@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"tearDown" : "Alexandre Bergel 1/12/2010 11:16",
+		"testCollapsing" : "StephaneDucasse 8/22/2013 23:33",
+		"testMoving" : "StephaneDucasse 8/22/2013 23:33",
+		"testResizing" : "StephaneDucasse 8/22/2013 23:33",
+		"testResizingClosing" : "StephaneDucasse 8/22/2013 23:33",
+		"testScrolling" : "StephaneDucasse 8/22/2013 23:33",
+		"testWindowCreation" : "StephaneDucasse 8/22/2013 23:34",
+		"testWindowCreationAndDeletion" : "StephaneDucasse 8/22/2013 23:34",
+		"testWindowLabelling" : "StephaneDucasse 8/22/2013 23:34" } }

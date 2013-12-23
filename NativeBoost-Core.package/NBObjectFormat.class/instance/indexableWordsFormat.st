@@ -1,0 +1,3 @@
+object formats
+indexableWordsFormat
+	self subclassResponsibility 

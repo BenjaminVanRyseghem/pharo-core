@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"-" : "CamilloBruni 4/27/2012 16:58",
+		"addAndClassifySelector:withMethod:inProtocol:notifying:" : "EstebanLorenzano 7/9/2013 17:24",
+		"addExclusionOf:" : "al 12/7/2005 21:00",
+		"addInstVarNamed:" : "SebastianTleye 7/12/2013 16:06",
+		"baseTrait" : "al 4/21/2004 10:01",
+		"basicOrganization" : "SebastianTleye 7/4/2013 14:59",
+		"basicOrganization:" : "SebastianTleye 7/4/2013 14:59",
+		"classTrait" : "al 4/21/2004 10:01",
+		"copyTraitExpression" : "SebastianTleye 7/3/2013 18:37",
+		"definition" : "SebastianTleye 7/12/2013 16:11",
+		"instanceVariables" : "SebastianTleye 7/3/2013 19:27",
+		"instanceVariables:" : "SebastianTleye 7/12/2013 16:09",
+		"isBaseTrait" : "al 3/16/2004 10:47",
+		"isClassTrait" : "al 3/16/2004 10:47",
+		"noteChangesFrom:" : "CamilloBruni 4/27/2012 14:53",
+		"theMetaClass" : "NS 12/9/2003 11:18",
+		"theNonMetaClass" : "al 12/10/2003 00:07",
+		"updateOrganizationSelector:oldCategory:newCategory:" : "SebastianTleye 7/1/2013 17:53" } }

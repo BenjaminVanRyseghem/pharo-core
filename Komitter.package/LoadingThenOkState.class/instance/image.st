@@ -1,0 +1,4 @@
+protocol
+image
+
+	^ self subclassResponsibility

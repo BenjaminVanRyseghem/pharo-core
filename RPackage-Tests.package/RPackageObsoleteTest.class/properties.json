@@ -1,0 +1,14 @@
+{
+	"category" : "RPackage-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"notRun" ],
+	"name" : "RPackageObsoleteTest",
+	"pools" : [
+		 ],
+	"super" : "RPackageIncrementalTest",
+	"type" : "normal" }

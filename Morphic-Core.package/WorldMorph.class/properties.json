@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Core-Worlds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "WorldMorph",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }

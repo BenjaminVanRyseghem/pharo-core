@@ -1,0 +1,14 @@
+{
+	"category" : "Athens-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph" ],
+	"name" : "AthensMorphScene",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

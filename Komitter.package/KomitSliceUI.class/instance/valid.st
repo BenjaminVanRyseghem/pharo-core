@@ -1,0 +1,4 @@
+protocol
+valid
+
+	^ valid value
