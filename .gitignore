@@ -1,0 +1,6 @@
+*.changes
+*.image
+package-cache/
+pharo
+pharo-ui
+pharo-vm/
