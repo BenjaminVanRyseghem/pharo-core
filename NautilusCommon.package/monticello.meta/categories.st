@@ -1,5 +1,5 @@
-SystemOrganization addCategory: #Announcements!
 SystemOrganization addCategory: #NautilusCommon!
-SystemOrganization addCategory: #Plugin!
-SystemOrganization addCategory: #'Plugin-Manager'!
-SystemOrganization addCategory: #Refactor!
+SystemOrganization addCategory: 'NautilusCommon-Announcements'!
+SystemOrganization addCategory: 'NautilusCommon-Plugin'!
+SystemOrganization addCategory: 'NautilusCommon-Plugin-Manager'!
+SystemOrganization addCategory: 'NautilusCommon-Refactor'!

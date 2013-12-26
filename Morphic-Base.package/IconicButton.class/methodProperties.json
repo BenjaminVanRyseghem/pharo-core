@@ -11,6 +11,8 @@
 		"buttonSetup" : "ar 12/15/2001 14:43",
 		"defaultGraphics" : "StephaneDucasse 5/17/2012 16:33",
 		"extent:" : "MarcusDenker 11/23/2010 14:58",
+		"graphicalMorph" : "YuriyTymchuk 12/20/2013 15:13",
+		"graphicalMorph:" : "",
 		"initialize" : "sw 11/29/1999 20:52",
 		"interactSelector" : "BenjaminVanRyseghem 8/23/2011 14:31",
 		"labelFromString:" : "sw 9/28/1999 14:11",

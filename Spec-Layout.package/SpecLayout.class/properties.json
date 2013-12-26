@@ -8,7 +8,9 @@
 	"instvars" : [
 		"type",
 		"commands",
-		"selector" ],
+		"selector",
+		"result",
+		"shouldCheckSplitters" ],
 	"name" : "SpecLayout",
 	"pools" : [
 		 ],

@@ -1,21 +1,21 @@
-SystemOrganization addCategory: #Balloon!
-SystemOrganization addCategory: #Basic!
-SystemOrganization addCategory: #Borders!
-SystemOrganization addCategory: #Canvas!
-SystemOrganization addCategory: #DockingBar!
-SystemOrganization addCategory: #Events!
-SystemOrganization addCategory: #Kernel!
-SystemOrganization addCategory: #Layouts!
-SystemOrganization addCategory: #List!
-SystemOrganization addCategory: #Menus!
-SystemOrganization addCategory: #MorphTreeWidget!
-SystemOrganization addCategory: #'MorphTreeWidget-Announces'!
-SystemOrganization addCategory: #'MorphTreeWidget-Pagination'!
 SystemOrganization addCategory: #'Morphic-Base'!
-SystemOrganization addCategory: #'Pluggable Widgets'!
-SystemOrganization addCategory: #ProgressBar!
-SystemOrganization addCategory: #'Text Support'!
-SystemOrganization addCategory: #Widgets!
-SystemOrganization addCategory: #'Widgets-Calendar'!
-SystemOrganization addCategory: #WindowNotification!
-SystemOrganization addCategory: #Windows!
+SystemOrganization addCategory: 'Morphic-Base-Balloon'!
+SystemOrganization addCategory: 'Morphic-Base-Basic'!
+SystemOrganization addCategory: 'Morphic-Base-Borders'!
+SystemOrganization addCategory: 'Morphic-Base-Canvas'!
+SystemOrganization addCategory: 'Morphic-Base-DockingBar'!
+SystemOrganization addCategory: 'Morphic-Base-Events'!
+SystemOrganization addCategory: 'Morphic-Base-Kernel'!
+SystemOrganization addCategory: 'Morphic-Base-Layouts'!
+SystemOrganization addCategory: 'Morphic-Base-List'!
+SystemOrganization addCategory: 'Morphic-Base-Menus'!
+SystemOrganization addCategory: 'Morphic-Base-MorphTreeWidget'!
+SystemOrganization addCategory: 'Morphic-Base-MorphTreeWidget-Announces'!
+SystemOrganization addCategory: 'Morphic-Base-MorphTreeWidget-Pagination'!
+SystemOrganization addCategory: 'Morphic-Base-Pluggable Widgets'!
+SystemOrganization addCategory: 'Morphic-Base-ProgressBar'!
+SystemOrganization addCategory: 'Morphic-Base-Text Support'!
+SystemOrganization addCategory: 'Morphic-Base-Widgets'!
+SystemOrganization addCategory: 'Morphic-Base-Widgets-Calendar'!
+SystemOrganization addCategory: 'Morphic-Base-WindowNotification'!
+SystemOrganization addCategory: 'Morphic-Base-Windows'!

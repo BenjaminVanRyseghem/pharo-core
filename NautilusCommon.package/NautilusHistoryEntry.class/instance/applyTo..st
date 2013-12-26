@@ -27,8 +27,7 @@ applyTo: aNautilus
 		cl
 			ifNil: [ interface showInstance: false ] 
 			ifNotNil: [ 
-				interface showInstance: cl isMeta not.
-				cl := cl theNonMetaClass ].
+				interface showInstance: cl isMeta not].
 			
 		interface
 			selectedPackageWithoutChangingSelectionInternally: self selectedPackage;
@@ -39,6 +38,6 @@ applyTo: aNautilus
 			
 		self selectedMethod
 			ifNil: [ interface selectedMethod: nil ]
-			ifNotNil: [:sel | interface selectedMethod: (cl methodNamed: sel ifAbsent: [ nil ])].
+			ifNotNil: [:sel | interface selectedMethod: (cl compiledMethodAt: sel ifAbsent: [ nil ])].
 
 		interface update ].

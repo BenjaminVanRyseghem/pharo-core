@@ -1,10 +1,14 @@
 public
 commentForCurrentUpdate
- ^ '12477 Move MethodFinder old tests from code to TestsPackages
-	https://pharo.fogbugz.com/f/cases/12477
+ ^ '12510 NautilusHistory entry for class methods loads instance methods
+	https://pharo.fogbugz.com/f/cases/12510
 	
-12055 The Spec Debugger should not require the registered inspector to be built on Spec
-	https://pharo.fogbugz.com/f/cases/12055
-
-11743 Debugger fix the key shortcuts
-	https://pharo.fogbugz.com/f/cases/11743'
+12502 FileList MNU FileSystemPermission>><=
+	https://pharo.fogbugz.com/f/cases/12502
+	
+12429 MessageBrowser loses changes
+	https://pharo.fogbugz.com/f/cases/12429
+	
+12451 Error on Browse Full in Nautilus from class in group view
+	https://pharo.fogbugz.com/f/cases/12451
+	'
