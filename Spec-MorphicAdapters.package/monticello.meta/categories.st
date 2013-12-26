@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #'Spec-MorphicAdapters'!
-SystemOrganization addCategory: #Support!
+SystemOrganization addCategory: 'Spec-MorphicAdapters-Support'!

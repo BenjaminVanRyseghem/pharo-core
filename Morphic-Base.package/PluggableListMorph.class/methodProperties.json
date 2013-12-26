@@ -38,6 +38,7 @@
 		"font:" : "ls 5/15/2001 22:21",
 		"getCurrentSelectionIndex" : "GuillermoPolito 9/1/2010 18:47",
 		"getList" : "BenjaminVanRyseghem 11/29/2011 09:57",
+		"getListElementSelector" : "BenjaminVanRyseghem 5/9/2012 11:28",
 		"getListElementSelector:" : "EstebanLorenzano 9/21/2012 13:18",
 		"getListItem:" : "BenjaminVanRyseghem 11/29/2011 09:57",
 		"getListSelector" : "di 6/21/1998 22:19",

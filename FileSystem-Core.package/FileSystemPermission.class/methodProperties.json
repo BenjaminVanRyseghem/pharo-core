@@ -5,6 +5,9 @@
 		"posixPermissions:" : "EstebanLorenzano 6/22/2012 15:01" },
 	"instance" : {
 		"<" : "CamilloBruni 7/10/2012 22:01",
+		"<=" : "NicolaiHess 12/25/2013 14:53",
+		">" : "NicolaiHess 12/25/2013 14:52",
+		">=" : "NicolaiHess 12/25/2013 14:53",
 		"groupExecute" : "EstebanLorenzano 6/22/2012 15:10",
 		"groupRead" : "EstebanLorenzano 6/22/2012 15:10",
 		"groupWrite" : "EstebanLorenzano 6/22/2012 15:11",
@@ -18,4 +21,5 @@
 		"ownerRead" : "EstebanLorenzano 6/22/2012 15:12",
 		"ownerWrite" : "EstebanLorenzano 6/22/2012 15:12",
 		"permissionBitAt:" : "EstebanLorenzano 7/3/2012 11:28",
+		"posixPermission" : "NicolaiHess 12/25/2013 14:54",
 		"printOn:" : "EstebanLorenzano 6/22/2012 15:06" } }

@@ -1,5 +1,4 @@
 private
 browseSenders
 
-	self item ifNotNil: [ :selector |
-		SystemNavigation new browseSendersOf: selector name: 'Senders of ', selector autoSelect: selector].
+	SystemNavigation new browseSendersOf: self selector name: 'Senders of ', self selector autoSelect: self selector

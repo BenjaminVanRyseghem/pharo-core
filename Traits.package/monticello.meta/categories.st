@@ -1,4 +1,4 @@
-SystemOrganization addCategory: #Composition!
-SystemOrganization addCategory: #Kernel!
-SystemOrganization addCategory: #'Kernel-Traits'!
 SystemOrganization addCategory: #Traits!
+SystemOrganization addCategory: 'Traits-Composition'!
+SystemOrganization addCategory: 'Traits-Kernel'!
+SystemOrganization addCategory: 'Traits-Kernel-Traits'!

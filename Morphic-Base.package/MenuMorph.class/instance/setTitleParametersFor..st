@@ -19,5 +19,7 @@ setTitleParametersFor: aMenuTitle
 		borderColor: menuTitleBorderColor;
 		vResizing: #shrinkWrap;
 		wrapCentering: #center;
-		cellPositioning: #topCenter;
+		cellPositioning: #topLeft;
+		maxCellSize:World width /2;
+		clipSubmorphs:true;
 		layoutInset: 0.
