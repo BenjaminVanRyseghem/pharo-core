@@ -1,3 +1,0 @@
-widgets
-prevButton
-	^ prev

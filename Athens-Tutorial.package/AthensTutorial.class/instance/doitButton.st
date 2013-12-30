@@ -1,3 +1,0 @@
-widgets
-doitButton
-	^ doit
