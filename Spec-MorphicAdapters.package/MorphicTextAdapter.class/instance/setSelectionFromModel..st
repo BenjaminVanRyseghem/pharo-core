@@ -1,6 +1,4 @@
 spec protocol
 setSelectionFromModel: aSelection
 
-	self widget ifNotNil: [:w | 
-		w selectionInterval ~= aSelection ifTrue: [
-			w setSelection: aSelection ]]
+	self widget ifNotNil: [:w | w setSelection: aSelection ]

@@ -12,4 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "Morph",
+	"traitcomposition" : "TEasilyThemed",
 	"type" : "normal" }

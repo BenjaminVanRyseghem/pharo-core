@@ -12,7 +12,7 @@
 		"signalErrorWith:" : "md 2/22/2006 14:26",
 		"signalFailureWith:" : "md 2/22/2006 14:26",
 		"skip" : "CamilloBruni 8/24/2012 17:52",
-		"updateTestHistoryFor:status:" : "EstebanLorenzano 8/3/2012 14:21" },
+		"updateTestHistoryFor:status:" : "NicolaiHess 12/29/2013 23:38" },
 	"instance" : {
 		"addError:" : "NiallRoss 7/18/2010 12:21",
 		"addFailure:" : "NiallRoss 7/18/2010 12:21",
@@ -59,4 +59,4 @@
 		"unexpectedFailures" : "JF 7/30/2003 16:14",
 		"unexpectedPassCount" : "JF 7/30/2003 13:54",
 		"unexpectedPasses" : "JF 7/30/2003 16:14",
-		"updateResultsInHistory" : "simon.denier 11/22/2008 22:05" } }
+		"updateResultsInHistory" : "NicolaiHess 12/29/2013 23:38" } }

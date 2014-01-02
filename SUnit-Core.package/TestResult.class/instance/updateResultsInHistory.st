@@ -1,6 +1,10 @@
 history
 updateResultsInHistory
-	
+	|classesToNotify|
+	classesToNotify:= Set new.
 	#(#passed #failures #errors) do: [ :status | 
 		(self perform: status) do: [ :testCase | 
-			self class updateTestHistoryFor: testCase status: status ] ]
+			classesToNotify add:testCase class.
+			self class updateTestHistoryFor: testCase status: status ] ].
+	classesToNotify do:[:cl | 
+		TestAnnouncer uniqueInstance announce: (TestSuiteEnded result: cl)]
