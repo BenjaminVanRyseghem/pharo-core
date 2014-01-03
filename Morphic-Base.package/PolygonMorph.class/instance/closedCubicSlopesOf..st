@@ -1,7 +1,7 @@
 cubic support
 closedCubicSlopesOf: knots 
 	"Sent to knots returns the slopes of a closed cubic spline.
-	From the same set of java sources as naturalCubic. This is a squeak  
+	From the same set of java sources as naturalCubic. This is a smalltalk  
 	transliteration of the java code."
 	"from java code NatCubicClosed extends NatCubic  
 	solves for the set of equations for all knots: 

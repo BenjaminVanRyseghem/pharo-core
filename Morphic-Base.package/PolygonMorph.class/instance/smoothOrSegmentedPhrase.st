@@ -1,10 +1,9 @@
 accessing
 smoothOrSegmentedPhrase
-				| lineName |
+	| lineName |
 	lineName := (closed
-						ifTrue: ['outline']
-						ifFalse: ['line']) translated.
-
-			^ self isCurve
-				ifTrue: ['make segmented {1}' translated format: {lineName}]
-				ifFalse: ['make smooth {1}' translated format: {lineName}].
+					ifTrue: ['outline']
+					ifFalse: ['line']) translated.
+	^ self isCurve
+		ifTrue: [ 'make segmented {1}' translated format: {lineName} ]
+		ifFalse: [ 'make smooth {1}' translated format: {lineName} ].

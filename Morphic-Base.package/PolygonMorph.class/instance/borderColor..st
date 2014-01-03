@@ -1,4 +1,4 @@
-access
+accessing
 borderColor: aColor 
 
 	super borderColor: aColor.
@@ -8,4 +8,4 @@ borderColor: aColor
 				["Need to recompute fillForm and borderForm
 					if translucency of border changes."
 
-				self releaseCachedState]
+				self releaseCachedState ]
