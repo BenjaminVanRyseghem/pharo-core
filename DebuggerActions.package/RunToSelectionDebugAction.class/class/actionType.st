@@ -1,3 +1,4 @@
 registration
 actionType
 	<debuggingAction>
+	<contextMenuCodeDebuggingAction>

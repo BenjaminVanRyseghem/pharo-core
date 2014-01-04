@@ -1,4 +1,4 @@
-public registration
+private registration
 ensureExistAndRegisterPackageNamed: aSymbol
 	"A new package is now available and declared in the receiver."
 	

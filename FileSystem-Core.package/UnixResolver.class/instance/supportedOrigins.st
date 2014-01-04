@@ -1,3 +1,3 @@
-as yet unclassified
+resolving
 supportedOrigins
 	^ super supportedOrigins , #( userData )

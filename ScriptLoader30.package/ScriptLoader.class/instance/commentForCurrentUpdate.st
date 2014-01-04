@@ -1,10 +1,10 @@
 public
 commentForCurrentUpdate
- ^ '12550 MNU on Browse scoped from a Group
-	https://pharo.fogbugz.com/f/cases/12550
+ ^ '12524 Merge with the debugger repo
+	https://pharo.fogbugz.com/f/cases/12524
 	
-12526 Change Groups/packages in Nautilus can freeze the UI
-	https://pharo.fogbugz.com/f/cases/12526
+12560 there are still some references to PackageInfo in RPackage
+	https://pharo.fogbugz.com/f/cases/12560
 	
-12495 Cleaning PolygonMorph
-	https://pharo.fogbugz.com/f/cases/12495'
+10521 Renaming a package problems with extension methods
+	https://pharo.fogbugz.com/f/cases/10521'

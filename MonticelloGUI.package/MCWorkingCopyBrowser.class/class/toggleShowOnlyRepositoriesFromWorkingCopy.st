@@ -1,4 +1,0 @@
-as yet unclassified
-toggleShowOnlyRepositoriesFromWorkingCopy
-	
-	ShowOnlyRepositoriesFromWorkingCopy := ShowOnlyRepositoriesFromWorkingCopy not 

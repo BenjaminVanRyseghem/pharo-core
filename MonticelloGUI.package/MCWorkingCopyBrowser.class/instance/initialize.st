@@ -6,4 +6,5 @@ initialize
 	
 	workingCopyPattern := ''.
 	repositoryPattern := ''.
+	showOnlyRepositoriesFromWorkingCopy := true
 	

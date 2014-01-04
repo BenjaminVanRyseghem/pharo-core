@@ -18,7 +18,9 @@
 		"repositoryPattern",
 		"workingCopyPattern",
 		"repositoryProcess",
-		"packageProcess" ],
+		"packageProcess",
+		"howOnlyRepositoriesFromWorkingCopy",
+		"showOnlyRepositoriesFromWorkingCopy" ],
 	"name" : "MCWorkingCopyBrowser",
 	"pools" : [
 		 ],

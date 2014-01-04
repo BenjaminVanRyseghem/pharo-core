@@ -15,5 +15,8 @@ initializeWidgets
 			notifying: notifyer ].
 
 	self code whenBuiltDo: [ :ann | ann widget font: self codeFont ].
+	
+	self code menuHolder: [ :menu :shifted |
+		self codeContextMenu: menu shifted: shifted].
 
 	self setFocusOrder

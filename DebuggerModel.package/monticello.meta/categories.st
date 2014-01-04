@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #DebuggerModel!
-SystemOrganization addCategory: #'DebuggerModel-Tests'!
+SystemOrganization addCategory: 'DebuggerModel-Tests'!

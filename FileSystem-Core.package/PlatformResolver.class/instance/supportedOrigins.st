@@ -1,3 +1,3 @@
 resolving
 supportedOrigins
-	^ #(home desktop documents preferences cache)
+	^ #(home desktop documents preferences cache temp)
