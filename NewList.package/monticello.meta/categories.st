@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #NewList!
-SystemOrganization addCategory: #'NewList-Example'!
+SystemOrganization addCategory: 'NewList-Example'!

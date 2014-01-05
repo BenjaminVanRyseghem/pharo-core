@@ -1,5 +1,8 @@
 literals
 literalStrings
+	"Return a list of strings or symbols corresponding to the class references and message sent.
+	The result also contains the name of the class"
+	
 	| litStrs |
 	litStrs := OrderedCollection new: self numLiterals.
 	self literalsDo:
