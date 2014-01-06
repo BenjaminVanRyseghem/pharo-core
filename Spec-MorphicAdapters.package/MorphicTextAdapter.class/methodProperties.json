@@ -3,7 +3,7 @@
 		"defaultSpec" : "BenjaminVanRyseghem 11/27/2013 14:59" },
 	"instance" : {
 		"accept" : "BenjaminVanRyseghem 11/23/2013 23:20",
-		"accept:notifying:" : "BenjaminVanRyseghem 9/28/2013 21:16",
+		"accept:notifying:" : "BenjaminVanRyseghem 1/5/2014 02:23",
 		"askBeforeDiscardingEdits" : "BenjaminVanRyseghem 11/27/2013 14:58",
 		"askBeforeDiscardingEdits:" : "BenjaminVanRyseghem 11/27/2013 14:58",
 		"autoAccept" : "BenjaminVanRyseghem 11/27/2013 14:30",
@@ -19,6 +19,7 @@
 		"hasUnacceptedEdits:" : "BenjaminVanRyseghem 9/28/2013 22:01",
 		"isAboutToStyle" : "BenjaminVanRyseghem 9/28/2013 22:03",
 		"isCodeCompletionAllowed" : "BenjaminVanRyseghem 9/28/2013 22:02",
+		"notify:at:in:" : "BenjaminVanRyseghem 1/5/2014 01:51",
 		"okToStyle" : "BenjaminVanRyseghem 9/28/2013 22:00",
 		"readSelection" : "BenjaminVanRyseghem 9/28/2013 21:18",
 		"receiverClass" : "BenjaminVanRyseghem 9/28/2013 22:00",
