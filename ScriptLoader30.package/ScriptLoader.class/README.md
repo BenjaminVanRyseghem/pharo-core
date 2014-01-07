@@ -3,7 +3,7 @@ Pharo Process Description. This comment contains:
 	- some scripts description 	
 	- main behavior of the scriptLoader.
 	
-General points on infrastructure
+General points on infrastructure 
 ---------------------------------------------------------------------------------------------------------------------------------
 An enhancement
 	- should be added to the bug tracker https://pharo.fogbugz.com

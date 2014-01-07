@@ -10,7 +10,7 @@
 		"CurrentlyIntegratingChanges",
 		"LogStream",
 		"Repository" ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "StephaneDucasse 1/7/2014 10:47",
 	"instvars" : [
 		"repository",
 		"inboxRepository",

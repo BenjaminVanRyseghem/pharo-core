@@ -1,15 +1,15 @@
 {
 	"category" : "Nautilus-Tree",
 	"classinstvars" : [
-		 ],
+		"instance" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"packagePattern",
-		"searchWidget" ],
-	"name" : "PackageTreeNautilusUI",
+		"value",
+		"mutex" ],
+	"name" : "SharedValueHolder",
 	"pools" : [
 		 ],
-	"super" : "NautilusUI",
+	"super" : "Object",
 	"type" : "normal" }

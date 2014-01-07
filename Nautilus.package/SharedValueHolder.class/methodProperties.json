@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"instance" : "JurajKubelka 12/26/2013 17:51" },
+	"instance" : {
+		"addFirst:" : "JurajKubelka 12/26/2013 17:30",
+		"at:" : "JurajKubelka 12/26/2013 17:31",
+		"collectWithIndex:" : "JurajKubelka 12/26/2013 17:27",
+		"indexOf:" : "JurajKubelka 12/26/2013 17:30",
+		"initialize" : "JurajKubelka 12/26/2013 17:18",
+		"remove:ifAbsent:" : "JurajKubelka 12/26/2013 17:28",
+		"size" : "JurajKubelka 12/26/2013 17:29",
+		"value" : "JurajKubelka 12/26/2013 17:19",
+		"value:" : "JurajKubelka 12/26/2013 17:18" } }

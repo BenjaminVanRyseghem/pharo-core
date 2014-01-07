@@ -1,7 +1,7 @@
 actions
 promptForPackages
 	| packages |
-	packages := (PackageOrganizer default packages
+	packages := (RPackageOrganizer default packages
 				reject: [:package | (package packageName beginsWith: 'Kernel')
 						or: [(package packageName beginsWith: 'Collections')
 								or: [(package packageName beginsWith: 'Exceptions')

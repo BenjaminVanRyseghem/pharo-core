@@ -58,7 +58,7 @@
 		"handlesMouseOver:" : "gvc 5/8/2006 13:40",
 		"handlesMouseOverDragging:" : "gvc 5/8/2006 13:41",
 		"indicateModalChild" : "gvc 9/11/2009 17:56",
-		"initialize" : "StephaneDucasse 5/31/2013 18:39",
+		"initialize" : "BenjaminVanRyseghem 1/5/2014 02:33",
 		"initializeLabelMorph" : "StephaneDucasse 5/31/2013 18:39",
 		"invokeMenu:" : "RAA 6/12/2000 09:04",
 		"isDefault" : "gvc 1/10/2007 12:13",
