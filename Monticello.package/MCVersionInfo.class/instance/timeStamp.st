@@ -1,3 +1,3 @@
 accessing
 timeStamp
-	^ TimeStamp date: date time: time
+	^ DateAndTime date: date time: time

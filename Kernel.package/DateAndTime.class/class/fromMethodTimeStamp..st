@@ -5,4 +5,4 @@ fromMethodTimeStamp: aString
 	stream
 		skipSeparators;
 		skipTo: Character space.
-	^self readFrom: stream.
+	^ self readSeparateDateAndTimeFrom: stream

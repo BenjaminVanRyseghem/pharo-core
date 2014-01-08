@@ -1,4 +1,3 @@
 accessing
 fullTimeStamp
-	
-	^TimeStamp fromMethodTimeStamp: timeStamp
+	^ DateAndTime fromMethodTimeStamp: timeStamp

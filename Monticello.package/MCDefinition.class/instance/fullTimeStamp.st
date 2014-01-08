@@ -1,3 +1,3 @@
 comparing
 fullTimeStamp
-	^TimeStamp current
+	^ DateAndTime current
