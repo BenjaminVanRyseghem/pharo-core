@@ -1,4 +1,4 @@
 protocol
 initialExtent
 
-	^  400@260
+	^  700@460

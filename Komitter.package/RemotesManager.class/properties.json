@@ -6,14 +6,14 @@
 		"editRemoteIcon" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "ChristopheDemarey 1/8/2014 17:00",
 	"instvars" : [
-		"packages",
 		"remotes",
-		"silent",
 		"addRemote",
 		"removeRemote",
-		"editRemote" ],
+		"editRemote",
+		"selectedChangedBlock",
+		"selectedRemotes" ],
 	"name" : "RemotesManager",
 	"pools" : [
 		 ],

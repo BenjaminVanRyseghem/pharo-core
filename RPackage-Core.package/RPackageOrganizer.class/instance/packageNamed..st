@@ -1,5 +1,5 @@
 accessing
 packageNamed: aSymbol
-	^self 
+	^ self 
 		packageNamed: aSymbol 
 		ifAbsent: [ KeyNotFound signalFor: aSymbol ]

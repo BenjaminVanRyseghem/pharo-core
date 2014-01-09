@@ -1,6 +1,4 @@
 initialization
 initialize
-
-	super initialize.
-
-	silent := false.
+	selectedRemotes := #().
+	super initialize

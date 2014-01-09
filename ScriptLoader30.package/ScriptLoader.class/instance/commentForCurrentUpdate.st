@@ -1,6 +1,5 @@
 public
 commentForCurrentUpdate
- ^ '12377 ZnHTTPSTests.>>testGetPharoVersion fails on Windows slave
-	https://pharo.fogbugz.com/f/cases/12377
-	
+ ^ '12604 regression on metacello long tests
+	https://pharo.fogbugz.com/f/cases/12604
 '

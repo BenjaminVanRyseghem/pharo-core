@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"defaultSpec" : "ChristopheDemarey 12/17/2013 16:44" },
+	"instance" : {
+		"change:forRemote:" : "ChristopheDemarey 12/19/2013 17:32",
+		"doIfNotSilent:" : "BenjaminVanRyseghem 11/30/2013 22:05",
+		"initialExtent" : "BenjaminVanRyseghem 12/4/2013 10:18",
+		"initialize" : "ChristopheDemarey 12/17/2013 17:24",
+		"initializeDialogWindow:" : "BenjaminVanRyseghem 12/4/2013 13:12",
+		"initializePresenter" : "ChristopheDemarey 12/19/2013 16:36",
+		"initializeWidgets" : "ChristopheDemarey 1/8/2014 16:57",
+		"packages" : "ChristopheDemarey 1/8/2014 16:55",
+		"packages:" : "BenjaminVanRyseghem 11/30/2013 20:02",
+		"remotes" : "ChristopheDemarey 1/8/2014 16:55",
+		"remotesTree" : "ChristopheDemarey 1/8/2014 16:55",
+		"selectedPackageRepositories" : "ChristopheDemarey 1/8/2014 16:55",
+		"silentWhile:" : "BenjaminVanRyseghem 11/30/2013 22:04",
+		"title" : "BenjaminVanRyseghem 12/1/2013 00:29",
+		"updateRemoteSelectionFrom:" : "ChristopheDemarey 12/19/2013 17:30" } }
