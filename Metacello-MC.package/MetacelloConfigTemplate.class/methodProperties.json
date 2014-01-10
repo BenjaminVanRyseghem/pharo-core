@@ -1,9 +1,9 @@
 {
 	"class" : {
 		"DevelopmentSupport" : "dkh 6/8/2012 14:04:22",
-		"baseConfigurationClassIfAbsent:" : "dkh 6/8/2012 14:04:22",
+		"baseConfigurationClassIfAbsent:" : "DaleHenrichs 11/2/2010 16:51",
 		"ensureMetacello" : "dkh 6/8/2012 14:04:22",
-		"ensureMetacelloBaseConfiguration" : "dkh 05/08/2013 11:39",
+		"ensureMetacelloBaseConfiguration" : "DaleHenrichs 11/4/2010 10:23",
 		"isMetacelloConfig" : "dkh 6/8/2012 14:04:22",
 		"load" : "dkh 6/8/2012 14:04:22",
 		"loadBleedingEdge" : "dkh 6/8/2012 14:04:22",
@@ -11,5 +11,12 @@
 		"project" : "dkh 6/8/2012 14:04:22",
 		"validate" : "dkh 6/8/2012 14:04:22" },
 	"instance" : {
-		"customProjectAttributes" : "dkh 6/8/2012 14:04:22",
-		"project" : "dkh 6/8/2012 14:04:22" } }
+		"baseline10:" : "CamilloBruni 5/9/2013 13:01",
+		"customProjectAttributes" : "SeanDeNigris 7/12/2012 09:41",
+		"development:" : "CamilloBruni 5/9/2013 12:30",
+		"fileSystemLegacy:" : "CamilloBruni 5/9/2013 13:01",
+		"fuelMetalevel:" : "CamilloBruni 5/9/2013 12:13",
+		"project" : "CamilloBruni 1/10/2014 17:25",
+		"stable:" : "CamilloBruni 5/9/2013 12:18",
+		"version10:" : "CamilloBruni 5/9/2013 13:02",
+		"versionDevelopment:" : "CamilloBruni 5/9/2013 13:02" } }
