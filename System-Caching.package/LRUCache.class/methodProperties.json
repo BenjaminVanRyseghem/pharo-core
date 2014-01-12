@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addWeight:" : "SvenVanCaekenberghe 12/10/2013 16:40",
+		"at:ifAbsentPut:" : "SvenVanCaekenberghe 12/9/2013 22:24",
+		"evict" : "SvenVanCaekenberghe 12/5/2013 17:35",
+		"handleHit:" : "SvenVanCaekenberghe 12/5/2013 18:16",
+		"handleMiss:" : "SvenVanCaekenberghe 12/5/2013 17:45",
+		"includesKey:" : "SvenVanCaekenberghe 11/29/2013 21:03",
+		"initialize" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"isEmpty" : "SvenVanCaekenberghe 11/29/2013 21:22",
+		"keysAndValuesDo:" : "SvenVanCaekenberghe 12/5/2013 17:35",
+		"promote:" : "SvenVanCaekenberghe 12/5/2013 17:46",
+		"removeAll" : "SvenVanCaekenberghe 12/9/2013 22:22",
+		"removeKey:ifAbsent:" : "SvenVanCaekenberghe 12/9/2013 22:23",
+		"size" : "SvenVanCaekenberghe 11/29/2013 21:15",
+		"validateInvariantWith:" : "SvenVanCaekenberghe 12/5/2013 17:15" } }

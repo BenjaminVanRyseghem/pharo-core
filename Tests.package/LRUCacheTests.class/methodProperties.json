@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"newCache" : "SvenVanCaekenberghe 12/16/2013 20:11",
+		"test5kClasses" : "SvenVanCaekenberghe 12/2/2013 16:31",
+		"test6k" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testCustomWeight" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testEmpty" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testEnumeration" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testEviction" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testFactory" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testFactoryStyle" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testFibonacci" : "SvenVanCaekenberghe 12/11/2013 15:46",
+		"testFixedAccess" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testOne" : "SvenVanCaekenberghe 12/2/2013 16:32",
+		"testOneHit" : "SvenVanCaekenberghe 12/2/2013 16:33",
+		"testOneHitTwice" : "SvenVanCaekenberghe 12/2/2013 16:33",
+		"testPrimeFactors" : "SvenVanCaekenberghe 12/2/2013 16:33",
+		"testRandomAccess" : "SvenVanCaekenberghe 12/2/2013 16:33",
+		"testRemoveAll" : "SvenVanCaekenberghe 12/2/2013 16:33",
+		"testRemoveOne" : "SvenVanCaekenberghe 12/2/2013 16:33",
+		"testRemoveOneOfThree" : "SvenVanCaekenberghe 12/2/2013 16:33",
+		"testTen" : "SvenVanCaekenberghe 12/2/2013 16:33",
+		"testTenThreadSafe" : "SvenVanCaekenberghe 12/11/2013 15:38",
+		"testThree" : "SvenVanCaekenberghe 12/2/2013 16:34",
+		"testThreeHitSameOne" : "SvenVanCaekenberghe 12/2/2013 16:34",
+		"testTwo" : "SvenVanCaekenberghe 12/2/2013 16:34" } }

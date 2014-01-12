@@ -1,5 +1,5 @@
 initialization
 pixelRampCache
-	"Allow access to my cache of pixel ramps. This is mainly for debugging and profiling purposes."
+	"Allow access to my cache of pixel ramps."
 
-	^PixelRampCache 
+	^ PixelRampCache ifNil: [ self initPixelRampCache ]

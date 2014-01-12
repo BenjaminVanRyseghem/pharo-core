@@ -12,6 +12,7 @@ SystemOrganization addCategory: 'Tests-PackageInfo'!
 SystemOrganization addCategory: 'Tests-Polymorph-Widgets'!
 SystemOrganization addCategory: 'Tests-ScriptLoader'!
 SystemOrganization addCategory: 'Tests-System'!
+SystemOrganization addCategory: 'Tests-System-Caching'!
 SystemOrganization addCategory: 'Tests-System-CommandLine'!
 SystemOrganization addCategory: 'Tests-System-Hashing'!
 SystemOrganization addCategory: 'Tests-SystemChangeNotification'!

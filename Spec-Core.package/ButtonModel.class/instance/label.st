@@ -2,4 +2,4 @@ morphic
 label
 	<api: #inspect>
 	
- 	^ labelHolder value
+ 	^ self addShortcutTipFor: labelHolder value

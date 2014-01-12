@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:ifAbsentPut:" : "SvenVanCaekenberghe 12/16/2013 20:09",
+		"handleHit:ifStale:" : "SvenVanCaekenberghe 12/9/2013 14:59",
+		"initialize" : "SvenVanCaekenberghe 12/6/2013 15:17",
+		"now" : "SvenVanCaekenberghe 12/6/2013 15:16",
+		"printElementsOn:" : "SvenVanCaekenberghe 12/9/2013 15:06",
+		"removeStaleValues" : "SvenVanCaekenberghe 12/9/2013 22:55",
+		"timeToLive:" : "SvenVanCaekenberghe 12/9/2013 14:54" } }

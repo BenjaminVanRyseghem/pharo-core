@@ -1,0 +1,14 @@
+{
+	"category" : "System-Caching",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"timestamp" ],
+	"name" : "TTLAssociation",
+	"pools" : [
+		 ],
+	"super" : "Association",
+	"type" : "normal" }

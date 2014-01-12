@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "SvenVanCaekenberghe 12/2/2013 16:17",
+		"compute" : "SvenVanCaekenberghe 12/2/2013 16:25",
+		"compute:" : "SvenVanCaekenberghe 12/2/2013 16:18",
+		"initialize" : "SvenVanCaekenberghe 12/2/2013 16:16",
+		"isBelowMaximum" : "SvenVanCaekenberghe 12/2/2013 16:27",
+		"maximum" : "SvenVanCaekenberghe 12/2/2013 16:25",
+		"maximum:" : "SvenVanCaekenberghe 12/2/2013 16:18",
+		"remove:" : "SvenVanCaekenberghe 12/2/2013 16:17",
+		"reset" : "SvenVanCaekenberghe 12/2/2013 16:19",
+		"total" : "SvenVanCaekenberghe 12/2/2013 16:19" } }

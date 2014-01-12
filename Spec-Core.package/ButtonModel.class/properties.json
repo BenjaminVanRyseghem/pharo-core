@@ -11,7 +11,8 @@
 		"stateHolder",
 		"actionPerformedHolder",
 		"askBeforeChangingHolder",
-		"iconHolder" ],
+		"iconHolder",
+		"shortcut" ],
 	"name" : "ButtonModel",
 	"pools" : [
 		 ],

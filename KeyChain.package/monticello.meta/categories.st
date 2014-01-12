@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #KeyChain!
-SystemOrganization addCategory: #UI!
+SystemOrganization addCategory: 'KeyChain-UI'!

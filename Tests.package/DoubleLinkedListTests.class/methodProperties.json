@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddAfterLink" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testAddBeforeLink" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testAddFirst" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testAddLast" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testCollect" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testDo" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testEmpty" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testIncludes" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testOne" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testOneRemoveFirst" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testOneRemoveLast" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testReject" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testReverseDo" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testSelect" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testThree" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testThreeRemoveFirst" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testThreeRemoveLast" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"testThreeRemoveLink" : "SvenVanCaekenberghe 12/16/2013 20:10" } }

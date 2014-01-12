@@ -2,8 +2,9 @@
 	"class" : {
 		"cleanUp" : "StephaneDucasse 3/9/2010 16:32",
 		"colors:" : "ar 11/26/2001 23:09",
-		"initPixelRampCache" : "StephaneDucasse 3/9/2010 16:32",
-		"pixelRampCache" : "StephaneDucasse 3/9/2010 16:31",
+		"initPixelRampCache" : "SvenVanCaekenberghe 1/11/2014 10:10",
+		"initialize" : "SvenVanCaekenberghe 1/11/2014 10:13",
+		"pixelRampCache" : "SvenVanCaekenberghe 1/11/2014 10:11",
 		"ramp:" : "ar 11/9/1998 14:05",
 		"sample" : "ar 11/10/1998 19:13" },
 	"instance" : {
@@ -18,7 +19,7 @@
 		"isRadialFill" : "ar 11/7/1998 22:13",
 		"isTranslucent" : "ar 9/2/1999 14:29",
 		"mixed:with:" : "ar 6/4/2001 00:42",
-		"pixelRamp" : "efc 8/30/2005 21:42",
+		"pixelRamp" : "SvenVanCaekenberghe 1/11/2014 10:12",
 		"pixelRamp:" : "ar 11/9/1998 14:06",
 		"radial" : "ar 8/31/2004 11:06",
 		"radial:" : "ar 11/7/1998 22:11",

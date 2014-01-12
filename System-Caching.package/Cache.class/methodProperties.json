@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:" : "SvenVanCaekenberghe 12/9/2013 22:00",
+		"at:ifAbsentPut:" : "SvenVanCaekenberghe 12/9/2013 22:01",
+		"beThreadSafe" : "SvenVanCaekenberghe 12/11/2013 15:36",
+		"computeWeight:" : "SvenVanCaekenberghe 12/9/2013 22:02",
+		"critical:" : "SvenVanCaekenberghe 12/9/2013 22:21",
+		"factory:" : "SvenVanCaekenberghe 12/9/2013 22:02",
+		"hitRatio" : "SvenVanCaekenberghe 12/9/2013 21:59",
+		"hits" : "SvenVanCaekenberghe 12/9/2013 21:59",
+		"initialize" : "SvenVanCaekenberghe 12/16/2013 20:10",
+		"keysAndValuesDo:" : "SvenVanCaekenberghe 12/9/2013 22:06",
+		"maximumWeight:" : "SvenVanCaekenberghe 12/9/2013 22:02",
+		"misses" : "SvenVanCaekenberghe 12/9/2013 21:59",
+		"printElementsOn:" : "SvenVanCaekenberghe 12/9/2013 22:03",
+		"printOn:" : "SvenVanCaekenberghe 12/9/2013 22:02",
+		"removeAll" : "SvenVanCaekenberghe 12/9/2013 22:03",
+		"removeKey:" : "SvenVanCaekenberghe 12/9/2013 22:03",
+		"removeKey:ifAbsent:" : "SvenVanCaekenberghe 12/9/2013 22:04",
+		"size" : "SvenVanCaekenberghe 12/9/2013 22:00",
+		"totalWeight" : "SvenVanCaekenberghe 12/9/2013 22:00" } }
