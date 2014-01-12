@@ -1,6 +1,9 @@
 scrollbars
 createBoxImagesCache
-	"creates the cache to store the arrow forms"
-	^ OldLRUCache
-		size: 20
-		factory: [:key | self createBoxOfSize: key first color: key second]
+	"Creates the cache to store the arrow forms"
+	
+	^ LRUCache new
+		maximumWeight: 20;
+		factory: [ :key |
+			self createBoxOfSize: key first color: key second ];
+		yourself
