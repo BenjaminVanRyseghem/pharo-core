@@ -16,7 +16,8 @@
 		"predecessor",
 		"successor",
 		"backgroundColor",
-		"margins" ],
+		"margins",
+		"defaultColor" ],
 	"name" : "TextMorph",
 	"pools" : [
 		 ],

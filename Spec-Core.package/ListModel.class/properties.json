@@ -17,7 +17,9 @@
 		"filteringBlockHolder",
 		"sortingBlockHolder",
 		"wrapBlockHolder",
-		"listAnnouncer" ],
+		"listAnnouncer",
+		"backgroundColorBlock",
+		"autoDeselect" ],
 	"name" : "ListModel",
 	"pools" : [
 		 ],

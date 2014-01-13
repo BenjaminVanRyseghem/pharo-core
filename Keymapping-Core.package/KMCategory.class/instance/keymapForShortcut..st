@@ -1,4 +1,4 @@
 binding
 keymapForShortcut: aShortcut
 
-	^ self commonEntries keymapForShortcut: aShortcut
+	^ self allEntries keymapForShortcut: aShortcut

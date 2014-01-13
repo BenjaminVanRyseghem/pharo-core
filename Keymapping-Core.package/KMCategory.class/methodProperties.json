@@ -15,7 +15,7 @@
 		"hasKeymapNamed:at:" : "GuillermoPolito 1/21/2012 20:57",
 		"initialize" : "MarcusDenker 9/11/2013 13:21",
 		"installAsGlobalCategory" : "MarcusDenker 9/11/2013 13:26",
-		"keymapForShortcut:" : "BenjaminVanRyseghem 11/12/2013 16:18",
+		"keymapForShortcut:" : "BenjaminVanRyseghem 1/12/2014 22:38",
 		"keymapNamed:" : "GuillermoPolito 1/21/2012 20:57",
 		"keymapNamed:at:" : "GuillermoPolito 1/21/2012 20:58",
 		"keymaps" : "GuillermoPolito 1/21/2012 21:02",
@@ -25,4 +25,4 @@
 		"name:" : "GuillermoPolito 12/14/2010 00:58",
 		"onMatchWith:notify:andDo:" : "GuillermoPolito 10/20/2011 15:55",
 		"platformEntries" : "cami 7/22/2013 18:33",
-		"removeKeymapEntry:" : "BenjaminVanRyseghem 11/12/2013 16:14" } }
+		"removeKeymapEntry:" : "BenjaminVanRyseghem 1/12/2014 22:50" } }

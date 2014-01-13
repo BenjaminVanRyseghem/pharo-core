@@ -1,8 +1,15 @@
 building
 removeKeyCombination: aShortcut
-	| keymap |
+	| keymap removalTarget |
 
+	removalTarget := self directKeymaps.
+	
 	keymap := self keymapForShortcut: aShortcut.
+	keymap ifNil: [ 
+		self targets do: [ :e | (e keymapForShortcut: aShortcut) 
+			ifNotNil: [ :s | 
+				removalTarget := e category.
+				keymap := s ] ] ].
 	keymap ifNil: [ ^ self ].
 	
-	self directKeymaps removeKeymapEntry: keymap
+	removalTarget removeKeymapEntry: keymap

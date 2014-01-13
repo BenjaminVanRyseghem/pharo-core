@@ -5,10 +5,12 @@ defaultSpec
 			#color:. Color white.
 	    		#model:. 					#model.
 			#getListSizeSelector:. 			#listSize.
+			#autoDeselect:.				#(model autoDeselect).
 			#getIndexSelector:. 			#getIndex.
 			#setIndexSelector:. 			#setIndex:.
 			#getSelectionListSelector:.		#getSelectionStateFor:.
 			#setSelectionListSelector:.		#setSelectionStateFor:at:.
+			#backgroundColoringBlockOrSelector:. #backgroundColorFor:at:.
 			#getListElementSelector:. 		#listElementAt:.
 			#resetListSelector:.			#resetListSelection.
 			#getMenuSelector:.			#menu:shifted:.
