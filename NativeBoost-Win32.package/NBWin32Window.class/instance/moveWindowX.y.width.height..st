@@ -1,4 +1,4 @@
-as yet unclassified
+operations
 moveWindowX: x y: y width: nWidth height: nHeight
 	"move window example"
 	<primitive: 'primitiveNativeCall' module: 'NativeBoostPlugin'>

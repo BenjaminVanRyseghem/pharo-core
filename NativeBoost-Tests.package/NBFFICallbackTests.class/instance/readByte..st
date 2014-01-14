@@ -1,4 +1,4 @@
-as yet unclassified
+private
 readByte: array
 
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>

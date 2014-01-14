@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testPushingFloats
 
 	self assert: (self pushFloat: 100.0) = 100.0.

@@ -1,4 +1,4 @@
-accessing
+file system
 getHomePath
 	"Return the home path. Typically this is \Documents and Settings\{username}
 	

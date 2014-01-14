@@ -1,4 +1,4 @@
-native callbacks
+tests - native callbacks
 testInstallCallback
 
 	| callback |

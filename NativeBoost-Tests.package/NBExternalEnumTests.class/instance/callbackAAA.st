@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 callbackAAA
 	^ self cbClass on: [ :anInt | self enumClass AAA ]

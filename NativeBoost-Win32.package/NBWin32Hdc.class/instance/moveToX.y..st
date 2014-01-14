@@ -1,4 +1,4 @@
-as yet unclassified
+operations
 moveToX:  x y: y
 		<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

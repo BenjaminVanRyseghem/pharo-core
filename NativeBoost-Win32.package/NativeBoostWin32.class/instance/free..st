@@ -1,4 +1,4 @@
-as yet unclassified
+memory operations
 free: lpMem
 "The HeapFree function frees a memory block allocated from a heap by the HeapAlloc or HeapReAlloc function. "
 

@@ -1,4 +1,4 @@
-as yet unclassified
+bootstrapping
 bootstrapAllocate: size into: returnValueBuffer
 
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>

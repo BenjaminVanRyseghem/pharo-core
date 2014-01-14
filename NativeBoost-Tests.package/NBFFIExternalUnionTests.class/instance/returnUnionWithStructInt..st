@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 returnUnionWithStructInt: anInt
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

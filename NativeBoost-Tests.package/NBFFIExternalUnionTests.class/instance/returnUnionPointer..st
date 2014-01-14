@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 returnUnionPointer: aPointer
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

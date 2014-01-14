@@ -3,7 +3,7 @@
 		"resources" : "CiprianTeodorov 5/19/2013 03:44" },
 	"instance" : {
 		"return4Bytes:" : "CiprianTeodorov 1/29/2013 19:39",
-		"returnUnion1Byte" : "CamilloBruni 9/5/2013 15:08",
+		"returnUnion1Byte" : "IgorStasenko 12/3/2013 02:59",
 		"returnUnionPointer:" : "CiprianTeodorov 1/29/2013 19:39",
 		"returnUnionUnionChar:" : "CiprianTeodorov 1/29/2013 19:39",
 		"returnUnionUnionDouble:" : "CiprianTeodorov 1/29/2013 19:34",

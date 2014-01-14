@@ -1,4 +1,4 @@
-as yet unclassified
+memory operations
 basicAllocate: numBytes
 	"answer an instance of NBExternalAddress, or nil if failed"
 	| address |

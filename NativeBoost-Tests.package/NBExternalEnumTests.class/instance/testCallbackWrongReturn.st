@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testCallbackWrongReturn
 	"there is an issue with callback return. If it fails I cannot see how we can catch the exception and continue"
 	"so this test is supposed to fail for now."

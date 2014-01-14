@@ -1,4 +1,4 @@
-testing - class protocols
+tests - class protocols
 testAnonymousClassCreation
 
 	| cls |

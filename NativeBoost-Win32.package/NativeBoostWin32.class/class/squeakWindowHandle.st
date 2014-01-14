@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 squeakWindowHandle
 	"This is slow, but efficient"
 	

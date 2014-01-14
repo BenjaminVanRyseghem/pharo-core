@@ -1,4 +1,4 @@
-as yet unclassified
+private
 movableStub
 	<primitive: 'primitiveNativeCall' module: 'NativeBoostPlugin'>
 	^ 999

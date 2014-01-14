@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testUnionWithUnion
 	|u1 u2|
 	u1 := NBTestUnionWithUnion new.

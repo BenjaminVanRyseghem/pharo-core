@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testStructCopy
 
 	| struct addr struct2 |

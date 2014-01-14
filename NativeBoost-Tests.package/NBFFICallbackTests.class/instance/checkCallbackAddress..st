@@ -1,4 +1,4 @@
-as yet unclassified
+private
 checkCallbackAddress:  nativeCallbackAddr
 
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>

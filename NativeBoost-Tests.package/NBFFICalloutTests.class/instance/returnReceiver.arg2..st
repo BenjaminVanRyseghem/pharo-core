@@ -1,4 +1,4 @@
-as yet unclassified
+private
 returnReceiver: x arg2: y
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

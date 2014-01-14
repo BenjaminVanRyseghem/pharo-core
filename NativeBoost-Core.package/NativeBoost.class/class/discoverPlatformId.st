@@ -13,6 +13,6 @@ discoverPlatformId
 			class new  " should set Current during initialization"
 	]].
 
-	Current isNil ifTrue: [ self unsupportedPlatform ].
+	Current ifNil: [ self unsupportedPlatform ].
 	
 	^ Current 

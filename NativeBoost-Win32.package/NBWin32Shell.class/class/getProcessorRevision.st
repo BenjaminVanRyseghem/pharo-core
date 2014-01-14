@@ -1,4 +1,4 @@
-accessing
+cpu
 getProcessorRevision
 	"Return the revision number of the processor.
 	

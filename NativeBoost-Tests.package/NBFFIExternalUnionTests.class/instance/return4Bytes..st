@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 return4Bytes: asm
 	NativeBoost platformId ~= NativeBoostConstants linux32PlatformId 
 		ifTrue:[

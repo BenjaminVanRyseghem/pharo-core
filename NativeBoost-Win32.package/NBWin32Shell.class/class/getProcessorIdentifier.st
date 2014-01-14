@@ -1,4 +1,4 @@
-accessing
+cpu
 getProcessorIdentifier
 	"Return a description of the processor.
 	

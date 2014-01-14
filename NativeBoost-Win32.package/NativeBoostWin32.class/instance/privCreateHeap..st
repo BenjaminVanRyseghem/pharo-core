@@ -1,4 +1,4 @@
-as yet unclassified
+private
 privCreateHeap: returnValueBuffer
 
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>

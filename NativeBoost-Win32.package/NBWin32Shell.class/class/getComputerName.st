@@ -1,4 +1,4 @@
-accessing
+computer
 getComputerName
 	"Return the name of the computer.
 	

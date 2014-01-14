@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"getCurrentProcess" : "TorstenBergmann 8/13/2013 22:19",
+		"getCurrentProcessId" : "TorstenBergmann 8/13/2013 22:22" },
+	"instance" : {
+		"getPriorityClass" : "TorstenBergmann 8/13/2013 22:27",
+		"isHighPriorityClass" : "TorstenBergmann 8/13/2013 22:39",
+		"isIdlePriorityClass" : "TorstenBergmann 8/13/2013 22:40",
+		"isNormalPriorityClass" : "TorstenBergmann 8/13/2013 22:41",
+		"isRealtimePriorityClass" : "TorstenBergmann 8/13/2013 22:41" } }

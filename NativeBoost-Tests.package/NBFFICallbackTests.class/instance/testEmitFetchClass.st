@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testEmitFetchClass
 
    self assert: (self checkEmitFetchClass ==  NBExternalAddress)

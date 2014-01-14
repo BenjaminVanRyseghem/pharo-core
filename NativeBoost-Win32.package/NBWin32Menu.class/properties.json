@@ -1,0 +1,14 @@
+{
+	"category" : "NativeBoost-Win32",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NBWin32Menu",
+	"pools" : [
+		 ],
+	"super" : "NBWin32Window",
+	"type" : "normal" }

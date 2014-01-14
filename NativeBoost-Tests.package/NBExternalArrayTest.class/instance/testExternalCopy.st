@@ -1,4 +1,4 @@
-testing - instances
+tests - instances
 testExternalCopy
 
 	| cls array copy |

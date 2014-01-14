@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testIntToEnumNotIncluded
 
 	self assert: (self primIntToEnum: 7) value = 7.

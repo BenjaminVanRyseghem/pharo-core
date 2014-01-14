@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReturnUnionWithStructInt
 	|s|
 	NBNativeCodeGen removeNativeCodeFrom: self class >> #returnUnionWithStructInt:.

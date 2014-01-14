@@ -1,4 +1,4 @@
-native callbacks
+tests - native callbacks
 createNativeCallback
 	"
 	The routine must compare the elements, then return one of the following values:

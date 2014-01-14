@@ -1,4 +1,4 @@
-accessing
+file system
 getSystemRootDirectory
 	"Return the systems root directory. Typically this is
 	  'C:\WINDOWS'

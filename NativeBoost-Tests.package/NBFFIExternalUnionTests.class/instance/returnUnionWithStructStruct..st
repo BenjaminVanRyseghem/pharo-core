@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 returnUnionWithStructStruct: aStructure
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

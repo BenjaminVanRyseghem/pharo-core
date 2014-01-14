@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 returnUnionWithCallback: aCallback
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

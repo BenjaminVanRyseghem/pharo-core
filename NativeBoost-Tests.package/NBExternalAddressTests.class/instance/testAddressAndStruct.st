@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testAddressAndStruct
 
 	| struct addr string |

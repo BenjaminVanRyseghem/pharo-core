@@ -1,4 +1,4 @@
-accessing
+computer
 getOS
 	"Return the name of the OS"
 	

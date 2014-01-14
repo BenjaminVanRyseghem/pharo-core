@@ -1,4 +1,4 @@
-accessing
+file system
 getPathEntries
 	"Return the PATH entries"
 	

@@ -1,4 +1,4 @@
-testing - instances
+tests - instances
 testBasicProtocol
 
 	| cls array |

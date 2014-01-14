@@ -1,4 +1,4 @@
-native callbacks
+tests - native callbacks
 testcallbackAddress
 
 	| callback addr1 addr2 |

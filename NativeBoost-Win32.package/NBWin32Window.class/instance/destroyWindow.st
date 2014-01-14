@@ -1,4 +1,4 @@
-as yet unclassified
+operations
 destroyWindow
 	"destroy the window"
 	<primitive: 'primitiveNativeCall' module: 'NativeBoostPlugin'>

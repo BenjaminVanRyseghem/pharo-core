@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 pushDouble: aFloat
 
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>

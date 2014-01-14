@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 returnUnionUnionDouble: aN
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 getFloatPtrOffset: aFloat
 	"return the difference between float oop and pointer to its stored floating-point value ,
 	must be base header size"

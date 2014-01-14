@@ -10,6 +10,7 @@ versionDevelopment: spec
 	spec for: #common do: [
 		spec 
 			description: 'Development Version';
+			blessing: #development;
 			author: 'John Doe';
 			timestamp: '2013-05-09'.
 		

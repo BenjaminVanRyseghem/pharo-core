@@ -1,4 +1,4 @@
-testing - instances
+tests - instances
 testExternalArray
 
 	| cls array |

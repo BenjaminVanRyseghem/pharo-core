@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 getFocus 
 	"Return the HWND currently having the input focus"
 	<primitive: 'primitiveNativeCall' module: 'NativeBoostPlugin'>

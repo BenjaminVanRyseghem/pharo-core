@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 enumToInt: anEnum
 
 	^self primEnumToInt: anEnum 

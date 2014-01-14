@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 hide
 	"destroy the window"
 	<primitive: 'primitiveNativeCall' module: 'NativeBoostPlugin'>

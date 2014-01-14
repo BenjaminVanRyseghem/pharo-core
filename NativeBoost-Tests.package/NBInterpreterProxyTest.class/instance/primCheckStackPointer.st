@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 primCheckStackPointer
 	"should answer 0"
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin error: errorCode>

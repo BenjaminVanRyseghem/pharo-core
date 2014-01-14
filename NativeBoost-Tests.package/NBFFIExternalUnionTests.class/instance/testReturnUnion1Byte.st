@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReturnUnion1Byte
 	| s |
 	NBNativeCodeGen removeNativeCodeFrom: self class >> #returnUnion1Byte.

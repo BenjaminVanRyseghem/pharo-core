@@ -1,4 +1,4 @@
-as yet unclassified
+native
 primExecuteCallbackEnumReturn1: anEnumCb
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	^ NBFFICallout

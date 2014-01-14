@@ -1,4 +1,4 @@
-as yet unclassified
+private
 checkCallback: arr1 with: arr2 compare: nativeCallback
 
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>

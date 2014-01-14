@@ -1,4 +1,4 @@
-as yet unclassified
+private
 checkEmitFetchClass
 "
 	checker for fetching the class code emitting

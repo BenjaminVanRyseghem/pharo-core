@@ -1,0 +1,14 @@
+{
+	"category" : "NativeBoost-Tests-Unix",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NBUnixSpecificTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

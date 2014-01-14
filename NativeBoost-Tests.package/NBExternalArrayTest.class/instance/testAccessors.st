@@ -1,4 +1,4 @@
-testing - class protocols
+tests - class protocols
 testAccessors
 
 	"make sure a generated class has accessors installed "

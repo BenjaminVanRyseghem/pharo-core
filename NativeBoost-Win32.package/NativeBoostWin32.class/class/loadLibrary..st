@@ -1,4 +1,4 @@
-as yet unclassified
+library loading
 loadLibrary: libName
 	<primitive: 'primitiveNativeCall' module: 'NativeBoostPlugin'>
 

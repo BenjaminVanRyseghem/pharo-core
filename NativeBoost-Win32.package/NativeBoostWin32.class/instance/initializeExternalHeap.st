@@ -1,4 +1,4 @@
-as yet unclassified
+bootstrapping
 initializeExternalHeap
 
 	"initialize external memory heap"

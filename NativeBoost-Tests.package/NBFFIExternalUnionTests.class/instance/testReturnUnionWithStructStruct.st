@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReturnUnionWithStructStruct
 
 	| s struct|

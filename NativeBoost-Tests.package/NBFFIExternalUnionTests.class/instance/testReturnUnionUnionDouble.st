@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReturnUnionUnionDouble
 	| s |
 	NBNativeCodeGen removeNativeCodeFrom: self class >> #returnUnionUnionDouble:.

@@ -1,0 +1,15 @@
+{
+	"category" : "NativeBoost-Win32",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NBWin32Process",
+	"pools" : [
+		"NBWinConstants",
+		"NBWinTypes" ],
+	"super" : "NBWin32Handle",
+	"type" : "normal" }

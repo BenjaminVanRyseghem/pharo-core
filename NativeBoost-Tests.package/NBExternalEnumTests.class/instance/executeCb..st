@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 executeCb: anEnumCb
 
 	^self primExecuteCallbackEnumReturn: anEnumCb

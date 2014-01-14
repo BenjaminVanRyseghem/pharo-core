@@ -1,4 +1,4 @@
-as yet unclassified
+operations
 rectangleLeft: nLeftRect top: nTopRect right: nRightRect bottom: nBottomRect
 		<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

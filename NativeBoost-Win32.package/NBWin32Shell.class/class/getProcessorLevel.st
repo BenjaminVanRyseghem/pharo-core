@@ -1,4 +1,4 @@
-accessing
+cpu
 getProcessorLevel
 	"Return the model number of the computer's processor.
 	

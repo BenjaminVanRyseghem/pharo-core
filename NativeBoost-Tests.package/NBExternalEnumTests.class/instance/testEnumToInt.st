@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testEnumToInt
 
 	self assert: (self enumToInt:  self enumClass AAA) = 1.

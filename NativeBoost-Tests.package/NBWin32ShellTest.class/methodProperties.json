@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testGetCommandLine" : "TorstenBergmann 8/7/2013 12:27",
+		"testGetComputerName" : "TorstenBergmann 8/7/2013 12:27",
+		"testGetDriveType" : "TorstenBergmann 8/7/2013 12:30",
+		"testNoDebuggerPresentByDefault" : "TorstenBergmann 8/7/2013 12:28",
+		"testNumberOfProcessors" : "TorstenBergmann 8/7/2013 12:31" } }

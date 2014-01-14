@@ -1,0 +1,4 @@
+opening
+minimize
+	
+	^self close

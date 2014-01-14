@@ -1,4 +1,4 @@
-as yet unclassified
+native
 primEnumToInt1: aMyEnumInst
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	^ NBFFICallout 

@@ -1,4 +1,4 @@
-as yet unclassified
+private
 benchQSort
 
 	| bytes memBytes callback callback2 times |

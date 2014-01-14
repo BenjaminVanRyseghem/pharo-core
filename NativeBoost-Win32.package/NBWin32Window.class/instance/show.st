@@ -1,6 +1,6 @@
-as yet unclassified
+opening
 show
-	"destroy the window"
+	"show the window"
 	<primitive: 'primitiveNativeCall' module: 'NativeBoostPlugin'>
 
 	^ self nbCallout stdcall 

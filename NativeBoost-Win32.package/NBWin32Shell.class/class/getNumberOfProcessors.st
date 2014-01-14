@@ -1,4 +1,4 @@
-accessing
+cpu
 getNumberOfProcessors
 	"Return the number of processors/cores.
 	

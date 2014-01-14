@@ -1,4 +1,4 @@
-as yet unclassified
+primitives
 returnUnionUnionChar: aChar
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

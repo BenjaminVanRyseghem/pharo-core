@@ -1,4 +1,4 @@
-accessing
+file system
 getTempDirectory
 	"Return the name of the temp directory.
 	

@@ -1,4 +1,4 @@
-as yet unclassified
+operations
 lineToX:  nXEnd y: nYEnd
 		<primitive: #primitiveNativeCall module: #NativeBoostPlugin>
 	

@@ -1,4 +1,4 @@
-as yet unclassified
+library loading
 primGetModuleFileName: lpFileName with: nSize
 
 "The GetModuleFileName function retrieves the fully-qualified path for the file that contains the specified module that the current process owns."

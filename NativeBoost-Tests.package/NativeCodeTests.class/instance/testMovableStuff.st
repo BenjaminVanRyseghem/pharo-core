@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testMovableStuff
 	"test that if native code calls a VM function which triggers
 	a full gc and relocates a native code, it will survive the move,

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 argName: argName indirectIndex: anIndex type: typeName ptrArity: ptrArity
 
 	^ #argument

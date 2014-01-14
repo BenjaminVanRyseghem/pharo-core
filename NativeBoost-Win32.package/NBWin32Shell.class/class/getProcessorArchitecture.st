@@ -1,4 +1,4 @@
-accessing
+cpu
 getProcessorArchitecture
 	"Return processor chip architecture. Values: x86, IA64.
 	

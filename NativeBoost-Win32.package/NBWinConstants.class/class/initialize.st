@@ -2,14 +2,18 @@ class initialization
 initialize
 	" self initialize"
 	
-	self classStyles;
+	self baseConstants;
+		classStyles;
 		heapConstants;
+		threadConstants;
 		windowStyles;
 		windowExStyles;
 		windowCreationConstants;
 		gdiConstants;
 		showWindowConstants;
+		getWindowConstants;
 		messageBoxConstants;
+		systemMetricConstants;
 		getWindowLongConstants;
 		windowMessages;
 		driveTypes

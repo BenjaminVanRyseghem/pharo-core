@@ -1,0 +1,14 @@
+{
+	"category" : "NativeBoost-Tests-Mac",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NBMacSpecificTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

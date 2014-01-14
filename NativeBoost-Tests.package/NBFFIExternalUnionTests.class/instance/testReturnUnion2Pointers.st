@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReturnUnion2Pointers
 
 	| s ptr|

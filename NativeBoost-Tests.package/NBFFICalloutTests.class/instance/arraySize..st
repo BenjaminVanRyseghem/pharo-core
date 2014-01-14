@@ -1,4 +1,4 @@
-as yet unclassified
+private
 arraySize: array
 	
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin>

@@ -1,4 +1,4 @@
-accessing
+user
 getUserName
 	"Return the name of the logged in user
 	

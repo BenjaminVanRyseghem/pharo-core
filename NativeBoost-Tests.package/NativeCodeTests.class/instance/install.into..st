@@ -1,4 +1,4 @@
-as yet unclassified
+private
 install: nativeCode into: method
 
 	| trailer  newMethod |

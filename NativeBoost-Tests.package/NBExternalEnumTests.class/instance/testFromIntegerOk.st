@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testFromIntegerOk
 
 	self assert: (self enumClass fromInteger:  1) value = 1 .

@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 asNBExternalType: gen
 
 	^ (gen optionAt: #WinUnicode) 
