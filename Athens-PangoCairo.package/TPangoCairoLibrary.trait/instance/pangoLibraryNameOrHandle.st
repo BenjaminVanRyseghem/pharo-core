@@ -1,3 +1,0 @@
-initialization
-pangoLibraryNameOrHandle
-	^ self class pangoLibraryNameOrHandle

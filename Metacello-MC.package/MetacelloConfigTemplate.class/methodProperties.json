@@ -11,12 +11,5 @@
 		"project" : "dkh 6/8/2012 14:04:22",
 		"validate" : "dkh 6/8/2012 14:04:22" },
 	"instance" : {
-		"baseline10:" : "CamilloBruni 5/9/2013 13:01",
 		"customProjectAttributes" : "SeanDeNigris 7/12/2012 09:41",
-		"development:" : "CamilloBruni 5/9/2013 12:30",
-		"fileSystemLegacy:" : "CamilloBruni 5/9/2013 13:01",
-		"fuelMetalevel:" : "CamilloBruni 5/9/2013 12:13",
-		"project" : "CamilloBruni 1/10/2014 17:25",
-		"stable:" : "CamilloBruni 5/9/2013 12:18",
-		"version10:" : "ChristopheDemarey 1/13/2014 14:27",
-		"versionDevelopment:" : "ChristopheDemarey 1/13/2014 14:27" } }
+		"project" : "CamilloBruni 1/10/2014 17:25" } }

@@ -4,5 +4,5 @@
 	"instance" : {
 		"testGetDesktopWindow" : "TorstenBergmann 8/7/2013 11:59",
 		"testIsEnabled" : "TorstenBergmann 8/7/2013 12:26",
-		"testIsVisible" : "TorstenBergmann 8/7/2013 12:25",
-		"testWindowFromPoint" : "TorstenBergmann 8/7/2013 13:12" } }
+		"testIsVisible" : "MarcusDenker 1/14/2014 17:21",
+		"testWindowFromPoint" : "MarcusDenker 1/14/2014 17:21" } }

@@ -1,3 +1,0 @@
-initialization
-resourceData
-	^ self 

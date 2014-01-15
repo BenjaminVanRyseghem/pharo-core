@@ -1,3 +1,0 @@
-fonts
-setFontDescription: anAthensPangoCairoFontDescription
-	self primSetFontDescription: anAthensPangoCairoFontDescription

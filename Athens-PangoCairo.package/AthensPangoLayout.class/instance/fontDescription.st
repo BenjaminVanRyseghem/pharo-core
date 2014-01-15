@@ -1,4 +1,0 @@
-accessing
-fontDescription
-	^ self primGetFontDescription.
-	
