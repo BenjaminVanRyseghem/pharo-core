@@ -1,6 +1,5 @@
 private
 moveMethodsFrom: fromProtocolNamed to: toProtocolNamed
-
 	| fromProtocol toProtocol |
 	
 	fromProtocol := self protocolNamed: fromProtocolNamed.

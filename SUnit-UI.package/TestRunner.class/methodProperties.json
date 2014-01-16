@@ -4,7 +4,7 @@
 		"patchworkUIThemeColor" : "AlainPlantec 12/16/2009 22:10",
 		"registerToolsOn:" : "MarcusDenker 12/3/2012 18:18" },
 	"instance" : {
-		"addDeclaredPackagesUnderTestTo:" : "PabloHerrero 1/4/2014 11:10",
+		"addDeclaredPackagesUnderTestTo:" : "DamienCassou 1/15/2014 16:51",
 		"addMethodsUnderTestIn:to:" : "PabloHerrero 1/4/2014 14:08",
 		"allSelectedTestSuites" : "CarloTeixeira 10/24/2011 22:26",
 		"baseClass" : "lr 10/31/2005 15:31",

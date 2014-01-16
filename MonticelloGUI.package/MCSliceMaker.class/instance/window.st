@@ -21,12 +21,12 @@ window
 		rootItems: self rootItems;
 		beCheckList;
 		autoMultiSelection: true;
-		wrapBlockOrSelector:  #packageName;
+		wrapBlockOrSelector:  #packageNameWithStar;
 		headerLabel: 'Dirty Packages to be included in the slice';
 		yourself.
 	tree onSelectionChangeSend:  #selectionChanged: to: self. 
 	treeMorph := tree defaultTreeMorph buildContents; 
-		selectAll; 
+		"selectAll; "
 		"hResizing: #spaceFill;"
 		vResizing: #spaceFill;
 		yourself.

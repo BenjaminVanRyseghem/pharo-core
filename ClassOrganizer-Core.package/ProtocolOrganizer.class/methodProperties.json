@@ -20,7 +20,7 @@
 		"includesSelector:" : "EstebanLorenzano 6/28/2013 16:03",
 		"initialize" : "CamilloBruni 7/17/2013 23:07",
 		"methodsInProtocolNamed:" : "EstebanLorenzano 11/29/2013 16:09",
-		"moveMethodsFrom:to:" : "EstebanLorenzano 11/29/2013 16:09",
+		"moveMethodsFrom:to:" : "EstebanLorenzano 1/16/2014 11:22",
 		"protocolNamed:" : "EstebanLorenzano 11/29/2013 16:09",
 		"protocolNamed:ifAbsent:" : "EstebanLorenzano 11/29/2013 16:08",
 		"protocols" : "MarcusDenker 11/26/2013 15:56",
@@ -31,5 +31,5 @@
 		"removeMethod:" : "BenjaminVanRyseghem 4/24/2012 14:38",
 		"removeProtocol:" : "EstebanLorenzano 6/27/2013 16:10",
 		"removeProtocolNamed:" : "EstebanLorenzano 11/29/2013 16:09",
-		"renameProtocol:into:" : "EstebanLorenzano 11/29/2013 16:09",
+		"renameProtocol:into:" : "EstebanLorenzano 1/16/2014 11:22",
 		"stringForFileOut" : "BenjaminVanRyseghem 4/12/2012 18:10" } }

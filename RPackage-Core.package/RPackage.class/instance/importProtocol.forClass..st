@@ -1,4 +1,4 @@
-*RPackage-SystemIntegration
+private
 importProtocol: aProtocol forClass: aClass 
 	"import all the methods of a protocol as defined in the receiver." 
 	
