@@ -12,7 +12,7 @@ buildNewClass
 	
 	newClass
 		superclass: superclass
-		withLayoutType: layoutClass
+		withLayoutType: self layoutClass
 		slots: slots.
 
 	newClass declare: sharedVariablesString.

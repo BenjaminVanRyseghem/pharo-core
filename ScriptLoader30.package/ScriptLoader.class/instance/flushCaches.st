@@ -1,7 +1,5 @@
 cleaning
 flushCaches
 
-	MCFileBasedRepository flushAllCaches.
-	MCDefinition clearInstances.
-	ImageCleaner cleanUpForRelease.
+	Smalltalk cleanUp.
 	Smalltalk garbageCollect.

@@ -16,7 +16,7 @@ build
 	classChange := ClassModification
 							modify: oldClass
 							extend: superclass
-							withLayoutType: layoutClass
+							withLayoutType: self layoutClass
 							slots: slots
 							traitComposition: traitComposition
 							compactClassIndex: oldClass indexIfCompact.

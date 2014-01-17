@@ -1,15 +1,9 @@
 public
 commentForCurrentUpdate
- ^ '12625 toggling hierarchy/flat shows wrong package and hides selected class
-	https://pharo.fogbugz.com/f/cases/12625
+ ^ '12654 Class comment in EyeInspector references missing method
+	https://pharo.fogbugz.com/f/cases/12654
 
-12664 move categories need to ensure RPackage and RPackageTag
-	https://pharo.fogbugz.com/f/cases/12664
-
-12665 Allow non-dirty packages to be included into slice
-	https://pharo.fogbugz.com/f/cases/12665
-
-12669 Autogenerate comment for update based on slices MC packages  present
-	https://pharo.fogbugz.com/f/cases/12669
+12478 Crash when using fonts with Athens on ubuntu
+	https://pharo.fogbugz.com/f/cases/12478
 
 '
