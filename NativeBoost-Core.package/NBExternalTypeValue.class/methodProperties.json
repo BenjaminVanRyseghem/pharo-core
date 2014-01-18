@@ -1,15 +1,15 @@
 {
 	"class" : {
 		"asNBExternalType:" : "IgorStasenko 6/27/2013 17:05",
-		"getClassForType:" : "IgorStasenko 12/3/2013 13:39",
-		"initValueType:" : "IgorStasenko 6/27/2013 16:16",
+		"getClassForType:" : "IgorStasenko 1/17/2014 20:41",
+		"initValueType:" : "IgorStasenko 1/17/2014 20:44",
 		"initialize" : "StephaneDucasse 8/13/2013 17:41",
 		"installAccessors" : "IgorStasenko 8/13/2013 14:52",
 		"new" : "CiprianTeodorov 4/9/2013 20:50",
 		"ofType:" : "CiprianTeodorov 4/9/2013 19:20",
 		"valueSize" : "CiprianTeodorov 4/9/2013 19:42",
 		"valueType" : "CiprianTeodorov 4/9/2013 19:21",
-		"valueType:" : "CiprianTeodorov 4/9/2013 19:21" },
+		"valueType:" : "IgorStasenko 1/17/2014 20:42" },
 	"instance" : {
 		"emitCopy:" : "CiprianTeodorov 4/9/2013 19:41",
 		"emitCopyUsingLoop:" : "CiprianTeodorov 4/9/2013 19:42",

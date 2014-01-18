@@ -6,6 +6,4 @@ initValueType: aTypeName
 	in your class #initialize method.
 	" 
 
-	valueType := aTypeName.
-	valueSize  := (NBFFICallout new requestor: self; resolveType: valueType) typeSize .
-	self installAccessors.
+	self valueType: aTypeName
