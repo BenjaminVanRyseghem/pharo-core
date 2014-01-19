@@ -6,6 +6,6 @@ asFullRingDefinition
 	| rgClass rgMethod |
 	rgClass := self realClass asRingDefinition.
 	rgMethod := self asActiveRingDefinition.
-	rgMethod package: (RGContainer packageOfMethod: rgMethod).
 	rgClass addMethod: rgMethod.
+	rgMethod package: (RGContainer packageOfMethod: rgMethod).
 	^ rgMethod

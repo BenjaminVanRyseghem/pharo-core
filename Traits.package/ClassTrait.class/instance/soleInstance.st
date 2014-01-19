@@ -1,3 +1,3 @@
-*refactoring-core
+accessing
 soleInstance
 	^baseTrait

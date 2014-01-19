@@ -1,4 +1,4 @@
-private
+copying
 copyReplaceAll: oldSubstring with: newSubstring asTokens: ifTokens
 	"Answer a copy of the receiver in which all occurrences of
 	oldSubstring have been replaced by newSubstring.
@@ -8,11 +8,7 @@ copyReplaceAll: oldSubstring with: newSubstring asTokens: ifTokens
 	newSubstring if ifTokens is true.  See example below. "
 
 	| aString startSearch currentIndex endIndex |
-	self flag: #FIXME. "To be removed with the next update"
-	
-	(ifTokens and: [(self isString) not])
-		ifTrue: [(self isKindOf: Text) ifFalse: [
-			self error: 'Token replacement only valid for Strings']].
+
 	aString := self.
 	startSearch := 1.
 	[(currentIndex := aString indexOfSubCollection: oldSubstring startingAt: startSearch)
