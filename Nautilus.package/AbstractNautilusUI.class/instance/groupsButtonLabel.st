@@ -2,6 +2,6 @@ buttons behavior
 groupsButtonLabel
 
 	^ 
-		self showGroups
+		((self showGroups) and:[self groupsAreVisible])
 			ifTrue: [ self packageLabel ]
 			ifFalse: [ self groupsLabel ]
