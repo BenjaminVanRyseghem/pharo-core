@@ -13,4 +13,5 @@ openBrowserFor: aLiteral withMethods: aCollection
 		self
 			browseMessageList: aCollection
 			name: label
-			autoSelect: autoSelect]
+			autoSelect: autoSelect
+			refreshingBlockSelector:#setRefreshingBlockForSendersOf:]
