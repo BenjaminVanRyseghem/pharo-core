@@ -1,3 +1,3 @@
-WindowModel
+WorldModel
 	addInstVarNamed: 'removeMe';
 	removeInstVarNamed: 'removeMe'
