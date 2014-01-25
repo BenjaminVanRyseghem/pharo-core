@@ -1,7 +1,7 @@
 selected
 selectedPointSizeIndex: anIndex
 
-	anIndex = 0
-		ifTrue: [^self].
+	anIndex = 0 ifTrue: [^self].
 	pointSize := (self pointSizeList at: anIndex) trimBoth asNumber.
-	self changed: #pointSize
+	self announcer announce: #pointSizeChanged.
+	

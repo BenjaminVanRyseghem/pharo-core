@@ -1,4 +1,4 @@
 accessing
 fontList
 	
-	^fontList ifNil:[self refreshFontList].
+	^ fontList ifNil: [ self refreshFontList ].

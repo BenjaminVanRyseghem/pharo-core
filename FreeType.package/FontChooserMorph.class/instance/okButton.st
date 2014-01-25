@@ -1,9 +1,12 @@
-accessing
+ui elements
 okButton
-	^okButton ifNil: [
-		okButton := (self
+
+	okButton ifNotNil: [ ^ okButton ].
+	okButton := self
 			newButtonFor: self
 			action: #okButtonClicked
 			label: 'OK' translated
-			help: 'Click here to close this dialog, and accept your selection' translated)
-			hResizing: #spaceFill]
+			help: 'Click here to close this dialog, and accept your selection' translated.
+		^ okButton
+			hResizing: #spaceFill;
+			yourself.

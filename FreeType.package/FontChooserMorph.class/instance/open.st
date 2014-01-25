@@ -1,3 +1,4 @@
 interface building
 open
-	^self createWindow openAsIsIn: self currentWorld
+
+	^ self createWindow openAsIsIn: self currentWorld.

@@ -1,21 +1,26 @@
-accessing
+interface building
 newFontList 
-	| answer fon max |
-	answer := PluggableListMorph
+
+	| widget requiredWidth |
+	widget := PluggableListMorph
 		on: self model
 		list: #fontListStrings
 		selected: #selectedFontIndex
 		changeSelected: #selectedFontIndex:.
-	fon := answer font.
-	max := 20.
-	model fontList do:[:each |
-		max := max max: (fon widthOfStringOrText: each familyName)].	
-	answer	
-			color: Color white;
-			borderInset;
-			vResizing: #spaceFill;
-			hResizing: #spaceFill;
-			"hResizing: #rigid;"
-			width: max + answer scrollBarThickness + (fon widthOfStringOrText: '  ').
-	self when: #fontsUpdated send: #verifyContents to: answer.
-	^answer
+
+	requiredWidth := self
+		widthRequiredFor: [ :each | result font widthOfStringOrText: each familyName ]
+		from: model fontList
+		noLessThan: 20.
+
+	widget	
+		color: Color white;
+		borderInset;
+		vResizing: #spaceFill;
+		hResizing: #spaceFill;
+		width: requiredWidth + widget scrollBarThickness + (result font widthOfStringOrText: '  ').
+		
+	self model announcer when: #fontsUpdated send: #verifyContents to: widget.
+	self model announcer when: #selectedFontIndex send: #updateSelectionIndex to: widget.
+	
+	^ widget.

@@ -3,4 +3,4 @@ initialize
 
 	super initialize.
 
-	valid := false asValueHolder
+	valid := false asReactiveVariable

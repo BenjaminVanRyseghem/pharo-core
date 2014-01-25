@@ -3,7 +3,7 @@ initialize
 
 	super initialize.
 
-	loading := true asValueHolder.
+	loading := true asReactiveVariable.
 	
 	loading whenChangedDo: [ :boolean | 
 		boolean

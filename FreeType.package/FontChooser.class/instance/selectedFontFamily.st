@@ -1,7 +1,6 @@
 selected
 selectedFontFamily
-	| |
 
-	^self fontList at: self selectedFontIndex ifAbsent:[nil].
+	^ self fontList at: self selectedFontIndex ifAbsent: [nil].
 	
 	

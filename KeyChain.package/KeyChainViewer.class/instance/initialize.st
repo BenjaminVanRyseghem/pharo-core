@@ -1,6 +1,6 @@
 initialization
 initialize
 
-	keychain := nil asValueHolder.
+	keychain := nil asReactiveVariable.
 	
 	super initialize.

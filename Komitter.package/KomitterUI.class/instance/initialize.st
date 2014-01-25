@@ -1,8 +1,8 @@
 initialization
 initialize
 
-	model := nil asValueHolder.
-	canCommit := false asValueHolder.
+	model := nil asReactiveVariable.
+	canCommit := false asReactiveVariable.
 	
 	super initialize.
 	model

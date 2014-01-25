@@ -6,4 +6,4 @@ selectedFontStyleIndex: anIndex
 	selectedFontStyleIndex := anIndex.
 	familyMember := self fontStyleList at: anIndex.
 	self setStyleValuesFrom: familyMember.
-	self changed: #selectedFontStyleIndex
+	self announcer announce:  #selectedFontStyleIndex.

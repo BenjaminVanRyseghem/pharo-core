@@ -1,3 +1,3 @@
 accessing
 result
-	^result
+	^ result

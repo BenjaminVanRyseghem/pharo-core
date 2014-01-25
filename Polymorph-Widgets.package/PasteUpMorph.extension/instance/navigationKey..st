@@ -1,15 +1,4 @@
 *Polymorph-Widgets
-navigationKey: event
-	"Check for active window navigation."
+navigationKey: aKeyboardEvent
 	
-	(self theme openTasklist: event) ifTrue: [^true].
-	event keyString =  '<Opt-tab>'														
-		ifTrue: [
-			self navigateWindowForward.
-			^ true ].
-				
-		event keyString =  '<Opt-Shift-tab>'														
-			ifTrue: [ 
-				self navigateWindowBackward.
-				^ true ].
-	^false
+	^ self taskList handleEvent: aKeyboardEvent.

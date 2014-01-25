@@ -1,8 +1,7 @@
 interface building
 newFontPointSizeField 
 	
-	| answer |
-	answer := (PluggableTextMorph on: self text: #pointSizeString accept: #pointSizeString:)
+	^ (PluggableTextMorph on: self text: #pointSizeString accept: #pointSizeString:)
 		acceptOnCR: true;
 		hideVScrollBarIndefinitely: true;
 		color: Color gray veryMuchLighter;
@@ -12,4 +11,4 @@ newFontPointSizeField
 		width: (TextStyle defaultFont widthOfString: '99999999.99');
 		height: TextStyle defaultFont height + 6;
 		yourself.
-	^answer
+	

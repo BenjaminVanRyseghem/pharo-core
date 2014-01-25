@@ -3,6 +3,6 @@ initialize
 
 	super initialize.
 
-	actionHolder := [] asValueHolder.
+	actionHolder := [] asReactiveVariable.
 	displayBlock := [ :e | e printString ].
 	icon := nil

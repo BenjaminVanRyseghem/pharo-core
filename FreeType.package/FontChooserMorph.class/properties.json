@@ -4,9 +4,8 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "StephaneDucasse 1/1/2010 18:02",
+	"commentStamp" : "<historical>",
 	"instvars" : [
-		"mainPanel",
 		"fontPreviewPanel",
 		"okButton",
 		"cancelButton",
@@ -14,11 +13,11 @@
 		"updateButton",
 		"result",
 		"pointSizeMorph",
-		"fontListStylePanel",
 		"styleList",
 		"pointSizeList",
 		"selectedPangram",
-		"languageList" ],
+		"languageList",
+		"fontList" ],
 	"name" : "FontChooserMorph",
 	"pools" : [
 		 ],

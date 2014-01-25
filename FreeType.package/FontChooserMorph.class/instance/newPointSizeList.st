@@ -1,14 +1,15 @@
-accessing
+interface building
 newPointSizeList 
-	| answer |
-	answer := PluggableListMorph
+
+	| widget |
+	widget := PluggableListMorph
 		on: self model
 		list: #pointSizeList
 		selected: #selectedPointSizeIndex
 		changeSelected: #selectedPointSizeIndex:.
-	answer	
+	^ widget	
 			color: Color white;
 			borderInset;
 			vResizing: #spaceFill;
-			hResizing: #spaceFill.
-	^answer
+			hResizing: #spaceFill;
+			yourself.

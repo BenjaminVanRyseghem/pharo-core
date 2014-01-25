@@ -1,4 +1,4 @@
-accessing
+ui elements
 cancelButton
 	^cancelButton ifNil: [
 		cancelButton := (self
@@ -6,4 +6,4 @@ cancelButton
 			action: #cancelButtonClicked
 			label: 'Cancel' translated
 			help: 'Click here to cancel and close this dialog' translated)
-			hResizing: #spaceFill]
+			hResizing: #spaceFill ]

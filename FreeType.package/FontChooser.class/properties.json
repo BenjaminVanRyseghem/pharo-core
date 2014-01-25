@@ -19,7 +19,8 @@
 		"weightValue",
 		"slantValue",
 		"stretchValue",
-		"pointSizeList" ],
+		"pointSizeList",
+		"announcer" ],
 	"name" : "FontChooser",
 	"pools" : [
 		 ],
