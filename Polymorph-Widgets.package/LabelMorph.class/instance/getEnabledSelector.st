@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 getEnabledSelector
 	"Answer the value of getEnabledSelector"
 

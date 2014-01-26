@@ -1,4 +1,4 @@
-as yet unclassified
+update
 updateText
 	"Update the text contents."
 

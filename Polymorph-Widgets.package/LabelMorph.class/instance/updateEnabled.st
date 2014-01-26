@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 updateEnabled
 	"Update the enablement state."
 

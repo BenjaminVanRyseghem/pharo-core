@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 getEnabledSelector: anObject
 	"Set the value of getEnabledSelector"
 

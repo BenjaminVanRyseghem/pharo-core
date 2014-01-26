@@ -12,5 +12,5 @@
 	"name" : "ClassRecategorized",
 	"pools" : [
 		 ],
-	"super" : "SystemAnnouncement",
+	"super" : "ClassAnnouncement",
 	"type" : "normal" }

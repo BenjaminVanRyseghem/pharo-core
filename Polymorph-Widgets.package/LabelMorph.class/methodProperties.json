@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"adoptPaneColor:" : "BenjaminVanRyseghem 1/23/2014 16:18",
 		"disable" : "gvc 8/2/2007 16:35",
 		"disabledStyle" : "gvc 8/2/2007 16:43",
 		"disabledStyle:" : "BenjaminVanRyseghem 7/22/2013 14:12",
@@ -14,6 +15,7 @@
 		"getTextSelector" : "gvc 7/30/2010 13:25",
 		"getTextSelector:" : "gvc 7/30/2010 13:37",
 		"initWithContents:font:emphasis:" : "gvc 8/2/2007 16:51",
+		"initialColorInSystemWindow:" : "BenjaminVanRyseghem 1/23/2014 16:18",
 		"initialize" : "gvc 8/2/2007 16:44",
 		"interactionState:" : "gvc 3/4/2010 15:16",
 		"isMorphicModel" : "BenjaminVanRyseghem 7/13/2012 02:18",

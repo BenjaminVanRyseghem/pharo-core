@@ -11,5 +11,5 @@
 	"name" : "ClassRemoved",
 	"pools" : [
 		 ],
-	"super" : "SystemAnnouncement",
+	"super" : "ClassAnnouncement",
 	"type" : "normal" }
