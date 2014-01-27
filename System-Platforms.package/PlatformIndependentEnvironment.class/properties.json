@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "EstebanLorenzano 1/24/2014 16:41",
 	"instvars" : [
 		 ],
-	"name" : "NixEnvironment",
+	"name" : "PlatformIndependentEnvironment",
 	"pools" : [
 		 ],
 	"super" : "OSEnvironment",

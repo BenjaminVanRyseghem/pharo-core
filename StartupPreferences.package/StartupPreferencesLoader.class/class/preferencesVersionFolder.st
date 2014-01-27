@@ -1,4 +1,5 @@
 private
 preferencesVersionFolder
 
-	^ self preferencesGeneralFolder asFileReference / SystemVersion current dottedMajorMinor
+	^ self preferencesGeneralFolder 
+		ifNotNil: [ :folder | folder / SystemVersion current dottedMajorMinor ]

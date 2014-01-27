@@ -1,6 +1,5 @@
 actions
 lookInGeneralPreferencesFolder
 
-	^ self 
-		lookInFolder: StartupPreferencesLoader preferencesGeneralFolder 
-		forFilesMatching: '*.st'.
+	^ StartupPreferencesLoader preferencesGeneralFolder 
+		ifNotNil: [ :folder | self lookInFolder:  folder forFilesMatching: '*.st' ].

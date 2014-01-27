@@ -1,6 +1,6 @@
 *RPackage-SystemIntegration
 systemClassRecategorizedActionFrom: ann
-	| class newRPackage oldRPackage newCategoryName oldCategoryName|
+	| class newRPackage newRPackageTag oldRPackage newCategoryName oldCategoryName|
 	
 	class := ann classAffected.	
 
@@ -10,14 +10,9 @@ systemClassRecategorizedActionFrom: ann
 	newRPackage := (self packageMatchingExtensionName: newCategoryName) 
 		ifNil: [ self registerPackage: (self packageClass named: newCategoryName) ].
 
-	oldRPackage removeClass: class.	
-	newRPackage addClass: class.
-	newRPackage 
-		addClassDefinition: class 
-		toClassTag: class category asSymbol.
-	newRPackage addClass: class theMetaClass	.
+	newRPackageTag := newRPackage addClassTag: newCategoryName.
 
-	SystemAnnouncer uniqueInstance 
-		classRepackaged: class 
-		from: oldRPackage 
-		to: newRPackage.
+	newRPackage 
+		moveClass: class 
+		fromPackage: oldRPackage 
+		toTag: newRPackageTag

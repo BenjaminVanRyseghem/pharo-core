@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isAvailable" : "EstebanLorenzano 1/24/2014 16:40",
+		"isDefaultFor:" : "EstebanLorenzano 1/24/2014 16:40" },
+	"instance" : {
+		"getEnv:" : "EstebanLorenzano 1/24/2014 16:36",
+		"keysAndValuesDo:" : "EstebanLorenzano 1/24/2014 16:36",
+		"setEnv:value:" : "EstebanLorenzano 1/24/2014 16:37",
+		"unsetEnv:" : "EstebanLorenzano 1/24/2014 16:37" } }

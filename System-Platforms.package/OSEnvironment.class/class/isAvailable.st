@@ -1,0 +1,3 @@
+testing
+isAvailable
+	^ NativeBoost isAvailable
