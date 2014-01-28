@@ -1,7 +1,7 @@
 initialization
 initialize
 
-	usersManager := nil asReactiveVariable.
-	user := nil asReactiveVariable.
+	usersManager := nil asValueHolder.
+	user := nil asValueHolder.
 	
 	super initialize.

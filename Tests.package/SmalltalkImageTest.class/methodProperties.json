@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testImageName" : "CamilloBruni 7/4/2012 00:14" } }
+		"testImageName" : "CamilloBruni 7/4/2012 00:14",
+		"testOpenLog" : "DamienCassou 1/23/2014 10:01",
+		"writeToLogWithFileNamed:" : "DamienCassou 1/23/2014 09:59" } }

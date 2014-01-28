@@ -3,7 +3,7 @@ initialize
 
 	super initialize.
 
-	stagingArea := nil asReactiveVariable.
-	lastCommit := nil asReactiveVariable.
+	stagingArea := nil asValueHolder.
+	lastCommit := nil asValueHolder.
 	
 	"self registerToAnnouncements"

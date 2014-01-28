@@ -1,4 +1,4 @@
-as yet unclassified
+running
 setUp
 	"Please note, that most tests rely on this setup of traits and
 	classes - and that especially the order of the definitions matters."

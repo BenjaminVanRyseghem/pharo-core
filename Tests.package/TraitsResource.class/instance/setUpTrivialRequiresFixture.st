@@ -1,4 +1,4 @@
-as yet unclassified
+running
 setUpTrivialRequiresFixture
 	self c3: (self 
 				createClassNamed: #C3

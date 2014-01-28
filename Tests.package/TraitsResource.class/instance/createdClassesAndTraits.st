@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 createdClassesAndTraits
 	createdClassesAndTraits ifNil: [
 		createdClassesAndTraits := OrderedCollection new].

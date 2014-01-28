@@ -1,4 +1,4 @@
-as yet unclassified
+running
 setUpTwoLevelRequiresFixture
 	self c4: (self 
 				createClassNamed: #C4

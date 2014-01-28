@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 categoryName
 	^self class category

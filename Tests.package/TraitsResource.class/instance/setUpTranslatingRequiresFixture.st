@@ -1,4 +1,4 @@
-as yet unclassified
+running
 setUpTranslatingRequiresFixture
 	self c6: (self 
 				createClassNamed: #C6

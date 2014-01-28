@@ -1,4 +1,4 @@
-as yet unclassified
+utility
 createClassNamed: aSymbol superclass: aClass uses: aTraitComposition
 	| class |
 	class := aClass

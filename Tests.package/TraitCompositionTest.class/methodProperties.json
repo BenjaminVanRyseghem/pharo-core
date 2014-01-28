@@ -10,4 +10,8 @@
 		"testOriginSelectorOf" : "EstebanLorenzano 1/15/2013 19:01",
 		"testPrinting" : "SebastianTleye 6/28/2013 17:34",
 		"testSum" : "dvf 8/26/2005 14:31",
-		"testSumWithParenthesis" : "dvf 8/26/2005 14:31" } }
+		"testSumWithParenthesis" : "dvf 8/26/2005 14:31",
+		"testSyntacticEqualsWithAlias" : "MartinDias 1/23/2014 15:18",
+		"testSyntacticEqualsWithComplexCompositions" : "MartinDias 1/23/2014 15:19",
+		"testSyntacticEqualsWithComposition" : "MartinDias 1/23/2014 15:19",
+		"testSyntacticEqualsWithExclusion" : "MartinDias 1/23/2014 15:19" } }

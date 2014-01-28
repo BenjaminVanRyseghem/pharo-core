@@ -1,4 +1,4 @@
-as yet unclassified
+utility
 createTraitNamed: aSymbol uses: aTraitComposition
 	| trait |
 	trait := Trait

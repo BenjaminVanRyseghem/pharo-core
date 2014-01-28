@@ -9,6 +9,7 @@ selectedClassWithoutChangingSelection: aClass
 		ifNotNil: [ 
 			acceptor := ClassOrMethodDefinitionAcceptor model: self.
 			classesSelection at: aClass theNonMetaClass put: true.
+			commentTextArea ifNotNil: [ commentTextArea enable ].
 			(self selectedPackageIncludes: aClass theNonMetaClass)
 				ifTrue: [ 
 					self model
