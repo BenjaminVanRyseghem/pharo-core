@@ -1,4 +1,4 @@
 initialization
 initialize
 	builder := SlotClassBuilder new.
-	builder client: self
+	builder installer: self

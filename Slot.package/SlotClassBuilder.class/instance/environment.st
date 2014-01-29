@@ -1,3 +1,3 @@
 accessing
 environment
-	^ client environment
+	^ installer environment

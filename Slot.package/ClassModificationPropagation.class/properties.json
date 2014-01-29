@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "MartinDias 1/28/2014 16:22",
 	"instvars" : [
 		"origin" ],
 	"name" : "ClassModificationPropagation",

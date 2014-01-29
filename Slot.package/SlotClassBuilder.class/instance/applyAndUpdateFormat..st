@@ -1,4 +1,4 @@
 private
 applyAndUpdateFormat: classModification
 	^ self track: classModification during: [ :old :new |
-		client formatChangedFrom: old to: new by: classModification ].
+		installer formatChangedFrom: old to: new by: classModification ].
