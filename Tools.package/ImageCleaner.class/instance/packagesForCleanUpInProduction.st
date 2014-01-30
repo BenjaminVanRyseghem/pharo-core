@@ -18,4 +18,5 @@ packagesForCleanUpInProduction
 	"CI"
 	'CI-Core-SliceSubmitter'
 	'CI-Loader'
-	'CI-Core')
+	'CI-Core'
+	)

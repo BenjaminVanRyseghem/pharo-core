@@ -4,8 +4,12 @@
 	"instance" : {
 		"compileAndRunExample:" : "MarcusDenker 12/20/2012 15:14",
 		"compileMethod:" : "MarcusDenker 12/20/2012 15:13",
+		"deadContext" : "CamilleTeruel 1/28/2014 14:37",
 		"testBlockAndContextSourceNode" : "MarcusDenker 4/29/2013 15:04",
-		"testBlockSourceNode" : "MarcusDenker 4/29/2013 15:03",
+		"testBlockSourceNode" : "CamilleTeruel 1/28/2014 14:13",
+		"testBlockWithEnclosedBlockSourceNode" : "CamilleTeruel 1/28/2014 14:12",
+		"testBlockWithTempsSourceNode" : "CamilleTeruel 1/28/2014 14:14",
+		"testDeadContextSourceNode" : "CamilleTeruel 1/28/2014 14:37",
 		"testExampleSimpleTemp" : "MarcusDenker 12/19/2012 17:32",
 		"testExampleTempNamedCopying" : "MarcusDenker 12/19/2012 18:02",
 		"testExampleTempNamedCopying2" : "MarcusDenker 12/19/2012 18:02",

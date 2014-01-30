@@ -1,0 +1,1 @@
+Utility class to catch messages
