@@ -1,0 +1,1 @@
+A shared pool for constants from AsmJIT

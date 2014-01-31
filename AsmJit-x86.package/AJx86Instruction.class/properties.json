@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 1/30/2014 09:17",
 	"instvars" : [
 		"description" ],
 	"name" : "AJx86Instruction",

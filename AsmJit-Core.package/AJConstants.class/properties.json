@@ -126,7 +126,7 @@
 		"SizeQWord",
 		"SizeTWord",
 		"SizeWord" ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 1/30/2014 08:58",
 	"instvars" : [
 		 ],
 	"name" : "AJConstants",

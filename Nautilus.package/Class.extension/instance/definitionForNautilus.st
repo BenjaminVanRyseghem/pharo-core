@@ -1,7 +1,9 @@
 *Nautilus
 definitionForNautilus
 	"Answer a String that defines the receiver."
-	| aStream |
+	| aStream poolString|
+
+	poolString := self sharedPoolsString.
 
 	aStream := (String new: 800) writeStream.
 	superclass 
@@ -16,6 +18,9 @@ definitionForNautilus
 			store: self instanceVariablesString.
 	aStream cr; tab; nextPutAll: 'classVariableNames: ';
 			store: self classVariablesString.
+	poolString = '' ifFalse: [
+		aStream cr; tab; nextPutAll: 'poolDictionaries: ';
+			store: poolString].
 	aStream cr; tab; nextPutAll: 'category: ';
 			store: self category asString.
 

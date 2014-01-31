@@ -1,6 +1,7 @@
-public
-commentForCurrentUpdate
- ^ '12758 Class comments missing for Balloon package
+pharo - updates
+update30733
+	"self new update30733"
+	self withUpdateLog: '12758 Class comments missing for Balloon package
 	https://pharo.fogbugz.com/f/cases/12758
 
 12766 #cleanUpForProduction more improvements
@@ -18,4 +19,6 @@ commentForCurrentUpdate
 12753 ChangeSorter does not differentiate between changed/removed/added methods
 	https://pharo.fogbugz.com/f/cases/12753
 
-'
+'.
+	self loadTogether: self script386 merge: false.
+	self flushCaches.

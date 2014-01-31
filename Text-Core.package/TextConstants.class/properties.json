@@ -86,7 +86,7 @@
 		"Space",
 		"Tab",
 		"TextSharedInformation" ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 1/31/2014 12:19",
 	"instvars" : [
 		 ],
 	"name" : "TextConstants",

@@ -1,0 +1,1 @@
+Utility class implementing a specific stream for printing instructions

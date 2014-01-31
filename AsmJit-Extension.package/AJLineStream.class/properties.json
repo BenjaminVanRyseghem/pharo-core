@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 1/30/2014 09:10",
 	"instvars" : [
 		"lineStart",
 		"writeStream" ],
