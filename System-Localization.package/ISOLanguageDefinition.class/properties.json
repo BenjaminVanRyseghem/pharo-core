@@ -7,7 +7,7 @@
 		"ISO2Table",
 		"ISO3Countries",
 		"ISO3Table" ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 1/31/2014 10:08",
 	"instvars" : [
 		"iso3",
 		"iso2",

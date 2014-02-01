@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		"Versions" ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 1/31/2014 10:14",
 	"instvars" : [
 		"stream",
 		"zip" ],

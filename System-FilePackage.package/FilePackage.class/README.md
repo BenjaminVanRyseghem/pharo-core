@@ -1,0 +1,1 @@
+Represents a file package used to browse code files. This is for instance used in the FileContentsBrowser
