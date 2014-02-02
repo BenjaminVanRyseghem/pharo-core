@@ -4,11 +4,11 @@
 		"defineTraitTemplate" : "EstebanLorenzano 10/14/2013 16:53",
 		"menuCommandOn:" : "EstebanLorenzano 5/14/2013 09:44",
 		"protocolSuggestionsFor:" : "BenjaminVanRyseghem 9/8/2013 16:27",
-		"requestProtocolNameFor:initialAnswer:" : "BenjaminVanRyseghem 9/10/2013 16:52",
+		"requestProtocolNameFor:initialAnswer:" : "SvenVanCaekenberghe 2/1/2014 20:24",
 		"theme" : "EstebanLorenzano 5/14/2013 09:43" },
 	"instance" : {
 		"addCategoryIn:" : "BenjaminVanRyseghem 1/10/2014 15:24",
-		"addCategoryIn:before:" : "BenjaminVanRyseghem 1/10/2014 15:25",
+		"addCategoryIn:before:" : "SvenVanCaekenberghe 2/1/2014 20:24",
 		"addClassIn:" : "EstebanLorenzano 12/12/2013 21:38",
 		"addPackageBasedOn:" : "BenjaminVanRyseghem 2/5/2013 14:06",
 		"addPackagesAsGroup:" : "MarcusDenker 9/24/2013 14:17",
