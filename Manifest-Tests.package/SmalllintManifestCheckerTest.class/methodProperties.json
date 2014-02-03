@@ -1,10 +1,10 @@
 {
 	"class" : {
-		 },
+		"DoIt" : "SimonAllier 2/1/2013 16:18" },
 	"instance" : {
 		"cleaningResources" : "StephaneDucasse 3/21/2013 13:51",
 		"package" : "StephaneDucasse 3/21/2013 13:43",
-		"setUp" : "CamilloBruni 8/22/2013 11:45",
+		"setUp" : "StephaneDucasse 1/6/2014 20:51",
 		"tearDown" : "StephaneDucasse 3/21/2013 13:51",
 		"testCriticsOf" : "CamilloBruni 8/22/2013 11:46",
 		"testIsFalsePositive" : "CamilloBruni 8/22/2013 11:46",

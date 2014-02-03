@@ -1,6 +1,9 @@
 public
 commentForCurrentUpdate
- ^ '12469 Sometimes an empty protocol is created
-	https://pharo.fogbugz.com/f/cases/12469
+ ^ '12772 Missing example methods in Spec
+	https://pharo.fogbugz.com/f/cases/12772
+
+12309 Manifest-Core should be cleaned
+	https://pharo.fogbugz.com/f/cases/12309
 
 '

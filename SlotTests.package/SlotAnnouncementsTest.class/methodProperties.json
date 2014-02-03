@@ -10,5 +10,15 @@
 		"testChangeInSuperclassShouldNotAnnounceSubclassModified" : "MartinDias 1/28/2014 14:28",
 		"testClassCreationShouldAnnounceClassAdded" : "MartinDias 1/17/2014 18:28",
 		"testClassRecategorizationShouldAnnounceClassModified" : "MartinDias 1/17/2014 18:29",
+		"testFixedClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:25",
+		"testFixedClassWithTraitCreatedShouldntAnnounceClassModified" : "MartinDias 1/31/2014 16:20",
 		"testLayoutChangeShouldAnnounceClassModified" : "MartinDias 1/17/2014 18:32",
-		"testSlotAdditionShouldAnnounceClassModified" : "MartinDias 1/17/2014 18:29" } }
+		"testSlotAdditionShouldAnnounceClassModified" : "MartinDias 1/17/2014 18:29",
+		"testVariableByteClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:26",
+		"testVariableByteClassWithTraitCreatedShouldntAnnounceClassModified" : "MartinDias 1/31/2014 16:20",
+		"testVariableClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:25",
+		"testVariableClassWithTraitCreatedShouldntAnnounceClassModified" : "MartinDias 1/31/2014 16:20",
+		"testVariableWordClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:26",
+		"testVariableWordClassWithTraitCreatedShouldntAnnounceClassModified" : "MartinDias 1/31/2014 16:20",
+		"testWeakClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:26",
+		"testWeakClassWithTraitCreatedShouldntAnnounceClassModified" : "MartinDias 1/31/2014 16:21" } }

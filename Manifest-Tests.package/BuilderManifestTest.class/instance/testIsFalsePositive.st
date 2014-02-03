@@ -4,7 +4,7 @@ testIsFalsePositive
 	| manifestBuilder cl mth|
 	cl := MFClassA.
 	mth := cl >> #method.
-	manifestBuilder := BuilderManifest of: MFClassA .
+	manifestBuilder := TheManifestBuilder of: MFClassA .
 	self deny: (manifestBuilder isFalsePositive: mth onRule: 'test' version:0 ).
 	
 	manifestBuilder addRejectClass: MFClassA.

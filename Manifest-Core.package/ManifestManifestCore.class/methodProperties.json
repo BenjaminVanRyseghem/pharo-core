@@ -2,13 +2,13 @@
 	"class" : {
 		"rejectClasses" : "SimonAllier 2/1/2013 15:29",
 		"rejectRules" : "SimonAllier 3/22/2013 15:13",
-		"ruleBadMessageRuleV1FalsePositive" : "SimonAllier 2/1/2013 15:29",
+		"ruleBadMessageRuleV1FalsePositive" : "StephaneDucasse 1/6/2014 20:51",
 		"ruleClassNotReferencedRuleV1FalsePositive" : "SimonAllier 3/22/2013 15:13",
-		"ruleCodeCruftLeftInMethodsRuleV1TODO" : "SimonAllier 2/6/2013 15:08",
-		"ruleConsistencyCheckRuleV1FalsePositive" : "SimonAllier 2/1/2013 15:29",
-		"ruleContainsRuleV1FalsePositive" : "SimonAllier 2/8/2013 16:35",
+		"ruleCodeCruftLeftInMethodsRuleV1TODO" : "StephaneDucasse 1/6/2014 20:51",
+		"ruleConsistencyCheckRuleV1FalsePositive" : "StephaneDucasse 1/6/2014 20:51",
+		"ruleContainsRuleV1FalsePositive" : "StephaneDucasse 1/6/2014 20:51",
 		"ruleEquivalentSuperclassMethodsRuleV1FalsePositive" : "SimonAllier 2/1/2013 15:29",
-		"ruleImplementedNotSentRuleV1FalsePositive" : "SimonAllier 2/1/2013 15:29",
+		"ruleImplementedNotSentRuleV1FalsePositive" : "StephaneDucasse 1/6/2014 20:51",
 		"ruleSentNotImplementedRuleV1FalsePositive" : "SimonAllier 3/22/2013 11:32" },
 	"instance" : {
 		 } }

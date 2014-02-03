@@ -1,3 +1,3 @@
-*Manifest-Core
+as yet unclassified
 category 
 	^ 'Optimization'

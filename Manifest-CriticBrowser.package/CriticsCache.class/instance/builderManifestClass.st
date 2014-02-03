@@ -1,3 +1,3 @@
 private
 builderManifestClass
-	^ BuilderManifest
+	^ TheManifestBuilder

@@ -1,3 +1,3 @@
 accessing
 builderManifestClass
-	^ BuilderManifest
+	^ TheManifestBuilder

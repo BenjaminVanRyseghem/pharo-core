@@ -1,14 +1,14 @@
 {
-	"category" : "Manifest-Core",
+	"category" : "Refactoring-Critics",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"manifestClass" ],
-	"name" : "BuilderManifest",
+		 ],
+	"name" : "RBRemoveAssignmentWithoutEffectRule",
 	"pools" : [
 		 ],
-	"super" : "AbstractTool",
+	"super" : "RBTransformationRule",
 	"type" : "normal" }
