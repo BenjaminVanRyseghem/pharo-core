@@ -8,9 +8,6 @@
 	"instvars" : [
 		"fillPaint",
 		"width",
-		"capStyle",
-		"joinStyle",
-		"innerJoinStyle",
 		"miterLimit" ],
 	"name" : "AthensStrokePaint",
 	"pools" : [

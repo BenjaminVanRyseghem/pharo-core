@@ -1,4 +1,4 @@
-as yet unclassified
+not finished yet
 store: numBytes accumulated: accumBytes
 
 	| toShift left |

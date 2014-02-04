@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"athensSurface" : "IgorStasenko 9/6/2013 12:18",
+		"checkSurface" : "IgorStasenko 9/6/2013 12:47",
+		"createSurface" : "IgorStasenko 9/6/2013 12:46",
+		"drawOn:" : "IgorStasenko 8/26/2013 11:41",
+		"drawOnAthensCanvas:" : "IgorStasenko 8/26/2013 13:03",
+		"fullDrawOn:" : "IgorStasenko 12/21/2013 02:18",
+		"fullDrawOnAthensCanvas:" : "IgorStasenko 8/26/2013 12:58",
+		"handlesMouseDown:" : "FernandoOlivero 9/2/2013 14:53",
+		"initializeForNewSession" : "IgorStasenko 8/26/2013 11:44",
+		"render" : "JochenRick 1/10/2014 06:35" } }

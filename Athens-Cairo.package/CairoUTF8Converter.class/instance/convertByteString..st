@@ -1,4 +1,4 @@
-as yet unclassified
+not finished yet
 convertByteString: aByteString 
 
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin error: errorCode>

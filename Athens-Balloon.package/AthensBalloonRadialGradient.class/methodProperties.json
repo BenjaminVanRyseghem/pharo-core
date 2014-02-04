@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
+		"athensFillPath:on:" : "IgorStasenko 8/30/2013 16:32",
+		"athensFillRectangle:on:" : "IgorStasenko 8/30/2013 16:35",
 		"center" : "IgorStasenko 4/14/2011 16:27",
 		"center:" : "IgorStasenko 4/14/2011 16:27",
-		"fillPath:on:" : "IgorStasenko 3/8/2012 13:58",
-		"fillRectangle:on:" : "IgorStasenko 3/8/2012 13:58",
 		"radius" : "IgorStasenko 4/14/2011 16:27",
 		"radius:" : "IgorStasenko 4/14/2011 16:27" } }

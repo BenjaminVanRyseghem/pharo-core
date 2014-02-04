@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"athensSurface" : "IgorStasenko 9/6/2013 12:12",
 		"drawOnAthensCanvas:" : "IgorStasenko 10/11/2012 16:51",
 		"fullDrawOnAthensCanvas:" : "IgorStasenko 9/2/2012 21:44",
 		"testAthensRender" : "IgorStasenko 11/7/2012 19:16" } }

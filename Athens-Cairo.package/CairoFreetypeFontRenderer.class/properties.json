@@ -13,7 +13,9 @@
 		"canvas",
 		"advance",
 		"originalFont",
-		"cache" ],
+		"cache",
+		"fontExtents",
+		"glyphExtents" ],
 	"name" : "CairoFreetypeFontRenderer",
 	"pools" : [
 		"AthensCairoDefs" ],

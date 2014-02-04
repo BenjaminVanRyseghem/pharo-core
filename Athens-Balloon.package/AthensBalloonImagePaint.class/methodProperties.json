@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"athensFillPath:on:" : "IgorStasenko 8/30/2013 16:32",
+		"athensFillRectangle:on:" : "IgorStasenko 8/30/2013 16:35",
 		"direction" : "IgorStasenko 4/21/2011 15:45",
 		"direction:" : "IgorStasenko 4/21/2011 15:45",
-		"fillPath:on:" : "IgorStasenko 4/22/2011 11:19",
-		"fillRectangle:on:" : "IgorStasenko 4/22/2011 11:18",
 		"form" : "IgorStasenko 4/21/2011 15:30",
 		"form:" : "IgorStasenko 4/21/2011 15:49",
 		"normal" : "IgorStasenko 4/21/2011 15:47",

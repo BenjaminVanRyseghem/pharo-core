@@ -11,5 +11,5 @@ font: aFreetypeFont
 	
 		CairoScaledFont fromFreetypeFont: aFreetypeFont cairoFace: face.
 	].
-
+	fontExtents := font extents.
 	originalFont := aFreetypeFont.

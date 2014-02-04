@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
+		"athensFillPath:on:" : "IgorStasenko 8/30/2013 16:32",
+		"athensFillRectangle:on:" : "IgorStasenko 8/30/2013 16:35",
 		"color" : "IgorStasenko 3/22/2011 21:59",
 		"color:" : "IgorStasenko 3/22/2011 21:59",
-		"fillPath:on:" : "IgorStasenko 3/29/2011 15:00",
-		"fillRectangle:on:" : "IgorStasenko 4/1/2011 09:13",
 		"strokePath:on:stroke:" : "IgorStasenko 9/14/2011 15:10",
 		"strokeRect:on:stroke:" : "IgorStasenko 9/14/2011 15:17" } }

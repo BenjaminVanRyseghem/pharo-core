@@ -2,8 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"athensFillPath:on:" : "IgorStasenko 9/3/2013 12:56",
+		"athensFillRectangle:on:" : "IgorStasenko 9/3/2013 12:56",
 		"color:" : "IgorStasenko 3/28/2012 18:27",
-		"fillOn:" : "",
-		"fillPath:on:" : "IgorStasenko 3/21/2012 19:03",
-		"fillRectangle:on:" : "IgorStasenko 3/28/2012 18:22",
-		"loadOn:" : "IgorStasenko 4/3/2013 05:55" } }
+		"loadOnCairoCanvas:" : "IgorStasenko 9/3/2013 14:56" } }

@@ -1,1 +1,2 @@
-SystemOrganization addCategory: #'CompressionTests-Archive'!
+SystemOrganization addCategory: #CompressionTests!
+SystemOrganization addCategory: 'CompressionTests-Archive'!

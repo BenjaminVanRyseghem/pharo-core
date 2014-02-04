@@ -1,3 +1,3 @@
 converting
-asAthensPaintOn: anAthensCanvas	
+asAthensPaintOn: aCanvas	
 	^ self

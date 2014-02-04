@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"asFreetypeFont" : "IgorStasenko 11/20/2013 14:15",
 		"getGlyphWidth:" : "IgorStasenko 11/7/2011 14:15",
 		"getPreciseAscent" : "IgorStasenko 9/1/2012 21:00",
 		"getPreciseDescent" : "IgorStasenko 11/7/2011 14:47",

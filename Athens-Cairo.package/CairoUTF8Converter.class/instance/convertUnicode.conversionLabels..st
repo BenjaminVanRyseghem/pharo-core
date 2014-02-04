@@ -1,4 +1,4 @@
-as yet unclassified
+not finished yet
 convertUnicode: anAsm conversionLabels: convLabels
 "
 input:

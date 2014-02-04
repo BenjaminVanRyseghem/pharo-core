@@ -4,8 +4,7 @@
 		"logFlag" : "mir 2/25/2002 19:07",
 		"openOnHost:port:" : "mir 2/25/2002 15:59",
 		"openOnHostNamed:" : "gk 3/2/2004 11:10",
-		"openOnHostNamed:port:" : "mir 2/25/2002 15:58",
-		"retrieveMIMEDocument:" : "mir 3/5/2002 16:21" },
+		"openOnHostNamed:port:" : "mir 2/25/2002 15:58" },
 	"instance" : {
 		"checkForPendingError" : "mir 7/23/2003 16:52",
 		"checkResponse" : "BenjaminVanRyseghem 3/14/2013 14:29",

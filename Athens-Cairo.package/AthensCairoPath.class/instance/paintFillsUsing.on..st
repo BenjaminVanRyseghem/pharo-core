@@ -3,4 +3,4 @@ paintFillsUsing: aPaint on: anAthensCanvas
 	
 	"This method is a part of rendering dispatch  Canvas->receiver->paint"
 	
-	^ aPaint fillPath: self on: anAthensCanvas
+	^ aPaint athensFillPath: self on: anAthensCanvas

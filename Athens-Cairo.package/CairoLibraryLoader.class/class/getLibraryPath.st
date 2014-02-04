@@ -1,4 +1,4 @@
-as yet unclassified
+private
 getLibraryPath
 
 	(NativeBoost platformId = NativeBoostConstants linux32PlatformId) ifTrue: [

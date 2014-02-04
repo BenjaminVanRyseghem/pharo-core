@@ -1,4 +1,4 @@
-as yet unclassified
+public
 getLibraryHandle
 
 	(NativeBoost sessionChanged: session) ifTrue: [

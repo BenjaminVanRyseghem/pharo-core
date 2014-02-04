@@ -1,2 +1,2 @@
-as yet unclassified
+not finished yet
 convertWideString: aWideString 

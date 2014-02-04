@@ -1,11 +1,12 @@
 {
 	"class" : {
 		"finalizeResourceData:" : "IgorStasenko 6/11/2012 06:50",
-		"fromFreetypeFont:cairoFace:" : "IgorStasenko 9/2/2012 18:44",
+		"fromFreetypeFont:cairoFace:" : "IgorStasenko 8/22/2013 14:16",
 		"primCreate:fontMatrix:userToDeviceMatrix:options:" : "IgorStasenko 8/28/2012 12:18" },
 	"instance" : {
 		"extents" : "IgorStasenko 8/28/2012 11:26",
 		"getExtents:" : "IgorStasenko 6/11/2012 06:58",
+		"getExtentsOf:into:" : "IgorStasenko 8/22/2013 12:14",
 		"initWithFace:" : "IgorStasenko 8/28/2012 12:28",
 		"initialize" : "IgorStasenko 8/28/2012 12:34",
 		"lock" : "IgorStasenko 9/1/2012 23:33",

@@ -1,3 +1,6 @@
 *Athens-Core
 asAthensPaintOn: anAthensCanvas
-	^ anAthensCanvas surface createSolidColorPaint: self
+
+	^ self
+	
+	"^ anAthensCanvas surface createSolidColorPaint: self"

@@ -2,4 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"asAthensPaintOn:" : "IgorStasenko 4/13/2011 17:47" } }
+		"asAthensPaintOn:" : "IgorStasenko 8/30/2013 16:23",
+		"asStrokePaintOn:" : "IgorStasenko 9/3/2013 12:17",
+		"athensFillPath:on:" : "IgorStasenko 9/3/2013 12:11",
+		"athensFillRectangle:on:" : "IgorStasenko 8/30/2013 16:49" } }

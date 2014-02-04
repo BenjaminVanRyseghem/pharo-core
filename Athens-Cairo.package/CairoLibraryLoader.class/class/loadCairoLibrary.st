@@ -1,3 +1,3 @@
-as yet unclassified
+private
 loadCairoLibrary 
 	^ NativeBoost forCurrentPlatform loadModule: self getLibraryPath

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"font:" : "IgorStasenko 8/22/2013 14:23",
+		"fontAscent" : "IgorStasenko 8/22/2013 13:25",
+		"fontHeight" : "IgorStasenko 8/22/2013 13:25",
+		"getGlyphWidth:" : "IgorStasenko 8/22/2013 13:38",
+		"initialize" : "IgorStasenko 8/22/2013 14:22",
+		"nbLibraryNameOrHandle" : "" } }
