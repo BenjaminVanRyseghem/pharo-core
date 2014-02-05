@@ -1,0 +1,1 @@
+Infos for a class according to Cdecl spec

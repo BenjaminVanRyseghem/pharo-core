@@ -1,0 +1,1 @@
+Common superclass for SUnit tests of interpreter tests

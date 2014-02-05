@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testInstanceInitialization
 	self assert: (cache instVarNamed: #maximumSize) = FreeTypeCache defaultMaximumSize.
 	self assert: (cache instVarNamed: #used) = 0.

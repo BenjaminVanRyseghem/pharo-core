@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		"FileReaderRegistry" ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/4/2014 20:23",
 	"instvars" : [
 		 ],
 	"name" : "FileServices",

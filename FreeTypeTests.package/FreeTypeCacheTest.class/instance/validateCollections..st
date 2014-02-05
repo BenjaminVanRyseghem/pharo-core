@@ -1,4 +1,4 @@
-as yet unclassified
+private
 validateCollections: aFreeTypeCache
 	"check that the fifo list entries match the fontTable dict hierarchy"
 	| fontTable fontTableEntries fifo lastLink |

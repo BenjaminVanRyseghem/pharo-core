@@ -4,7 +4,7 @@
 		"current" ],
 	"classvars" : [
 		"UpdateFontsAtImageStartup" ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/4/2014 22:11",
 	"instvars" : [
 		"gamma",
 		"hinting",

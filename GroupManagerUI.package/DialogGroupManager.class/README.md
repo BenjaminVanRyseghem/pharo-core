@@ -1,0 +1,1 @@
+Dialog group manager for groups in Nautilus

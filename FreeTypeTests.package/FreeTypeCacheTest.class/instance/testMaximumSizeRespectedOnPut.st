@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testMaximumSizeRespectedOnPut
 	| |
 	cache maximumSize: (cache sizeOf: font1XGlyph).

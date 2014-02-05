@@ -1,4 +1,4 @@
-as yet unclassified
+private
 validateSizes: aFreeTypeCache
 	"check that the used, maximumSize, and caches entries are valid"
 	| fontTable calcSize max used |

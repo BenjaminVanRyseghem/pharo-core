@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReport
 	self assert: fullCache report = '100% Full (maximumSize: 400320 , used: 400320)'.
 	fullCache maximumSize:  800640.

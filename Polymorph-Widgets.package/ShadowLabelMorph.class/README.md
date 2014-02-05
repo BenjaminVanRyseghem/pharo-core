@@ -1,0 +1,1 @@
+A label with shadow

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testNormalGetIfAbsentPut
 	| u g r |
 	cache maximumSize: nil. 

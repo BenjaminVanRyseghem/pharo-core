@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testNormalPutGetWidth
 	| u g |
 	cache maximumSize: nil. 

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testEntriesRemovedFIFO
 	| |
 	cache maximumSize: 10*(cache sizeOf: font1XGlyph).

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testNormalGetIfAbsentPutTwiceIntoNonEmptyCache
 	| u g r |
 	cache maximumSize: nil. 

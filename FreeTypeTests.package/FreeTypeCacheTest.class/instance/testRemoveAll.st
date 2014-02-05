@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testRemoveAll
 	| m fifo fontTable |
 	m := fullCache instVarNamed: #maximumSize.

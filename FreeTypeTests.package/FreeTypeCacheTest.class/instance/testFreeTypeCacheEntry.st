@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testFreeTypeCacheEntry
 	| f f2  f3 |
 	f := FreeTypeCacheEntry new.

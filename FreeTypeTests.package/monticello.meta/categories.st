@@ -1,1 +1,2 @@
-SystemOrganization addCategory: #'FreeTypeTests-cache'!
+SystemOrganization addCategory: #FreeTypeTests!
+SystemOrganization addCategory: 'FreeTypeTests-cache'!

@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #GroupManager!
-SystemOrganization addCategory: #'GroupManager-Announcements'!
+SystemOrganization addCategory: 'GroupManager-Announcements'!

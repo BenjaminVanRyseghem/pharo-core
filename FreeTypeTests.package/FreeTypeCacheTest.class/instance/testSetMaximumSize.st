@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testSetMaximumSize
 	cache maximumSize: 0.
 	self assert: (cache instVarNamed: #maximumSize) = 0.
