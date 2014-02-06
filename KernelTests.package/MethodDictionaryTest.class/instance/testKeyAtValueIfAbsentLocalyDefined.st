@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testKeyAtValueIfAbsentLocalyDefined
 	" self debug: #testKeyAtValueIfAbsentLocalyDefined "
 	self assert: (self class methodDict keyAtValue: (self class >> #testKeyAtValueIfAbsentLocalyDefined) ifAbsent: []) == #testKeyAtValueIfAbsentLocalyDefined.

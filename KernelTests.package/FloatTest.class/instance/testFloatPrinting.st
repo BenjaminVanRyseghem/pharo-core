@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testFloatPrinting
 	"This test shows that floats are printed exactly. The idea is too make sure that users understand that "
 	

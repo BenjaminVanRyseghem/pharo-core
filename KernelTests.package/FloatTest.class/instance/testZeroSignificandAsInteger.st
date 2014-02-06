@@ -1,4 +1,4 @@
-zero behavior
+tests - zero behavior
 testZeroSignificandAsInteger
 	"This is about http://bugs.squeak.org/view.php?id=6990"
 	

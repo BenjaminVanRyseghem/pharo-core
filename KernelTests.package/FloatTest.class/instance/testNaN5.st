@@ -1,4 +1,4 @@
-IEEE 754
+tests - IEEE 754
 testNaN5
 	self assert: ((Float nan asIEEE32BitWord printPaddedWith: $0 to: 32 base: 2)
 		copyFrom: 2 to: 9) = '11111111'.

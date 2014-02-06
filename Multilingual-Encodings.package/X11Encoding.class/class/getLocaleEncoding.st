@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 getLocaleEncoding
 	<primitive: 'primGetLocaleEncoding' module: 'ImmX11Plugin'>
 	^ nil

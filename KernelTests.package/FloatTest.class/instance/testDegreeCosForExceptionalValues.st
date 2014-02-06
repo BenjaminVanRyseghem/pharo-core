@@ -1,4 +1,4 @@
-test - mathematical functions
+tests - mathematical functions
 testDegreeCosForExceptionalValues
 	self assert: Float nan degreeCos isNaN.
 	self assert: Float infinity degreeCos isNaN.

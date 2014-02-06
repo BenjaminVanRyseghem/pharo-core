@@ -1,4 +1,4 @@
-testing - Class Methods
+tests - Class Methods
 testBasicNew
 
 	self should: [SmallInteger basicNew] raise: self defaultTestError. 

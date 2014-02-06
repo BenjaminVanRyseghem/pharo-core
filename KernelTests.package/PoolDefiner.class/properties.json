@@ -5,7 +5,7 @@
 	"classvars" : [
 		"Author",
 		"Gloups" ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/5/2014 08:39",
 	"instvars" : [
 		 ],
 	"name" : "PoolDefiner",

@@ -1,4 +1,4 @@
-testing
+tests
 testCopy
 	"Elementary tests"
 	self assert: 2.0 copy = 2.0.

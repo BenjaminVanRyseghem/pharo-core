@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testFloatRounded
 	"5000000000000001 asFloat has an exact representation (no round off error).
 	It should round to nearest integer without loosing bits.

@@ -1,4 +1,4 @@
-test - mathematical functions
+tests - mathematical functions
 testDegreeSin
 	45.0 degreeSin.	"Following tests use approximate equality, because sine are generally evaluated using inexact Floating point arithmetic"
 	self assert: (45.0 degreeSin squared - 0.5) abs <= Float epsilon.

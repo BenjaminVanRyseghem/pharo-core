@@ -1,4 +1,4 @@
-NaN behavior
+tests - NaN behavior
 testNaN2
 	"Two NaN values are always considered to be different.
 	On an little-endian machine (32 bit Intel), Float nan is 16rFFF80000 16r00000000.

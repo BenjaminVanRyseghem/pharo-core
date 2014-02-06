@@ -1,6 +1,7 @@
-remove
+testing
 includesCategory: aString
-	"Return all matching categories"
+	"Tests if a category is already included."
 	
-	self categories ifNil: [ ^#() ].
-	^ self categories includes: aString
+	^ self categories 
+		ifNil: [ false ]
+		ifNotNil: [ :categories | categories includes: aString ]

@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testFloatTruncated
 	"(10 raisedTo: 16) asFloat has an exact representation (no round off error).
 	It should convert back to integer without loosing bits.

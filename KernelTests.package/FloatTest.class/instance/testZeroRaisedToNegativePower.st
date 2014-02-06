@@ -1,4 +1,4 @@
-testing - arithmetic
+tests - arithmetic
 testZeroRaisedToNegativePower
 	"this is a test related to http://bugs.squeak.org/view.php?id=6781"
 	

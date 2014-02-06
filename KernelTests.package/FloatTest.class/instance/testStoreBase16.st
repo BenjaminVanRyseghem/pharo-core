@@ -1,4 +1,4 @@
-printing
+tests - printing
 testStoreBase16
 	"This bug was reported in mantis http://bugs.squeak.org/view.php?id=6695"
 

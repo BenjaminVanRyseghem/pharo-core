@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testFloor
 	self assert: 1.0 floor = 1.
 	self assert: 1.1 floor = 1.

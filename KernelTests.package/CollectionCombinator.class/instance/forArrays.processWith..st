@@ -1,4 +1,4 @@
-as yet unclassified
+operating
 forArrays: anArray processWith: aBlock
 
  "  anArray is a kind of a sequenceable collection of arrays.

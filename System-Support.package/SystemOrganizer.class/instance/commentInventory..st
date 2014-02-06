@@ -1,4 +1,4 @@
-utils
+queries
 commentInventory: categoryName
 	"SystemOrganization commentInventory: 'Morphic*'"
 

@@ -1,4 +1,4 @@
-testing - Class Methods
+tests - Class Methods
 testMinVal
 
 	self assert: (SmallInteger minVal = -16r40000000).

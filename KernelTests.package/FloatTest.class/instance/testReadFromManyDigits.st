@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testReadFromManyDigits
 	"A naive algorithm may interpret these representations as Infinity or NaN.
 	This is http://bugs.squeak.org/view.php?id=6982"

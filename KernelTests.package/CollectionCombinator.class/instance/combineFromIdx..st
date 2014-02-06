@@ -1,4 +1,4 @@
-as yet unclassified
+operating
 combineFromIdx: myIdx
 
    "  this method is recursive. Recursion runs from values 1 to  collectionOfArrays size  of parameter myIdx. Each time it is called, this method has the responsiblity to provide all possible values for one index position of the result tuples. That index position is given by the value of  myIdx."

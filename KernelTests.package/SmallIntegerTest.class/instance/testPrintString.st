@@ -1,4 +1,4 @@
-testing - printing
+tests - printing
 testPrintString
 	self assert: 1 printString  = '1'.
 	self assert: -1 printString  = '-1'.

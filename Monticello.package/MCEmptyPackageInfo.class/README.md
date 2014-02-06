@@ -1,0 +1,1 @@
+A mock for empty package info used for testing purposes

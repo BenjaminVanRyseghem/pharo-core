@@ -1,4 +1,4 @@
-query
+queries
 uncommentedClassesIn: categoryName
 	"SystemOrganization uncommentedClassesIn: 'Morphic*'"
 

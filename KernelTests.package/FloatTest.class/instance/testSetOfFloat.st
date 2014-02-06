@@ -1,4 +1,4 @@
-testing compare
+tests - compare
 testSetOfFloat
       "Classical disagreement between hash and = did lead to a bug.
        This is a non regression test from http://bugs.squeak.org/view.php?id=3360"

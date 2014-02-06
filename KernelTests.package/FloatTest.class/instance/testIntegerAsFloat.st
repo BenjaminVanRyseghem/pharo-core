@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testIntegerAsFloat
 	"assert IEEE 754 round to nearest even mode is honoured"
 	

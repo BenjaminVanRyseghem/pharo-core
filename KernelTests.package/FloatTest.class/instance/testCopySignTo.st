@@ -1,4 +1,4 @@
-test - mathematical functions
+tests - mathematical functions
 testCopySignTo
 
       "Set up"

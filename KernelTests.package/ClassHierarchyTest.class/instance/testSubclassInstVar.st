@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testSubclassInstVar
 	| subclasses |
 	SystemNavigation new allClassesDo: [ :cls|

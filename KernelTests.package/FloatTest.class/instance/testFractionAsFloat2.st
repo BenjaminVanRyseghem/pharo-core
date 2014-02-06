@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testFractionAsFloat2
 	"test rounding to nearest even"
 		

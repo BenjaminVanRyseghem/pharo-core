@@ -1,4 +1,4 @@
-characterization
+tests - characterization
 testCharacterization
 
 	"Test the largest finite representable floating point value"

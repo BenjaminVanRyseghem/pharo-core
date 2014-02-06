@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testFractionAsFloat
 	"use a random test"
 	

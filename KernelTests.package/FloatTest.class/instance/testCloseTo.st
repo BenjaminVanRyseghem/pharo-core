@@ -1,4 +1,4 @@
-testing compare
+tests - compare
 testCloseTo
 	self deny: (Float nan closeTo: Float nan) description: 'NaN isn''t close to anything'.
 	self deny: (Float nan closeTo: 1.0) description: 'NaN isn''t close to anything'.

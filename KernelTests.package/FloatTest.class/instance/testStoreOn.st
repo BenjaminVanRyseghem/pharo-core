@@ -1,4 +1,4 @@
-testing
+tests
 testStoreOn
 	"If storeOn: prints exactly and the parser avoid cumulating round off Errors,
 	then Float should be read back exactly.

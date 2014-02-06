@@ -1,4 +1,4 @@
-IEEE 754
+tests - IEEE 754
 test32bitGradualUnderflow
 	"method asIEEE32BitWord did not respect IEEE gradual underflow"
 	

@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testCeiling
 	self assert: 1.0 ceiling = 1.
 	self assert: 1.1 ceiling = 2.

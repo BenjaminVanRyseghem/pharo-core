@@ -1,4 +1,4 @@
-test - mathematical functions
+tests - mathematical functions
 testArcTan
 
 	self assert: ((100 arcTan: 100) closeTo: Float pi / 4).

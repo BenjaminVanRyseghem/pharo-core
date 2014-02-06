@@ -1,4 +1,4 @@
-testing - operations
+tests - operations
 testCeiling
 
 	self assert: 2 ceiling = 2.

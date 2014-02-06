@@ -1,4 +1,4 @@
-NaN behavior
+tests - NaN behavior
 testNaN3
    "FloatTest new testNaN3"
 

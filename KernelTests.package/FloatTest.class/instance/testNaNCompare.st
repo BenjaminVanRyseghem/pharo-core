@@ -1,4 +1,4 @@
-NaN behavior
+tests - NaN behavior
 testNaNCompare
 	"IEEE 754 states that NaN cannot be ordered.
 	As a consequence, every arithmetic comparison involving a NaN SHOULD return false.

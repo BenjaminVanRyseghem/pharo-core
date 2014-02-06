@@ -1,4 +1,4 @@
-testing - Class Methods
+tests - Class Methods
 testDigitAt
 
 	| number |

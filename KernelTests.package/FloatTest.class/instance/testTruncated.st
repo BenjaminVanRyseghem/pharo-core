@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testTruncated
 	self assert: 1.0 truncated = 1.
 	self assert: 1.1 truncated = 1.

@@ -1,4 +1,4 @@
-utils
+queries
 orderedTraitsIn: category
 	"Answer an OrderedCollection containing references to the traits in the 
 	category whose name is the argument, category (a string). The traits 

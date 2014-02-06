@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testRounded
 	self assert: 0.9 rounded = 1.
 	self assert: 1.0 rounded = 1.

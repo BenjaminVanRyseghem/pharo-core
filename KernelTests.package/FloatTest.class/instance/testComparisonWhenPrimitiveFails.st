@@ -1,4 +1,4 @@
-testing compare
+tests - compare
 testComparisonWhenPrimitiveFails
 	"This is related to http://bugs.squeak.org/view.php?id=7361"
 

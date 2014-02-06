@@ -5,7 +5,7 @@
 	"classtraitcomposition" : "TIncludesTest classTrait + TDictionaryKeysValuesAssociationsAccess classTrait + TDictionaryRemovingTest classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/5/2014 08:40",
 	"instvars" : [
 		"nonEmptyDict" ],
 	"name" : "MethodDictionaryTest",

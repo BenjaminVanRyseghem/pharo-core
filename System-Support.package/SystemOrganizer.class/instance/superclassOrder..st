@@ -1,4 +1,4 @@
-utils
+queries
 superclassOrder: category
 	"Answer an OrderedCollection containing references to the classes in the 
 	category whose name is the argument, category (a string). The classes 

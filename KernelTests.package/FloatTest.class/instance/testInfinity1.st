@@ -1,4 +1,4 @@
-infinity behavior
+tests - infinity behavior
 testInfinity1
    "FloatTest new testInfinity1"
 

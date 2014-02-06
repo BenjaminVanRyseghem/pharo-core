@@ -1,4 +1,4 @@
-infinity behavior
+tests - infinity behavior
 testInfinityCloseTo
 	"This is a test for bug http://bugs.squeak.org/view.php?id=6729:"
 	

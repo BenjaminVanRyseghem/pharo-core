@@ -1,4 +1,4 @@
-testing compare
+tests - compare
 testComparison
 	
 	"test equality when Float conversion loose bits"

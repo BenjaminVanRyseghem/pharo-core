@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testBehaviorLocalyDefined
 	"method not acquired from a trait or from its superclass"
 	" self debug: #testBehavior "

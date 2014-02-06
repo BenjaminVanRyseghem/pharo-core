@@ -1,4 +1,4 @@
-NaN behavior
+tests - NaN behavior
 testReciprocal
 
 	self 

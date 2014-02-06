@@ -1,3 +1,5 @@
+Command line handler for dealing with Metacello configurations from the command line
+
 Usage: config [--help] <repository url> [<configuration>] [--install[=<version>]] [--group=<group>] [--username=<username>] [--password=<password>]
 	--help              show this help message
 	<repository url>    A Monticello repository name 

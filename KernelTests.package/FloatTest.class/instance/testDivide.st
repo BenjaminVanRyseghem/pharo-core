@@ -1,4 +1,4 @@
-testing - arithmetic
+tests - arithmetic
 testDivide
 
 	self assert: 1.5 / 2.0 = 0.75.

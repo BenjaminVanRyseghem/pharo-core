@@ -1,4 +1,4 @@
-testing - arithmetic
+tests - arithmetic
 testDivide
 
 	self assert: 2 / 1 = 2.

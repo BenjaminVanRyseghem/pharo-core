@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 setPathEncToLocale
 	<primitive: 'primSetPathEncToLocale' module: 'ImmX11Plugin'>
 	^ nil

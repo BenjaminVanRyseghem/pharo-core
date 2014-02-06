@@ -1,4 +1,4 @@
-infinity behavior
+tests - infinity behavior
 testHugeIntegerCloseTo
 	"This is a test for bug http://bugs.squeak.org/view.php?id=7368"
 	

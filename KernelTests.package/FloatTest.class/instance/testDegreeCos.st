@@ -1,4 +1,4 @@
-test - mathematical functions
+tests - mathematical functions
 testDegreeCos
 	45.0 degreeCos.	"Following tests use approximate equality, because cosine are generally evaluated using inexact Floating point arithmetic"
 	self assert: (45.0 degreeCos squared - 0.5) abs <= Float epsilon.

@@ -1,0 +1,1 @@
+A mock for dirty package info used for testing purposes

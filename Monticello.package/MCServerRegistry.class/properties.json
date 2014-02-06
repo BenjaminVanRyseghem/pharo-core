@@ -4,7 +4,7 @@
 		"uniqueInstance" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/5/2014 13:56",
 	"instvars" : [
 		"registry" ],
 	"name" : "MCServerRegistry",

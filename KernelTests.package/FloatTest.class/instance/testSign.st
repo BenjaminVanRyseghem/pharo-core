@@ -1,4 +1,4 @@
-test - mathematical functions
+tests - mathematical functions
 testSign
 
       "Set up"

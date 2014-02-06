@@ -1,4 +1,4 @@
-testing - conversion
+tests - conversion
 testStringAsNumber
 	"This covers parsing in Number>>readFrom:"
 
