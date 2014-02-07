@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkGroups:" : "ChristopheDemarey 6/5/2013 13:24",
+		"checkPackages:" : "ChristopheDemarey 11/21/2013 17:49",
+		"checkRequiredProjects:" : "ChristopheDemarey 6/5/2013 13:26",
+		"setUp" : "ChristopheDemarey 6/5/2013 12:41",
+		"tearDown" : "ChristopheDemarey 6/5/2013 12:40",
+		"testVisitXMLParserConfigurationWithVersion101" : "ChristopheDemarey 11/21/2013 16:34" } }

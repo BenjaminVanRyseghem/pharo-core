@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultSpec" : "ChristopheDemarey 8/23/2013 16:49" },
+	"instance" : {
+		"initializePresenter" : "ChristopheDemarey 9/18/2013 11:14",
+		"initializeWidgets" : "ChristopheDemarey 8/23/2013 16:43",
+		"loadButton" : "ChristopheDemarey 7/11/2013 13:32",
+		"newButton" : "ChristopheDemarey 7/11/2013 13:32",
+		"newConfiguration" : "ChristopheDemarey 2/7/2014 10:28" } }

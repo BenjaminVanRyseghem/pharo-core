@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"named:" : "dkh 2/27/2011 15:32",
+		"named:packageName:spec:" : "AlexandreBergel 3/5/2011 21:57",
+		"new" : "AlexandreBergel 1/16/2011 01:05" },
+	"instance" : {
+		"classForBrowsing" : "AlexandreBergel 3/5/2011 22:57",
+		"cmdBrowse" : "dkh 3/4/2011 05:00",
+		"cmdBrowsePackageChanges" : "dkh 3/20/2011 10:36",
+		"cmdOpenRepositoryCommand" : "ChristopheDemarey 9/17/2013 15:32",
+		"isDirty" : "DaleHenrichs 2/23/2011 17:29",
+		"packageName" : "dkh 2/23/2011 19:02",
+		"packageName:" : "dkh 2/23/2011 19:02",
+		"workingCopy" : "dkh 2/27/2011 15:37" } }

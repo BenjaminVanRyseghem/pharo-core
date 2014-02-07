@@ -1,0 +1,14 @@
+{
+	"category" : "Versionner-Tests-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MBSpecInfoTest",
+	"pools" : [
+		 ],
+	"super" : "MBAbstractTest",
+	"type" : "normal" }

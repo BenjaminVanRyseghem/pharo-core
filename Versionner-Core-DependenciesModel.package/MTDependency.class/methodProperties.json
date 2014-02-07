@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"newNamed:" : "ChristopheDemarey 1/24/2013 17:16" },
+	"instance" : {
+		"=" : "ChristopheDemarey 12/12/2013 12:42",
+		"acceptVisitor:" : "ChristopheDemarey 12/6/2013 16:44",
+		"addDependency:" : "ChristopheDemarey 12/11/2013 17:20",
+		"asString" : "ChristopheDemarey 2/21/2013 16:31",
+		"dependencies" : "ChristopheDemarey 12/7/2012 13:42",
+		"dependencies:" : "ChristopheDemarey 6/12/2013 10:17",
+		"displayName" : "ChristopheDemarey 7/19/2013 18:39",
+		"displayString" : "ChristopheDemarey 11/30/2012 17:49",
+		"initialize" : "TesterBob 11/27/2012 15:36",
+		"name" : "ChristopheDemarey 11/27/2012 11:48",
+		"name:" : "ChristopheDemarey 11/14/2012 18:19",
+		"parent" : "ChristopheDemarey 12/11/2013 14:07",
+		"parent:" : "ChristopheDemarey 12/11/2013 14:08",
+		"printOn:" : "ChristopheDemarey 11/30/2012 13:12",
+		"project" : "ChristopheDemarey 12/11/2013 17:23",
+		"remove" : "ChristopheDemarey 9/10/2013 00:27",
+		"removeDependency:" : "ChristopheDemarey 9/10/2013 00:21",
+		"version" : "ChristopheDemarey 12/13/2012 16:04",
+		"version:" : "ChristopheDemarey 11/30/2012 13:10" } }

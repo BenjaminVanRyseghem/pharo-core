@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"target:for:" : "ChristopheDemarey 8/28/2013 15:11" },
+	"instance" : {
+		"chooseRepositoryFromList:" : "ChristopheDemarey 9/17/2013 15:47",
+		"execute" : "ChristopheDemarey 8/28/2013 15:02",
+		"order" : "ChristopheDemarey 9/17/2013 15:12",
+		"repositoryOfPackageNamed:" : "ChristopheDemarey 8/28/2013 17:31",
+		"requestor" : "ChristopheDemarey 8/28/2013 15:03",
+		"requestor:" : "ChristopheDemarey 8/28/2013 15:03",
+		"showExecuteWhile:" : "ChristopheDemarey 9/17/2013 11:48",
+		"target" : "ChristopheDemarey 8/28/2013 15:03",
+		"target:" : "ChristopheDemarey 8/28/2013 17:33" } }

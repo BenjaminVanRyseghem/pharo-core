@@ -1,0 +1,4 @@
+protocol
+nextDevelopmentVersionString
+
+	^ self nextDevelopmentVersionString: self developmentVersion versionString

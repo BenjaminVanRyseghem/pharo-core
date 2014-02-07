@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"new" : "AlexandreBergel 3/1/2011 08:49",
+		"version:" : "dkh 3/6/2011 15:32" },
+	"instance" : {
+		"calculateInfoList" : "ChristopheDemarey 11/13/2013 13:33",
+		"cmdBrowse" : "ChristopheDemarey 10/24/2013 17:49",
+		"cmdLoad" : "ChristopheDemarey 10/24/2013 17:57",
+		"cmdRemove" : "ChristopheDemarey 10/24/2013 17:57",
+		"configurationBasename" : "ChristopheDemarey 11/6/2012 15:31",
+		"configurationClass" : "dkh 3/5/2011 17:55",
+		"configurationInfo" : "dkh 3/5/2011 17:50",
+		"configurationInfo:" : "dkh 3/5/2011 17:50",
+		"currentVersion" : "dkh 3/5/2011 17:56",
+		"hasValidationIssues" : "dkh 3/1/2011 21:08",
+		"isBleedingEdge" : "dkh 3/2/2011 16:43",
+		"isCurrentVersion" : "JuanPabloSandovalAlcocer 1/8/2012 18:10",
+		"isDevelopment" : "dkh 3/2/2011 16:44",
+		"isStable" : "dkh 3/2/2011 16:43",
+		"printOn:" : "dkh 3/6/2011 15:15",
+		"project" : "dkh 3/2/2011 16:42",
+		"validate" : "dkh 3/2/2011 16:44",
+		"version" : "dkh 2/23/2011 12:57",
+		"version:" : "dkh 2/23/2011 14:13",
+		"versionForInfoList" : "dkh 3/2/2011 20:29",
+		"versionString" : "dkh 3/19/2011 10:42" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Versionner-Core-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"target",
+		"requestor" ],
+	"name" : "VSCommand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Versionner-Tests-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gofer",
+		"configurationRoot" ],
+	"name" : "MBConfigurationBranchTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

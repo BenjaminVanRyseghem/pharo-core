@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"clean" : "JuanPabloSandovalAlcocer 6/30/2012 20:36",
+		"commitIcon" : "ChristopheDemarey 8/7/2012 11:38",
+		"configurationChangedIcon" : "ChristopheDemarey 8/7/2012 11:38",
+		"configurationIcon" : "ChristopheDemarey 8/7/2012 11:44",
+		"defaultSpec" : "ChristopheDemarey 7/11/2013 13:11",
+		"menuCommandOn:" : "ChristopheDemarey 7/19/2013 10:44",
+		"newConfigurationIcon" : "ChristopheDemarey 8/7/2012 11:59",
+		"open" : "JuanPabloSandovalAlcocer 6/30/2012 20:27",
+		"openOn:" : "ChristopheDemarey 2/14/2013 16:50",
+		"updateIcon" : "ChristopheDemarey 8/7/2012 12:01" },
+	"instance" : {
+		"browseConfiguration:" : "ChristopheDemarey 12/13/2013 14:00",
+		"configurationList" : "ChristopheDemarey 2/14/2013 16:47",
+		"configurationList:" : "ChristopheDemarey 2/14/2013 16:50",
+		"iconForConfiguration:" : "ChristopheDemarey 6/25/2013 14:46",
+		"initialExtent" : "ChristopheDemarey 7/11/2013 13:34",
+		"initialize" : "ChristopheDemarey 10/17/2012 14:57",
+		"initializePresenter" : "ChristopheDemarey 7/19/2013 14:04",
+		"initializeWidgets" : "ChristopheDemarey 7/19/2013 14:21",
+		"loadMenuFor:in:" : "ChristopheDemarey 2/6/2014 12:53",
+		"refresh" : "ChristopheDemarey 7/26/2013 10:41",
+		"register" : "ChristopheDemarey 7/25/2013 16:18",
+		"title" : "ChristopheDemarey 7/11/2013 13:14",
+		"toolbar" : "JuanPabloSandovalAlcocer 6/30/2012 18:29",
+		"unregister" : "JuanPabloSandovalAlcocer 6/30/2012 19:31",
+		"windowIsClosing" : "JuanPabloSandovalAlcocer 6/30/2012 20:35" } }

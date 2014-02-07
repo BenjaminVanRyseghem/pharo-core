@@ -1,0 +1,14 @@
+{
+	"category" : "Versionner-Core-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MBSavePackageCommand",
+	"pools" : [
+		 ],
+	"super" : "MBAbstractPackageCommand",
+	"type" : "normal" }

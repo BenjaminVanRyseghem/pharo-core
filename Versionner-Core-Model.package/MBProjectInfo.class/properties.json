@@ -1,0 +1,14 @@
+{
+	"category" : "Versionner-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentVersion" ],
+	"name" : "MBProjectInfo",
+	"pools" : [
+		 ],
+	"super" : "MBAbstractPackageInfo",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultSpec" : "ChristopheDemarey 7/25/2013 08:58" },
+	"instance" : {
+		"addPackage" : "ChristopheDemarey 12/10/2013 13:15",
+		"addPackageButton" : "TesterBob 10/4/2012 15:45",
+		"addPackageRequirement" : "ChristopheDemarey 9/10/2013 17:28",
+		"editPackageButton" : "TesterBob 10/4/2012 15:45",
+		"editSelectedPackageRequirements" : "ChristopheDemarey 12/3/2013 16:41",
+		"initializePresenter" : "ChristopheDemarey 9/10/2013 00:48",
+		"initializeWidgets" : "ChristopheDemarey 12/6/2013 15:54",
+		"packageChangesButton" : "TesterBob 10/4/2012 15:45",
+		"packageChangesButton:" : "TesterBob 10/4/2012 15:45",
+		"packages" : "ChristopheDemarey 7/18/2013 18:46",
+		"packagesLabel" : "TesterBob 10/4/2012 15:45",
+		"packagesList" : "ChristopheDemarey 12/18/2012 16:42",
+		"project:" : "ChristopheDemarey 10/2/2013 15:25",
+		"refreshPackages" : "ChristopheDemarey 10/2/2013 15:25",
+		"removePackageButton" : "TesterBob 10/4/2012 15:45",
+		"removeSelectedPackage" : "ChristopheDemarey 11/27/2013 16:24",
+		"savePackageButton" : "TesterBob 10/4/2012 15:46",
+		"workingCopies" : "ChristopheDemarey 12/21/2012 13:31" } }

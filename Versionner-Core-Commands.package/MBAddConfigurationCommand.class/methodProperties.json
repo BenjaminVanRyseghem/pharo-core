@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"askForClassName" : "ChristopheDemarey 10/18/2012 11:00",
+		"collectPackages:andProjects:pattern:repository:" : "ChristopheDemarey 10/18/2012 11:01",
+		"documentation" : "dkh 3/4/2011 16:25",
+		"execute" : "ChristopheDemarey 11/6/2012 15:26",
+		"executeAddBaselineForConfigurationNamed:repositoryDescription:versionString:packages:configurations:" : "TesterBob 10/11/2012 17:09",
+		"executeAddBaselineForConfigurationNamed:repositoryDescription:versionString:packages:configurations:repositories:" : "ChristopheDemarey 10/11/2012 17:21",
+		"order" : "dkh 4/7/2011 22:20",
+		"repositoryFor:" : "ChristopheDemarey 10/18/2012 11:32",
+		"title" : "dkh 4/7/2011 21:52",
+		"workingCopies" : "dkh 3/4/2011 16:21" } }

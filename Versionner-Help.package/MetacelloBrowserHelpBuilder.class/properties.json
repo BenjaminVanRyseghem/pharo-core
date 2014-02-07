@@ -1,0 +1,14 @@
+{
+	"category" : "Versionner-Help",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MetacelloBrowserHelpBuilder",
+	"pools" : [
+		 ],
+	"super" : "HelpBuilder",
+	"type" : "normal" }

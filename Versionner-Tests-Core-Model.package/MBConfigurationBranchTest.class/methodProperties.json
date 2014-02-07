@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"hasPackage:" : "dkh 4/17/2011 12:41",
+		"setUp" : "dkh 4/17/2011 12:28",
+		"tearDown" : "dkh 4/17/2011 12:28",
+		"tearDownPackages" : "dkh 4/17/2011 12:53",
+		"test0010BasicLoad" : "dkh 4/17/2011 12:48",
+		"test0011BasicLoad" : "dkh 4/17/2011 12:48",
+		"test002ConfigurationReferences" : "dkh 4/17/2011 13:13" } }

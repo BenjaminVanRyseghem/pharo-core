@@ -1,0 +1,3 @@
+accessing
+configurationInfo
+	^ MBConfigurationInfo configurationClass: self configurationClass

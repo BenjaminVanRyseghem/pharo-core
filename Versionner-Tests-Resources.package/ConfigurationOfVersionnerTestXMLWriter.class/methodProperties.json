@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"bootstrapPackage:from:" : "ChristopheDemarey 5/24/2013 10:34",
+		"ensureMetacello" : "ChristopheDemarey 5/24/2013 10:34",
+		"isMetacelloConfig" : "ChristopheDemarey 5/24/2013 10:34",
+		"lastMetacelloVersionLoad" : "ChristopheDemarey 5/24/2013 10:34",
+		"load" : "ChristopheDemarey 5/24/2013 10:34",
+		"metacelloVersion:loads:" : "ChristopheDemarey 5/24/2013 10:34",
+		"project" : "ChristopheDemarey 5/24/2013 10:34",
+		"unloadMetacello" : "ChristopheDemarey 5/24/2013 10:35" },
+	"instance" : {
+		"baseline100:" : "ChristopheDemarey 3/27/2013 16:51",
+		"baseline101:" : "ChristopheDemarey 3/27/2013 16:51",
+		"baseline104:" : "ChristopheDemarey 3/27/2013 16:51",
+		"baseline105:" : "ChristopheDemarey 3/27/2013 16:51",
+		"baseline200:" : "ChristopheDemarey 3/27/2013 16:51",
+		"baseline210:" : "ChristopheDemarey 3/27/2013 16:51",
+		"development:" : "ChristopheDemarey 3/27/2013 16:51",
+		"project" : "ChristopheDemarey 3/27/2013 16:51",
+		"stable:" : "ChristopheDemarey 3/27/2013 16:51",
+		"version100:" : "ChristopheDemarey 3/27/2013 16:51",
+		"version101:" : "ChristopheDemarey 3/27/2013 16:51",
+		"version102:" : "ChristopheDemarey 3/27/2013 16:51",
+		"version103:" : "ChristopheDemarey 3/27/2013 16:51",
+		"version104:" : "ChristopheDemarey 3/27/2013 16:51",
+		"version105:" : "ChristopheDemarey 3/27/2013 16:51",
+		"version200:" : "ChristopheDemarey 3/27/2013 16:51",
+		"version210:" : "ChristopheDemarey 3/27/2013 16:51" } }

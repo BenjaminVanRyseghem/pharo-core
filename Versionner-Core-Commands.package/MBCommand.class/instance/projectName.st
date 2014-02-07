@@ -1,0 +1,3 @@
+accessing-computed
+projectName
+	^ self configurationClass configurationBaseName

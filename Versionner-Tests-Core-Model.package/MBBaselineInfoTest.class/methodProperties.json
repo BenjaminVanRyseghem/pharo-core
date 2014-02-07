@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "dkh 4/18/2011 20:22",
+		"setUp" : "dkh 3/6/2011 20:33",
+		"testCopyBaseline" : "DaleHenrichs 03/08/2011 13:49",
+		"testInstantiation" : "dkh 3/19/2011 10:42",
+		"testcalculateInfoList" : "ChristopheDemarey 8/31/2012 17:45" } }

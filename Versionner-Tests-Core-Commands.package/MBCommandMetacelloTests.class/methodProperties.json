@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddConfigurationCmd" : "dkh 3/19/2011 10:37",
+		"testConfigurationChanges" : "dkh 3/20/2011 12:45",
+		"testRemoveVersionCmd01" : "ChristopheDemarey 10/24/2013 17:57",
+		"testRemoveVersionCmd02" : "ChristopheDemarey 10/24/2013 17:57",
+		"testRemoveVersionCmd03" : "ChristopheDemarey 10/24/2013 17:57",
+		"testRemoveVersionCmd04" : "ChristopheDemarey 10/24/2013 17:57",
+		"testUsernamePassword" : "dkh 3/19/2011 10:10" } }

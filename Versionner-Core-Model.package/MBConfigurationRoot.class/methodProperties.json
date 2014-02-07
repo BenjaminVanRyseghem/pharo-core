@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"current" : "JuanPabloSandovalAlcocer 6/30/2012 23:11",
+		"reset" : "dkh 3/10/2011 18:22" },
+	"instance" : {
+		"addConfigurationInfoFor:" : "dkh 3/10/2011 12:49",
+		"announcer" : "dkh 3/10/2011 12:37",
+		"categoryModified:" : "ChristopheDemarey 8/28/2012 14:49",
+		"classAdded:" : "ChristopheDemarey 1/2/2013 17:31",
+		"classModified:" : "ChristopheDemarey 1/2/2013 17:31",
+		"classRemoved:" : "ChristopheDemarey 1/2/2013 17:31",
+		"configurationClasses" : "dkh 3/5/2011 15:33",
+		"configurationInfoFor:" : "dkh 4/9/2011 18:26",
+		"configurations" : "dkh 3/6/2011 14:51",
+		"initialize" : "dkh 3/10/2011 12:37",
+		"methodModified:" : "ChristopheDemarey 1/17/2013 10:46",
+		"password" : "dkh 3/5/2011 15:34",
+		"password:" : "dkh 3/5/2011 15:34",
+		"register" : "ChristopheDemarey 1/2/2013 17:32",
+		"removeConfigurationInfo:" : "dkh 3/10/2011 14:46",
+		"respondToEventFor:withOperation:" : "dkh 4/9/2011 21:00",
+		"unregister" : "ChristopheDemarey 1/2/2013 17:33",
+		"update:" : "dkh 4/7/2011 23:42",
+		"username" : "dkh 3/5/2011 15:35",
+		"username:" : "dkh 3/5/2011 15:35" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Versionner-Tests-Resources",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"monticelloRepository" ],
+	"name" : "MBMonticelloPackagesResource",
+	"pools" : [
+		 ],
+	"super" : "TestResource",
+	"type" : "normal" }

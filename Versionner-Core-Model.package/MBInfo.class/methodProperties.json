@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"helpLabel" : "dkh 4/10/2011 19:55",
+		"validateAll" : "dkh 2/27/2011 19:57",
+		"validateAll:" : "dkh 2/27/2011 19:57" },
+	"instance" : {
+		"announcer" : "dkh 3/10/2011 12:37",
+		"asStringOrText" : "dkh 3/7/2011 21:47",
+		"browseValidationResults" : "dkh 2/26/2011 16:17",
+		"buildStringOrText" : "dkh 3/7/2011 21:48",
+		"clearValidationIcon" : "dkh 2/26/2011 11:46",
+		"commands" : "dkh 2/28/2011 16:40",
+		"configurationInfo" : "dkh 3/6/2011 14:53",
+		"configurationRoot" : "dkh 3/6/2011 14:54",
+		"extractPackageSignatureFrom:" : "dkh 3/20/2011 09:40",
+		"interestedInPackageNamed:" : "dkh 2/27/2011 16:53",
+		"isDirty" : "AlexandreBergel 1/1/2011 15:08",
+		"name" : "AlexandreBergel 1/1/2011 13:14",
+		"name:" : "AlexandreBergel 1/1/2011 13:14",
+		"printOn:" : "AlexandreBergel 1/1/2011 14:14",
+		"project" : "dkh 3/2/2011 16:39",
+		"repositories" : "dkh 3/4/2011 12:40",
+		"text" : "dkh 3/7/2011 21:47",
+		"text:" : "dkh 3/7/2011 21:45",
+		"validate" : "ChristopheDemarey 10/18/2012 10:50",
+		"validateFull" : "dkh 2/27/2011 20:45",
+		"validationResult:" : "dkh 2/27/2011 19:56" } }

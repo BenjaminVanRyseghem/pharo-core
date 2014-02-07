@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"bootstrapPackage:from:" : "ChristopheDemarey 3/27/2013 16:55",
+		"ensureMetacello" : "ChristopheDemarey 3/27/2013 16:55",
+		"isMetacelloConfig" : "ChristopheDemarey 3/27/2013 16:55",
+		"lastMetacelloVersionLoad" : "ChristopheDemarey 3/27/2013 16:55",
+		"load" : "ChristopheDemarey 3/27/2013 16:55",
+		"loadDefault" : "ChristopheDemarey 3/27/2013 16:55",
+		"loadMostRecentCoreWithTests" : "ChristopheDemarey 3/27/2013 16:55",
+		"metacelloVersion:loads:" : "ChristopheDemarey 3/27/2013 16:55",
+		"project" : "ChristopheDemarey 3/27/2013 16:55",
+		"unloadMetacello" : "ChristopheDemarey 3/27/2013 16:55" },
+	"instance" : {
+		"baseline100:" : "ChristopheDemarey 6/7/2013 14:19",
+		"development:" : "ChristopheDemarey 5/24/2013 10:28",
+		"project" : "ChristopheDemarey 5/24/2013 10:29",
+		"stable:" : "ChristopheDemarey 5/24/2013 10:29",
+		"version100:" : "ChristopheDemarey 6/7/2013 14:39" } }

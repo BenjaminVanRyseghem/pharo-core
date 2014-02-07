@@ -1,0 +1,15 @@
+{
+	"category" : "Versionner-Tests-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"info",
+		"browser" ],
+	"name" : "MBConfigurationInfoTest",
+	"pools" : [
+		 ],
+	"super" : "MBInfoTest",
+	"type" : "normal" }

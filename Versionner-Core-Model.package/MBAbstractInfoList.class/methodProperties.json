@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"calculateInfoList" : "dkh 3/2/2011 20:03",
+		"fullRecalculate" : "dkh 03/14/2011 07:17",
+		"groups" : "dkh 3/6/2011 15:34",
+		"infoList" : "dkh 3/10/2011 16:00",
+		"infos" : "AlexandreBergel 1/17/2012 17:34",
+		"interestedInPackage:" : "dkh 4/12/2011 10:54",
+		"interestedInPackageNamed:" : "dkh 3/2/2011 20:14",
+		"isDirty" : "dkh 3/9/2011 22:15",
+		"packages" : "AlexandreBergel 8/2/2011 16:37",
+		"projects" : "ChristopheDemarey 8/28/2012 14:31",
+		"recalculate" : "dkh 3/10/2011 18:30",
+		"recalculateIfInterestedInPackageNamed:for:" : "dkh 4/12/2011 10:46",
+		"release" : "dkh 3/6/2011 18:38",
+		"versionForInfoList" : "dkh 3/2/2011 20:29" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Versionner-Core-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"configurationInfo" ],
+	"name" : "MBConfigurationInfoChanged",
+	"pools" : [
+		 ],
+	"super" : "MBAnnouncement",
+	"type" : "normal" }

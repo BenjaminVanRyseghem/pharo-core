@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"helpLabel" : "dkh 4/10/2011 19:56" },
+	"instance" : {
+		"basePackageName" : "AlexandreBergel 2/24/2011 14:52",
+		"buildStringOrText" : "DaleHenrichs 03/09/2011 11:03",
+		"classForBrowsing" : "dkh 3/2/2011 14:11",
+		"cmdBrowsePackageHistory" : "dkh 3/20/2011 16:38",
+		"cmdLoad" : "JuanPabloSandovalAlcocer 1/4/2012 15:15",
+		"cmdRevertPackage" : "DaleHenrichs 03/07/2011 15:47",
+		"cmdSavePackage" : "DaleHenrichs 03/07/2011 15:36",
+		"compareWorkingCopyNamed:using:" : "dkh 3/3/2011 07:57",
+		"currentVersionMismatch" : "DaleHenrichs 03/09/2011 17:05",
+		"interestedInPackageNamed:" : "dkh 3/9/2011 21:49",
+		"mbPacakgeName" : "JuanPabloSandovalAlcocer 1/4/2012 14:04",
+		"printOn:" : "JuanPabloSandovalAlcocer 1/1/2012 22:57",
+		"repositories" : "dkh 3/16/2011 06:03",
+		"typeLabel" : "dkh 3/2/2011 21:42",
+		"versions" : "JuanPabloSandovalAlcocer 1/8/2012 17:50" } }
