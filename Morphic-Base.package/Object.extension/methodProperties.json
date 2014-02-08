@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"addModelYellowButtonMenuItemsTo:forMorph:hand:" : "AlainPlantec 12/19/2009 23:13",
+		"asAlphaImageMorph" : "BenjaminVanRyseghem 2/7/2014 15:19",
 		"asDraggableMorph" : "CamilloBruni 10/21/2012 23:38",
 		"asMorph" : "AlainPlantec 10/20/2009 10:14",
 		"asStringMorph" : "MarcusDenker 7/20/2012 14:57",

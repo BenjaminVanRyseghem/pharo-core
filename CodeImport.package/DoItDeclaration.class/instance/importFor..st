@@ -9,4 +9,5 @@ importFor: requestor
 	^Smalltalk compiler class new
 		source: contents;
 		requestor: requestor;
+		logged: true;
 		evaluate.

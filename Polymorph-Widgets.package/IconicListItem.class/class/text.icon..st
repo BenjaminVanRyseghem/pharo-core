@@ -8,5 +8,5 @@ text: aText icon: form
 
 	^ self new
 		morph:	morph;
-		icon: form asMorph;
+		icon: form asAlphaImageMorph;
 		yourself
