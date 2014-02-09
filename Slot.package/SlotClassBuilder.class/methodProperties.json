@@ -2,14 +2,16 @@
 	"class" : {
 		 },
 	"instance" : {
-		"apply:" : "MartinDias 7/8/2013 17:03",
+		"apply:" : "MartinDias 2/7/2014 17:04",
 		"applyAndUpdateFormat:" : "MartinDias 1/28/2014 15:10",
+		"applyAndUpdateSharedVariableOrSharedPool:" : "MartinDias 2/7/2014 16:59",
 		"applyAndUpdateSlots:" : "MartinDias 1/28/2014 15:10",
 		"applyAndUpdateSuperclass:" : "MartinDias 1/28/2014 15:10",
 		"applyFormatChange:" : "MartinDias 7/11/2013 15:39",
+		"applySharedVariableOrPoolChange:" : "MartinDias 2/7/2014 16:58",
 		"applySlotChange:" : "MartinDias 7/11/2013 15:39",
 		"applySuperclassChange:" : "MartinDias 7/11/2013 15:39",
-		"build" : "MartinDias 1/28/2014 15:10",
+		"build" : "MartinDias 2/7/2014 17:16",
 		"buildNewClass" : "MartinDias 1/28/2014 15:10",
 		"category:" : "ToonVerwaest 3/28/2011 00:28",
 		"classSlots:" : "ToonVerwaest 3/28/2011 00:28",

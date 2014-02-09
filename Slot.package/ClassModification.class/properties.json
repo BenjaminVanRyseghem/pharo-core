@@ -15,7 +15,9 @@
 		"slotShift",
 		"methodModification",
 		"copies",
-		"traitComposition" ],
+		"traitComposition",
+		"sharedVariables",
+		"sharedPools" ],
 	"name" : "ClassModification",
 	"pools" : [
 		 ],
