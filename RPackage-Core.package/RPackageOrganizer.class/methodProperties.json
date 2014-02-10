@@ -51,7 +51,7 @@
 		"register" : "EstebanLorenzano 5/21/2012 17:50",
 		"registerExtendingPackage:forClass:" : "sd 5/21/2010 14:44",
 		"registerExtendingPackage:forClassName:" : "cyrille.delaunay 11/24/2010 14:06",
-		"registerPackage:" : "EstebanLorenzano 10/15/2013 18:24",
+		"registerPackage:" : "EstebanLorenzano 2/7/2014 14:11",
 		"registerPackage:forClass:" : "cyrille.delaunay 11/25/2010 15:08",
 		"registerPackage:forClassName:" : "StephaneDucasse 4/13/2011 18:50",
 		"registerPackageNamed:" : "EstebanLorenzano 1/3/2014 09:46",
@@ -65,4 +65,7 @@
 		"unregisterPackage:" : "EstebanLorenzano 9/11/2012 15:39",
 		"unregisterPackage:forClass:" : "StephaneDucasse 4/18/2011 11:37",
 		"unregisterPackage:forClassName:" : "StephaneDucasse 4/25/2011 12:30",
-		"unregisterPackageNamed:" : "cyrilledelaunay 5/30/2011 17:38" } }
+		"unregisterPackageNamed:" : "cyrilledelaunay 5/30/2011 17:38",
+		"validateCanBeAddedPackage:" : "EstebanLorenzano 2/7/2014 14:37",
+		"validateCanBeAddedPackage:tagName:" : "EstebanLorenzano 2/7/2014 15:52",
+		"validateCanBeAddedPackageName:tagName:" : "EstebanLorenzano 2/7/2014 16:19" } }

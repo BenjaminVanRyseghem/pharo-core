@@ -5,8 +5,10 @@
 		"compileAndRunExample:" : "MarcusDenker 12/20/2012 15:14",
 		"compileMethod:" : "MarcusDenker 12/20/2012 15:13",
 		"deadContext" : "CamilleTeruel 1/28/2014 14:37",
+		"inlinedBlockSourceNode" : "CamilleTeruel 2/7/2014 17:47",
 		"testBlockAndContextSourceNode" : "MarcusDenker 4/29/2013 15:04",
 		"testBlockSourceNode" : "CamilleTeruel 1/28/2014 14:13",
+		"testBlockWithArgAndEnclosedBlockSourceNode" : "CamilleTeruel 2/7/2014 17:54",
 		"testBlockWithEnclosedBlockSourceNode" : "CamilleTeruel 1/28/2014 14:12",
 		"testBlockWithTempsSourceNode" : "CamilleTeruel 1/28/2014 14:14",
 		"testDeadContextSourceNode" : "CamilleTeruel 1/28/2014 14:37",
@@ -25,4 +27,5 @@
 		"testSourceMappingBlock" : "md 1/17/2013 16:47",
 		"testTempNamedTempCopyingNestedBlock" : "MarcusDenker 12/19/2012 18:04",
 		"testTempNamedTempCopyingNestedBlockPROBLEM" : "MarcusDenker 12/19/2012 17:39",
-		"testThisContextSourceNode" : "MarcusDenker 4/19/2013 13:00" } }
+		"testThisContextSourceNode" : "MarcusDenker 4/19/2013 13:00",
+		"testThisContextSourceNodeInInlinedMessage" : "CamilleTeruel 2/7/2014 17:48" } }
