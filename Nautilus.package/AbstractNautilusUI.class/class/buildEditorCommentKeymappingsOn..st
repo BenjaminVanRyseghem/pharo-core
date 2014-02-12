@@ -29,7 +29,7 @@ buildEditorCommentKeymappingsOn: aBuilder
 	(aBuilder shortcut: #cancel) 
 		category: #NautilusCommentShortcuts
 		default: $l command
-		do: [ :target | target commentTextArea cancel ].
+		do: [ :target | target commentTextArea cancelWithoutConfirmation ].
 		
 	(aBuilder shortcut: #paste) 
 		category: #NautilusCommentShortcuts
