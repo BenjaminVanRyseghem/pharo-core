@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #'Keymapping-Tests'!
-SystemOrganization addCategory: #'Keymapping-Tests-Mocks'!
+SystemOrganization addCategory: 'Keymapping-Tests-Mocks'!

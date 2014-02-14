@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"enclosingMethodOrBlockNode" : "CamilleTeruel 2/14/2014 14:37",
 		"isClean" : "ClementBera 8/5/2013 11:03",
 		"isInlined" : "ClementBera 7/26/2013 15:11",
 		"isInlinedLoop" : "ClementBera 7/26/2013 15:18",

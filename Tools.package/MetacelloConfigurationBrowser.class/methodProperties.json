@@ -2,7 +2,7 @@
 	"class" : {
 		"configurationSearchList" : "CamilloBruni 7/17/2013 22:21",
 		"defaultSpec" : "TorstenBergmann 7/17/2013 13:37",
-		"menuCommandOn:" : "TorstenBergmann 7/4/2013 18:36",
+		"menuCommandOn:" : "TorstenBergmann 2/12/2014 09:34",
 		"open" : "BenjaminVanRyseghem 9/5/2013 14:33",
 		"title" : "tbn 6/20/2013 08:13" },
 	"instance" : {
@@ -15,5 +15,5 @@
 		"initializeWidgets" : "TorstenBergmann 7/4/2013 08:44",
 		"installConfiguration" : "TorstenBergmann 7/3/2013 21:28",
 		"loadConfiguration" : "TorstenBergmann 7/3/2013 21:29",
-		"taskbarIcon" : "tbn 6/19/2013 21:43",
+		"taskbarIcon" : "TorstenBergmann 2/12/2014 09:34",
 		"toolbarModel" : "tbn 6/20/2013 08:14" } }

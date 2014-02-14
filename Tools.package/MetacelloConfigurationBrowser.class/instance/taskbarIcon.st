@@ -1,4 +1,4 @@
 icons
 taskbarIcon
  
-	^ Smalltalk ui icons smallLoadProjectIcon
+	^ Smalltalk ui icons configIcon

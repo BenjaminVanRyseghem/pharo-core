@@ -1,0 +1,1 @@
+SUnit test for importing from PackageInfo

@@ -1,3 +1,3 @@
-*Komitter
+*Komitter-Models
 isRemote
 	^ true

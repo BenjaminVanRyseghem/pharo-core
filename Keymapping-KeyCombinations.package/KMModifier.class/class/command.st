@@ -1,3 +1,3 @@
 instance creation
 command
-	^ self meta
+	^ KMCommandModifier new

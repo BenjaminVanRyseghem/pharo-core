@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 openOn: root extentBlock: extBlock childsBlock: childsBlock
 
 	| scene |

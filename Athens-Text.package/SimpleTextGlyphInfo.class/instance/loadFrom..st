@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 loadFrom: anFT2Face
 	"Same as in superclass, but avoid converting coordinates to not waste CPU cycles"
 	

@@ -1,6 +1,6 @@
 *Komitter-Models
 koRemote
 	
-	^ KomitCacheRemote new
+	^ KomitDirectoryRemote new
 		remote: self;
 		yourself

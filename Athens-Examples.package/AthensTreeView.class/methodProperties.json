@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"example1" : "TorstenBergmann 2/12/2014 22:15",
 		"openOn:extentBlock:childsBlock:" : "IgorStasenko 5/3/2013 23:21" },
 	"instance" : {
 		"buildSubtreeFor:level:" : "IgorStasenko 5/3/2013 22:24",

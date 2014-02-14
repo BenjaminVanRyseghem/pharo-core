@@ -126,7 +126,7 @@
 		"cairo_surface_t",
 		"cairo_t",
 		"cairo_text_extents_t" ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "TorstenBergmann 2/12/2014 22:22",
 	"instvars" : [
 		 ],
 	"name" : "AthensCairoDefs",

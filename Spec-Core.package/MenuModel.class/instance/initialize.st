@@ -4,7 +4,7 @@ initialize
 	super initialize.
 
 	groups := OrderedCollection new asReactiveVariable.
-	title := nil asReactiveVariable.
+	title := 'NoTitle' asReactiveVariable.
 	icon := nil asReactiveVariable.
 	autoRefresh := nil asReactiveVariable.
 	

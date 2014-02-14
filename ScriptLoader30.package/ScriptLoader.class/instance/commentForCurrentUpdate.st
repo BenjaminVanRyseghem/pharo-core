@@ -1,12 +1,12 @@
 public
 commentForCurrentUpdate
- ^ '12845 Make Cmd-L working the cancel without asking to cancel
-	https://pharo.fogbugz.com/f/cases/12845
+ ^ '12508 Really strange error with Komitter on windows
+	https://pharo.fogbugz.com/f/cases/12508
 
-12856 Class comments missing in package Graphics-Display Objects
-	https://pharo.fogbugz.com/f/cases/12856
+12875 Still some problems with #sourceNode
+	https://pharo.fogbugz.com/f/cases/12875
 
-12848 The filtering on top of packages is broken
-	https://pharo.fogbugz.com/f/cases/12848
+12884 Cannot add a class to a dynamic group with drag and drop
+	https://pharo.fogbugz.com/f/cases/12884
 
 '

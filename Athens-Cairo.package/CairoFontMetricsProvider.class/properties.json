@@ -5,7 +5,7 @@
 	"classtraitcomposition" : "TCairoLibrary classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/12/2014 22:22",
 	"instvars" : [
 		"font",
 		"utfConverter",
