@@ -1,7 +1,7 @@
 tests
 testEntryAt
 	| path1 path2 entry1 entry2  |
-	Transcript show: $. ; flush.
+
 	path1 := Path * 'plonk1'.
 	path2 := Path * 'plonk2'.
 	self markForCleanup: path1.
@@ -19,6 +19,5 @@ testEntryAt
 	self assert: entry1 reference = (filesystem referenceTo: path1) asAbsolute.
 	self assert: entry2 reference = (filesystem referenceTo: path2) asAbsolute.
 
-Transcript crShow: entry1 creationTime printString , '   ', entry2 creationTime printString.
 	self assert: entry1 creationTime < entry2 creationTime.
 	self assert: entry1 modificationTime < entry2 modificationTime.
