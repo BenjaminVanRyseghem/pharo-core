@@ -1,3 +1,3 @@
 package filter
 packagePattern
-	^ packagePattern ifNil: [ '.*' asRegexIgnoringCase ]
+	^ packagePattern ifNil: [ nil ]

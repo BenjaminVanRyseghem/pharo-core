@@ -1,6 +1,6 @@
 package filter
 packageSearchUpdate: aPattern
 	packagePattern := (aPattern isNil or: [ aPattern trimBoth isEmpty ])
-		ifTrue: [ '.*' asRegexIgnoringCase ]
+		ifTrue: [ nil ]
 		ifFalse: [ self ensureSafePackagePattern: aPattern ].
 	self updatePackages

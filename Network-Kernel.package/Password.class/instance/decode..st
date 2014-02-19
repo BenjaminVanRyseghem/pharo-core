@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 decode: string
 	"Xor with secret number -- just so file won't have raw password in it"
 	| kk rand |

@@ -4,7 +4,8 @@
 		"initializeDefaultFromMC" : "EstebanLorenzano 11/27/2013 11:02" },
 	"instance" : {
 		"allManagers" : "StephaneDucasse 6/2/2012 19:39",
-		"initializeFromMC" : "EstebanLorenzano 10/8/2013 18:40",
+		"basicInitializeFromMC" : "EstebanLorenzano 2/18/2014 15:06",
+		"initializeFromMC" : "EstebanLorenzano 2/18/2014 15:06",
 		"initializeFromMCExtensionsFor:protocol:" : "EstebanLorenzano 10/16/2013 12:49",
 		"initializeFromMCFor:" : "EstebanLorenzano 10/16/2013 15:58",
 		"initializeFromMCMethodsFor:" : "EstebanLorenzano 10/16/2013 12:48",

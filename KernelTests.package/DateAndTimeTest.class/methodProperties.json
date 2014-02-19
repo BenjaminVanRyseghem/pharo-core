@@ -28,6 +28,7 @@
 		"testPrintStringNoOffset" : "GuillermoPolito 4/30/2012 11:50",
 		"testPrintStringSecond" : "pavel.krivanek 9/9/2010 18:05",
 		"testReadFrom" : "CamilloBruni 7/13/2012 19:56",
+		"testReadFromDateOnly" : "SvenVanCaekenberghe 2/19/2014 19:40",
 		"testReadFromFoolProofExtension" : "StephaneDucasse 4/24/2010 11:58",
 		"testReadFromNoOffset" : "SeanDeNigris 8/5/2010 15:50",
 		"testReadFromOffset" : "StephaneDucasse 4/24/2010 12:05",
