@@ -1,8 +1,14 @@
 menus behavior
 toggleBreakPoint
-	
+	| savedSelectedMethodIndex savedVscroll |
+
 	self selectedMethod 
-		ifNotNil: [:meth | 
+		ifNotNil: [ :meth | 
+			savedSelectedMethodIndex := methodWidget selectedMethodIndex.
+			savedVscroll := methodWidget vScrollValue.
 			self toggleBreakOnEntryIn: meth.
-			self update ].
+			self update.
+			methodWidget selectedMethodIndex: savedSelectedMethodIndex.
+			savedVscroll := methodWidget vScrollValue: savedVscroll.
+			 ].
 		

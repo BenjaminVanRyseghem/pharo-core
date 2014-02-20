@@ -8,7 +8,7 @@
 	"classvars" : [
 		"Order",
 		"ShowOnlyRepositoriesFromWorkingCopy" ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:53",
 	"instvars" : [
 		"workingCopy",
 		"workingCopyWrapper",

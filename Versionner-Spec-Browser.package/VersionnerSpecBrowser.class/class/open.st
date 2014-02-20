@@ -1,5 +1,5 @@
 ui
 open
 	|windows|
-	windows := self openOn: (MBConfigurationRoot current configurations).
+	windows := self openOn: self imageConfigurations.
 	^ windows.

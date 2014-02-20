@@ -21,7 +21,7 @@
 		"testVariableByteClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:26",
 		"testVariableByteClassWithTraitCreatedShouldntAnnounceClassModified" : "MartinDias 1/31/2014 16:20",
 		"testVariableClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:25",
-		"testVariableClassWithTraitCreatedShouldntAnnounceClassModified" : "MartinDias 1/31/2014 16:20",
+		"testVariableClassWithTraitCreatedShouldntAnnounceClassModified" : "PabloHerrero 2/20/2014 13:04",
 		"testVariableWordClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:26",
 		"testVariableWordClassWithTraitCreatedShouldntAnnounceClassModified" : "MartinDias 1/31/2014 16:20",
 		"testWeakClassWhenTraitCompositionChangedShouldAnnounceClassModified" : "MartinDias 1/31/2014 16:26",

@@ -2,9 +2,10 @@
 	"category" : "CollectionsTests-Stack",
 	"classinstvars" : [
 		"testSize" ],
+	"classtraitcomposition" : "TEmptyTest classTrait + TCloneTest classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:31",
 	"instvars" : [
 		"empty",
 		"nonEmpty" ],

@@ -18,5 +18,5 @@
 		"testRemoveInstVarNamedWithTrait2" : "MartinDias 8/7/2013 11:24",
 		"testReshapeClassPropagatesToDeepHierarchyClassInterface" : "MartinDias 8/7/2013 11:24",
 		"testReshapeClassWithClassSlot" : "MartinDias 8/7/2013 14:05",
-		"testReshapeCompactClass" : "MartinDias 8/7/2013 15:48",
+		"testReshapeCompactClass" : "BenComan 2/15/2014 22:04",
 		"testSmallIntegerLayout" : "MartinDias 8/7/2013 11:24" } }

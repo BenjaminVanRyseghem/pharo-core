@@ -1,4 +1,4 @@
 accessing
 icon
-	"^  Smalltalk ui icons iconNamed: #projectIcon"
-	^ VersionnerSpecBrowser configurationIcon
+	 
+	^ VersionnerSpecBrowser configurationLoadedIcon

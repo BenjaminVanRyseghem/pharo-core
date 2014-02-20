@@ -1,6 +1,6 @@
 {
 	"category" : "CollectionsTests-Abstract",
 	"classtraitcomposition" : "TPrintTest classTrait",
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:35",
 	"name" : "TPrintOnSequencedTest",
 	"traitcomposition" : "TPrintTest" }

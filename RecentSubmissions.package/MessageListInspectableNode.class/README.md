@@ -1,0 +1,1 @@
+Node model for inspectable nodes

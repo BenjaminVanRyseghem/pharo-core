@@ -1,0 +1,1 @@
+An exception occured while connection using FTP

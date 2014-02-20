@@ -1,6 +1,6 @@
 {
 	"category" : "CollectionsTests-Abstract",
 	"classtraitcomposition" : "TRemoveTest classTrait",
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:35",
 	"name" : "TRemoveForMultiplenessTest",
 	"traitcomposition" : "TRemoveTest" }

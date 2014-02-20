@@ -1,27 +1,18 @@
 public
 commentForCurrentUpdate
- ^ '12925 MorphTreeNodeModel speedup
-	https://pharo.fogbugz.com/f/cases/12925
+ ^ '12924 PluggableTextMorph does not notify changes when pasting/cutting text
+	https://pharo.fogbugz.com/f/cases/12924
 
-12923 DateAndTime gets into infinite loop when a time is missing
-	https://pharo.fogbugz.com/f/cases/12923
+12949 Class comments missing in Morphic-Core package
+	https://pharo.fogbugz.com/f/cases/12949
 
-12815 Class comments missing for Network package
-	https://pharo.fogbugz.com/f/cases/12815
+12944 Class comments missing for DebuggerModel package
+	https://pharo.fogbugz.com/f/cases/12944
 
-12927 Speed up Slider and ScrollBar by reusing submorphs
-	https://pharo.fogbugz.com/f/cases/12927
+12930 Sliders / ScrollBars in inspectors have black borders
+	https://pharo.fogbugz.com/f/cases/12930
 
-12891 Inspector menu histroy back/forward shows "a KeyCombinationChoice" keyboard shortcut
-	https://pharo.fogbugz.com/f/cases/12891
-
-12929 Reduce default filtering overhead in TreeNautilus
-	https://pharo.fogbugz.com/f/cases/12929
-
-12922 Newly opened full Debugger has no selection set when opened directly
-	https://pharo.fogbugz.com/f/cases/12922
-
-12888 NoTitle menu title in inspector context menu
-	https://pharo.fogbugz.com/f/cases/12888
+12946 HDTestReport cannot write error with UTF-8 text
+	https://pharo.fogbugz.com/f/cases/12946
 
 '

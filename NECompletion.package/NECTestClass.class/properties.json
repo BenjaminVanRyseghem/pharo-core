@@ -21,7 +21,8 @@
 		"constantString",
 		"constantNil",
 		"globalVarKeyword",
-		"globalVarKeyword2" ],
+		"globalVarKeyword2",
+		"constantLargeInteger" ],
 	"name" : "NECTestClass",
 	"pools" : [
 		 ],

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"check:" : "BenComan 2/15/2014 22:02",
+		"disable" : "BenComan 2/15/2014 22:01",
+		"disableForTesting" : "BenComan 2/15/2014 22:01",
+		"enable" : "BenComan 2/15/2014 22:01",
+		"enabled" : "BenComan 2/19/2014 01:36",
+		"initialize" : "BenComan 2/18/2014 01:19",
+		"restoreAfterTesting" : "BenComan 2/15/2014 22:01",
+		"shouldNotBeRedefined:" : "BenComan 2/15/2014 22:02",
+		"tooDangerousClasses" : "BenComan 2/19/2014 01:38" },
+	"instance" : {
+		 } }

@@ -1,6 +1,6 @@
 {
 	"category" : "CollectionsTests-Abstract",
 	"classtraitcomposition" : "TIncludesTest classTrait",
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:34",
 	"name" : "TIncludesWithIdentityCheckTest",
 	"traitcomposition" : "TIncludesTest" }

@@ -8,7 +8,7 @@ variableSubclass: aName uses: aTraitComposition instanceVariableNames: someInsta
 		uses: aTraitComposition
 		with: [ 
 			self
-				variableByteSubclass: aName
+				variableSubclass: aName
 				instanceVariableNames: someInstanceVariableNames
 				classVariableNames: someClassVariableNames
 				poolDictionaries: someSharedPoolNames

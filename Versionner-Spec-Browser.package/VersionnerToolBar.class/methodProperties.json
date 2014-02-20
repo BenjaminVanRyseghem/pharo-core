@@ -1,9 +1,13 @@
 {
 	"class" : {
-		"defaultSpec" : "ChristopheDemarey 8/23/2013 16:49" },
+		"defaultSpec" : "ChristopheDemarey 2/14/2014 10:29",
+		"loadIcon" : "ChristopheDemarey 2/14/2014 10:46",
+		"newIcon" : "ChristopheDemarey 2/14/2014 10:46",
+		"openIcon" : "ChristopheDemarey 2/14/2014 10:34" },
 	"instance" : {
-		"initializePresenter" : "ChristopheDemarey 9/18/2013 11:14",
-		"initializeWidgets" : "ChristopheDemarey 8/23/2013 16:43",
+		"initializePresenter" : "ChristopheDemarey 2/14/2014 10:30",
+		"initializeWidgets" : "ChristopheDemarey 2/14/2014 10:44",
 		"loadButton" : "ChristopheDemarey 7/11/2013 13:32",
 		"newButton" : "ChristopheDemarey 7/11/2013 13:32",
-		"newConfiguration" : "ChristopheDemarey 2/7/2014 10:28" } }
+		"newConfiguration" : "ChristopheDemarey 2/7/2014 10:28",
+		"openButton" : "ChristopheDemarey 2/14/2014 10:26" } }

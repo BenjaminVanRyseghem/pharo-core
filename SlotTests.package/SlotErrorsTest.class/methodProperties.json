@@ -10,6 +10,8 @@
 		"testClassNameWithInvalidCharacter" : "MartinDias 8/7/2013 11:27",
 		"testClassSlotDuplicationConflict" : "MartinDias 8/7/2013 11:28",
 		"testClassSlotWithReservedName" : "MartinDias 8/7/2013 11:27",
+		"testDangerousClassesConditions" : "BenComan 2/15/2014 22:03",
+		"testDangerousClassesEnabling" : "BenComan 2/15/2014 22:02",
 		"testDirectCircularHierarchyError" : "MartinDias 8/7/2013 11:28",
 		"testIndirectCircularHierarchyError" : "MartinDias 8/7/2013 11:27",
 		"testSlotDuplicationConflict" : "MartinDias 8/7/2013 11:28",

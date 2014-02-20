@@ -2,5 +2,7 @@ specs
 defaultSpec
 	<spec>
 	
-	^ #(MenuMorph
-		addIfNeededTitle:andIcon: #(model title) #(model icon))
+	^ {#ToolDockingBarMorph.
+		#hResizing:. #spaceFill.
+		#vResizing:. #spaceFill.
+		#borderColor:. Color transparent}

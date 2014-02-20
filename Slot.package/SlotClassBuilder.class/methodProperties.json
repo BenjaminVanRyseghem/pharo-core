@@ -28,7 +28,7 @@
 		"layoutClass" : "CamilleTeruel 1/17/2014 11:53",
 		"layoutClass:" : "ToonVerwaest 3/28/2011 00:29",
 		"migrateClasses:" : "MartinDias 1/28/2014 15:10",
-		"name:" : "MartinDias 7/24/2013 13:48",
+		"name:" : "BenComan 2/19/2014 01:32",
 		"sharedPools:" : "MartinDias 8/7/2012 02:12",
 		"sharedVariables:" : "MartinDias 8/7/2012 02:29",
 		"slots:" : "ToonVerwaest 3/28/2011 00:29",
@@ -38,4 +38,5 @@
 		"traitComposition:" : "ToonVerwaest 3/31/2011 20:09",
 		"validateClassName" : "GabrielOmarCotelli 12/4/2013 09:42",
 		"validateSuperChain:" : "MartinDias 7/25/2013 14:15",
-		"validateSuperclass:" : "MartinDias 7/25/2013 14:17" } }
+		"validateSuperclass:" : "MartinDias 7/25/2013 14:17",
+		"warnOfDangerousClasses" : "BenComan 2/19/2014 01:31" } }

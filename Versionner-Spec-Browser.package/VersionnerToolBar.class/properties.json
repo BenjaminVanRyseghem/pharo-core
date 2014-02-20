@@ -8,8 +8,7 @@
 	"instvars" : [
 		"newButton",
 		"loadButton",
-		"commitConfigButton",
-		"commitProjectButton" ],
+		"openButton" ],
 	"name" : "VersionnerToolBar",
 	"pools" : [
 		 ],
