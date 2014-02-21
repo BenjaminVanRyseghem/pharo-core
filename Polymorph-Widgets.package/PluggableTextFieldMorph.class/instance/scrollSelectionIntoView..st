@@ -4,7 +4,7 @@ scrollSelectionIntoView: event
 	Redone here to deal with horizontal scrolling!"
 	
 	| selRects delta selRect rectToTest transform cpHere |
-	selectionInterval := textMorph editor selectionInterval.
+	self selectionInterval: textMorph editor selectionInterval.
 	selRects := textMorph paragraph selectionRects.
 	selRects isEmpty ifTrue: [^ false].
 	rectToTest := selRects first merge: selRects last.
