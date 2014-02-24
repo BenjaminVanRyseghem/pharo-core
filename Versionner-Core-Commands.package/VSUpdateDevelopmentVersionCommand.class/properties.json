@@ -10,5 +10,5 @@
 	"name" : "VSUpdateDevelopmentVersionCommand",
 	"pools" : [
 		 ],
-	"super" : "VSDevCycleCommands",
+	"super" : "VSDevCycleCommand",
 	"type" : "normal" }

@@ -1,9 +1,21 @@
 public
 commentForCurrentUpdate
- ^ '12144 TextModel>>getSelection
-	https://pharo.fogbugz.com/f/cases/12144
+ ^ '12835 NBExternalArray ofType: bool is wrong
+	https://pharo.fogbugz.com/f/cases/12835
 
-12936 SUnit-UITesting package should be cleaned up
-	https://pharo.fogbugz.com/f/cases/12936
+12955 Wrong name on protocol addition in Nautilus
+	https://pharo.fogbugz.com/f/cases/12955
+	
+	12958 Integrate Versionner 2.4
+	https://pharo.fogbugz.com/f/cases/12958
+	
+12953 Display sub project loads directives
+	https://pharo.fogbugz.com/f/cases/12953
+	
+12932 Versionner: Filter Test Configurations - Still does not work
+	https://pharo.fogbugz.com/f/cases/12932
+	
+12903 Versionner rewrite of baseline renames project labels and strips off sub project load
+	https://pharo.fogbugz.com/f/cases/12903
 
 '

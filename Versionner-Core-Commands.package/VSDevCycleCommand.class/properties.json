@@ -7,7 +7,7 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
-	"name" : "VSDevCycleCommands",
+	"name" : "VSDevCycleCommand",
 	"pools" : [
 		 ],
 	"super" : "VSCommand",

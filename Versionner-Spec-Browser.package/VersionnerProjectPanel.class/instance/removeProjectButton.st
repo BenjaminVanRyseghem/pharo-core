@@ -1,3 +1,3 @@
-accessing
+accessing-ui
 removeProjectButton
 	^ removeProjectButton

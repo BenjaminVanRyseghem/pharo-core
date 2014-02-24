@@ -1,4 +1,3 @@
 accessing
 children
-	^ [ #() ]
-	"item dependencies collect: [ :each | '--> loads: ' , each]"
+	^ [ self content dependencies collect: [ :each | 'loads: ' , each] ]

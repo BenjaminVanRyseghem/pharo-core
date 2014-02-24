@@ -1,4 +1,4 @@
 displaying
-repositories: aRepositoryArray
+repositories: aRepositoryList
 	"Set a list of repository URLs for this project."
-	repositories := aRepositoryArray.
+	repositories := aRepositoryList asOrderedCollection.

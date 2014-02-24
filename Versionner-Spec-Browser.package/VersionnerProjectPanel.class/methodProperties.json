@@ -1,17 +1,20 @@
 {
 	"class" : {
-		"defaultSpec" : "ChristopheDemarey 7/23/2013 23:25" },
+		"defaultSpec" : "ChristopheDemarey 2/21/2014 18:04" },
 	"instance" : {
 		"addDependentProject" : "ChristopheDemarey 7/24/2013 23:36",
 		"addGroup" : "ChristopheDemarey 6/26/2013 17:00",
 		"addGroupButton" : "ChristopheDemarey 6/25/2013 17:45",
 		"addProjectButton" : "ChristopheDemarey 7/23/2013 23:24",
+		"addProjectLoadDirective" : "ChristopheDemarey 2/21/2014 18:16",
 		"config:" : "ChristopheDemarey 7/18/2013 18:43",
+		"editProjectButton" : "ChristopheDemarey 2/21/2014 17:59",
+		"editSelectedProjectLoads" : "ChristopheDemarey 2/21/2014 18:17",
 		"groupList" : "ChristopheDemarey 2/14/2013 16:33",
 		"groupsLabel" : "ChristopheDemarey 8/13/2012 12:08",
 		"initializeGroupsWidget" : "ChristopheDemarey 2/7/2014 15:13",
-		"initializePresenter" : "ChristopheDemarey 1/17/2014 18:58",
-		"initializeProjectsWidget" : "ChristopheDemarey 2/7/2014 15:13",
+		"initializePresenter" : "ChristopheDemarey 2/21/2014 18:04",
+		"initializeProjectsWidget" : "ChristopheDemarey 2/21/2014 18:01",
 		"initializeWidgets" : "ChristopheDemarey 1/17/2014 19:23",
 		"packagesPanel" : "TesterBob 10/4/2012 15:58",
 		"project" : "ChristopheDemarey 12/20/2012 17:55",

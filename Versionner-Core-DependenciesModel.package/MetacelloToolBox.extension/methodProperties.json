@@ -1,0 +1,5 @@
+{
+	"class" : {
+		"createBaseline:for:repository:requiredProjects:packages:repositories:dependencies:groups:requiredProjectSpecs:" : "ChristopheDemarey 2/21/2014 15:58" },
+	"instance" : {
+		"addSection:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:requiredProjectSpecs:" : "ChristopheDemarey 2/21/2014 16:01" } }

@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 executeWithDevWorkflow: aCommandClass
 	browser projectPanel project
 		ifNotNilDo: [ :project | | cmd |

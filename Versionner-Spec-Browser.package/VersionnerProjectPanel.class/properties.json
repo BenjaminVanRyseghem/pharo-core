@@ -16,7 +16,8 @@
 		"addGroupButton",
 		"removeGroupButton",
 		"addProjectButton",
-		"removeProjectButton" ],
+		"removeProjectButton",
+		"editProjectButton" ],
 	"name" : "VersionnerProjectPanel",
 	"pools" : [
 		 ],
