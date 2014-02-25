@@ -1,7 +1,11 @@
 private registration
 unregisterExtendingPackage: aPackage forClass: aClass
+	| extendingPackageForClass |
 	
-	| cur |
-	cur := classExtendingPackagesMapping at: aClass theNonMetaClass name ifAbsent: [nil].
-	cur isNil
-		ifFalse: [cur remove: aPackage ifAbsent: [] "not happy with this one"]
+	extendingPackageForClass := classExtendingPackagesMapping 
+		at: aClass theNonMetaClass name 
+		ifAbsent: [ nil ].
+	extendingPackageForClass ifNotNil: [ 
+		extendingPackageForClass 
+			remove: aPackage 
+			ifAbsent: [] "not happy with this one" ]

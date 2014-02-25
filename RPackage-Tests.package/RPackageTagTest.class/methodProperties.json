@@ -2,6 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"tearDown" : "EstebanLorenzano 1/24/2014 18:10",
+		"tearDown" : "EstebanLorenzano 2/22/2014 11:05",
 		"testAddClass" : "EstebanLorenzano 1/24/2014 18:12",
-		"testAddClassFromTag" : "EstebanLorenzano 1/24/2014 18:14" } }
+		"testAddClassFromTag" : "EstebanLorenzano 1/24/2014 18:14",
+		"testAsRPackage" : "GuillermoPolito 2/14/2014 13:09",
+		"testAsRPackageWithExtensionMethods" : "GuillermoPolito 2/14/2014 14:17",
+		"testPromoteAsRPackage" : "EstebanLorenzano 2/22/2014 12:04",
+		"testPromoteAsRPackageWithExtension" : "EstebanLorenzano 2/25/2014 13:49" } }

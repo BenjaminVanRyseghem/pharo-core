@@ -5,6 +5,7 @@
 	"instance" : {
 		"addClass:" : "ThierryGoubier 1/25/2014 21:22",
 		"addClassNamed:" : "EstebanLorenzano 1/16/2014 11:08",
+		"asRPackage" : "EstebanLorenzano 2/14/2014 15:29",
 		"basicRenameTo:" : "EstebanLorenzano 10/16/2013 15:36",
 		"categoryName" : "EstebanLorenzano 12/12/2013 17:34",
 		"classNames" : "EstebanLorenzano 10/10/2013 14:11",
@@ -27,6 +28,7 @@
 		"package" : "EstebanLorenzano 10/10/2013 16:06",
 		"packageName" : "EstebanLorenzano 10/16/2013 15:08",
 		"printOn:" : "EstebanLorenzano 10/10/2013 14:35",
+		"promoteAsRPackage" : "EstebanLorenzano 2/22/2014 12:13",
 		"removeClass:" : "EstebanLorenzano 10/10/2013 14:11",
 		"removeClassNamed:" : "EstebanLorenzano 10/10/2013 14:11",
 		"removeFromPackage" : "EstebanLorenzano 12/18/2013 17:06",

@@ -15,4 +15,4 @@ HowToDebug compile:
 classified: ''tutorial''.
 
 
-ProfStef next.'.
+PharoTutorial next.'.

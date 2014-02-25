@@ -1,0 +1,15 @@
+{
+	"category" : "ProfStef-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Instance" ],
+	"commentStamp" : "CamilloBruni 2/22/2014 19:02",
+	"instvars" : [
+		"lessonView",
+		"player" ],
+	"name" : "PharoTutorial",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

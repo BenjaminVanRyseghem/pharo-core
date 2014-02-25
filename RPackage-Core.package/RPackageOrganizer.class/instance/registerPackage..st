@@ -9,5 +9,7 @@ registerPackage: aPackage
 		do: [ :extendedClass | self registerExtendingPackage: aPackage forClass: extendedClass].
 	aPackage definedClasses 
 		do: [ :definedClass | self registerPackage: aPackage forClass: definedClass].
+		
 	self announcer announce: (RPackageCreated to: aPackage).
+	
 	^ aPackage

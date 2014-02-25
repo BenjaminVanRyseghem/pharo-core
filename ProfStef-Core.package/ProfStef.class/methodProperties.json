@@ -1,30 +1,5 @@
 {
 	"class" : {
-		"default" : "LaurentLaffont 1/21/2010 17:15",
-		"first" : "DannyChan 2/9/2010 19:30",
-		"go" : "LaurentLaffont 9/18/2011 20:01",
-		"goOn:" : "LaurentLaffont 9/18/2011 20:01",
-		"last" : "DannyChan 2/9/2010 19:30",
-		"next" : "tg 2/1/2010 16:01",
-		"previous" : "tg 2/1/2010 16:01",
-		"reset" : "LaurentLaffont 9/18/2011 20:13",
-		"tutorial:lesson:" : "DannyChan 2/1/2010 19:23",
-		"tutorial:lessonAt:" : "DannyChan 2/1/2010 19:23" },
+		 },
 	"instance" : {
-		"close" : "LaurentLaffont 1/21/2010 21:05",
-		"first" : "DannyChan 2/9/2010 19:28",
-		"go" : "tg 2/1/2010 16:02",
-		"goOn:" : "tg 2/1/2010 16:02",
-		"last" : "DannyChan 2/9/2010 19:28",
-		"lessonView" : "DannyChan 2/2/2010 19:39",
-		"lessonView:" : "DannyChan 2/2/2010 19:16",
-		"next" : "tg 2/1/2010 16:02",
-		"open" : "tg 2/1/2010 16:02",
-		"player" : "LaurentLaffont 1/21/2010 20:38",
-		"player:" : "LaurentLaffont 1/21/2010 20:39",
-		"previous" : "tg 2/1/2010 16:02",
-		"showCurrentLesson" : "EstebanLorenzano 7/31/2013 11:10",
-		"tutorial:lesson:" : "DannyChan 2/1/2010 21:23",
-		"tutorial:lessonAt:" : "DannyChan 2/1/2010 19:23",
-		"tutorialPositionString" : "LaurentLaffont 1/21/2010 20:37",
-		"tutorialSizeString" : "LaurentLaffont 1/21/2010 20:38" } }
+		 } }

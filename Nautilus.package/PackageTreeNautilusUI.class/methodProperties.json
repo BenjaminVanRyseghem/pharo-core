@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"packagesFixMenu:" : "EstebanLorenzano 10/15/2013 18:37" },
+		"packagesFixMenu:" : "EstebanLorenzano 2/19/2014 16:44" },
 	"instance" : {
 		"addClassCategory" : "EstebanLorenzano 10/15/2013 18:24",
-		"addClassCategoryBasedOn:" : "EstebanLorenzano 2/7/2014 16:14",
+		"addClassCategoryBasedOn:" : "EstebanLorenzano 2/21/2014 13:07",
 		"addClassIn:" : "EstebanLorenzano 12/12/2013 21:37",
-		"addPackageBasedOn:" : "EstebanLorenzano 2/7/2014 16:22",
+		"addPackageBasedOn:" : "EstebanLorenzano 2/21/2014 13:07",
 		"addPackagesAsGroup:" : "EstebanLorenzano 10/10/2013 13:19",
 		"addTraitIn:" : "EstebanLorenzano 12/12/2013 21:37",
 		"alertCategoryName:exitstsAlreadyIn:" : "NicolaiHess 2/2/2014 20:39",
@@ -45,7 +45,7 @@
 		"registerSelectionPackage:" : "EstebanLorenzano 10/14/2013 12:54",
 		"removeClassCategory:" : "EstebanLorenzano 12/18/2013 17:08",
 		"removeGroups" : "EstebanLorenzano 10/10/2013 13:34",
-		"removePackageCategory:" : "EstebanLorenzano 10/16/2013 17:00",
+		"removePackageCategory:" : "EstebanLorenzano 2/21/2014 12:33",
 		"removePackages" : "TommasoDalSasso 12/20/2013 12:30",
 		"renameCategory" : "EstebanLorenzano 11/29/2013 16:11",
 		"renameClassCategory:" : "NicolaiHess 2/2/2014 20:36",

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"tearDown" : "CamilloBruni 2/22/2014 18:42",
+		"testGoOnMockTutorial" : "CamilloBruni 2/22/2014 18:42",
+		"testGoOpenSmalltalkSyntaxTutorial" : "CamilloBruni 2/22/2014 18:48",
+		"testGoTwiceShowLessonViewIfNotVisible" : "CamilloBruni 2/22/2014 18:48",
+		"testGoTwiceUseSameLessonView" : "CamilloBruni 2/22/2014 18:48" } }

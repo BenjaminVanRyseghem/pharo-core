@@ -5,8 +5,9 @@
 		"showIcons" : "AlainPlantec 12/6/2009 22:12",
 		"showIcons:" : "AlainPlantec 12/6/2009 22:13" },
 	"instance" : {
+		"addTo:fromMenuModelOf:" : "NicolaiHess 2/23/2014 10:53",
 		"buildMenuForNoSelection:" : "IgorStasenko 8/28/2013 11:23",
-		"buildMenuForSelection:" : "IgorStasenko 8/28/2013 12:11",
+		"buildMenuForSelection:" : "NicolaiHess 2/23/2014 10:53",
 		"codePaneMenu:shifted:" : "RAA 9/23/1999 13:22",
 		"contentsSelection" : "RAA 9/23/1999 13:11",
 		"defsOfSelection" : "sd 11/20/2005 21:27",

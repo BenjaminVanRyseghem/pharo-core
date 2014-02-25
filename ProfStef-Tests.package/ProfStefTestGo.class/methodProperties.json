@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"tearDown" : "LaurentLaffont 1/21/2010 20:53",
-		"testGoOnMockTutorial" : "LaurentLaffont 1/21/2010 21:08",
-		"testGoOpenSmalltalkSyntaxTutorial" : "LaurentLaffont 1/21/2010 21:06",
-		"testGoTwiceShowLessonViewIfNotVisible" : "LaurentLaffont 9/18/2011 20:10",
-		"testGoTwiceUseSameLessonView" : "LaurentLaffont 9/18/2011 20:00" } }

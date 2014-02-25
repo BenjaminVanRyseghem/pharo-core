@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "CamilloBruni 2/22/2014 18:42",
+		"tearDown" : "CamilloBruni 2/22/2014 18:42",
+		"testFirstLessonShouldBeDisplayed" : "CamilloBruni 2/22/2014 18:42",
+		"testLastShouldGoToThirdLesson" : "CamilloBruni 2/22/2014 18:42",
+		"testLastThenFirstShouldGoToFirstLesson" : "CamilloBruni 2/22/2014 18:42",
+		"testLastThenPreviousShouldGoToSecondLesson" : "CamilloBruni 2/22/2014 18:42",
+		"testNextShouldGoToSecondLesson" : "CamilloBruni 2/22/2014 18:42" } }

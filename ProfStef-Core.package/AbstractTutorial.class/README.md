@@ -1,10 +1,10 @@
-Parent class of all ProfStef tutorials.
+Parent class of all Pharo tutorials.
 
 To create your own tutorial:
 - subclass AbstractTutorial
 - implement a few methods which returns a Lesson instance
 - implement tutorial which returns a Collection of selectors to the methods you've created.
 
-For example, see MockTutorial (minimalist) and SmalltalkSyntaxTutorial (default ProfStef one).
+For example, see MockTutorial (minimalist) and PharoySntaxTutorial (default PharoTutorial one).
 
-See ProfStef comment to execute your own tutorial.
+See the PharoTutorial class comment to execute your own tutorial.
