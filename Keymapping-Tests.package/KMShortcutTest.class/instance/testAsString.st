@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testAsString
 	self assert: $a ctrl asString = 'Ctrl + A'.
 	self assert: $b command asString = 'Cmd + B'.

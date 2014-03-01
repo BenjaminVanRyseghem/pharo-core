@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testSimpleChainMatches
 	|e eCtrl |
 	e := self eventKey: $e.

@@ -2,7 +2,7 @@ tests
 testIsDirty
 	"This test is likely to be bogus ... cannot just create a package for packages that don'e exist. see Metacello Issue 113"
 	
-	| workingCopy cls |
+	| cls |
 	self deny: (package isDirty).
 	self assert: (package printString =  'FooBarZork ---').
 	

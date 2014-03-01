@@ -1,14 +1,16 @@
 {
 	"class" : {
-		"defaultSpec" : "ChristopheDemarey 7/25/2013 08:58" },
+		"defaultSpec" : "ChristopheDemarey 2/28/2014 15:48" },
 	"instance" : {
 		"addPackage" : "ChristopheDemarey 12/10/2013 13:15",
 		"addPackageButton" : "TesterBob 10/4/2012 15:45",
 		"addPackageRequirement" : "ChristopheDemarey 9/10/2013 17:28",
 		"editPackageButton" : "TesterBob 10/4/2012 15:45",
-		"editSelectedPackageRequirements" : "ChristopheDemarey 12/3/2013 16:41",
-		"initializePresenter" : "ChristopheDemarey 9/10/2013 00:48",
-		"initializeWidgets" : "ChristopheDemarey 12/6/2013 15:54",
+		"editSelectedPackageRequirements" : "ChristopheDemarey 2/28/2014 16:02",
+		"initializePresenter" : "ChristopheDemarey 2/28/2014 15:47",
+		"initializeWidgets" : "ChristopheDemarey 2/28/2014 15:48",
+		"isPackage:" : "ChristopheDemarey 2/28/2014 15:57",
+		"packageBoundToSelection" : "ChristopheDemarey 2/28/2014 16:05",
 		"packageChangesButton" : "TesterBob 10/4/2012 15:45",
 		"packageChangesButton:" : "TesterBob 10/4/2012 15:45",
 		"packages" : "ChristopheDemarey 7/18/2013 18:46",

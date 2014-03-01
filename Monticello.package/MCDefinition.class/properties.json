@@ -3,7 +3,8 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"Instances" ],
+		"Instances",
+		"InstancesWriteLock" ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],

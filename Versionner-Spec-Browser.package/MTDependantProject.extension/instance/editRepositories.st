@@ -1,4 +1,4 @@
-editing
+*Versionner-Spec-Browser
 editRepositories
 	| packageName repoManager |
 	

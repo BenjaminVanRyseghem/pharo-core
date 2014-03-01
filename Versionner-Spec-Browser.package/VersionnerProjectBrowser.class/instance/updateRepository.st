@@ -1,14 +1,20 @@
 actions
 updateRepository
 	"Update the core repository of this project"
-	| packageName repoManager |
+	| package repoManager |
 	
 	project ifNotNil: [ 
-		packageName := project configurationClass package name.
+		package := project configurationClass package correspondingMcPackage.
 		repoManager := VersionnerRepositoriesManager new.
 		repoManager
 			selectedChangedBlock:  [:remote :selected |
 				selected
-					ifTrue: [ repository accept: remote location ] ];
+					ifTrue: [ | repositoryGroup | 
+							repositoryGroup := package workingCopy repositoryGroup.
+							repositoryGroup repositoriesDo: [ :aRepository | 
+									(aRepository location = repository text) 
+										ifTrue: [ repositoryGroup removeRepository: aRepository ] ].
+							repository accept: remote location.
+							repositoryGroup addRepository: remote ] ];
 			open;
 			yourself  ]

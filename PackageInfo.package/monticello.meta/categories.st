@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #PackageInfo!
-SystemOrganization addCategory: #'PackageInfo-Base'!
+SystemOrganization addCategory: 'PackageInfo-Base'!

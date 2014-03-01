@@ -4,7 +4,7 @@ editSelectedPackageRequirements
 	
 	| selectedPackage editionWidget |
 
-	selectedPackage := packagesList selectedItem content.
+	selectedPackage := self packageBoundToSelection.
 	selectedPackage ifNil: [ ^self ].
 	editionWidget := (EditableList new: selectedPackage dependencies) 
 		title: selectedPackage name , ' requirements';

@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"eventCode" : "BenComan 2/23/2014 01:29",
 		"initialize" : "CamilloBruni 3/20/2011 23:55",
 		"matchesEvent:" : "GuillermoPolito 10/20/2011 15:50",
 		"symbol" : "CamilloBruni 9/15/2013 20:33" } }

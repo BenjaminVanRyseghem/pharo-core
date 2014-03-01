@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testCreation
 	self assert: ($e asKeyCombination isKindOf: KMSingleKeyCombination).
 	self assert: ($e ctrl isKindOf: KMModifiedKeyCombination).

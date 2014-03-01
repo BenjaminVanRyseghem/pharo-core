@@ -2,12 +2,10 @@ initialization
 initializePresenter
 	"Initialize widgets behavior"
 
-	packagesList whenSelectedItemsChanged: [:selection |
-		removePackageButton enabled: selection notEmpty.
+	packagesList whenSelectedNodesChanged: [:selection |
+		removePackageButton enabled: (self isPackage: selection).
 		editPackageButton enabled: selection notEmpty ].
 		
-	packageChangesButton action: [ "(MCVersionInspector new version: packages selectedItem workingCopy ) show" ] .
-	
 	addPackageButton action: [ self addPackage ].
 	removePackageButton action: [ self removeSelectedPackage ].
 	editPackageButton action: [ self editSelectedPackageRequirements ].

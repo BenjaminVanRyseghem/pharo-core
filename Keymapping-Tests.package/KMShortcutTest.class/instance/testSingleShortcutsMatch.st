@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testSingleShortcutsMatch
 	|a one home |
 	a := self eventKey: $a.

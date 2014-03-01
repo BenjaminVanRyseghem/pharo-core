@@ -1,3 +1,3 @@
-as yet unclassified
+tests
 testChainShortcutSucceds
 	^ self assert: ($e ctrl , $e ctrl) = ($e ctrl , $e ctrl)

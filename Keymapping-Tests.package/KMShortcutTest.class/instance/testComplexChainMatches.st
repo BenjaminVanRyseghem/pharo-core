@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testComplexChainMatches
 	|eCtrl eShift e f|
 	
