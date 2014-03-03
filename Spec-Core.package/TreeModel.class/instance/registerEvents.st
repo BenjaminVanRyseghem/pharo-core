@@ -19,7 +19,7 @@ registerEvents
 			oldMenuModel isBlock
 				ifTrue: [ 
 					oldMenu := MenuModel new.
-					oldMenuModel cull: oldMenu ]
+					oldMenuModel cull: oldMenu cull: false ]
 				ifFalse: [ oldMenu := oldMenuModel ].
 		oldMenu applyTo: self ].
 		
@@ -27,7 +27,7 @@ registerEvents
 			aMenuModel isBlock
 				ifTrue: [ 
 					newMenu := MenuModel new.
-					aMenuModel cull: newMenu ]
+					aMenuModel cull: newMenu cull: false ]
 				ifFalse: [ newMenu := aMenuModel ].
 		newMenu applyTo: self ] ].
 	

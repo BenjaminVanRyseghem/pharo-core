@@ -1,5 +1,5 @@
 visitor
 visitPragmaNode: aPragmaNode
-	methodBuilder addPragma: aPragmaNode asPragma.						
+	methodBuilder addPragma: aPragmaNode asPragma.
 	aPragmaNode isPrimitiveError ifTrue: [
-		methodBuilder storeTemp: aPragmaNode arguments last value].
+		methodBuilder storeTemp: (aPragmaNode argumentAt: #error:) value ].

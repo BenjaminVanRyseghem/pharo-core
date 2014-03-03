@@ -19,7 +19,7 @@ initializeWidgets
 
 	rulesModel displayBlock: [ :rule | self stringMorphForRule: rule ].
 	
-	rulesModel menu: [:a :b | self menu: a shifted: b ].	
+	rulesModel menu: [ :aMenu :shifted | self menu: aMenu shifted: shifted ].	
 	
 	self focusOrder
 		add: rulesModel;

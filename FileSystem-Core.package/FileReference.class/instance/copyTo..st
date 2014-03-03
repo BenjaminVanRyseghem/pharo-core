@@ -4,5 +4,5 @@ copyTo: aReference
 		ifTrue: [ aReference ensureCreateDirectory ]
 		ifFalse: [ 
 			filesystem = aReference fileSystem
-				ifTrue: [ filesystem copy: path to: aReference path ]
+				ifTrue: [ filesystem copy: path to: aReference resolve path ]
 				ifFalse: [ filesystem copy: path toReference: aReference ] ]
