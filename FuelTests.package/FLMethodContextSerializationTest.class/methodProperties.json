@@ -7,7 +7,6 @@
 	"instance" : {
 		"setUp" : "MartinDias 3/26/2012 22:52",
 		"testDoIt" : "MarcusDenker 4/25/2013 15:09",
-		"testFuelShouldIgnoreFuel" : "MartinDias 3/28/2012 01:19",
 		"testMethodContext" : "MartinDias 12/3/2011 22:21",
 		"testMethodContextThisContext" : "MartinDias 3/26/2012 22:52",
 		"testMethodContextWithClosure" : "MartinDias 12/3/2011 22:21",

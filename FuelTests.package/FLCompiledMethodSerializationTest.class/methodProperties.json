@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "MaxLeske 11/6/2013 15:01",
+		"testDoIt" : "MaxLeske 11/6/2013 15:29",
+		"testInstalled" : "MaxLeske 11/6/2013 15:21",
+		"testInstalledModified" : "MaxLeske 11/6/2013 15:29",
+		"testNotInstalled" : "MaxLeske 11/6/2013 15:29",
+		"useDoIt" : "MaxLeske 11/6/2013 15:04",
+		"useInstalled" : "MaxLeske 11/6/2013 15:05",
+		"useNotInstalled" : "MaxLeske 11/6/2013 15:04" } }

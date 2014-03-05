@@ -1,3 +1,3 @@
 class initialization
 initialize 
-	self setTrailerWithNoSource 
+	self setTrailerWithSourceCode

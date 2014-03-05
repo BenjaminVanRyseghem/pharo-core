@@ -1,0 +1,14 @@
+{
+	"category" : "Transcript",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BenComan 3/6/2014 01:08",
+	"instvars" : [
+		"mutex" ],
+	"name" : "ThreadSafeTranscriptPluggableTextMorph",
+	"pools" : [
+		 ],
+	"super" : "PluggableTextMorph",
+	"type" : "normal" }

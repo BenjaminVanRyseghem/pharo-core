@@ -1,0 +1,14 @@
+{
+	"category" : "FuelHacks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Environment",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

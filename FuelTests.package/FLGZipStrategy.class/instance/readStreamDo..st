@@ -3,4 +3,4 @@ readStreamDo: aValuable
 	"Evaluates the argument with a read stream. Answers the result."
 	
 	targetStrategy readStreamDo: [:aStream |
-		^ GZipReadStream on: aStream do: aValuable]
+		^ GZipReadStream with: aStream do: aValuable]
