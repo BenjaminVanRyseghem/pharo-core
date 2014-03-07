@@ -1,6 +1,7 @@
 correcting
 openMenuIn: aBlock 
-	| alternatives labels actions lines caption choice name |
+	| alternatives labels actions lines caption choice name interval |
+	interval := node sourceInterval.
 	name := node name.
 	alternatives := self possibleVariablesFor: name.
 	labels := OrderedCollection new.
@@ -23,7 +24,10 @@ openMenuIn: aBlock
 	alternatives do: 
 		[:each | 
 		labels add: each.
-		actions add: [self substituteVariableNamed: each]].
+		actions add: 
+		[	self substituteVariable: each atInterval: interval.
+			(OCSourceCodeChanged new newSourceCode: self requestor text) signal.
+		]].
 	lines add: labels size.
 	labels add: 'Cancel'.
 	caption := 'Unknown variable: ' , name , ' please correct, or cancel:'.

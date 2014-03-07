@@ -1,0 +1,2 @@
+instructions
+storeInstVar: index
