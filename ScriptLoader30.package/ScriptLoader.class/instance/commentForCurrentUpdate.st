@@ -1,10 +1,9 @@
 public
 commentForCurrentUpdate
- ^ '13053 Sync image with repo
-	https://pharo.fogbugz.com/f/cases/13053
+ ^ '13019 Browser method-pane menuitem [Add breakpoint] corrupts debugger stepping behavior
+	https://pharo.fogbugz.com/f/cases/13019
 
-13002 StoreInstVar: is missing in IRPrinter
-	https://pharo.fogbugz.com/f/cases/13002
-	
-13003 Opal cannot optimize twice an IRMethod
-	https://pharo.fogbugz.com/f/cases/13003'
+12294 Copying class copies comment template
+	https://pharo.fogbugz.com/f/cases/12294
+
+'

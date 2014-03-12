@@ -11,6 +11,7 @@
 		"visitArrayNode:" : "ClementBera 10/22/2013 13:09",
 		"visitAssignmentNode:" : "MarcusDenker 4/11/2013 15:12",
 		"visitBlockNode:" : "ClementBera 10/22/2013 13:04",
+		"visitLiteralArrayNode:" : "CamilleTeruel 3/7/2014 11:17",
 		"visitLiteralNode:" : "MarcusDenker 4/17/2013 14:59",
 		"visitSequenceNode:" : "nice 5/2/2013 00:21",
 		"visitVariableNode:" : "MarcusDenker 4/17/2013 14:56" } }

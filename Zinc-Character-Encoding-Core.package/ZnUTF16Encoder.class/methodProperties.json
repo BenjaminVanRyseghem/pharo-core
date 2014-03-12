@@ -3,6 +3,8 @@
 		"handlesEncoding:" : "SvenVanCaekenberghe 11/8/2013 11:02",
 		"newForEncoding:" : "SvenVanCaekenberghe 11/8/2013 14:43" },
 	"instance" : {
+		"back16BitWordOnStream:" : "SvenVanCaekenberghe 2/24/2014 16:01",
+		"backOnStream:" : "SvenVanCaekenberghe 2/24/2014 16:02",
 		"beBigEndian" : "SvenVanCaekenberghe 11/8/2013 13:32",
 		"beLittleEndian" : "SvenVanCaekenberghe 11/8/2013 13:32",
 		"byteOrderMark" : "SvenVanCaekenberghe 11/8/2013 15:47",

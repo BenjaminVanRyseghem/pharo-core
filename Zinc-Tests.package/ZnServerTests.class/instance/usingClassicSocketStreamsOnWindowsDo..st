@@ -2,7 +2,7 @@ private
 usingClassicSocketStreamsOnWindowsDo: block
 	| originalSocketStreamClass |
 	originalSocketStreamClass := ZnNetworkingUtils default socketStreamClass.
-	OSPlatform current isWindows
+	self runningOnWindows
 		ifTrue: [ ZnNetworkingUtils default socketStreamClass: SocketStream ].
-	block ensure: [ 
-		ZnNetworkingUtils default socketStreamClass: originalSocketStreamClass ]
+	block
+		ensure: [ ZnNetworkingUtils default socketStreamClass: originalSocketStreamClass ]
