@@ -1,6 +1,7 @@
-public
-commentForCurrentUpdate
- ^ '13064 nil as menutitle (inspector menu)
+pharo - updates
+update30797
+	"self new update30797"
+	self withUpdateLog: '13064 nil as menutitle (inspector menu)
 	https://pharo.fogbugz.com/f/cases/13064
 
 13032 Transcript red screen of death
@@ -15,4 +16,6 @@ commentForCurrentUpdate
 13066 Failing tests in NetworkTests.Url.UrlTest
 	https://pharo.fogbugz.com/f/cases/13066
 
-'
+'.
+	self loadTogether: self script450 merge: false.
+	self flushCaches.

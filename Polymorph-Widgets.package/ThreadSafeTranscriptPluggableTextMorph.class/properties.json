@@ -1,10 +1,10 @@
 {
-	"category" : "Transcript",
+	"category" : "Polymorph-Widgets",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "BenComan 3/6/2014 01:08",
+	"commentStamp" : "BenComan 3/10/2014 18:40",
 	"instvars" : [
 		"mutex" ],
 	"name" : "ThreadSafeTranscriptPluggableTextMorph",

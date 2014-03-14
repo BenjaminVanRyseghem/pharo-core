@@ -1,7 +1,7 @@
 tests
 testAbsoluteFILE
 	
-	url := 'file:/etc/passwd#foo' asUrl.
+	url := 'file:///etc/passwd#foo' asUrl.
 
 	self assert: url scheme = 'file'.
 	self assert: url pathSegments first = 'etc'.

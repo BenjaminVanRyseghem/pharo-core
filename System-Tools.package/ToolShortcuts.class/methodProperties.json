@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"initialize" : "BenComan 2/17/2014 23:13",
+		"isGlobalCategory" : "LeoGassman 11/7/2013 16:35" },
+	"instance" : {
+		"openMonticelloPackageBrowser" : "CamilloBruni 2/19/2014 16:30",
+		"openSettings" : "CamilloBruni 2/19/2014 16:33",
+		"openSystemBrowser" : "CamilloBruni 2/19/2014 16:29",
+		"openTranscript" : "CamilloBruni 2/19/2014 16:29",
+		"openUnitTestRunner" : "CamilloBruni 2/19/2014 16:29",
+		"openWorkspace" : "CamilloBruni 2/19/2014 16:30",
+		"saveImage" : "CamilloBruni 2/19/2014 16:30" } }
