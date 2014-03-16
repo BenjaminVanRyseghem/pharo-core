@@ -23,5 +23,4 @@ blockNotFoundDialog: aMethod with: aText
 		contents: aText; 
 		changed: #contents.
 	browser codeTextMorph 
-		setSelection: self codeTextMorph selectionInterval;
 		hasUnacceptedEdits: true

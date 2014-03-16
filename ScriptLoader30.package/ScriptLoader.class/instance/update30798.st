@@ -1,6 +1,7 @@
-public
-commentForCurrentUpdate
- ^ '13006 Browsers do not synchronize class definitions
+pharo - updates
+update30798
+	"self new update30798"
+	self withUpdateLog: '13006 Browsers do not synchronize class definitions
 	https://pharo.fogbugz.com/f/cases/13006
 
 13076 Optimize the information displayed by EyeInspector and EyeTreeInspector
@@ -15,4 +16,6 @@ commentForCurrentUpdate
 13077 Fix Komitter tree not displaying children
 	https://pharo.fogbugz.com/f/cases/13077
 
-'
+'.
+	self loadTogether: self script451 merge: false.
+	self flushCaches.
