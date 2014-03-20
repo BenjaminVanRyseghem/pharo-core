@@ -1,4 +1,4 @@
-system announcements
+debugging actions
 buildTestSuiteFor: aMethod
 
 	^ TestSuite new

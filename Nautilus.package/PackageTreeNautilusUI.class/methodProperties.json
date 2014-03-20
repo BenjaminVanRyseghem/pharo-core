@@ -30,6 +30,8 @@
 		"groups" : "EstebanLorenzano 10/3/2013 16:57",
 		"groupsAreVisible" : "NicolaiHess 1/19/2014 12:09",
 		"isSelectedPackage:" : "NicolaiHess 1/2/2014 20:42",
+		"keyPressedOnList:shifted:" : "EstebanLorenzano 3/19/2014 13:40",
+		"keyPressedOnTree:target:" : "EstebanLorenzano 3/19/2014 13:44",
 		"listClearSelection" : "EstebanLorenzano 10/10/2013 16:13",
 		"listSelectItem:" : "EstebanLorenzano 10/14/2013 15:41",
 		"loadList2" : "EstebanLorenzano 11/25/2013 14:07",
@@ -61,7 +63,7 @@
 		"selectedProtocol" : "EstebanLorenzano 11/29/2013 16:09",
 		"showGroups:" : "NicolaiHess 1/4/2014 01:05",
 		"showPackages:" : "EstebanLorenzano 10/16/2013 14:18",
-		"updateBothView" : "BenjaminVanRyseghem 10/18/2013 16:17",
+		"updateBothView" : "EstebanLorenzano 3/19/2014 11:20",
 		"updateGroupView" : "EstebanLorenzano 10/9/2013 17:40",
 		"updatePackageView" : "EstebanLorenzano 10/9/2013 15:55",
 		"updatePackages" : "JurajKubelka 12/10/2013 17:00" } }
