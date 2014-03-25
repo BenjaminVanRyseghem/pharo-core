@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedTestResolveSymbolicVersionInResult" : "ChristopheDemarey 3/18/2014 17:03",
+		"generateTestVersion" : "ChristopheDemarey 3/18/2014 16:56",
+		"setUp" : "ChristopheDemarey 3/18/2014 16:44",
+		"tearDown" : "ChristopheDemarey 3/18/2014 11:11",
+		"testProjectReferenceConfigurationFrom" : "ChristopheDemarey 3/18/2014 16:44",
+		"testResolveSymbolicVersionsIn" : "ChristopheDemarey 3/18/2014 17:00" } }

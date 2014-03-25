@@ -3,4 +3,6 @@
 		 },
 	"instance" : {
 		"createDevelopmentVersion" : "ChristopheDemarey 2/21/2014 10:13",
+		"ensureDevelopmentVersionExists" : "ChristopheDemarey 3/18/2014 14:25",
+		"ensureDevelopmentVersionIsBaseline" : "ChristopheDemarey 3/18/2014 14:25",
 		"standardizeDevVersionString:" : "ChristopheDemarey 2/21/2014 10:10" } }

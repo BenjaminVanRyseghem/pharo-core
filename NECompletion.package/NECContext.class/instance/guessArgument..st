@@ -2,7 +2,7 @@ private-type-guessing
 guessArgument: aSHRange 
 	| name |
 	name := self sourceOf: aSHRange.
-	(name = 'html' and: [ (Smalltalk 
-		at: #WARenderCanvas
-		ifAbsent: [  ]) notNil ]) ifTrue: [ ^ Smalltalk at: #WARenderCanvas ].
+	(name = 'html') ifTrue: [
+		 Smalltalk at: #WAHtmlCanvas ifPresent: [ :canvasClass | ^canvasClass].
+		 Smalltalk at: #WARenderCanvas ifPresent: [ :canvasClass | ^canvasClass]].
 	^ NECInstVarTypeGuesser getClassFromTypeSuggestingName: name

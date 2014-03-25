@@ -9,7 +9,7 @@ projectSpecFromRequiredProject: aRequiredProject
 						ifNil: [ (mcProject hasVersion: #stable)
         								ifTrue: [ #stable ]
         								ifFalse: [ #bleedingEdge ] ]
-						ifNotNilDo: [ :aVersion | aVersion ].
+						ifNotNilDo: [ :aVersion | aVersion versionString].
 	projectReferenceSpec := mcProject projectSpec
 					name: aRequiredProject displayName;
 					className: aRequiredProject configurationClass name;

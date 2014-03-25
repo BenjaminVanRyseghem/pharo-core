@@ -2,8 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"setDevelopment:" : "ChristopheDemarey 2/25/2014 15:23",
 		"setUp" : "ChristopheDemarey 6/25/2013 13:19",
 		"tearDown" : "ChristopheDemarey 6/25/2013 13:19",
 		"testCreateBaseline" : "ChristopheDemarey 11/21/2013 17:52",
 		"testCreateNextDevelopment" : "ChristopheDemarey 11/21/2013 18:34",
+		"testIsDevelopmentUsedInRelease" : "ChristopheDemarey 2/25/2014 15:24",
 		"testNextDevelopmentVersionString" : "ChristopheDemarey 11/27/2013 10:32" } }

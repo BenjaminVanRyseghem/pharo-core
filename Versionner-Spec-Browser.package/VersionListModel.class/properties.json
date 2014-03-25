@@ -4,10 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "ChristopheDemarey 3/18/2014 17:31",
 	"instvars" : [
 		"okToChange",
-		"changedBlock" ],
+		"changedBlock",
+		"selectionVersionString" ],
 	"name" : "VersionListModel",
 	"pools" : [
 		 ],

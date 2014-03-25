@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"defaultSpec" : "ChristopheDemarey 3/11/2014 18:05",
+		"openForVersion:" : "ChristopheDemarey 3/14/2014 17:29" },
+	"instance" : {
+		"confirmSymbolicVersionResolutionDesactivation" : "ChristopheDemarey 3/18/2014 10:34",
+		"developmentVersion:" : "ChristopheDemarey 3/14/2014 17:28",
+		"initialExtent" : "ChristopheDemarey 3/11/2014 17:32",
+		"initialVersion:" : "ChristopheDemarey 3/11/2014 18:07",
+		"initializeWidgets" : "ChristopheDemarey 3/19/2014 11:55",
+		"isSymbolicVersionResolutionChecked" : "ChristopheDemarey 3/17/2014 13:17",
+		"latestVersionString" : "ChristopheDemarey 3/14/2014 17:41",
+		"releaseNumber" : "ChristopheDemarey 3/11/2014 15:58",
+		"releaseNumberLabel" : "ChristopheDemarey 3/11/2014 15:58",
+		"releaseNumberText" : "ChristopheDemarey 3/14/2014 17:44",
+		"symbolicVersionResolutionCheckBox" : "ChristopheDemarey 3/11/2014 15:59",
+		"title" : "ChristopheDemarey 3/11/2014 17:30" } }
