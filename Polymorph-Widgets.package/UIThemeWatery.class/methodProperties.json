@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"isAbstract" : "PavelKrivanek 10/1/2013 20:24",
-		"newDefaultSettings" : "MarcusDenker 9/27/2010 15:32",
+		"newDefaultSettings" : "HilaireFernandes 3/22/2014 18:03",
 		"themeName" : "MarcusDenker 7/22/2013 14:43" },
 	"instance" : {
 		"baseScrollbarColorFor:" : "gvc 2/3/2009 14:28",
@@ -82,7 +82,7 @@
 		"expanderTitleInsetFor:" : "gvc 1/23/2009 12:35",
 		"expanderTitleNormalFillStyleFor:" : "MarcusDenker 7/22/2013 13:50",
 		"initialize" : "gvc 2/16/2009 17:22",
-		"initializeForms" : "gvc 1/22/2009 15:22",
+		"initializeForms" : "HilaireFernandes 3/22/2014 16:34",
 		"listNormalBorderStyleFor:" : "gvc 12/9/2008 12:08",
 		"menuItemInDockingBarSelectedFillStyleFor:" : "MarcusDenker 7/22/2013 13:50",
 		"menuItemSelectedFillStyleFor:" : "MarcusDenker 7/22/2013 13:50",
@@ -134,6 +134,7 @@
 		"newWindowMaximizeForm" : "MarcusDenker 7/22/2013 13:50",
 		"newWindowMaximizeOverForm" : "MarcusDenker 7/22/2013 13:50",
 		"newWindowMenuForm" : "MarcusDenker 7/22/2013 13:50",
+		"newWindowMenuOverForm" : "GaryChambers 2/15/2011 16:15",
 		"newWindowMenuPassiveForm" : "MarcusDenker 7/22/2013 13:50",
 		"newWindowMinimizeForm" : "MarcusDenker 7/22/2013 13:50",
 		"newWindowMinimizeOverForm" : "MarcusDenker 7/22/2013 13:50",

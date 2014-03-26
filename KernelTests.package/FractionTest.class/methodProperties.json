@@ -11,6 +11,7 @@
 		"testExactRaisedTo" : "jmv 10/11/2011 22:27",
 		"testExactSqrt" : "jmv 10/11/2011 22:12",
 		"testFloor" : "nice 6/3/2011 21:32",
+		"testFloorLog" : "nice 12/11/2012 19:56",
 		"testFractionPrinting" : "nice 3/5/2010 22:35",
 		"testInexactRaisedTo" : "jmv 10/13/2011 21:38",
 		"testInexactSqrt" : "jmv 10/13/2011 21:27",

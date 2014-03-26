@@ -1,3 +1,3 @@
 accessing
 standardThemeClass
-	^ PharoTheme 
+	^ Pharo3Theme 

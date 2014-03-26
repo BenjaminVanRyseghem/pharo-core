@@ -24,15 +24,15 @@ scanNumber
 						ifTrue: [self skipDigits]
 						ifFalse: [sourcePosition := sourcePosition - 1]].
 			c == $s
-				ifTrue: [self nextChar isDigit
+				ifTrue: [(nc := self nextChar) isDigit
 						ifTrue: [self skipDigits]
-						ifFalse: [sourcePosition := sourcePosition - 1]].
+						ifFalse: [nc isLetter ifTrue: [sourcePosition := sourcePosition - 1]]].
 			currentToken := source copyFrom: start to: sourcePosition - 1.
 			^ currentTokenSourcePosition := start].
 	c == $s
-		ifTrue: [self nextChar isDigit
-				ifTrue: [self skipDigits]
-				ifFalse: [sourcePosition := sourcePosition - 1].
+		ifTrue: [(nc := self nextChar) isDigit
+					ifTrue: [self skipDigits]
+					ifFalse: [nc isLetter ifTrue: [sourcePosition := sourcePosition - 1]].
 			currentToken := source copyFrom: start to: sourcePosition - 1.
 			^ currentTokenSourcePosition := start].
 	c == $.
@@ -49,8 +49,8 @@ scanNumber
 				ifTrue: [self skipDigits]
 				ifFalse: [sourcePosition := sourcePosition - 1]].
 	c == $s
-		ifTrue: [self nextChar isDigit
+		ifTrue: [(nc := self nextChar) isDigit
 				ifTrue: [self skipDigits]
-				ifFalse: [sourcePosition := sourcePosition - 1]].
+				ifFalse: [nc isLetter ifTrue: [sourcePosition := sourcePosition - 1]]].
 	currentToken := source copyFrom: start to: sourcePosition - 1.
 	^ currentTokenSourcePosition := start
