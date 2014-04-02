@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "DamienCassou 3/27/2014 16:46",
+		"testCounting" : "DamienCassou 3/27/2014 17:18",
+		"testNextPutAllEmpty" : "DamienCassou 3/27/2014 17:21",
+		"testPeekLast" : "DamienCassou 3/27/2014 17:14" } }

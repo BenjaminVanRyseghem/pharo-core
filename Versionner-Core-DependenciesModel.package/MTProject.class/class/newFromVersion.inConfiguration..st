@@ -1,5 +1,5 @@
 instance creation
-newFromVersion: aMetacelloVersion inRepository: aConfigurationClass
+newFromVersion: aMetacelloVersion inConfiguration: aConfigurationClass
 	^ MCModel2MTModelVisitor new
 		visitConfiguration: aConfigurationClass
 		withVersion: aMetacelloVersion

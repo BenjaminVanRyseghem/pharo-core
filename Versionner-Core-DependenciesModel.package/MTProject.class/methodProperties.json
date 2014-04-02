@@ -1,7 +1,7 @@
 {
 	"class" : {
-		"newFromVersion:inRepository:" : "ChristopheDemarey 11/21/2013 17:35",
-		"newNamed:withInitialVersion:inRepository:" : "ChristopheDemarey 11/21/2013 15:06" },
+		"newFromVersion:inConfiguration:" : "ChristopheDemarey 4/2/2014 15:19",
+		"newNamed:withInitialVersion:inRepository:" : "ChristopheDemarey 3/28/2014 16:29" },
 	"instance" : {
 		"=" : "ChristopheDemarey 12/12/2013 09:38",
 		"acceptVisitor:" : "ChristopheDemarey 12/6/2013 17:20",

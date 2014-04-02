@@ -1,15 +1,22 @@
 public
 commentForCurrentUpdate
- ^ '13128 Use Spotlight to quickly evaluate and inspect short expressions 
-	https://pharo.fogbugz.com/f/cases/13128
-
-13101 Progress bar progressive text update not working.
-	https://pharo.fogbugz.com/f/cases/13101
-
-13137 Replace SBCI buttons
-	https://pharo.fogbugz.com/f/cases/13137
+ ^ '13143 Integrate Versionner 2.7
+	https://pharo.fogbugz.com/f/cases/13143
 	
-3748 FloatArray>>dot: is defined in plugin but not at the image level
-	https://pharo.fogbugz.com/f/cases/3748/
+	
+Which include these:
 
-'
+13056 Versioneer: MNU - receiver of treeNodeClass is nil
+	https://pharo.fogbugz.com/f/cases/13056
+	
+13148 check if the version does not exist before creating a new development version
+	https://pharo.fogbugz.com/f/cases/13148
+	
+13140 No tree in Versionner panes
+	https://pharo.fogbugz.com/f/cases/13140
+
+13144 wrong name for generated development version
+	https://pharo.fogbugz.com/f/cases/13144
+	
+13141 List of package dependencies contains absurd values
+	https://pharo.fogbugz.com/f/cases/13141'

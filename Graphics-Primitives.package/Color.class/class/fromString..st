@@ -2,8 +2,8 @@ instance creation
 fromString: aString
 	"for HTML color spec: #FFCCAA or white/black"
 
-	"NewColor fromString: '#FFCCAA'.
-	 NewColor fromString: 'orange'"
+	"Color fromString: '#FFCCAA'.
+	 Color fromString: 'orange'"
 
 	| aColorHex |
 	aString isEmptyOrNil

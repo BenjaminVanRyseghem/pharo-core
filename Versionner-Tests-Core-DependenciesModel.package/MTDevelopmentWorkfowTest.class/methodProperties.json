@@ -3,4 +3,6 @@
 		 },
 	"instance" : {
 		"testCreateInitialDevelopment" : "ChristopheDemarey 2/7/2014 14:57",
-		"testNewProjectWithInitialVersionInRepository" : "ChristopheDemarey 11/21/2013 17:56" } }
+		"testNewProjectWithInitialVersionInRepository" : "ChristopheDemarey 11/21/2013 17:56",
+		"testNextDevelopmentVersionString" : "ChristopheDemarey 3/28/2014 11:02",
+		"testStandardizeDevVersionString" : "ChristopheDemarey 3/28/2014 10:59" } }

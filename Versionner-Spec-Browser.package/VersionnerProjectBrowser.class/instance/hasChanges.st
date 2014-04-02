@@ -5,5 +5,5 @@ hasChanges
 	versionList selectedItem ifNil: [ ^ false ].
 	initialProject := MTProject 
 						newFromVersion: versionList selectedItem version
-						inRepository: configuration configurationClass.
+						inConfiguration: configuration configurationClass.
 	^ (MTModelComparator is: project equalsTo: initialProject) not

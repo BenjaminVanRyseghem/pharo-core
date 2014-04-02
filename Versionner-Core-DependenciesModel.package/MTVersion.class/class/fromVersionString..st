@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 fromVersionString: aVersionString
 	"Create a new version from a versionString."
 

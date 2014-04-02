@@ -4,9 +4,11 @@
 	"instance" : {
 		"askConfirmationIfChanges" : "ChristopheDemarey 12/12/2013 16:36",
 		"changedBlock:" : "ChristopheDemarey 12/12/2013 17:24",
+		"developmentVersionString" : "ChristopheDemarey 4/1/2014 16:42",
 		"initialize" : "ChristopheDemarey 3/18/2014 17:57",
 		"items:" : "ChristopheDemarey 3/19/2014 15:28",
 		"okToChange" : "ChristopheDemarey 12/12/2013 17:29",
 		"okToChange:" : "ChristopheDemarey 12/12/2013 16:36",
+		"selectDevelopment" : "ChristopheDemarey 4/1/2014 16:41",
 		"updateSelection" : "ChristopheDemarey 3/20/2014 11:10",
 		"updateSelectionVersionString" : "ChristopheDemarey 3/20/2014 11:10" } }

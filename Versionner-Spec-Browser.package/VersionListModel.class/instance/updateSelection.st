@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 updateSelection
 	selectionVersionString ifNil: [ ^self ].
 	self listItems 

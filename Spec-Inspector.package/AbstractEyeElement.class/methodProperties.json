@@ -2,6 +2,7 @@
 	"class" : {
 		"host:" : "ClementBera 4/30/2013 11:20" },
 	"instance" : {
+		"=" : "SvenVanCaekenberghe 3/30/2014 13:08",
 		"accessorCode" : "CamilloBruni 4/30/2013 10:21",
 		"browseSubMenu:" : "CamilloBruni 2/25/2014 18:16",
 		"browseValue" : "CamilloBruni 4/30/2013 10:43",
@@ -19,6 +20,7 @@
 		"exploreValue" : "CamilloBruni 4/30/2013 10:16",
 		"hasError" : "CamilloBruni 2/25/2014 18:24",
 		"hasSelectedObject" : "CamilloBruni 10/15/2013 17:14",
+		"hash" : "SvenVanCaekenberghe 3/30/2014 22:51",
 		"host" : "CamilloBruni 4/30/2013 10:52",
 		"host:" : "CamilloBruni 4/30/2013 10:51",
 		"hostClass" : "CamilloBruni 4/30/2013 10:58",

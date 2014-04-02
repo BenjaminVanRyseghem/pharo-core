@@ -2,5 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAbsolutePath" : "tbn 6/26/2012 21:32",
-		"testRelativePath" : "tbn 6/26/2012 21:32" } }
+		"testAbsoluteFullName" : "BenComan 3/18/2014 21:10",
+		"testAbsolutePath" : "BenComan 3/13/2014 15:43",
+		"testRelativeFullName" : "BenComan 3/18/2014 21:23",
+		"testRelativePath" : "BenComan 3/12/2014 01:00" } }

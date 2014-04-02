@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 = other
 	(self name = other name) ifFalse: [ ^false ].
 	(self author = other author) ifFalse: [ ^false ].

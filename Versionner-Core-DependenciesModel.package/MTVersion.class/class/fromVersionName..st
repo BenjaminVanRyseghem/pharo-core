@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 fromVersionName: aVersionName
 	"Create a new version from a versionName (a file reference)."
 
