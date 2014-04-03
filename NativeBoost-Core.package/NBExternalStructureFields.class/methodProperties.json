@@ -10,4 +10,5 @@
 		"parseFields:byteAlignment:structure:" : "CiprianTeodorov 1/19/2013 17:19",
 		"sizeAlignedTo:with:" : "CiprianTeodorov 1/19/2013 17:18",
 		"totalSize" : "Igor.Stasenko 5/19/2010 06:41",
-		"typeOf:" : "Igor.Stasenko 5/19/2010 07:16" } }
+		"typeOf:" : "Igor.Stasenko 5/19/2010 07:16",
+		"updateFieldOffsetsFor:" : "IgorStasenko 3/31/2014 16:12" } }

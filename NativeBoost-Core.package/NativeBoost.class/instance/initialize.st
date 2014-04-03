@@ -21,5 +21,4 @@ initialize
 	" finally, generate callgate function to finish bootstrap procedure"
 	self callgateFunctionAddress.
 
-	"notify any observers about session change"
-	self class announcer announce: NBSessionChangeAnnouncement 
+	self initializeForNewSession.
