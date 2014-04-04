@@ -1,4 +1,4 @@
-as yet unclassified
+private
 freeGlyphs: glyphs
 	<primitive: #primitiveNativeCall module: #NativeBoostPlugin error: errorCode>
 	

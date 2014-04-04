@@ -1,4 +1,4 @@
-as yet unclassified
+initialize
 initialize 
 	utfConverter := CairoUTF8Converter new.
 	advance := 0@0.

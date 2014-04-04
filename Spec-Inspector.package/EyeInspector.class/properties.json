@@ -8,8 +8,7 @@
 	"instvars" : [
 		"list",
 		"text",
-		"description",
-		"refreshLoop" ],
+		"description" ],
 	"name" : "EyeInspector",
 	"pools" : [
 		 ],

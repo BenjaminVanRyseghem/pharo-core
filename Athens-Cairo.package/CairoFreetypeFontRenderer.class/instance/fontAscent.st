@@ -1,3 +1,3 @@
-as yet unclassified
+accessing - font metrics
 fontAscent
 	^ fontExtents ascent

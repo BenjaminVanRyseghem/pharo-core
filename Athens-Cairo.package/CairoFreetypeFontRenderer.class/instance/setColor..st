@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 setColor: aColor 
 	(canvas setPaint: aColor )

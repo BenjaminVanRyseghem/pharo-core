@@ -23,3 +23,4 @@ testBasic
 	debugger send.
 	self assert: debugger code getText = (Integer>>#factorial) sourceCode.
 	self assert: debugger stack selectedItem printString =  'SmallInteger(Integer)>>factorial'.
+	process terminate.

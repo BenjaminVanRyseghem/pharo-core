@@ -1,4 +1,4 @@
-items creation
+item creation
 buildCommentPane
 
 	commentTextArea := PluggableTextMorph

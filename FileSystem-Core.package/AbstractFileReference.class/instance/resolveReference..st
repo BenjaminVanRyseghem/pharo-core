@@ -1,4 +1,4 @@
-navigating
+comparing
 resolveReference: aReference
 	^ aReference isAbsolute
 		ifTrue: [ aReference ]

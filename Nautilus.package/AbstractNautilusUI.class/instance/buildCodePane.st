@@ -1,4 +1,4 @@
-items creation
+item creation
 buildCodePane
 		
 	"The following method fills up sourceTextArea variable"

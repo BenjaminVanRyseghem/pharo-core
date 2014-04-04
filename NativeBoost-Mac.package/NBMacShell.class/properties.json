@@ -1,0 +1,14 @@
+{
+	"category" : "NativeBoost-Mac",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 3/28/2014 12:48",
+	"instvars" : [
+		 ],
+	"name" : "NBMacShell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

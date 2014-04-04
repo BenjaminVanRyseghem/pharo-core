@@ -1,4 +1,4 @@
-as yet unclassified
+private
 convertString: utf8String len: strlen ofFont: aScaledFont toGlyphs: glyphs numGlyphs: numGlyphs x: x y: y
 "
 all of this for using 

@@ -1,3 +1,3 @@
-navigating
+copying
 , extension
-	^ self withPath: self path, extension
+	^ self resolve, extension

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 canvas: aCairoCanvas
 	
 	canvas := aCairoCanvas.

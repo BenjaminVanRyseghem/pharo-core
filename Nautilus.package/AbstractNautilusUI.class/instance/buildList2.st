@@ -1,4 +1,4 @@
-items creation
+item creation
 buildList2
 
 	list2 := PluggableIconListMorph new

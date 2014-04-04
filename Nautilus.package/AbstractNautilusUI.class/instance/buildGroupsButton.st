@@ -1,4 +1,4 @@
-items creation
+item creation
 buildGroupsButton
 	| button |
 	button := (PluggableButtonMorph

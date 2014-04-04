@@ -1,4 +1,4 @@
-as yet unclassified
+accessing - font metrics
 glyphsOf: aString from: start to: end
 	| len glyphs ptr lenValue glyphsSize utf8Len |
 	len := end-start+1.

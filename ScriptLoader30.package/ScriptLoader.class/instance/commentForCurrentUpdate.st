@@ -1,9 +1,9 @@
 public
 commentForCurrentUpdate
- ^ '13145 Speed Up DateAndTime Arithmetic
-	https://pharo.fogbugz.com/f/cases/13145
+ ^ '12777 Athens font cacheing bug
+	https://pharo.fogbugz.com/f/cases/12777
 
-13164 komitter should allow commit to local directories
-	https://pharo.fogbugz.com/f/cases/13164
+12460 eyeinspector refresh loop
+	https://pharo.fogbugz.com/f/cases/12460
 
 '

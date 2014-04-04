@@ -10,5 +10,5 @@
 	"name" : "Pharo3Theme",
 	"pools" : [
 		 ],
-	"super" : "UITheme",
+	"super" : "UIThemeWatery",
 	"type" : "normal" }
