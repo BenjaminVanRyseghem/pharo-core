@@ -11,6 +11,6 @@ buildPackageHierarchyFor: aPackage
 	self browsedEnvironment isSystem
 		ifFalse: [ classes := classes intersection: self browsedEnvironment classes ].
 	
-	extensions := SortHierarchically buildHierarchyForClasses: classes fromPackage: aPackage.
+	extensions := SortHierarchically buildHierarchyForClasses: classes asSet fromPackage: aPackage.
 
 	^ defined, extensions

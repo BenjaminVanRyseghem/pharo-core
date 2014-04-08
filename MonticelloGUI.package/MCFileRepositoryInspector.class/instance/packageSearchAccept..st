@@ -6,5 +6,4 @@ packageSearchAccept: string
 	packagePattern = aString asLowercase ifTrue: [ ^ self ].
 	packagePattern :=  aString asLowercase.
 
-	packageProcess ifNotNil: [ packageProcess terminate ].	
-	packageProcess := [ self changed: #packageList ] fork.
+   	self packageListUpdate.

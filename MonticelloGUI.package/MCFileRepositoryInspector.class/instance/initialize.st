@@ -4,4 +4,5 @@ initialize
 	loaded := Set new.
 	
 	versionPattern := ''.
-	packagePattern := ''
+	packagePattern := ''.
+	packageList := #().

@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 checkBufferSpace: minimalSize
 	| size |
 	
@@ -6,4 +6,6 @@ checkBufferSpace: minimalSize
 	
 	size < minimalSize ifTrue: [
 		buffer := ByteArray new: minimalSize.
+		bs := buffer writeStream.
+		
 		]

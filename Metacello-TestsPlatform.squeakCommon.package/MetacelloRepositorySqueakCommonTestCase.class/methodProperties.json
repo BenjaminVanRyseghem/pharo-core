@@ -10,9 +10,9 @@
 		"project" : "dkh 5/7/2013 19:11",
 		"setUp" : "dkh 6/12/2012 10:19:43.983",
 		"tearDown" : "dkh 6/12/2012 10:19:43.983",
-		"testAsRepositorySpecFor" : "dkh 6/12/2012 10:19:43.983",
+		"testAsRepositorySpecFor" : "BenComan 3/21/2014 22:06",
 		"testDictionaryRepository" : "dkh 6/12/2012 10:19:43.983",
-		"testDirectoryRepository" : "dkh 6/12/2012 10:19:43.983",
-		"testFileTreeRepository" : "dkh 7/12/2013 07:03",
+		"testDirectoryRepository" : "BenComan 3/21/2014 22:10",
+		"testFileTreeRepository" : "DamienCassou 4/4/2014 15:30",
 		"testFtpRepository" : "dkh 6/12/2012 10:19:43.983",
 		"testHttpRepository" : "dkh 6/12/2012 10:19:43.983" } }

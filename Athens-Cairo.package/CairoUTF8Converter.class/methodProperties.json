@@ -3,10 +3,12 @@
 		 },
 	"instance" : {
 		"buffer" : "IgorStasenko 8/28/2012 18:03",
-		"checkBufferSpace:" : "IgorStasenko 8/28/2012 14:10",
-		"convert:from:to:" : "IgorStasenko 1/31/2014 16:07",
+		"checkBufferSpace:" : "IgorStasenko 4/8/2014 15:46",
+		"convert:from:to:" : "IgorStasenko 4/8/2014 15:50",
 		"convertByteString:" : "ClementBera 6/28/2013 10:31",
+		"convertChar:" : "IgorStasenko 4/8/2014 15:48",
 		"convertUnicode:" : "ClementBera 6/28/2013 10:30",
 		"convertUnicode:conversionLabels:" : "ClementBera 6/28/2013 10:30",
 		"convertWideString:" : "IgorStasenko 6/12/2012 18:02",
+		"initialize" : "IgorStasenko 4/8/2014 15:45",
 		"store:accumulated:" : "IgorStasenko 6/22/2012 15:10" } }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "IgorStasenko 4/8/2014 15:20",
+		"testEncodingString" : "IgorStasenko 4/8/2014 16:01",
+		"testReusingConverterShouldReplaceOldData" : "IgorStasenko 4/8/2014 15:41",
+		"testUnicodencodingShouldTerminateWithNull" : "IgorStasenko 4/8/2014 15:21" } }

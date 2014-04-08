@@ -20,7 +20,7 @@
 		"pattern",
 		"packagePattern",
 		"versionPattern",
-		"packageProcess",
+		"packageListUpdateProcess",
 		"versionProcess" ],
 	"name" : "MCFileRepositoryInspector",
 	"pools" : [
