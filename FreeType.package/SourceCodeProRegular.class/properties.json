@@ -10,5 +10,5 @@
 	"name" : "SourceCodeProRegular",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "EmbeddedFreetypeFont",
 	"type" : "normal" }

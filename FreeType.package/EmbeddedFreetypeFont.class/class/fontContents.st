@@ -1,0 +1,4 @@
+accessing
+fontContents
+
+	self subclassResponsibility

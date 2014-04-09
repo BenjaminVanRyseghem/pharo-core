@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "IgorStasenko 4/8/2014 17:19",
 	"instvars" : [
 		 ],
-	"name" : "OpenSansRegular",
+	"name" : "EmbeddedFreetypeFont",
 	"pools" : [
 		 ],
-	"super" : "EmbeddedFreetypeFont",
+	"super" : "Object",
 	"type" : "normal" }

@@ -5,7 +5,7 @@ updateFontsFromSystem
 	
 	FT2Library current ifNil: [ ^ self  ].
 	
-	SourceCodeFonts registerFonts: self.
+	EmbeddedFreetypeFont installAllFontsIn: self.
 	"Add all the embedded file infos"
 	embeddedFileInfoCache valuesDo:[:eachSet | 
 		eachSet do:[:each | fileInfos addFirst: each]].

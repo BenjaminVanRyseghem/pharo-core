@@ -1,0 +1,4 @@
+accessing
+originalFileName
+
+	self subclassResponsibility
