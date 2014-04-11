@@ -12,7 +12,7 @@ fileOutOn: aFileStream moveSource: moveSource toFile: fileIndex
 		numbered: fileIndex
 		moveSource: moveSource
 		forClass: self.
-	self organization categories do: 
+	self organization realCategories do: 
 		[:heading |
 		self fileOutCategory: heading
 			on: aFileStream

@@ -10,8 +10,7 @@
 		"info",
 		"snapshot",
 		"dependencies",
-		"completeSnapshot",
-		"completePackageSnapshot" ],
+		"completeSnapshot" ],
 	"name" : "MCVersion",
 	"pools" : [
 		 ],

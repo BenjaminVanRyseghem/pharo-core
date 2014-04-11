@@ -10,7 +10,7 @@
 		"statistics",
 		"weight",
 		"access" ],
-	"name" : "Cache",
+	"name" : "AbtractCache",
 	"pools" : [
 		 ],
 	"super" : "Object",

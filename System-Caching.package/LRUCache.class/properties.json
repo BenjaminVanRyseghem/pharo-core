@@ -11,5 +11,5 @@
 	"name" : "LRUCache",
 	"pools" : [
 		 ],
-	"super" : "Cache",
+	"super" : "AbtractCache",
 	"type" : "normal" }

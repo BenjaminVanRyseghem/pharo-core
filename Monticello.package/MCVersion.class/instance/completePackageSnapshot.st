@@ -1,4 +1,4 @@
 accessing
 completePackageSnapshot
-	^ completePackageSnapshot 
-		ifNil: [ completePackageSnapshot := self loadCompletePackageSnapshot]
+	"Answer with a snapshot of current working copy of this package and all its dependencies."
+	^self loadCompletePackageSnapshot
