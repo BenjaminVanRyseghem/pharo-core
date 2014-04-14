@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"fixSubclasses" : "CamilloBruni 1/30/2013 15:50" },
+		"fixSubclasses" : "MarcusDenker 4/14/2014 16:15" },
 	"instance" : {
 		"testSubclassInstVar" : "MarcusDenker 7/12/2012 18:00",
 		"testSubclasses" : "CamilloBruni 1/30/2013 15:48" } }
