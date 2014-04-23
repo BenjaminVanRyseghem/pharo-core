@@ -4,4 +4,4 @@ hasPackageNamed: aName
 	
 	^ MCWorkingCopy allManagers
 		detect: [ :each | each packageName = aName ]
-		ifNone: [ nil ].
+		ifNone: [ false ].

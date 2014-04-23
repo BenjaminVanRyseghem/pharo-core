@@ -2,7 +2,7 @@
 	"class" : {
 		"adoptVersionInfoFrom:" : "avi 9/13/2004 18:00",
 		"ancestorsFromArray:cache:" : "avi 2/17/2004 01:23",
-		"hasPackageNamed:" : "sd 1/24/2013 10:52",
+		"hasPackageNamed:" : "EstebanLorenzano 4/14/2014 16:04",
 		"infoFromDictionary:cache:" : "StephaneDucasse 8/17/2012 15:58",
 		"initialize" : "CamilleTeruel 7/30/2012 14:09",
 		"registerForNotifications" : "MarianoMartinezPeck 9/5/2012 15:05" },
@@ -45,6 +45,6 @@
 		"theCachedRepository" : "SeanDeNigris 7/17/2012 15:50",
 		"uniqueVersionName" : "CamilloBruni 4/24/2012 15:22",
 		"uniqueVersionNameIn:" : "EstebanLorenzano 9/8/2013 10:36",
-		"unload" : "EstebanLorenzano 10/17/2012 17:00",
+		"unload" : "EstebanLorenzano 4/15/2014 14:11",
 		"versionInfo:" : "stephaneducasse 2/4/2006 20:47",
 		"versionSeparator" : "avi 2/4/2004 14:11" } }

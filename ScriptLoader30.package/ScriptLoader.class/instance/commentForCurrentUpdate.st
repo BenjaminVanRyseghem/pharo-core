@@ -1,6 +1,9 @@
 public
 commentForCurrentUpdate
- ^ '13202 self halt <Restart> then several <Over> gives endless DNU
-	https://pharo.fogbugz.com/f/cases/13202
+ ^ '12978 Komitter hide Check Lint Rules
+	https://pharo.fogbugz.com/f/cases/12978
+
+13204 Hard to see Morph halo label
+	https://pharo.fogbugz.com/f/cases/13204
 
 '

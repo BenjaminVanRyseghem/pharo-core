@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "EstebanLorenzano 4/15/2014 15:07",
+		"tearDown" : "EstebanLorenzano 4/14/2014 16:03",
+		"testRenamePackage" : "EstebanLorenzano 4/15/2014 14:13",
+		"testUnregisterPackage" : "EstebanLorenzano 4/14/2014 16:02" } }

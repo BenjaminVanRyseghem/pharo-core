@@ -8,4 +8,4 @@ importClass: aClass
 	self basicImportClass: aClass theMetaClass.	
 	self 
 		addClassDefinition:  aClass
-		toClassTag: (self toTagName:  aClass category)
+		toClassTag: (self toTagName: aClass category)

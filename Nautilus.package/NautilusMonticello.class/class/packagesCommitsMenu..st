@@ -6,7 +6,7 @@ packagesCommitsMenu: aBuilder
 	
 	target := aBuilder model.
 	(package := target selectedPackage) ifNil: [ ^ target ].
-	mcpackage := (NautilusMCBindings default mcPackageFor: package).
+	mcpackage := package correspondingMcPackage.
 	mcpackage ifNil: [ ^self ].
 	
 	mcpackage isDirty

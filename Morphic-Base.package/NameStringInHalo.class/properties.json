@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Base-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NameStringInHalo",
+	"pools" : [
+		 ],
+	"super" : "StringMorph",
+	"type" : "normal" }

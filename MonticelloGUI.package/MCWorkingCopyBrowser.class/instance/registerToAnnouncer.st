@@ -1,6 +1,5 @@
-morphic ui
+initialization
 registerToAnnouncer
-
 	SystemAnnouncer uniqueInstance weak
 		on: MCVersionCreated send: #update: to: self;
 		on: MCPackageModified send: #update: to: self;

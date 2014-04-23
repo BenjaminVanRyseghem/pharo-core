@@ -1,4 +1,3 @@
-morphic ui
+updating
 update: anAnnouncement
-
 	self workingCopyListChanged.

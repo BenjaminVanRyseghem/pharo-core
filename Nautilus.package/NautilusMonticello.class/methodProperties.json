@@ -2,10 +2,10 @@
 	"class" : {
 		"default" : "",
 		"new" : "ChristopheDemarey 7/12/2013 17:34",
-		"packagesChangesMenu:" : "EstebanLorenzano 10/10/2013 13:25",
-		"packagesCommitsMenu:" : "EstebanLorenzano 10/10/2013 13:25",
-		"packagesCreateMenu:" : "EstebanLorenzano 10/10/2013 13:25",
-		"packagesOpenMenu:" : "EstebanLorenzano 10/10/2013 13:25" },
+		"packagesChangesMenu:" : "EstebanLorenzano 4/14/2014 18:06",
+		"packagesCommitsMenu:" : "EstebanLorenzano 4/14/2014 18:06",
+		"packagesCreateMenu:" : "EstebanLorenzano 4/14/2014 17:38",
+		"packagesOpenMenu:" : "EstebanLorenzano 4/14/2014 18:06" },
 	"instance" : {
 		"addRepositoryTo:" : "",
 		"commit:in:" : "EstebanLorenzano 9/8/2013 11:02",

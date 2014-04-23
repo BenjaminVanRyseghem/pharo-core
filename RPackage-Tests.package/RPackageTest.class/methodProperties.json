@@ -5,9 +5,10 @@
 		"tearDown" : "EstebanLorenzano 2/22/2014 11:22",
 		"testAddClass" : "ThierryGoubier 1/25/2014 21:18",
 		"testAddClassFromTag" : "EstebanLorenzano 1/24/2014 18:15",
-		"testAnonymousClassAndSelector" : "ThierryGoubier 2/7/2014 11:48",
+		"testAnonymousClassAndSelector" : "EstebanLorenzano 3/19/2014 17:07",
 		"testDemoteToRPackageNamed" : "EstebanLorenzano 2/21/2014 11:35",
 		"testDemoteToRPackageNamedExistingPackage" : "EstebanLorenzano 2/21/2014 11:36",
 		"testDemoteToRPackageNamedMultilevelPackage1" : "EstebanLorenzano 2/21/2014 11:36",
 		"testDemoteToRPackageNamedMultilevelPackage2" : "EstebanLorenzano 2/21/2014 11:35",
-		"testDemoteToRPackageNamedWithExtension" : "EstebanLorenzano 2/25/2014 13:49" } }
+		"testDemoteToRPackageNamedWithExtension" : "EstebanLorenzano 2/25/2014 13:49",
+		"testRenameToMakesMCDirty" : "EstebanLorenzano 4/15/2014 15:05" } }

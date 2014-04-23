@@ -1,3 +1,3 @@
 class hierarchy
 allSuperclassesDo: aBlockContext 
-	self shouldBeImplemented
+	"Ignored -- necessary to support disjoint class hierarchies"
