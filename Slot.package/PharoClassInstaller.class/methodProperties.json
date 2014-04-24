@@ -3,7 +3,7 @@
 		"example" : "MartinDias 7/1/2013 16:10",
 		"validateClassName:" : "MartinDias 11/6/2012 11:32" },
 	"instance" : {
-		"basicClassDefinitionChangedFrom:to:using:" : "MartinDias 1/28/2014 16:23",
+		"basicClassDefinitionChangedFrom:to:using:" : "EstebanLorenzano 4/11/2014 15:52",
 		"classAdded:inCategory:" : "MartinDias 6/28/2013 12:50",
 		"classAt:ifAbsent:" : "ToonVerwaest 3/22/2011 17:03",
 		"classDefinitionChangedFrom:to:by:" : "MartinDias 1/28/2014 16:13",
@@ -20,5 +20,5 @@
 		"slotsChangedFrom:to:by:" : "MartinDias 1/28/2014 15:18",
 		"superclassChangedFrom:to:by:" : "MartinDias 7/1/2013 15:55",
 		"systemAnnouncer" : "MartinDias 4/26/2013 17:07",
-		"updateClass:to:" : "MartinDias 7/1/2013 15:59",
+		"updateClass:to:" : "CamilleTeruel 4/4/2014 16:18",
 		"updateInstancesFrom:to:" : "MartinDias 7/1/2013 15:59" } }

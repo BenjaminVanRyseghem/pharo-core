@@ -16,3 +16,7 @@ tearDown
 		cleanUpTrait: TTwo.
 		
 	Smalltalk organization removeCategory: self aCategory.
+	(RPackageOrganizer default 
+		packageNamed: self aCategory
+		ifAbsent: [ ^ self ]) 
+		unregister.
