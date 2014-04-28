@@ -2,10 +2,10 @@ private
 condenseClassOrTrait: classOrTrait
 	self writeClassComment: classOrTrait.
 	
-	classOrTrait methodsDo: [ :method |
+	classOrTrait theNonMetaClass methodsDo: [ :method |
 		(self shouldCondenseMethod: method)
-			ifTrue: [ 	self writeMethodSource: method ]].
+			ifTrue: [ self writeMethodSource: method ]].
 	
-	classOrTrait class methodsDo: [ :method |
+	classOrTrait theMetaClass methodsDo: [ :method |
 		(self shouldCondenseMethod: method)
 			ifTrue: [ self writeMethodSource: method ]]
