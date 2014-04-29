@@ -1,4 +1,4 @@
 groups
 lastModifiedClasses
 
-	^ cachedLastClasses ifNil: [ cachedLastClasses := RecentMessageList uniqueInstance lastClasses: 10 ]
+	^  RecentMessageList uniqueInstance lastClasses: 10

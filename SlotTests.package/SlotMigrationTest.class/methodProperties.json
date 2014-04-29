@@ -2,10 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testAddSharedVariableKeepSubclasses" : "MartinDias 4/29/2014 12:18",
 		"testAddSlotAndMigrate" : "MartinDias 12/9/2013 11:38",
 		"testAddSlotPropagateAndMigrate" : "MartinDias 12/9/2013 11:38",
 		"testChangeLayoutTypeFromByte" : "MartinDias 12/9/2013 11:38",
 		"testChangeLayoutTypeToByte" : "MartinDias 12/9/2013 11:38",
+		"testChangeSuperclass" : "MartinDias 4/29/2014 12:27",
 		"testChangingFormatKeepsMethod" : "MartinDias 12/9/2013 11:38",
 		"testRedefineSuperclass" : "MartinDias 12/9/2013 11:38",
 		"testRemoveSlotAndMigrate" : "MartinDias 12/9/2013 11:38",

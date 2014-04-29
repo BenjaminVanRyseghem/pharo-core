@@ -19,4 +19,5 @@
 		"testReshapeClassPropagatesToDeepHierarchyClassInterface" : "MartinDias 8/7/2013 11:24",
 		"testReshapeClassWithClassSlot" : "MartinDias 8/7/2013 14:05",
 		"testReshapeCompactClass" : "BenComan 2/15/2014 22:04",
+		"testSlotScopeParallelism" : "MartinDias 4/28/2014 16:10",
 		"testSmallIntegerLayout" : "MartinDias 8/7/2013 11:24" } }

@@ -1,4 +1,4 @@
-accessing
+deprecated
 client: anInstaller
 	"deprecated"
 	
