@@ -7,7 +7,7 @@
 	"classtraitcomposition" : "TCairoLibrary classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "IgorStasenko 4/29/2014 17:05",
 	"instvars" : [
 		"handle",
 		"context",
