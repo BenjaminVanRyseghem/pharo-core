@@ -1,14 +1,12 @@
 item creation
 buildCommentPane
-
 	commentTextArea := PluggableTextMorph
-							on: self
-							text: #getComments
-							accept: #addComment:notifying:
-							readSelection: nil
-							menu: #codePaneMenu:shifted:.
-				
-	commentTextArea color: Color white.
+		on: self
+		text: #getComments
+		accept: #addComment:notifying:
+		readSelection: nil
+		menu: #codePaneMenu:shifted:.		
+	"commentTextArea color: Color white."
 	commentTextArea
 		askBeforeDiscardingEdits: true;
 		vResizing: #spaceFill;

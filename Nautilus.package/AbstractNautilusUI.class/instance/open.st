@@ -1,6 +1,5 @@
 displaying
 open
-
 	window := NautilusWindow new model: self.
 	self addAll: window.
 	window openInWorld.
